@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<popup:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="InventoryManagementSystem.Category.Add"
+             xmlns:popupAnimation="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
+             xmlns:popup="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+                 Title="Add">
+    <popup:PopupPage.Animation>
+        <popupAnimation:ScaleAnimation
+            DurationIn="400"
+            DurationOut="300"
+            EasingIn="SinOut"
+            EasingOut="SinIn"
+            HasBackgroundAnimation="True"
+            PositionIn="Center"
+            PositionOut="Center"
+            ScaleIn="1.2"
+            ScaleOut="0.8">
+
+        </popupAnimation:ScaleAnimation>
+    </popup:PopupPage.Animation>
+    <StackLayout VerticalOptions="Center" HorizontalOptions="FillAndExpand" Padding="20, 20, 20, 20" BackgroundColor="White">
+        <StackLayout>
+            <Label  x:Name="LblHeading">
+
+            </Label>
+            <Entry Placeholder="Enter Category Name" x:Name="TxtCategoryName">
+
+            </Entry>
+            <Button Text="Save"  x:Name="BtnSave" Clicked="BtnSave_Clicked"></Button>
+            <Button Text="Cancel"  x:Name="BtnCancel" Clicked="BtnCancel_Clicked"></Button>
+        </StackLayout>
+    </StackLayout>
+
+</popup:PopupPage>

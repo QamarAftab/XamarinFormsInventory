@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="InventoryManagementSystem.Category.Index"
+              xmlns:xfg="clr-namespace:XFGloss;assembly=XFGloss">
+    <xfg:ContentPageGloss.BackgroundGradient>
+        <xfg:Gradient Rotation="150">
+            <xfg:GradientStep StepColor="White" StepPercentage="0" />
+            <xfg:GradientStep StepColor="White" StepPercentage=".5" />
+            <xfg:GradientStep StepColor="#ffcccc" StepPercentage="1" />
+        </xfg:Gradient>
+    </xfg:ContentPageGloss.BackgroundGradient>
+    <ContentPage.Content>
+
+        <AbsoluteLayout >
+            <SearchBar HeightRequest="35" AbsoluteLayout.LayoutBounds="0,0"  AbsoluteLayout.LayoutFlags="PositionProportional"  Placeholder="Search Category"  x:Name="TxtSearchBar" TextChanged="TxtSearchBar_TextChanged"></SearchBar>
+            <ListView    AbsoluteLayout.LayoutBounds="0,40,1,1" AbsoluteLayout.LayoutFlags="SizeProportional" x:Name="LstCategory" IsPullToRefreshEnabled="True" Refreshing="LstCategory_Refresh">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.ContextActions>
+                                <MenuItem Clicked="OnEdit" CommandParameter="{Binding .}"
+               Text="Edit" />
+                                <MenuItem Clicked="OnDelete" CommandParameter="{Binding .}"
+               Text="Delete" IsDestructive="True" />
+                            </ViewCell.ContextActions>
+                            <StackLayout Padding="10">
+                                <Label Text="{Binding Name}"></Label>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button   Text="+"  Clicked="ToolbarItem_Clicked" AbsoluteLayout.LayoutBounds="0.99,0.99" FontSize="Large" HeightRequest="60" WidthRequest="60" CornerRadius="30" AbsoluteLayout.LayoutFlags="PositionProportional"></Button>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

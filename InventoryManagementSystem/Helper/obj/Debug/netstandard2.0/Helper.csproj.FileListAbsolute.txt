@@ -1,0 +1,10 @@
+D:\InventoryManagementSystem\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\Helper.csproj.CoreCompileInputs.cache
+D:\InventoryManagementSystem\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\Helper.AssemblyInfoInputs.cache
+D:\InventoryManagementSystem\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\Helper.AssemblyInfo.cs
+D:\InventoryManagementSystem\InventoryManagementSystem\Helper\bin\Debug\netstandard2.0\Helper.deps.json
+D:\InventoryManagementSystem\InventoryManagementSystem\Helper\bin\Debug\netstandard2.0\Helper.dll
+D:\InventoryManagementSystem\InventoryManagementSystem\Helper\bin\Debug\netstandard2.0\Helper.pdb
+D:\InventoryManagementSystem\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\Helper.dll
+D:\InventoryManagementSystem\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\Helper.pdb
+D:\InventoryManagementSystem\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\Helper.csprojAssemblyReference.cache
+D:\InventoryManagementSystem\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="InventoryManagementSystem.Home.Dashboard">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <!--x,y,width,height-->
+            <ListView x:Name="Lst" AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="SizeProportional"> 
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Number}">
+
+                        </TextCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button  Text="+"  AbsoluteLayout.LayoutBounds="0.99,0.99" FontSize="Large" HeightRequest="60" WidthRequest="60" CornerRadius="30" AbsoluteLayout.LayoutFlags="PositionProportional"></Button>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="InventoryManagementSystem.App">
+	<Application.Resources>
+
+        <ResourceDictionary>
+            <Color x:Key="backgroundColor">#ecedf1</Color>
+
+            <Color x:Key="buttonColor">#1a237e</Color>
+            <!--Primary-->
+            <Color x:Key="tabColor">#534bae</Color>
+            <!--Light-->
+            <Color x:Key="navColor">#c82a55</Color>
+            <!--DARK-->
+            <Color x:Key="PageBackGroundColor">#ecf0f5</Color>
+
+            <Color x:Key="DefaultLabelColor">Black</Color>
+            <Color x:Key="StackBackgroundColor">White</Color>
+
+            <Style x:Key="BtnDefaultStyle" TargetType="Button">
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="BackgroundColor" Value="{StaticResource navColor}" />
+                <Setter Property="HeightRequest" Value="50" />
+                <Setter Property="FontSize" Value="Medium" />
+                <Setter Property="CornerRadius" Value="20" />
+            </Style>
+            
+ </ResourceDictionary>
+    </Application.Resources>
+</Application>
