@@ -809,11 +809,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.csproj",
+      "projectUniqueName": "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.csproj",
       "projectName": "InventoryManagementSystem",
-      "projectPath": "D:\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.csproj",
+      "projectPath": "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.csproj",
       "packagesPath": "C:\\Users\\qamar\\.nuget\\packages\\",
-      "outputPath": "D:\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem\\obj\\",
+      "outputPath": "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\InventoryManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -832,8 +832,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\InventoryManagementSystem\\InventoryManagementSystem\\Helper\\Helper.csproj": {
-              "projectPath": "D:\\InventoryManagementSystem\\InventoryManagementSystem\\Helper\\Helper.csproj"
+            "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\Helper\\Helper.csproj": {
+              "projectPath": "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\Helper\\Helper.csproj"
             }
           }
         }

@@ -31,6 +31,13 @@
                         <Label  Text="Brand" VerticalTextAlignment="Center"></Label>
                     </StackLayout>
 
+                    <StackLayout Orientation="Horizontal" x:Name="Category" >
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="Tapped"  CommandParameter="Category"></TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                        <Label  Text="Category" VerticalTextAlignment="Center"></Label>
+                    </StackLayout>
+
                 </StackLayout>
                 
 

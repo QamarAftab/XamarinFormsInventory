@@ -1787,11 +1787,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.iOS\\InventoryManagementSystem.iOS.csproj",
+      "projectUniqueName": "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\InventoryManagementSystem.iOS\\InventoryManagementSystem.iOS.csproj",
       "projectName": "InventoryManagementSystem.iOS",
-      "projectPath": "D:\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.iOS\\InventoryManagementSystem.iOS.csproj",
+      "projectPath": "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\InventoryManagementSystem.iOS\\InventoryManagementSystem.iOS.csproj",
       "packagesPath": "C:\\Users\\qamar\\.nuget\\packages\\",
-      "outputPath": "D:\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.iOS\\obj\\",
+      "outputPath": "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\InventoryManagementSystem.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1808,8 +1808,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.csproj": {
-              "projectPath": "D:\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.csproj"
+            "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.csproj": {
+              "projectPath": "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.csproj"
             }
           }
         }

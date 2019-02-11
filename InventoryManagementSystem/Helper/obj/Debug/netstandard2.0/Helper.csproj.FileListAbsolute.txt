@@ -8,3 +8,13 @@ D:\InventoryManagementSystem\InventoryManagementSystem\Helper\obj\Debug\netstand
 D:\InventoryManagementSystem\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\Helper.pdb
 D:\InventoryManagementSystem\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\Helper.csprojAssemblyReference.cache
 D:\InventoryManagementSystem\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\XamlC.stamp
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\Helper\bin\Debug\netstandard2.0\Helper.deps.json
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\Helper\bin\Debug\netstandard2.0\Helper.dll
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\Helper\bin\Debug\netstandard2.0\Helper.pdb
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\Helper.csprojAssemblyReference.cache
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\Helper.csproj.CoreCompileInputs.cache
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\Helper.AssemblyInfoInputs.cache
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\Helper.AssemblyInfo.cs
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\XamlC.stamp
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\Helper.dll
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\Helper.pdb

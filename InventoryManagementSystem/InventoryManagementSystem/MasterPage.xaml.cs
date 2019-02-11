@@ -30,6 +30,10 @@ namespace InventoryManagementSystem
             {
                 await navPage.PushAsync(new Brand.Index());
             }
+            else if (commandParameter == "category")
+            {
+                await navPage.PushAsync(new Category.Index());
+            }
         }
 
         public MasterDetailPage GetMaster()

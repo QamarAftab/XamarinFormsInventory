@@ -753,11 +753,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\InventoryManagementSystem\\InventoryManagementSystem\\Helper\\Helper.csproj",
+      "projectUniqueName": "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\Helper\\Helper.csproj",
       "projectName": "Helper",
-      "projectPath": "D:\\InventoryManagementSystem\\InventoryManagementSystem\\Helper\\Helper.csproj",
+      "projectPath": "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\Helper\\Helper.csproj",
       "packagesPath": "C:\\Users\\qamar\\.nuget\\packages\\",
-      "outputPath": "D:\\InventoryManagementSystem\\InventoryManagementSystem\\Helper\\obj\\",
+      "outputPath": "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\Helper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

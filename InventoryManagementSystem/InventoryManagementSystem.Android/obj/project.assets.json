@@ -1270,11 +1270,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.Android\\InventoryManagementSystem.Android.csproj",
+      "projectUniqueName": "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\InventoryManagementSystem.Android\\InventoryManagementSystem.Android.csproj",
       "projectName": "InventoryManagementSystem.Android",
-      "projectPath": "D:\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.Android\\InventoryManagementSystem.Android.csproj",
+      "projectPath": "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\InventoryManagementSystem.Android\\InventoryManagementSystem.Android.csproj",
       "packagesPath": "C:\\Users\\qamar\\.nuget\\packages\\",
-      "outputPath": "D:\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.Android\\obj\\",
+      "outputPath": "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\InventoryManagementSystem.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1291,11 +1291,11 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\InventoryManagementSystem\\InventoryManagementSystem\\Helper\\Helper.csproj": {
-              "projectPath": "D:\\InventoryManagementSystem\\InventoryManagementSystem\\Helper\\Helper.csproj"
+            "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\Helper\\Helper.csproj": {
+              "projectPath": "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\Helper\\Helper.csproj"
             },
-            "D:\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.csproj": {
-              "projectPath": "D:\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.csproj"
+            "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.csproj": {
+              "projectPath": "E:\\MyRepos\\XamarinFormsInventory\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.csproj"
             }
           }
         }
