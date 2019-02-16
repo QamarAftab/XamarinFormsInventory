@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="InventoryManagementSystem.Home.Dashboard">
+             x:Class="InventoryManagementSystem.Home.Dashboard"
+             xmlns:radial="clr-namespace:Xamarin.Forms.RadialMenu;assembly=Xamarin.Forms.RadialMenu">
     <ContentPage.Content>
         <AbsoluteLayout>
             <!--x,y,width,height-->
-            <ListView x:Name="Lst" AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="SizeProportional"> 
+            <ListView x:Name="Lst" AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="SizeProportional">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <TextCell Text="{Binding Number}">
@@ -14,7 +15,22 @@
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>
-            <Button  Text="+"  AbsoluteLayout.LayoutBounds="0.99,0.99" FontSize="Large" HeightRequest="60" WidthRequest="60" CornerRadius="30" AbsoluteLayout.LayoutFlags="PositionProportional"></Button>
+            <radial:RadialMenu 
+                MenuItemsSource="{Binding MenuItems}" 
+                AbsoluteLayout.LayoutBounds="0.9,0.9" 
+                MainMenuCloseButtonImageSource="close_circle.png"   
+                OuterCircleImageSource="outer_circle.png"
+                MainMenuImageSource="menu_circle.png"
+                x:Name="Menu"
+                AbsoluteLayout.LayoutFlags="PositionProportional"
+                >
+
+                <!--HORIZONTAL/VERTICAL OPTIONS ARE DIFFERENT FOR EACH PLATFORM -->
+                <!--For Android use Center for Horizontal and Vertical -->
+                <!--For iOS use Fill for Horizontal and Vertical -->
+                <!--THIS ENSURES CLICK EVENTS PROPAGATES ONLY IN MENU AND NOT THROUGH ENTIRE GRID -->
+</radial:RadialMenu>
+            <!--<Button  Text="+"  AbsoluteLayout.LayoutBounds="0.99,0.99" FontSize="Large" HeightRequest="60" WidthRequest="60" CornerRadius="30" AbsoluteLayout.LayoutFlags="PositionProportional"></Button>-->
         </AbsoluteLayout>
     </ContentPage.Content>
 </ContentPage>
