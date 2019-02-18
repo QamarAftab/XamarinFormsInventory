@@ -19,12 +19,14 @@ namespace InventoryManagementSystem
 
         async public void Tapped(object sender, EventArgs e)
         {
-            var stack = (StackLayout)sender;
-            var a = (TapGestureRecognizer)stack.GestureRecognizers.FirstOrDefault();
-            var commandParameter = a.CommandParameter.ToString().ToLower();
             var mdp = GetMaster();
             var navPage = GetNavigation(mdp);
             mdp.IsPresented = false;
+
+            //var stack = (StackLayout)sender;
+            //var a = (TapGestureRecognizer)stack.GestureRecognizers.FirstOrDefault();
+            //var commandParameter = a.CommandParameter.ToString().ToLower();
+            var commandParameter = await Task.Run(() => GetCommandParameter(sender));
             //NAVIGATE TO BRAND PAGE
             if (commandParameter == "brand")
             {
@@ -34,6 +36,19 @@ namespace InventoryManagementSystem
             {
                 await navPage.PushAsync(new Category.Index());
             }
+        }
+
+        string GetCommandParameter(object sender)
+        {
+            try
+            {
+                var stack = (StackLayout)sender;
+                var a = (TapGestureRecognizer)stack.GestureRecognizers.FirstOrDefault();
+                return a.CommandParameter.ToString().ToLower();
+            }
+            catch (Exception e)
+            { }
+            return "";
         }
 
         public MasterDetailPage GetMaster()

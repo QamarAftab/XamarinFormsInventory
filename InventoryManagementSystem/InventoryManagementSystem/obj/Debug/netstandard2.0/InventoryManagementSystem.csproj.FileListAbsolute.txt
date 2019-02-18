@@ -17,12 +17,12 @@ D:\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem
 D:\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\netstandard2.0\Brand\Add.xaml.g.cs
 D:\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\netstandard2.0\Brand\Index.xaml.g.cs
 D:\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\netstandard2.0\XamlC.stamp
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\netstandard2.0\InventoryManagementSystem.csprojAssemblyReference.cache
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\netstandard2.0\InventoryManagementSystem.deps.json
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\netstandard2.0\InventoryManagementSystem.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\netstandard2.0\InventoryManagementSystem.pdb
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\netstandard2.0\Helper.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\netstandard2.0\Helper.pdb
-E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\netstandard2.0\InventoryManagementSystem.csprojAssemblyReference.cache
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\netstandard2.0\App.xaml.g.cs
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\netstandard2.0\Brand\Add.xaml.g.cs
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\netstandard2.0\Brand\Index.xaml.g.cs

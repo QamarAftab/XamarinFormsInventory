@@ -72,5 +72,10 @@ namespace InventoryManagementSystem.Brand
         {
             PopupNavigation.Instance.PopAsync();
         }
+
+        protected override void OnAppearing()
+        {
+            DependencyService.Get<Helper.IAdmobInterstitialAds>().Display(Helper.AppConstants.InterstitialAdId);
+        }
     }
 }

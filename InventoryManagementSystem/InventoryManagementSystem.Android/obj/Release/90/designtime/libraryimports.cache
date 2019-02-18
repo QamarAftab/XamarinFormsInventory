@@ -16,6 +16,30 @@
     <ManifestDocument>obj\Release\90\lp\35\jl\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\90\lp\36\jl\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\90\lp\37\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\45\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\47\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\48\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\49\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\50\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\51\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\53\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\54\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\55\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\56\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\57\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\58\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\59\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\60\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\61\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\62\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\63\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\64\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\65\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\66\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\67\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\68\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\69\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\90\lp\70\jl\AndroidManifest.xml</ManifestDocument>
   </ManifestDocuments>
   <NativeLibraries />
   <Jars>
@@ -36,5 +60,32 @@
     <Jar>obj\Release\90\lp\35\jl\bin\classes.jar</Jar>
     <Jar>obj\Release\90\lp\36\jl\bin\classes.jar</Jar>
     <Jar>obj\Release\90\lp\37\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\44\jl\android.arch.core.common.jar</Jar>
+    <Jar>obj\Release\90\lp\45\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\46\jl\android.arch.lifecycle.common.jar</Jar>
+    <Jar>obj\Release\90\lp\47\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\48\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\49\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\50\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\51\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\52\jl\com.android.support.collections.jar</Jar>
+    <Jar>obj\Release\90\lp\53\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\54\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\55\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\56\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\57\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\58\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\59\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\60\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\61\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\62\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\63\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\64\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\65\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\66\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\67\jl\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\68\jl\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\69\jl\classes.jar</Jar>
+    <Jar>obj\Release\90\lp\70\jl\classes.jar</Jar>
   </Jars>
 </Paths>

@@ -68,6 +68,12 @@ namespace InventoryManagementSystem.Category
             return false;
         }
 
+
+        protected override void OnAppearing()
+        {
+            DependencyService.Get<Helper.IAdmobInterstitialAds>().Display(Helper.AppConstants.InterstitialAdId);
+        }
+
         private void BtnCancel_Clicked(object sender, EventArgs e)
         {
             PopupNavigation.Instance.PopAsync();

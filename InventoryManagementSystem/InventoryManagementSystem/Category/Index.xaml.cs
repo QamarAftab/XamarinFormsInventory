@@ -25,6 +25,7 @@ namespace InventoryManagementSystem.Category
         protected override void OnAppearing()
         {
             BindListAsync();
+            DependencyService.Get<Helper.IAdmobInterstitialAds>().Display(Helper.AppConstants.InterstitialAdId);
         }
 
         protected void LstCategory_Refresh(object sender, EventArgs e)

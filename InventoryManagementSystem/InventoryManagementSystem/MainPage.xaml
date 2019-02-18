@@ -4,8 +4,9 @@
              xmlns:local="clr-namespace:InventoryManagementSystem"
              x:Class="InventoryManagementSystem.MainPage">
 
-	<Label Text="Welcome to Xamarin.Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+    </StackLayout>
 
 </ContentPage>

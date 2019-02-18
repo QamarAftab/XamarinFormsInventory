@@ -46,7 +46,7 @@ namespace InventoryManagementSystem.Home
             };
             vm.MenuItems.Add(new RadialMenuItem()
             {
-                Title="Delete",
+                Title = "Delete",
                 Source = "menu_lorry.png",
                 WidthRequest = 38,
                 HeightRequest = 38,

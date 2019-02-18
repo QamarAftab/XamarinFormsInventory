@@ -13,10 +13,18 @@ namespace InventoryManagementSystem
         private SQLiteConnection conn;
         public App()
         {
-            InitTables();
             InitializeComponent();
-            InitNavigation();
-            // MainPage = new InventoryManagementSystem.MainPage();
+            InitTables();
+            try
+            {
+                InitNavigation();
+            }
+            catch (Exception e)
+            {
+
+
+            }
+            // MainPage = new MainPage();
         }
 
         private void InitTables()
@@ -48,19 +56,28 @@ namespace InventoryManagementSystem
 
         public void InitNavigation()
         {
-            var _masterPage = new MasterPage()
+            try
             {
-                Title = "Main Page"
-            };
-            var detailPage = new MasterDetailPage()
-            {
-                Master = _masterPage,
-                Detail = new NavigationPage(new Home.Dashboard())
+                var _masterPage = new MasterPage()
                 {
-                }
-            };
-            detailPage.MasterBehavior = MasterBehavior.SplitOnLandscape;
-            Application.Current.MainPage = detailPage;
+                    Title = "Main Page"
+                };
+                var detailPage = new MasterDetailPage()
+                {
+                    Master = _masterPage,
+                    Detail = new NavigationPage(new Home.Dashboard())
+                    {
+                    }
+                };
+                detailPage.MasterBehavior = MasterBehavior.SplitOnLandscape;
+                Application.Current.MainPage = detailPage;
+            }
+            catch (Exception e)
+            {
+
+                throw;
+            }
+         
         }
     }
 }

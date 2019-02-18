@@ -25,6 +25,7 @@ namespace InventoryManagementSystem.Brand
         protected override void OnAppearing()
         {
             BindListAsync();
+            DependencyService.Get<Helper.IAdmobInterstitialAds>().Display(Helper.AppConstants.InterstitialAdId);
         }
 
         protected void LstBrand_Refresh(object sender, EventArgs e)

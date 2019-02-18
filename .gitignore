@@ -2,4 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/InventoryManagementSystem/Helper/CustomControls/AdBanner.cs
+/.vs/InventoryManagementSystem/v15/Server/sqlite3
+/.vs/InventoryManagementSystem/v15
+/.vs/XamarinFormsInventory/v15
+*.json

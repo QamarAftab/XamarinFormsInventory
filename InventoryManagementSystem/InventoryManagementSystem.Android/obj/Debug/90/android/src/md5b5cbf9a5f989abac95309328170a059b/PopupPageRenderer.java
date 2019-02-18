@@ -29,19 +29,19 @@ public class PopupPageRenderer
 	}
 
 
-	public PopupPageRenderer (android.content.Context p0, android.util.AttributeSet p1)
-	{
-		super (p0, p1);
-		if (getClass () == PopupPageRenderer.class)
-			mono.android.TypeManager.Activate ("Rg.Plugins.Popup.Droid.Renderers.PopupPageRenderer, Rg.Plugins.Popup.Droid", "Android.Content.Context, Mono.Android:Android.Util.IAttributeSet, Mono.Android", this, new java.lang.Object[] { p0, p1 });
-	}
-
-
 	public PopupPageRenderer (android.content.Context p0, android.util.AttributeSet p1, int p2)
 	{
 		super (p0, p1, p2);
 		if (getClass () == PopupPageRenderer.class)
 			mono.android.TypeManager.Activate ("Rg.Plugins.Popup.Droid.Renderers.PopupPageRenderer, Rg.Plugins.Popup.Droid", "Android.Content.Context, Mono.Android:Android.Util.IAttributeSet, Mono.Android:System.Int32, mscorlib", this, new java.lang.Object[] { p0, p1, p2 });
+	}
+
+
+	public PopupPageRenderer (android.content.Context p0, android.util.AttributeSet p1)
+	{
+		super (p0, p1);
+		if (getClass () == PopupPageRenderer.class)
+			mono.android.TypeManager.Activate ("Rg.Plugins.Popup.Droid.Renderers.PopupPageRenderer, Rg.Plugins.Popup.Droid", "Android.Content.Context, Mono.Android:Android.Util.IAttributeSet, Mono.Android", this, new java.lang.Object[] { p0, p1 });
 	}
 
 
