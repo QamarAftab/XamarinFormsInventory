@@ -19,41 +19,41 @@ namespace InventoryManagementSystem.Home
         public Dashboard()
         {
             InitializeComponent();
-            var lstNumber = new List<NumberClass>() { };
-            for (int i = 0; i < 100; i++)
-            {
-                lstNumber.Add(new NumberClass()
-                {
-                    Number = i
-                });
-            }
-            Lst.ItemsSource = lstNumber;
+            //var lstNumber = new List<NumberClass>() { };
+            //for (int i = 0; i < 100; i++)
+            //{
+            //    lstNumber.Add(new NumberClass()
+            //    {
+            //        Number = i
+            //    });
+            //}
+            //Lst.ItemsSource = lstNumber;
 
-            var vm = new MainMenuViewModel();
-            BindingContext = vm;
-            vm.MenuItems = new ObservableCollection<RadialMenuItem>()
-            {
-                new RadialMenuItem()
-                {
-                    Source = "menu_paint.png",
-                    Title="Edit",
-                    WidthRequest = 38,
-                    HeightRequest = 38,
-                    VerticalOptions = LayoutOptions.Center,
-                    HorizontalOptions = LayoutOptions.Center,
-                    Location = Enumerations.RadialMenuLocation.N
-                }
-            };
-            vm.MenuItems.Add(new RadialMenuItem()
-            {
-                Title = "Delete",
-                Source = "menu_lorry.png",
-                WidthRequest = 38,
-                HeightRequest = 38,
-                VerticalOptions = LayoutOptions.Center,
-                HorizontalOptions = LayoutOptions.Center,
-                Location = Enumerations.RadialMenuLocation.Ne
-            });
+            //var vm = new MainMenuViewModel();
+            //BindingContext = vm;
+            //vm.MenuItems = new ObservableCollection<RadialMenuItem>()
+            //{
+            //    new RadialMenuItem()
+            //    {
+            //        Source = "menu_paint.png",
+            //        Title="Edit",
+            //        WidthRequest = 38,
+            //        HeightRequest = 38,
+            //        VerticalOptions = LayoutOptions.Center,
+            //        HorizontalOptions = LayoutOptions.Center,
+            //        Location = Enumerations.RadialMenuLocation.N
+            //    }
+            //};
+            //vm.MenuItems.Add(new RadialMenuItem()
+            //{
+            //    Title = "Delete",
+            //    Source = "menu_lorry.png",
+            //    WidthRequest = 38,
+            //    HeightRequest = 38,
+            //    VerticalOptions = LayoutOptions.Center,
+            //    HorizontalOptions = LayoutOptions.Center,
+            //    Location = Enumerations.RadialMenuLocation.Ne
+            //});
 
         }
 

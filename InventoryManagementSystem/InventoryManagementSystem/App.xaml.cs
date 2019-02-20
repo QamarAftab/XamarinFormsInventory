@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 using SQLite;
 
 using Xamarin.Forms;
@@ -14,15 +15,13 @@ namespace InventoryManagementSystem
         public App()
         {
             InitializeComponent();
-            InitTables();
+            Task.Run(() => InitTables());
             try
             {
                 InitNavigation();
             }
             catch (Exception e)
             {
-
-
             }
             // MainPage = new MainPage();
         }
@@ -35,6 +34,8 @@ namespace InventoryManagementSystem
 
             #region INIT TABLES
             conn.CreateTable<Helper.Database.Brand>();
+            conn.CreateTable<Helper.Database.Category>();
+            conn.CreateTable<Helper.Database.Product>();
             #endregion
 
         }
@@ -74,10 +75,7 @@ namespace InventoryManagementSystem
             }
             catch (Exception e)
             {
-
-                throw;
             }
-         
         }
     }
 }

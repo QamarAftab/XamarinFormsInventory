@@ -17,3 +17,4 @@ E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\Helper\obj\Debug\nets
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\XamlC.stamp
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\Helper.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\Helper.pdb
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\Helper\obj\Debug\netstandard2.0\Helper.csprojAssemblyReference.cache

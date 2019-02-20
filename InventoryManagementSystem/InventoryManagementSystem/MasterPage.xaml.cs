@@ -36,6 +36,10 @@ namespace InventoryManagementSystem
             {
                 await navPage.PushAsync(new Category.Index());
             }
+            else if (commandParameter == "product")
+            {
+                await navPage.PushAsync(new Product.Index());
+            }
         }
 
         string GetCommandParameter(object sender)

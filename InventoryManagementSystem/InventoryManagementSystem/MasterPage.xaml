@@ -21,21 +21,28 @@
                         <StackLayout.GestureRecognizers>
                             <TapGestureRecognizer Tapped="Tapped"  CommandParameter="Dashboard"></TapGestureRecognizer>
                         </StackLayout.GestureRecognizers>
-                        <Label  Text="Dashboard" VerticalTextAlignment="Center"></Label>
+                        <Label  Text="Dashboard" FontSize="Large" VerticalTextAlignment="Center"></Label>
                     </StackLayout>
 
                     <StackLayout Orientation="Horizontal" x:Name="Brand" >
                         <StackLayout.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="Tapped"  CommandParameter="Brand"></TapGestureRecognizer>
+                            <TapGestureRecognizer Tapped="Tapped"   CommandParameter="Brand"></TapGestureRecognizer>
                         </StackLayout.GestureRecognizers>
-                        <Label  Text="Brand" VerticalTextAlignment="Center"></Label>
+                        <Label  Text="Brand" FontSize="Large" VerticalTextAlignment="Center"></Label>
                     </StackLayout>
 
                     <StackLayout Orientation="Horizontal" x:Name="Category" >
                         <StackLayout.GestureRecognizers>
                             <TapGestureRecognizer Tapped="Tapped"  CommandParameter="Category"></TapGestureRecognizer>
                         </StackLayout.GestureRecognizers>
-                        <Label  Text="Category" VerticalTextAlignment="Center"></Label>
+                        <Label  Text="Category" FontSize="Large" VerticalTextAlignment="Center"></Label>
+                    </StackLayout>
+
+                    <StackLayout Orientation="Horizontal" x:Name="Product" >
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="Tapped"  CommandParameter="Product"></TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                        <Label  Text="Product" FontSize="Large" VerticalTextAlignment="Center"></Label>
                     </StackLayout>
 
                 </StackLayout>

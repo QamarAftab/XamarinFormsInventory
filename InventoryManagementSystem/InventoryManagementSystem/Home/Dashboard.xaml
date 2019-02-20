@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="InventoryManagementSystem.Home.Dashboard"
              xmlns:radial="clr-namespace:Xamarin.Forms.RadialMenu;assembly=Xamarin.Forms.RadialMenu">
-    <AbsoluteLayout>
+    <!--<AbsoluteLayout>
         <ListView x:Name="Lst" AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="SizeProportional">
             <ListView.ItemTemplate>
                 <DataTemplate>
@@ -20,11 +20,6 @@
                 x:Name="Menu"
                 AbsoluteLayout.LayoutFlags="PositionProportional"
                 >
-
-            <!--HORIZONTAL/VERTICAL OPTIONS ARE DIFFERENT FOR EACH PLATFORM -->
-            <!--For Android use Center for Horizontal and Vertical -->
-            <!--For iOS use Fill for Horizontal and Vertical -->
-            <!--THIS ENSURES CLICK EVENTS PROPAGATES ONLY IN MENU AND NOT THROUGH ENTIRE GRID -->
         </radial:RadialMenu>
-    </AbsoluteLayout>
+    </AbsoluteLayout>-->
 </ContentPage>

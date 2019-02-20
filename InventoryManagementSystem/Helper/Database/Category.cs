@@ -2,7 +2,6 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using Xamarin.Forms;
 
 namespace Helper.Database
@@ -32,7 +31,7 @@ namespace Helper.Database
                     {
                         instance = new CategoryMvvm();
                         conn = DependencyService.Get<ISQLite>().GetConnection();
-                        conn.CreateTable<Helper.Database.Category>();
+                        //     conn.CreateTable<Helper.Database.Category>();
                     }
                     return instance;
                 }

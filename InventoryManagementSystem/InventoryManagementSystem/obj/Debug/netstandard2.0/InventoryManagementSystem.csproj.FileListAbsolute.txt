@@ -38,3 +38,5 @@ E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSy
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\netstandard2.0\InventoryManagementSystem.csproj.CopyComplete
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\netstandard2.0\InventoryManagementSystem.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\netstandard2.0\InventoryManagementSystem.pdb
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\netstandard2.0\Product\Add.xaml.g.cs
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\netstandard2.0\Product\Index.xaml.g.cs

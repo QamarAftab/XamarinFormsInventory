@@ -32,7 +32,7 @@ namespace Helper.Database
                     {
                         instance = new BrandMvvm();
                         conn = DependencyService.Get<ISQLite>().GetConnection();
-                        conn.CreateTable<Helper.Database.Brand>();
+                     //   conn.CreateTable<Helper.Database.Brand>();
                     }
                     return instance;
                 }
