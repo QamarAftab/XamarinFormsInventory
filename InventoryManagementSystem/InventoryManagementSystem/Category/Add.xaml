@@ -4,7 +4,8 @@
              x:Class="InventoryManagementSystem.Category.Add"
              xmlns:popupAnimation="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
              xmlns:popup="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
-                 Title="Add">
+                 Title="Add"
+                 xmlns:material="clr-namespace:XF.Material.Forms.UI;assembly=XF.Material.Forms">
     <popup:PopupPage.Animation>
         <popupAnimation:ScaleAnimation
             DurationIn="400"

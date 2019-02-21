@@ -15,6 +15,7 @@ namespace InventoryManagementSystem
         public App()
         {
             InitializeComponent();
+            XF.Material.Forms.Material.Init(this);
             Task.Run(() => InitTables());
             try
             {

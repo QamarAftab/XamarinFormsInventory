@@ -112,6 +112,8 @@ class MonoPackageManager_Resources {
 		"FormsViewGroup.dll",
 		"Helper.dll",
 		"InventoryManagementSystem.dll",
+		"Lottie.Android.dll",
+		"Lottie.Forms.dll",
 		"Newtonsoft.Json.dll",
 		"Plugin.CurrentActivity.dll",
 		"Plugin.Media.dll",
@@ -165,6 +167,7 @@ class MonoPackageManager_Resources {
 		"Xamarin.Android.Support.Vector.Drawable.dll",
 		"Xamarin.Android.Support.VersionedParcelable.dll",
 		"Xamarin.Android.Support.ViewPager.dll",
+		"Xamarin.Essentials.dll",
 		"Xamarin.Forms.Core.dll",
 		"Xamarin.Forms.Platform.Android.dll",
 		"Xamarin.Forms.Platform.dll",
@@ -174,6 +177,8 @@ class MonoPackageManager_Resources {
 		"Xamarin.GooglePlayServices.Ads.Lite.dll",
 		"Xamarin.GooglePlayServices.Basement.dll",
 		"Xamarin.GooglePlayServices.Gass.dll",
+		"XF.Material.Droid.dll",
+		"XF.Material.Forms.dll",
 		"XFGloss.dll",
 	};
 	public static final String[] Dependencies = new String[]{

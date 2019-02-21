@@ -40,7 +40,7 @@ namespace InventoryManagementSystem.Product
 
         private void ToolbarItem_Clicked(object sender, EventArgs e)
         {
-            PopupNavigation.Instance.PushAsync(new Add());
+            Navigation.PushAsync(new Add());
         }
 
         private void LstProduct_Refreshing(object sender, EventArgs e)

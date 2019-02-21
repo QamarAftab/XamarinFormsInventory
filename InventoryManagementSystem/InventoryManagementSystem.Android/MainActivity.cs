@@ -24,6 +24,7 @@ namespace InventoryManagementSystem.Droid
             global::Xamarin.Forms.Forms.Init(this, bundle);
             LoadApplication(new App());
             XFGloss.Droid.Library.Init(this, bundle);
+            Xamarin.Forms.Forms.Init(this, bundle);
         }
 
         void InitControls(Bundle bundle)

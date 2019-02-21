@@ -3,6 +3,8 @@ AndHUD
 FormsViewGroup
 Helper
 InventoryManagementSystem
+Lottie.Android
+Lottie.Forms
 Newtonsoft.Json
 Plugin.CurrentActivity
 Plugin.Media
@@ -59,6 +61,7 @@ Xamarin.Android.Support.v7.RecyclerView
 Xamarin.Android.Support.Vector.Drawable
 Xamarin.Android.Support.VersionedParcelable
 Xamarin.Android.Support.ViewPager
+Xamarin.Essentials
 Xamarin.Forms.Core
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
@@ -68,6 +71,8 @@ Xamarin.GooglePlayServices.Ads
 Xamarin.GooglePlayServices.Ads.Lite
 Xamarin.GooglePlayServices.Basement
 Xamarin.GooglePlayServices.Gass
+XF.Material.Droid
+XF.Material.Forms
 XFGloss
 netstandard
 System.Reflection.Extensions

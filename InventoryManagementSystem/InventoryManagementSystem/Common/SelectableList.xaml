@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="InventoryManagementSystem.Common.SelectableList">
+    <ContentPage.Content>
+
+        <AbsoluteLayout >
+            <SearchBar HeightRequest="35" AbsoluteLayout.LayoutBounds="0,0"  AbsoluteLayout.LayoutFlags="PositionProportional"  Placeholder="Search"  x:Name="TxtSearchBar"  TextChanged="TxtSearchBar_TextChanged"></SearchBar>
+            <ListView    AbsoluteLayout.LayoutBounds="0,40,1,1"  CachingStrategy="RecycleElement" ItemSelected="LstData_ItemSelected" AbsoluteLayout.LayoutFlags="SizeProportional" x:Name="LstData" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell  Text="{Binding Name}" >
+
+                        </TextCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

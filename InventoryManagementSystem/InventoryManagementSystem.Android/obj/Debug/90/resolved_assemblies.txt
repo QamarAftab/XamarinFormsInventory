@@ -5,6 +5,8 @@ E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSy
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\Helper.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\InventoryManagementSystem.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\Java.Interop.dll
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\Lottie.Android.dll
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\Lottie.Forms.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\Mono.Android.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\mscorlib.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
@@ -25,6 +27,8 @@ E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSy
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\System.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\System.IdentityModel.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\System.Numerics.dll
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\System.Xml.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
@@ -67,6 +71,7 @@ E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSy
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
@@ -76,10 +81,11 @@ E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSy
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\Xamarin.GooglePlayServices.Ads.Lite.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\Xamarin.GooglePlayServices.Basement.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\Xamarin.GooglePlayServices.Gass.dll
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\XF.Material.Droid.dll
+E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\XF.Material.Forms.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\XFGloss.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\netstandard.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\System.Data.dll
-E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\System.Numerics.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\System.Transactions.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
 E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll

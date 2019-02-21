@@ -64,6 +64,42 @@
           "lib/monoandroid80/XFGloss.dll": {}
         }
       },
+      "Com.Airbnb.Android.Lottie/2.7.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Android.Support.v7.AppCompat": "27.0.2"
+        },
+        "frameworkAssemblies": [
+          "Java.Interop"
+        ],
+        "compile": {
+          "lib/monoandroid90/Lottie.Android.dll": {}
+        },
+        "runtime": {
+          "lib/monoandroid90/Lottie.Android.dll": {}
+        }
+      },
+      "Com.Airbnb.Xamarin.Forms.Lottie/2.7.0": {
+        "type": "package",
+        "dependencies": {
+          "Com.Airbnb.Android.Lottie": "2.7.0",
+          "Xamarin.Android.Support.Design": "27.0.2",
+          "Xamarin.Android.Support.v4": "27.0.2",
+          "Xamarin.Android.Support.v7.AppCompat": "27.0.2",
+          "Xamarin.Android.Support.v7.CardView": "27.0.2",
+          "Xamarin.Android.Support.v7.MediaRouter": "27.0.2",
+          "Xamarin.Forms": "3.1.0.697729"
+        },
+        "frameworkAssemblies": [
+          "Java.Interop"
+        ],
+        "compile": {
+          "lib/monoandroid90/Lottie.Forms.dll": {}
+        },
+        "runtime": {
+          "lib/monoandroid90/Lottie.Forms.dll": {}
+        }
+      },
       "Newtonsoft.Json/12.0.1": {
         "type": "package",
         "compile": {
@@ -172,6 +208,15 @@
         },
         "runtime": {
           "lib/MonoAndroid/SQLitePCLRaw.provider.e_sqlite3.dll": {}
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/MonoAndroid10/_._": {}
+        },
+        "runtime": {
+          "lib/MonoAndroid10/_._": {}
         }
       },
       "Xam.Plugin.Media/4.0.1.5": {
@@ -989,6 +1034,25 @@
           "build/Xamarin.Build.Download.targets": {}
         }
       },
+      "Xamarin.Essentials/1.0.1": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0",
+          "Xamarin.Android.Support.Core.Utils": "27.0.2.1",
+          "Xamarin.Android.Support.CustomTabs": "27.0.2.1"
+        },
+        "frameworkAssemblies": [
+          "Java.Interop",
+          "System.Numerics",
+          "System.Numerics.Vectors"
+        ],
+        "compile": {
+          "lib/monoandroid81/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/monoandroid81/Xamarin.Essentials.dll": {}
+        }
+      },
       "Xamarin.Forms/3.5.0.129452": {
         "type": "package",
         "dependencies": {
@@ -1097,6 +1161,27 @@
           "build/MonoAndroid80/Xamarin.GooglePlayServices.Gass.targets": {}
         }
       },
+      "XF.Material/1.4.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Com.Airbnb.Android.Lottie": "2.7.0",
+          "Com.Airbnb.Xamarin.Forms.Lottie": "2.7.0",
+          "Rg.Plugins.Popup": "1.1.5.188",
+          "Xamarin.Android.Support.Annotations": "28.0.0.1",
+          "Xamarin.Android.Support.Compat": "28.0.0.1",
+          "Xamarin.Android.Support.Core.Utils": "28.0.0.1",
+          "Xamarin.Essentials": "1.0.1",
+          "Xamarin.Forms": "3.5.0.129452"
+        },
+        "compile": {
+          "lib/MonoAndroid81/XF.Material.Droid.dll": {},
+          "lib/MonoAndroid81/XF.Material.Forms.dll": {}
+        },
+        "runtime": {
+          "lib/MonoAndroid81/XF.Material.Droid.dll": {},
+          "lib/MonoAndroid81/XF.Material.Forms.dll": {}
+        }
+      },
       "Helper/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -1125,6 +1210,7 @@
           "Helper": "1.0.0",
           "Newtonsoft.Json": "12.0.1",
           "Rg.Plugins.Popup": "1.1.5.188",
+          "XF.Material": "1.4.0.1",
           "Xam.Plugin.Media": "4.0.1.5",
           "Xam.Plugins.Settings": "3.1.1",
           "Xamarin.Forms": "3.5.0.129452",
@@ -1188,6 +1274,49 @@
         "lib/netstandard2.0/XFGloss.xml",
         "lib/xamarinios10/XFGloss.dll",
         "lib/xamarinios10/XFGloss.xml"
+      ]
+    },
+    "Com.Airbnb.Android.Lottie/2.7.0": {
+      "sha512": "FMz93KvzdAa9MMOtxO0GWDEE7UBlx0balMZnDXfTvXa/Cxkekh6uap4tEbofybICqOj74Y/nuI2ccU6Xz017tA==",
+      "type": "package",
+      "path": "com.airbnb.android.lottie/2.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "com.airbnb.android.lottie.2.7.0.nupkg.sha512",
+        "com.airbnb.android.lottie.nuspec",
+        "lib/monoandroid90/Lottie.Android.dll",
+        "lib/monoandroid90/Lottie.Android.pdb",
+        "lib/monoandroid90/Lottie.Android.xml",
+        "readme.txt"
+      ]
+    },
+    "Com.Airbnb.Xamarin.Forms.Lottie/2.7.0": {
+      "sha512": "ZBsrJZWp5dQaOAad02EpxJYqFIckCunp71IjJJCwMfCTTC/h2/hshDfp5WYJI0VeUOrghWFWZsWdrDLNPYMsow==",
+      "type": "package",
+      "path": "com.airbnb.xamarin.forms.lottie/2.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "com.airbnb.xamarin.forms.lottie.2.7.0.nupkg.sha512",
+        "com.airbnb.xamarin.forms.lottie.nuspec",
+        "lib/monoandroid90/Lottie.Forms.dll",
+        "lib/monoandroid90/Lottie.Forms.pdb",
+        "lib/monoandroid90/Lottie.Forms.xml",
+        "lib/netstandard2.0/Lottie.Forms.dll",
+        "lib/netstandard2.0/Lottie.Forms.pdb",
+        "lib/netstandard2.0/Lottie.Forms.xml",
+        "lib/uap10.0.16299/Lottie.Forms.dll",
+        "lib/uap10.0.16299/Lottie.Forms.pdb",
+        "lib/uap10.0.16299/Lottie.Forms.pri",
+        "lib/uap10.0.16299/Lottie.Forms.xml",
+        "lib/xamarinios10/Lottie.Forms.dll",
+        "lib/xamarinios10/Lottie.Forms.pdb",
+        "lib/xamarinios10/Lottie.Forms.xml",
+        "lib/xamarinmac20/Lottie.Forms.dll",
+        "lib/xamarinmac20/Lottie.Forms.pdb",
+        "lib/xamarinmac20/Lottie.Forms.xml",
+        "readme.txt"
       ]
     },
     "Newtonsoft.Json/12.0.1": {
@@ -1403,6 +1532,53 @@
         "lib/MonoAndroid/SQLitePCLRaw.provider.e_sqlite3.dll",
         "sqlitepclraw.provider.e_sqlite3.android.1.1.11.nupkg.sha512",
         "sqlitepclraw.provider.e_sqlite3.android.nuspec"
+      ]
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "sha512": "QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "type": "package",
+      "path": "system.numerics.vectors/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net46/System.Numerics.Vectors.dll",
+        "lib/net46/System.Numerics.Vectors.xml",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.0/System.Numerics.Vectors.dll",
+        "lib/netstandard1.0/System.Numerics.Vectors.xml",
+        "lib/netstandard2.0/System.Numerics.Vectors.dll",
+        "lib/netstandard2.0/System.Numerics.Vectors.xml",
+        "lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.dll",
+        "lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.xml",
+        "lib/uap10.0.16299/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/System.Numerics.Vectors.dll",
+        "ref/net45/System.Numerics.Vectors.xml",
+        "ref/net46/System.Numerics.Vectors.dll",
+        "ref/net46/System.Numerics.Vectors.xml",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard1.0/System.Numerics.Vectors.dll",
+        "ref/netstandard1.0/System.Numerics.Vectors.xml",
+        "ref/netstandard2.0/System.Numerics.Vectors.dll",
+        "ref/netstandard2.0/System.Numerics.Vectors.xml",
+        "ref/uap10.0.16299/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.numerics.vectors.4.5.0.nupkg.sha512",
+        "system.numerics.vectors.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
       ]
     },
     "Xam.Plugin.Media/4.0.1.5": {
@@ -2301,6 +2477,40 @@
         "xamarin.build.download.nuspec"
       ]
     },
+    "Xamarin.Essentials/1.0.1": {
+      "sha512": "TUsMSXqdLEZlx0O3EcWMwOF5e8X3Gh0GX28FlH3q8iyKAQBYd8tV+Ja7tHMplf7D8V4NVCG9ELqx2nk/jPWPew==",
+      "type": "package",
+      "path": "xamarin.essentials/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid71/Xamarin.Essentials.dll",
+        "lib/monoandroid71/Xamarin.Essentials.pdb",
+        "lib/monoandroid71/Xamarin.Essentials.xml",
+        "lib/monoandroid80/Xamarin.Essentials.dll",
+        "lib/monoandroid80/Xamarin.Essentials.pdb",
+        "lib/monoandroid80/Xamarin.Essentials.xml",
+        "lib/monoandroid81/Xamarin.Essentials.dll",
+        "lib/monoandroid81/Xamarin.Essentials.pdb",
+        "lib/monoandroid81/Xamarin.Essentials.xml",
+        "lib/netstandard1.0/Xamarin.Essentials.dll",
+        "lib/netstandard1.0/Xamarin.Essentials.pdb",
+        "lib/netstandard1.0/Xamarin.Essentials.xml",
+        "lib/netstandard2.0/Xamarin.Essentials.dll",
+        "lib/netstandard2.0/Xamarin.Essentials.pdb",
+        "lib/netstandard2.0/Xamarin.Essentials.xml",
+        "lib/uap10.0.16299/Xamarin.Essentials.dll",
+        "lib/uap10.0.16299/Xamarin.Essentials.pdb",
+        "lib/uap10.0.16299/Xamarin.Essentials.pri",
+        "lib/uap10.0.16299/Xamarin.Essentials.xml",
+        "lib/xamarinios10/Xamarin.Essentials.dll",
+        "lib/xamarinios10/Xamarin.Essentials.pdb",
+        "lib/xamarinios10/Xamarin.Essentials.xml",
+        "readme.txt",
+        "xamarin.essentials.1.0.1.nupkg.sha512",
+        "xamarin.essentials.nuspec"
+      ]
+    },
     "Xamarin.Forms/3.5.0.129452": {
       "sha512": "KzD3ZBRKvVspTMtdLTCDBJ6thf2Pi6AUYuIIKwzTf/6WOtelgpe2Zq0aj/eAgVNO52qx4OGTmcscjuf9nOZVvA==",
       "type": "package",
@@ -2529,6 +2739,32 @@
         "xamarin.googleplayservices.gass.nuspec"
       ]
     },
+    "XF.Material/1.4.0.1": {
+      "sha512": "DJ1VCG8SKQSg26WCyyYQdtdvC5uGXTKrBw7dF52lBlg4Fy10em2EjbNVpCOSwOkq3komtCrZMvmKDmRnDKmXBQ==",
+      "type": "package",
+      "path": "xf.material/1.4.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid81/XF.Material.Droid.dll",
+        "lib/MonoAndroid81/XF.Material.Droid.pdb",
+        "lib/MonoAndroid81/XF.Material.Droid.xml",
+        "lib/MonoAndroid81/XF.Material.Forms.dll",
+        "lib/MonoAndroid81/XF.Material.Forms.pdb",
+        "lib/MonoAndroid81/XF.Material.Forms.xml",
+        "lib/Xamarin.iOS10/XF.Material.Forms.dll",
+        "lib/Xamarin.iOS10/XF.Material.Forms.pdb",
+        "lib/Xamarin.iOS10/XF.Material.Forms.xml",
+        "lib/Xamarin.iOS10/XF.Material.iOS.dll",
+        "lib/Xamarin.iOS10/XF.Material.iOS.pdb",
+        "lib/Xamarin.iOS10/XF.Material.iOS.xml",
+        "lib/netstandard2.0/XF.Material.Forms.dll",
+        "lib/netstandard2.0/XF.Material.Forms.pdb",
+        "lib/netstandard2.0/XF.Material.Forms.xml",
+        "xf.material.1.4.0.1.nupkg.sha512",
+        "xf.material.nuspec"
+      ]
+    },
     "Helper/1.0.0": {
       "type": "project",
       "path": "../Helper/Helper.csproj",
@@ -2548,6 +2784,7 @@
       "InventoryManagementSystem >= 1.0.0",
       "Newtonsoft.Json >= 12.0.1",
       "Rg.Plugins.Popup >= 1.1.5.188",
+      "XF.Material >= 1.4.0.1",
       "Xam.Plugin.Media >= 4.0.1.5",
       "Xam.Plugins.Settings >= 3.1.1",
       "Xamarin.Android.Support.Design >= 28.0.0.1",
@@ -2616,6 +2853,10 @@
           "Rg.Plugins.Popup": {
             "target": "Package",
             "version": "[1.1.5.188, )"
+          },
+          "XF.Material": {
+            "target": "Package",
+            "version": "[1.4.0.1, )"
           },
           "Xam.Plugin.Media": {
             "target": "Package",

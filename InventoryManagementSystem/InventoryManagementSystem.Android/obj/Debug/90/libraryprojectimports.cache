@@ -2,19 +2,17 @@
 <Paths>
   <Jars>
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\2\jl\formsviewgroup.jar</Jar>
-    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\22\jl\android.arch.core.common.jar</Jar>
-    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\23\jl\bin\classes.jar</Jar>
-    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\24\jl\android.arch.lifecycle.common.jar</Jar>
+    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\24\jl\android.arch.core.common.jar</Jar>
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\25\jl\bin\classes.jar</Jar>
-    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\26\jl\bin\classes.jar</Jar>
+    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\26\jl\android.arch.lifecycle.common.jar</Jar>
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\27\jl\bin\classes.jar</Jar>
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\28\jl\bin\classes.jar</Jar>
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\29\jl\bin\classes.jar</Jar>
-    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\30\jl\com.android.support.support-annotations.jar</Jar>
+    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\30\jl\bin\classes.jar</Jar>
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\31\jl\bin\classes.jar</Jar>
-    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\32\jl\com.android.support.collections.jar</Jar>
+    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\32\jl\com.android.support.support-annotations.jar</Jar>
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\33\jl\bin\classes.jar</Jar>
-    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\34\jl\bin\classes.jar</Jar>
+    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\34\jl\com.android.support.collections.jar</Jar>
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\35\jl\bin\classes.jar</Jar>
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\36\jl\bin\classes.jar</Jar>
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\37\jl\bin\classes.jar</Jar>
@@ -30,6 +28,7 @@
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\47\jl\bin\classes.jar</Jar>
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\48\jl\bin\classes.jar</Jar>
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\49\jl\bin\classes.jar</Jar>
+    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\5\jl\bin\classes.jar</Jar>
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\50\jl\bin\classes.jar</Jar>
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\51\jl\bin\classes.jar</Jar>
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\52\jl\bin\classes.jar</Jar>
@@ -41,81 +40,88 @@
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\58\jl\bin\classes.jar</Jar>
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\59\jl\bin\classes.jar</Jar>
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\60\jl\bin\classes.jar</Jar>
-    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\66\jl\classes.jar</Jar>
-    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\67\jl\classes.jar</Jar>
-    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\68\jl\classes.jar</Jar>
+    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\61\jl\bin\classes.jar</Jar>
+    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\62\jl\bin\classes.jar</Jar>
     <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\69\jl\classes.jar</Jar>
+    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\70\jl\classes.jar</Jar>
+    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\71\jl\classes.jar</Jar>
+    <Jar>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\72\jl\classes.jar</Jar>
   </Jars>
   <ResolvedResourceDirectories>
     <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\1\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\10\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\14\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\15\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\5\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\12\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\16\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\17\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\18\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\23\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\19\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\20\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\25\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\26\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\27\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\28\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\33\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\34\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\38\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\29\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\30\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\35\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\36\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\40\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\47\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\51\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\42\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\49\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\53\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\54\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\55\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\56\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\57\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\62\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\66\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\67\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\68\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\59\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\65\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\69\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\70\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\71\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\73\jl\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>obj\Debug\90\lp\1\jl\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\90\lp\10\jl\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\90\lp\14\jl\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\90\lp\15\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\90\lp\12\jl\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\90\lp\16\jl\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\90\lp\17\jl\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\90\lp\18\jl\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\90\lp\23\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\90\lp\19\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\90\lp\20\jl\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\90\lp\25\jl\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\90\lp\26\jl\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\90\lp\27\jl\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\90\lp\28\jl\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\90\lp\62\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\90\lp\29\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\90\lp\30\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\90\lp\65\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\90\lp\73\jl\assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
     <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\1.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\10.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\14.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\15.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\5.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\12.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\16.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\17.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\18.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\23.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\19.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\20.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\25.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\26.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\27.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\28.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\33.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\34.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\38.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\29.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\30.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\35.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\36.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\40.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\47.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\51.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\42.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\49.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\53.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\54.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\55.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\56.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\57.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\62.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\66.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\67.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\68.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\59.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\65.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\69.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\70.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\71.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\MyRepos\XamarinFormsInventory\InventoryManagementSystem\InventoryManagementSystem.Android\obj\Debug\90\lp\73.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>

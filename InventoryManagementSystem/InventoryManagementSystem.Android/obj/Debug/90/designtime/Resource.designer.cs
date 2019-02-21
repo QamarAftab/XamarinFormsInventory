@@ -2588,6 +2588,2924 @@ namespace InventoryManagementSystem.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_id = global::InventoryManagementSystem.Droid.Resource.Styleable.ViewStubCompat_android_id;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::InventoryManagementSystem.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_layout = global::InventoryManagementSystem.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::XF.Material.Droid.Resource.Animation.abc_fade_in = global::InventoryManagementSystem.Droid.Resource.Animation.abc_fade_in;
+			global::XF.Material.Droid.Resource.Animation.abc_fade_out = global::InventoryManagementSystem.Droid.Resource.Animation.abc_fade_out;
+			global::XF.Material.Droid.Resource.Animation.abc_grow_fade_in_from_bottom = global::InventoryManagementSystem.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::XF.Material.Droid.Resource.Animation.abc_popup_enter = global::InventoryManagementSystem.Droid.Resource.Animation.abc_popup_enter;
+			global::XF.Material.Droid.Resource.Animation.abc_popup_exit = global::InventoryManagementSystem.Droid.Resource.Animation.abc_popup_exit;
+			global::XF.Material.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom = global::InventoryManagementSystem.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::XF.Material.Droid.Resource.Animation.abc_slide_in_bottom = global::InventoryManagementSystem.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::XF.Material.Droid.Resource.Animation.abc_slide_in_top = global::InventoryManagementSystem.Droid.Resource.Animation.abc_slide_in_top;
+			global::XF.Material.Droid.Resource.Animation.abc_slide_out_bottom = global::InventoryManagementSystem.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::XF.Material.Droid.Resource.Animation.abc_slide_out_top = global::InventoryManagementSystem.Droid.Resource.Animation.abc_slide_out_top;
+			global::XF.Material.Droid.Resource.Animation.abc_tooltip_enter = global::InventoryManagementSystem.Droid.Resource.Animation.abc_tooltip_enter;
+			global::XF.Material.Droid.Resource.Animation.abc_tooltip_exit = global::InventoryManagementSystem.Droid.Resource.Animation.abc_tooltip_exit;
+			global::XF.Material.Droid.Resource.Animation.design_bottom_sheet_slide_in = global::InventoryManagementSystem.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::XF.Material.Droid.Resource.Animation.design_bottom_sheet_slide_out = global::InventoryManagementSystem.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::XF.Material.Droid.Resource.Animation.design_snackbar_in = global::InventoryManagementSystem.Droid.Resource.Animation.design_snackbar_in;
+			global::XF.Material.Droid.Resource.Animation.design_snackbar_out = global::InventoryManagementSystem.Droid.Resource.Animation.design_snackbar_out;
+			global::XF.Material.Droid.Resource.Animation.EnterFromLeft = global::InventoryManagementSystem.Droid.Resource.Animation.EnterFromLeft;
+			global::XF.Material.Droid.Resource.Animation.EnterFromRight = global::InventoryManagementSystem.Droid.Resource.Animation.EnterFromRight;
+			global::XF.Material.Droid.Resource.Animation.ExitToLeft = global::InventoryManagementSystem.Droid.Resource.Animation.ExitToLeft;
+			global::XF.Material.Droid.Resource.Animation.ExitToRight = global::InventoryManagementSystem.Droid.Resource.Animation.ExitToRight;
+			global::XF.Material.Droid.Resource.Animator.design_appbar_state_list_animator = global::InventoryManagementSystem.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::XF.Material.Droid.Resource.Animator.design_fab_hide_motion_spec = global::InventoryManagementSystem.Droid.Resource.Animator.design_fab_hide_motion_spec;
+			global::XF.Material.Droid.Resource.Animator.design_fab_show_motion_spec = global::InventoryManagementSystem.Droid.Resource.Animator.design_fab_show_motion_spec;
+			global::XF.Material.Droid.Resource.Animator.material_button_state_list_anim = global::InventoryManagementSystem.Droid.Resource.Animator.material_button_state_list_anim;
+			global::XF.Material.Droid.Resource.Animator.mtrl_btn_state_list_anim = global::InventoryManagementSystem.Droid.Resource.Animator.mtrl_btn_state_list_anim;
+			global::XF.Material.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::InventoryManagementSystem.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::XF.Material.Droid.Resource.Animator.mtrl_chip_state_list_anim = global::InventoryManagementSystem.Droid.Resource.Animator.mtrl_chip_state_list_anim;
+			global::XF.Material.Droid.Resource.Animator.mtrl_fab_hide_motion_spec = global::InventoryManagementSystem.Droid.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::XF.Material.Droid.Resource.Animator.mtrl_fab_show_motion_spec = global::InventoryManagementSystem.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::XF.Material.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::InventoryManagementSystem.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::XF.Material.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::InventoryManagementSystem.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::XF.Material.Droid.Resource.Attribute.actionBarDivider = global::InventoryManagementSystem.Droid.Resource.Attribute.actionBarDivider;
+			global::XF.Material.Droid.Resource.Attribute.actionBarItemBackground = global::InventoryManagementSystem.Droid.Resource.Attribute.actionBarItemBackground;
+			global::XF.Material.Droid.Resource.Attribute.actionBarPopupTheme = global::InventoryManagementSystem.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::XF.Material.Droid.Resource.Attribute.actionBarSize = global::InventoryManagementSystem.Droid.Resource.Attribute.actionBarSize;
+			global::XF.Material.Droid.Resource.Attribute.actionBarSplitStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::XF.Material.Droid.Resource.Attribute.actionBarStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.actionBarStyle;
+			global::XF.Material.Droid.Resource.Attribute.actionBarTabBarStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::XF.Material.Droid.Resource.Attribute.actionBarTabStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.actionBarTabStyle;
+			global::XF.Material.Droid.Resource.Attribute.actionBarTabTextStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::XF.Material.Droid.Resource.Attribute.actionBarTheme = global::InventoryManagementSystem.Droid.Resource.Attribute.actionBarTheme;
+			global::XF.Material.Droid.Resource.Attribute.actionBarWidgetTheme = global::InventoryManagementSystem.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::XF.Material.Droid.Resource.Attribute.actionButtonStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.actionButtonStyle;
+			global::XF.Material.Droid.Resource.Attribute.actionDropDownStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.actionDropDownStyle;
+			global::XF.Material.Droid.Resource.Attribute.actionLayout = global::InventoryManagementSystem.Droid.Resource.Attribute.actionLayout;
+			global::XF.Material.Droid.Resource.Attribute.actionMenuTextAppearance = global::InventoryManagementSystem.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::XF.Material.Droid.Resource.Attribute.actionMenuTextColor = global::InventoryManagementSystem.Droid.Resource.Attribute.actionMenuTextColor;
+			global::XF.Material.Droid.Resource.Attribute.actionModeBackground = global::InventoryManagementSystem.Droid.Resource.Attribute.actionModeBackground;
+			global::XF.Material.Droid.Resource.Attribute.actionModeCloseButtonStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::XF.Material.Droid.Resource.Attribute.actionModeCloseDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::XF.Material.Droid.Resource.Attribute.actionModeCopyDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::XF.Material.Droid.Resource.Attribute.actionModeCutDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::XF.Material.Droid.Resource.Attribute.actionModeFindDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::XF.Material.Droid.Resource.Attribute.actionModePasteDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::XF.Material.Droid.Resource.Attribute.actionModePopupWindowStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::XF.Material.Droid.Resource.Attribute.actionModeSelectAllDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::XF.Material.Droid.Resource.Attribute.actionModeShareDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::XF.Material.Droid.Resource.Attribute.actionModeSplitBackground = global::InventoryManagementSystem.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::XF.Material.Droid.Resource.Attribute.actionModeStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.actionModeStyle;
+			global::XF.Material.Droid.Resource.Attribute.actionModeWebSearchDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::XF.Material.Droid.Resource.Attribute.actionOverflowButtonStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::XF.Material.Droid.Resource.Attribute.actionOverflowMenuStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::XF.Material.Droid.Resource.Attribute.actionProviderClass = global::InventoryManagementSystem.Droid.Resource.Attribute.actionProviderClass;
+			global::XF.Material.Droid.Resource.Attribute.actionViewClass = global::InventoryManagementSystem.Droid.Resource.Attribute.actionViewClass;
+			global::XF.Material.Droid.Resource.Attribute.activityChooserViewStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::XF.Material.Droid.Resource.Attribute.alertDialogButtonGroupStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::XF.Material.Droid.Resource.Attribute.alertDialogCenterButtons = global::InventoryManagementSystem.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::XF.Material.Droid.Resource.Attribute.alertDialogStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.alertDialogStyle;
+			global::XF.Material.Droid.Resource.Attribute.alertDialogTheme = global::InventoryManagementSystem.Droid.Resource.Attribute.alertDialogTheme;
+			global::XF.Material.Droid.Resource.Attribute.allowStacking = global::InventoryManagementSystem.Droid.Resource.Attribute.allowStacking;
+			global::XF.Material.Droid.Resource.Attribute.alpha = global::InventoryManagementSystem.Droid.Resource.Attribute.alpha;
+			global::XF.Material.Droid.Resource.Attribute.alphabeticModifiers = global::InventoryManagementSystem.Droid.Resource.Attribute.alphabeticModifiers;
+			global::XF.Material.Droid.Resource.Attribute.arrowHeadLength = global::InventoryManagementSystem.Droid.Resource.Attribute.arrowHeadLength;
+			global::XF.Material.Droid.Resource.Attribute.arrowShaftLength = global::InventoryManagementSystem.Droid.Resource.Attribute.arrowShaftLength;
+			global::XF.Material.Droid.Resource.Attribute.autoCompleteTextViewStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::XF.Material.Droid.Resource.Attribute.autoSizeMaxTextSize = global::InventoryManagementSystem.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::XF.Material.Droid.Resource.Attribute.autoSizeMinTextSize = global::InventoryManagementSystem.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::XF.Material.Droid.Resource.Attribute.autoSizePresetSizes = global::InventoryManagementSystem.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::XF.Material.Droid.Resource.Attribute.autoSizeStepGranularity = global::InventoryManagementSystem.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::XF.Material.Droid.Resource.Attribute.autoSizeTextType = global::InventoryManagementSystem.Droid.Resource.Attribute.autoSizeTextType;
+			global::XF.Material.Droid.Resource.Attribute.background = global::InventoryManagementSystem.Droid.Resource.Attribute.background;
+			global::XF.Material.Droid.Resource.Attribute.backgroundSplit = global::InventoryManagementSystem.Droid.Resource.Attribute.backgroundSplit;
+			global::XF.Material.Droid.Resource.Attribute.backgroundStacked = global::InventoryManagementSystem.Droid.Resource.Attribute.backgroundStacked;
+			global::XF.Material.Droid.Resource.Attribute.backgroundTint = global::InventoryManagementSystem.Droid.Resource.Attribute.backgroundTint;
+			global::XF.Material.Droid.Resource.Attribute.backgroundTintMode = global::InventoryManagementSystem.Droid.Resource.Attribute.backgroundTintMode;
+			global::XF.Material.Droid.Resource.Attribute.barLength = global::InventoryManagementSystem.Droid.Resource.Attribute.barLength;
+			global::XF.Material.Droid.Resource.Attribute.behavior_autoHide = global::InventoryManagementSystem.Droid.Resource.Attribute.behavior_autoHide;
+			global::XF.Material.Droid.Resource.Attribute.behavior_fitToContents = global::InventoryManagementSystem.Droid.Resource.Attribute.behavior_fitToContents;
+			global::XF.Material.Droid.Resource.Attribute.behavior_hideable = global::InventoryManagementSystem.Droid.Resource.Attribute.behavior_hideable;
+			global::XF.Material.Droid.Resource.Attribute.behavior_overlapTop = global::InventoryManagementSystem.Droid.Resource.Attribute.behavior_overlapTop;
+			global::XF.Material.Droid.Resource.Attribute.behavior_peekHeight = global::InventoryManagementSystem.Droid.Resource.Attribute.behavior_peekHeight;
+			global::XF.Material.Droid.Resource.Attribute.behavior_skipCollapsed = global::InventoryManagementSystem.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::XF.Material.Droid.Resource.Attribute.borderWidth = global::InventoryManagementSystem.Droid.Resource.Attribute.borderWidth;
+			global::XF.Material.Droid.Resource.Attribute.borderlessButtonStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::XF.Material.Droid.Resource.Attribute.bottomAppBarStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.bottomAppBarStyle;
+			global::XF.Material.Droid.Resource.Attribute.bottomNavigationStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.bottomNavigationStyle;
+			global::XF.Material.Droid.Resource.Attribute.bottomSheetDialogTheme = global::InventoryManagementSystem.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::XF.Material.Droid.Resource.Attribute.bottomSheetStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.bottomSheetStyle;
+			global::XF.Material.Droid.Resource.Attribute.boxBackgroundColor = global::InventoryManagementSystem.Droid.Resource.Attribute.boxBackgroundColor;
+			global::XF.Material.Droid.Resource.Attribute.boxBackgroundMode = global::InventoryManagementSystem.Droid.Resource.Attribute.boxBackgroundMode;
+			global::XF.Material.Droid.Resource.Attribute.boxCollapsedPaddingTop = global::InventoryManagementSystem.Droid.Resource.Attribute.boxCollapsedPaddingTop;
+			global::XF.Material.Droid.Resource.Attribute.boxCornerRadiusBottomEnd = global::InventoryManagementSystem.Droid.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::XF.Material.Droid.Resource.Attribute.boxCornerRadiusBottomStart = global::InventoryManagementSystem.Droid.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::XF.Material.Droid.Resource.Attribute.boxCornerRadiusTopEnd = global::InventoryManagementSystem.Droid.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::XF.Material.Droid.Resource.Attribute.boxCornerRadiusTopStart = global::InventoryManagementSystem.Droid.Resource.Attribute.boxCornerRadiusTopStart;
+			global::XF.Material.Droid.Resource.Attribute.boxStrokeColor = global::InventoryManagementSystem.Droid.Resource.Attribute.boxStrokeColor;
+			global::XF.Material.Droid.Resource.Attribute.boxStrokeWidth = global::InventoryManagementSystem.Droid.Resource.Attribute.boxStrokeWidth;
+			global::XF.Material.Droid.Resource.Attribute.buttonBarButtonStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::XF.Material.Droid.Resource.Attribute.buttonBarNegativeButtonStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::XF.Material.Droid.Resource.Attribute.buttonBarNeutralButtonStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::XF.Material.Droid.Resource.Attribute.buttonBarPositiveButtonStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::XF.Material.Droid.Resource.Attribute.buttonBarStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.buttonBarStyle;
+			global::XF.Material.Droid.Resource.Attribute.buttonGravity = global::InventoryManagementSystem.Droid.Resource.Attribute.buttonGravity;
+			global::XF.Material.Droid.Resource.Attribute.buttonIconDimen = global::InventoryManagementSystem.Droid.Resource.Attribute.buttonIconDimen;
+			global::XF.Material.Droid.Resource.Attribute.buttonPanelSideLayout = global::InventoryManagementSystem.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::XF.Material.Droid.Resource.Attribute.buttonStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.buttonStyle;
+			global::XF.Material.Droid.Resource.Attribute.buttonStyleSmall = global::InventoryManagementSystem.Droid.Resource.Attribute.buttonStyleSmall;
+			global::XF.Material.Droid.Resource.Attribute.buttonTint = global::InventoryManagementSystem.Droid.Resource.Attribute.buttonTint;
+			global::XF.Material.Droid.Resource.Attribute.buttonTintMode = global::InventoryManagementSystem.Droid.Resource.Attribute.buttonTintMode;
+			global::XF.Material.Droid.Resource.Attribute.cardBackgroundColor = global::InventoryManagementSystem.Droid.Resource.Attribute.cardBackgroundColor;
+			global::XF.Material.Droid.Resource.Attribute.cardCornerRadius = global::InventoryManagementSystem.Droid.Resource.Attribute.cardCornerRadius;
+			global::XF.Material.Droid.Resource.Attribute.cardElevation = global::InventoryManagementSystem.Droid.Resource.Attribute.cardElevation;
+			global::XF.Material.Droid.Resource.Attribute.cardMaxElevation = global::InventoryManagementSystem.Droid.Resource.Attribute.cardMaxElevation;
+			global::XF.Material.Droid.Resource.Attribute.cardPreventCornerOverlap = global::InventoryManagementSystem.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::XF.Material.Droid.Resource.Attribute.cardUseCompatPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::XF.Material.Droid.Resource.Attribute.cardViewStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.cardViewStyle;
+			global::XF.Material.Droid.Resource.Attribute.checkboxStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.checkboxStyle;
+			global::XF.Material.Droid.Resource.Attribute.checkedChip = global::InventoryManagementSystem.Droid.Resource.Attribute.checkedChip;
+			global::XF.Material.Droid.Resource.Attribute.checkedIcon = global::InventoryManagementSystem.Droid.Resource.Attribute.checkedIcon;
+			global::XF.Material.Droid.Resource.Attribute.checkedIconEnabled = global::InventoryManagementSystem.Droid.Resource.Attribute.checkedIconEnabled;
+			global::XF.Material.Droid.Resource.Attribute.checkedIconVisible = global::InventoryManagementSystem.Droid.Resource.Attribute.checkedIconVisible;
+			global::XF.Material.Droid.Resource.Attribute.checkedTextViewStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::XF.Material.Droid.Resource.Attribute.chipBackgroundColor = global::InventoryManagementSystem.Droid.Resource.Attribute.chipBackgroundColor;
+			global::XF.Material.Droid.Resource.Attribute.chipCornerRadius = global::InventoryManagementSystem.Droid.Resource.Attribute.chipCornerRadius;
+			global::XF.Material.Droid.Resource.Attribute.chipEndPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.chipEndPadding;
+			global::XF.Material.Droid.Resource.Attribute.chipGroupStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.chipGroupStyle;
+			global::XF.Material.Droid.Resource.Attribute.chipIcon = global::InventoryManagementSystem.Droid.Resource.Attribute.chipIcon;
+			global::XF.Material.Droid.Resource.Attribute.chipIconEnabled = global::InventoryManagementSystem.Droid.Resource.Attribute.chipIconEnabled;
+			global::XF.Material.Droid.Resource.Attribute.chipIconSize = global::InventoryManagementSystem.Droid.Resource.Attribute.chipIconSize;
+			global::XF.Material.Droid.Resource.Attribute.chipIconTint = global::InventoryManagementSystem.Droid.Resource.Attribute.chipIconTint;
+			global::XF.Material.Droid.Resource.Attribute.chipIconVisible = global::InventoryManagementSystem.Droid.Resource.Attribute.chipIconVisible;
+			global::XF.Material.Droid.Resource.Attribute.chipMinHeight = global::InventoryManagementSystem.Droid.Resource.Attribute.chipMinHeight;
+			global::XF.Material.Droid.Resource.Attribute.chipSpacing = global::InventoryManagementSystem.Droid.Resource.Attribute.chipSpacing;
+			global::XF.Material.Droid.Resource.Attribute.chipSpacingHorizontal = global::InventoryManagementSystem.Droid.Resource.Attribute.chipSpacingHorizontal;
+			global::XF.Material.Droid.Resource.Attribute.chipSpacingVertical = global::InventoryManagementSystem.Droid.Resource.Attribute.chipSpacingVertical;
+			global::XF.Material.Droid.Resource.Attribute.chipStandaloneStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.chipStandaloneStyle;
+			global::XF.Material.Droid.Resource.Attribute.chipStartPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.chipStartPadding;
+			global::XF.Material.Droid.Resource.Attribute.chipStrokeColor = global::InventoryManagementSystem.Droid.Resource.Attribute.chipStrokeColor;
+			global::XF.Material.Droid.Resource.Attribute.chipStrokeWidth = global::InventoryManagementSystem.Droid.Resource.Attribute.chipStrokeWidth;
+			global::XF.Material.Droid.Resource.Attribute.chipStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.chipStyle;
+			global::XF.Material.Droid.Resource.Attribute.closeIcon = global::InventoryManagementSystem.Droid.Resource.Attribute.closeIcon;
+			global::XF.Material.Droid.Resource.Attribute.closeIconEnabled = global::InventoryManagementSystem.Droid.Resource.Attribute.closeIconEnabled;
+			global::XF.Material.Droid.Resource.Attribute.closeIconEndPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.closeIconEndPadding;
+			global::XF.Material.Droid.Resource.Attribute.closeIconSize = global::InventoryManagementSystem.Droid.Resource.Attribute.closeIconSize;
+			global::XF.Material.Droid.Resource.Attribute.closeIconStartPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.closeIconStartPadding;
+			global::XF.Material.Droid.Resource.Attribute.closeIconTint = global::InventoryManagementSystem.Droid.Resource.Attribute.closeIconTint;
+			global::XF.Material.Droid.Resource.Attribute.closeIconVisible = global::InventoryManagementSystem.Droid.Resource.Attribute.closeIconVisible;
+			global::XF.Material.Droid.Resource.Attribute.closeItemLayout = global::InventoryManagementSystem.Droid.Resource.Attribute.closeItemLayout;
+			global::XF.Material.Droid.Resource.Attribute.collapseContentDescription = global::InventoryManagementSystem.Droid.Resource.Attribute.collapseContentDescription;
+			global::XF.Material.Droid.Resource.Attribute.collapseIcon = global::InventoryManagementSystem.Droid.Resource.Attribute.collapseIcon;
+			global::XF.Material.Droid.Resource.Attribute.collapsedTitleGravity = global::InventoryManagementSystem.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::XF.Material.Droid.Resource.Attribute.collapsedTitleTextAppearance = global::InventoryManagementSystem.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::XF.Material.Droid.Resource.Attribute.color = global::InventoryManagementSystem.Droid.Resource.Attribute.color;
+			global::XF.Material.Droid.Resource.Attribute.colorAccent = global::InventoryManagementSystem.Droid.Resource.Attribute.colorAccent;
+			global::XF.Material.Droid.Resource.Attribute.colorBackgroundFloating = global::InventoryManagementSystem.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::XF.Material.Droid.Resource.Attribute.colorButtonNormal = global::InventoryManagementSystem.Droid.Resource.Attribute.colorButtonNormal;
+			global::XF.Material.Droid.Resource.Attribute.colorControlActivated = global::InventoryManagementSystem.Droid.Resource.Attribute.colorControlActivated;
+			global::XF.Material.Droid.Resource.Attribute.colorControlHighlight = global::InventoryManagementSystem.Droid.Resource.Attribute.colorControlHighlight;
+			global::XF.Material.Droid.Resource.Attribute.colorControlNormal = global::InventoryManagementSystem.Droid.Resource.Attribute.colorControlNormal;
+			global::XF.Material.Droid.Resource.Attribute.colorError = global::InventoryManagementSystem.Droid.Resource.Attribute.colorError;
+			global::XF.Material.Droid.Resource.Attribute.colorPrimary = global::InventoryManagementSystem.Droid.Resource.Attribute.colorPrimary;
+			global::XF.Material.Droid.Resource.Attribute.colorPrimaryDark = global::InventoryManagementSystem.Droid.Resource.Attribute.colorPrimaryDark;
+			global::XF.Material.Droid.Resource.Attribute.colorSecondary = global::InventoryManagementSystem.Droid.Resource.Attribute.colorSecondary;
+			global::XF.Material.Droid.Resource.Attribute.colorSwitchThumbNormal = global::InventoryManagementSystem.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::XF.Material.Droid.Resource.Attribute.commitIcon = global::InventoryManagementSystem.Droid.Resource.Attribute.commitIcon;
+			global::XF.Material.Droid.Resource.Attribute.contentDescription = global::InventoryManagementSystem.Droid.Resource.Attribute.contentDescription;
+			global::XF.Material.Droid.Resource.Attribute.contentInsetEnd = global::InventoryManagementSystem.Droid.Resource.Attribute.contentInsetEnd;
+			global::XF.Material.Droid.Resource.Attribute.contentInsetEndWithActions = global::InventoryManagementSystem.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::XF.Material.Droid.Resource.Attribute.contentInsetLeft = global::InventoryManagementSystem.Droid.Resource.Attribute.contentInsetLeft;
+			global::XF.Material.Droid.Resource.Attribute.contentInsetRight = global::InventoryManagementSystem.Droid.Resource.Attribute.contentInsetRight;
+			global::XF.Material.Droid.Resource.Attribute.contentInsetStart = global::InventoryManagementSystem.Droid.Resource.Attribute.contentInsetStart;
+			global::XF.Material.Droid.Resource.Attribute.contentInsetStartWithNavigation = global::InventoryManagementSystem.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::XF.Material.Droid.Resource.Attribute.contentPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.contentPadding;
+			global::XF.Material.Droid.Resource.Attribute.contentPaddingBottom = global::InventoryManagementSystem.Droid.Resource.Attribute.contentPaddingBottom;
+			global::XF.Material.Droid.Resource.Attribute.contentPaddingLeft = global::InventoryManagementSystem.Droid.Resource.Attribute.contentPaddingLeft;
+			global::XF.Material.Droid.Resource.Attribute.contentPaddingRight = global::InventoryManagementSystem.Droid.Resource.Attribute.contentPaddingRight;
+			global::XF.Material.Droid.Resource.Attribute.contentPaddingTop = global::InventoryManagementSystem.Droid.Resource.Attribute.contentPaddingTop;
+			global::XF.Material.Droid.Resource.Attribute.contentScrim = global::InventoryManagementSystem.Droid.Resource.Attribute.contentScrim;
+			global::XF.Material.Droid.Resource.Attribute.controlBackground = global::InventoryManagementSystem.Droid.Resource.Attribute.controlBackground;
+			global::XF.Material.Droid.Resource.Attribute.coordinatorLayoutStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::XF.Material.Droid.Resource.Attribute.cornerRadius = global::InventoryManagementSystem.Droid.Resource.Attribute.cornerRadius;
+			global::XF.Material.Droid.Resource.Attribute.counterEnabled = global::InventoryManagementSystem.Droid.Resource.Attribute.counterEnabled;
+			global::XF.Material.Droid.Resource.Attribute.counterMaxLength = global::InventoryManagementSystem.Droid.Resource.Attribute.counterMaxLength;
+			global::XF.Material.Droid.Resource.Attribute.counterOverflowTextAppearance = global::InventoryManagementSystem.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::XF.Material.Droid.Resource.Attribute.counterTextAppearance = global::InventoryManagementSystem.Droid.Resource.Attribute.counterTextAppearance;
+			global::XF.Material.Droid.Resource.Attribute.customNavigationLayout = global::InventoryManagementSystem.Droid.Resource.Attribute.customNavigationLayout;
+			global::XF.Material.Droid.Resource.Attribute.defaultQueryHint = global::InventoryManagementSystem.Droid.Resource.Attribute.defaultQueryHint;
+			global::XF.Material.Droid.Resource.Attribute.dialogCornerRadius = global::InventoryManagementSystem.Droid.Resource.Attribute.dialogCornerRadius;
+			global::XF.Material.Droid.Resource.Attribute.dialogPreferredPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::XF.Material.Droid.Resource.Attribute.dialogTheme = global::InventoryManagementSystem.Droid.Resource.Attribute.dialogTheme;
+			global::XF.Material.Droid.Resource.Attribute.displayOptions = global::InventoryManagementSystem.Droid.Resource.Attribute.displayOptions;
+			global::XF.Material.Droid.Resource.Attribute.divider = global::InventoryManagementSystem.Droid.Resource.Attribute.divider;
+			global::XF.Material.Droid.Resource.Attribute.dividerHorizontal = global::InventoryManagementSystem.Droid.Resource.Attribute.dividerHorizontal;
+			global::XF.Material.Droid.Resource.Attribute.dividerPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.dividerPadding;
+			global::XF.Material.Droid.Resource.Attribute.dividerVertical = global::InventoryManagementSystem.Droid.Resource.Attribute.dividerVertical;
+			global::XF.Material.Droid.Resource.Attribute.drawableSize = global::InventoryManagementSystem.Droid.Resource.Attribute.drawableSize;
+			global::XF.Material.Droid.Resource.Attribute.drawerArrowStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.drawerArrowStyle;
+			global::XF.Material.Droid.Resource.Attribute.dropDownListViewStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::XF.Material.Droid.Resource.Attribute.dropdownListPreferredItemHeight = global::InventoryManagementSystem.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::XF.Material.Droid.Resource.Attribute.editTextBackground = global::InventoryManagementSystem.Droid.Resource.Attribute.editTextBackground;
+			global::XF.Material.Droid.Resource.Attribute.editTextColor = global::InventoryManagementSystem.Droid.Resource.Attribute.editTextColor;
+			global::XF.Material.Droid.Resource.Attribute.editTextStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.editTextStyle;
+			global::XF.Material.Droid.Resource.Attribute.elevation = global::InventoryManagementSystem.Droid.Resource.Attribute.elevation;
+			global::XF.Material.Droid.Resource.Attribute.enforceMaterialTheme = global::InventoryManagementSystem.Droid.Resource.Attribute.enforceMaterialTheme;
+			global::XF.Material.Droid.Resource.Attribute.enforceTextAppearance = global::InventoryManagementSystem.Droid.Resource.Attribute.enforceTextAppearance;
+			global::XF.Material.Droid.Resource.Attribute.errorEnabled = global::InventoryManagementSystem.Droid.Resource.Attribute.errorEnabled;
+			global::XF.Material.Droid.Resource.Attribute.errorTextAppearance = global::InventoryManagementSystem.Droid.Resource.Attribute.errorTextAppearance;
+			global::XF.Material.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::XF.Material.Droid.Resource.Attribute.expanded = global::InventoryManagementSystem.Droid.Resource.Attribute.expanded;
+			global::XF.Material.Droid.Resource.Attribute.expandedTitleGravity = global::InventoryManagementSystem.Droid.Resource.Attribute.expandedTitleGravity;
+			global::XF.Material.Droid.Resource.Attribute.expandedTitleMargin = global::InventoryManagementSystem.Droid.Resource.Attribute.expandedTitleMargin;
+			global::XF.Material.Droid.Resource.Attribute.expandedTitleMarginBottom = global::InventoryManagementSystem.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::XF.Material.Droid.Resource.Attribute.expandedTitleMarginEnd = global::InventoryManagementSystem.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::XF.Material.Droid.Resource.Attribute.expandedTitleMarginStart = global::InventoryManagementSystem.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::XF.Material.Droid.Resource.Attribute.expandedTitleMarginTop = global::InventoryManagementSystem.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::XF.Material.Droid.Resource.Attribute.expandedTitleTextAppearance = global::InventoryManagementSystem.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::XF.Material.Droid.Resource.Attribute.externalRouteEnabledDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.externalRouteEnabledDrawable;
+			global::XF.Material.Droid.Resource.Attribute.fabAlignmentMode = global::InventoryManagementSystem.Droid.Resource.Attribute.fabAlignmentMode;
+			global::XF.Material.Droid.Resource.Attribute.fabCradleMargin = global::InventoryManagementSystem.Droid.Resource.Attribute.fabCradleMargin;
+			global::XF.Material.Droid.Resource.Attribute.fabCradleRoundedCornerRadius = global::InventoryManagementSystem.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::XF.Material.Droid.Resource.Attribute.fabCradleVerticalOffset = global::InventoryManagementSystem.Droid.Resource.Attribute.fabCradleVerticalOffset;
+			global::XF.Material.Droid.Resource.Attribute.fabCustomSize = global::InventoryManagementSystem.Droid.Resource.Attribute.fabCustomSize;
+			global::XF.Material.Droid.Resource.Attribute.fabSize = global::InventoryManagementSystem.Droid.Resource.Attribute.fabSize;
+			global::XF.Material.Droid.Resource.Attribute.fastScrollEnabled = global::InventoryManagementSystem.Droid.Resource.Attribute.fastScrollEnabled;
+			global::XF.Material.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::XF.Material.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::XF.Material.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::XF.Material.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::XF.Material.Droid.Resource.Attribute.firstBaselineToTopHeight = global::InventoryManagementSystem.Droid.Resource.Attribute.firstBaselineToTopHeight;
+			global::XF.Material.Droid.Resource.Attribute.floatingActionButtonStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.floatingActionButtonStyle;
+			global::XF.Material.Droid.Resource.Attribute.font = global::InventoryManagementSystem.Droid.Resource.Attribute.font;
+			global::XF.Material.Droid.Resource.Attribute.fontFamily = global::InventoryManagementSystem.Droid.Resource.Attribute.fontFamily;
+			global::XF.Material.Droid.Resource.Attribute.fontProviderAuthority = global::InventoryManagementSystem.Droid.Resource.Attribute.fontProviderAuthority;
+			global::XF.Material.Droid.Resource.Attribute.fontProviderCerts = global::InventoryManagementSystem.Droid.Resource.Attribute.fontProviderCerts;
+			global::XF.Material.Droid.Resource.Attribute.fontProviderFetchStrategy = global::InventoryManagementSystem.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::XF.Material.Droid.Resource.Attribute.fontProviderFetchTimeout = global::InventoryManagementSystem.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::XF.Material.Droid.Resource.Attribute.fontProviderPackage = global::InventoryManagementSystem.Droid.Resource.Attribute.fontProviderPackage;
+			global::XF.Material.Droid.Resource.Attribute.fontProviderQuery = global::InventoryManagementSystem.Droid.Resource.Attribute.fontProviderQuery;
+			global::XF.Material.Droid.Resource.Attribute.fontStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.fontStyle;
+			global::XF.Material.Droid.Resource.Attribute.fontVariationSettings = global::InventoryManagementSystem.Droid.Resource.Attribute.fontVariationSettings;
+			global::XF.Material.Droid.Resource.Attribute.fontWeight = global::InventoryManagementSystem.Droid.Resource.Attribute.fontWeight;
+			global::XF.Material.Droid.Resource.Attribute.foregroundInsidePadding = global::InventoryManagementSystem.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::XF.Material.Droid.Resource.Attribute.gapBetweenBars = global::InventoryManagementSystem.Droid.Resource.Attribute.gapBetweenBars;
+			global::XF.Material.Droid.Resource.Attribute.goIcon = global::InventoryManagementSystem.Droid.Resource.Attribute.goIcon;
+			global::XF.Material.Droid.Resource.Attribute.headerLayout = global::InventoryManagementSystem.Droid.Resource.Attribute.headerLayout;
+			global::XF.Material.Droid.Resource.Attribute.height = global::InventoryManagementSystem.Droid.Resource.Attribute.height;
+			global::XF.Material.Droid.Resource.Attribute.helperText = global::InventoryManagementSystem.Droid.Resource.Attribute.helperText;
+			global::XF.Material.Droid.Resource.Attribute.helperTextEnabled = global::InventoryManagementSystem.Droid.Resource.Attribute.helperTextEnabled;
+			global::XF.Material.Droid.Resource.Attribute.helperTextTextAppearance = global::InventoryManagementSystem.Droid.Resource.Attribute.helperTextTextAppearance;
+			global::XF.Material.Droid.Resource.Attribute.hideMotionSpec = global::InventoryManagementSystem.Droid.Resource.Attribute.hideMotionSpec;
+			global::XF.Material.Droid.Resource.Attribute.hideOnContentScroll = global::InventoryManagementSystem.Droid.Resource.Attribute.hideOnContentScroll;
+			global::XF.Material.Droid.Resource.Attribute.hideOnScroll = global::InventoryManagementSystem.Droid.Resource.Attribute.hideOnScroll;
+			global::XF.Material.Droid.Resource.Attribute.hintAnimationEnabled = global::InventoryManagementSystem.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::XF.Material.Droid.Resource.Attribute.hintEnabled = global::InventoryManagementSystem.Droid.Resource.Attribute.hintEnabled;
+			global::XF.Material.Droid.Resource.Attribute.hintTextAppearance = global::InventoryManagementSystem.Droid.Resource.Attribute.hintTextAppearance;
+			global::XF.Material.Droid.Resource.Attribute.homeAsUpIndicator = global::InventoryManagementSystem.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::XF.Material.Droid.Resource.Attribute.homeLayout = global::InventoryManagementSystem.Droid.Resource.Attribute.homeLayout;
+			global::XF.Material.Droid.Resource.Attribute.hoveredFocusedTranslationZ = global::InventoryManagementSystem.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::XF.Material.Droid.Resource.Attribute.icon = global::InventoryManagementSystem.Droid.Resource.Attribute.icon;
+			global::XF.Material.Droid.Resource.Attribute.iconEndPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.iconEndPadding;
+			global::XF.Material.Droid.Resource.Attribute.iconGravity = global::InventoryManagementSystem.Droid.Resource.Attribute.iconGravity;
+			global::XF.Material.Droid.Resource.Attribute.iconPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.iconPadding;
+			global::XF.Material.Droid.Resource.Attribute.iconSize = global::InventoryManagementSystem.Droid.Resource.Attribute.iconSize;
+			global::XF.Material.Droid.Resource.Attribute.iconStartPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.iconStartPadding;
+			global::XF.Material.Droid.Resource.Attribute.iconTint = global::InventoryManagementSystem.Droid.Resource.Attribute.iconTint;
+			global::XF.Material.Droid.Resource.Attribute.iconTintMode = global::InventoryManagementSystem.Droid.Resource.Attribute.iconTintMode;
+			global::XF.Material.Droid.Resource.Attribute.iconifiedByDefault = global::InventoryManagementSystem.Droid.Resource.Attribute.iconifiedByDefault;
+			global::XF.Material.Droid.Resource.Attribute.imageButtonStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.imageButtonStyle;
+			global::XF.Material.Droid.Resource.Attribute.indeterminateProgressStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::XF.Material.Droid.Resource.Attribute.initialActivityCount = global::InventoryManagementSystem.Droid.Resource.Attribute.initialActivityCount;
+			global::XF.Material.Droid.Resource.Attribute.insetForeground = global::InventoryManagementSystem.Droid.Resource.Attribute.insetForeground;
+			global::XF.Material.Droid.Resource.Attribute.isLightTheme = global::InventoryManagementSystem.Droid.Resource.Attribute.isLightTheme;
+			global::XF.Material.Droid.Resource.Attribute.itemBackground = global::InventoryManagementSystem.Droid.Resource.Attribute.itemBackground;
+			global::XF.Material.Droid.Resource.Attribute.itemHorizontalPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.itemHorizontalPadding;
+			global::XF.Material.Droid.Resource.Attribute.itemHorizontalTranslationEnabled = global::InventoryManagementSystem.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::XF.Material.Droid.Resource.Attribute.itemIconPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.itemIconPadding;
+			global::XF.Material.Droid.Resource.Attribute.itemIconSize = global::InventoryManagementSystem.Droid.Resource.Attribute.itemIconSize;
+			global::XF.Material.Droid.Resource.Attribute.itemIconTint = global::InventoryManagementSystem.Droid.Resource.Attribute.itemIconTint;
+			global::XF.Material.Droid.Resource.Attribute.itemPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.itemPadding;
+			global::XF.Material.Droid.Resource.Attribute.itemSpacing = global::InventoryManagementSystem.Droid.Resource.Attribute.itemSpacing;
+			global::XF.Material.Droid.Resource.Attribute.itemTextAppearance = global::InventoryManagementSystem.Droid.Resource.Attribute.itemTextAppearance;
+			global::XF.Material.Droid.Resource.Attribute.itemTextAppearanceActive = global::InventoryManagementSystem.Droid.Resource.Attribute.itemTextAppearanceActive;
+			global::XF.Material.Droid.Resource.Attribute.itemTextAppearanceInactive = global::InventoryManagementSystem.Droid.Resource.Attribute.itemTextAppearanceInactive;
+			global::XF.Material.Droid.Resource.Attribute.itemTextColor = global::InventoryManagementSystem.Droid.Resource.Attribute.itemTextColor;
+			global::XF.Material.Droid.Resource.Attribute.keylines = global::InventoryManagementSystem.Droid.Resource.Attribute.keylines;
+			global::XF.Material.Droid.Resource.Attribute.labelVisibilityMode = global::InventoryManagementSystem.Droid.Resource.Attribute.labelVisibilityMode;
+			global::XF.Material.Droid.Resource.Attribute.lastBaselineToBottomHeight = global::InventoryManagementSystem.Droid.Resource.Attribute.lastBaselineToBottomHeight;
+			global::XF.Material.Droid.Resource.Attribute.layout = global::InventoryManagementSystem.Droid.Resource.Attribute.layout;
+			global::XF.Material.Droid.Resource.Attribute.layoutManager = global::InventoryManagementSystem.Droid.Resource.Attribute.layoutManager;
+			global::XF.Material.Droid.Resource.Attribute.layout_anchor = global::InventoryManagementSystem.Droid.Resource.Attribute.layout_anchor;
+			global::XF.Material.Droid.Resource.Attribute.layout_anchorGravity = global::InventoryManagementSystem.Droid.Resource.Attribute.layout_anchorGravity;
+			global::XF.Material.Droid.Resource.Attribute.layout_behavior = global::InventoryManagementSystem.Droid.Resource.Attribute.layout_behavior;
+			global::XF.Material.Droid.Resource.Attribute.layout_collapseMode = global::InventoryManagementSystem.Droid.Resource.Attribute.layout_collapseMode;
+			global::XF.Material.Droid.Resource.Attribute.layout_collapseParallaxMultiplier = global::InventoryManagementSystem.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::XF.Material.Droid.Resource.Attribute.layout_dodgeInsetEdges = global::InventoryManagementSystem.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::XF.Material.Droid.Resource.Attribute.layout_insetEdge = global::InventoryManagementSystem.Droid.Resource.Attribute.layout_insetEdge;
+			global::XF.Material.Droid.Resource.Attribute.layout_keyline = global::InventoryManagementSystem.Droid.Resource.Attribute.layout_keyline;
+			global::XF.Material.Droid.Resource.Attribute.layout_scrollFlags = global::InventoryManagementSystem.Droid.Resource.Attribute.layout_scrollFlags;
+			global::XF.Material.Droid.Resource.Attribute.layout_scrollInterpolator = global::InventoryManagementSystem.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::XF.Material.Droid.Resource.Attribute.liftOnScroll = global::InventoryManagementSystem.Droid.Resource.Attribute.liftOnScroll;
+			global::XF.Material.Droid.Resource.Attribute.lineHeight = global::InventoryManagementSystem.Droid.Resource.Attribute.lineHeight;
+			global::XF.Material.Droid.Resource.Attribute.lineSpacing = global::InventoryManagementSystem.Droid.Resource.Attribute.lineSpacing;
+			global::XF.Material.Droid.Resource.Attribute.listChoiceBackgroundIndicator = global::InventoryManagementSystem.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::XF.Material.Droid.Resource.Attribute.listDividerAlertDialog = global::InventoryManagementSystem.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::XF.Material.Droid.Resource.Attribute.listItemLayout = global::InventoryManagementSystem.Droid.Resource.Attribute.listItemLayout;
+			global::XF.Material.Droid.Resource.Attribute.listLayout = global::InventoryManagementSystem.Droid.Resource.Attribute.listLayout;
+			global::XF.Material.Droid.Resource.Attribute.listMenuViewStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.listMenuViewStyle;
+			global::XF.Material.Droid.Resource.Attribute.listPopupWindowStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::XF.Material.Droid.Resource.Attribute.listPreferredItemHeight = global::InventoryManagementSystem.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::XF.Material.Droid.Resource.Attribute.listPreferredItemHeightLarge = global::InventoryManagementSystem.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::XF.Material.Droid.Resource.Attribute.listPreferredItemHeightSmall = global::InventoryManagementSystem.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::XF.Material.Droid.Resource.Attribute.listPreferredItemPaddingLeft = global::InventoryManagementSystem.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::XF.Material.Droid.Resource.Attribute.listPreferredItemPaddingRight = global::InventoryManagementSystem.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::XF.Material.Droid.Resource.Attribute.logo = global::InventoryManagementSystem.Droid.Resource.Attribute.logo;
+			global::XF.Material.Droid.Resource.Attribute.logoDescription = global::InventoryManagementSystem.Droid.Resource.Attribute.logoDescription;
+			global::XF.Material.Droid.Resource.Attribute.lottie_autoPlay = global::InventoryManagementSystem.Droid.Resource.Attribute.lottie_autoPlay;
+			global::XF.Material.Droid.Resource.Attribute.lottie_colorFilter = global::InventoryManagementSystem.Droid.Resource.Attribute.lottie_colorFilter;
+			global::XF.Material.Droid.Resource.Attribute.lottie_enableMergePathsForKitKatAndAbove = global::InventoryManagementSystem.Droid.Resource.Attribute.lottie_enableMergePathsForKitKatAndAbove;
+			global::XF.Material.Droid.Resource.Attribute.lottie_fileName = global::InventoryManagementSystem.Droid.Resource.Attribute.lottie_fileName;
+			global::XF.Material.Droid.Resource.Attribute.lottie_imageAssetsFolder = global::InventoryManagementSystem.Droid.Resource.Attribute.lottie_imageAssetsFolder;
+			global::XF.Material.Droid.Resource.Attribute.lottie_loop = global::InventoryManagementSystem.Droid.Resource.Attribute.lottie_loop;
+			global::XF.Material.Droid.Resource.Attribute.lottie_progress = global::InventoryManagementSystem.Droid.Resource.Attribute.lottie_progress;
+			global::XF.Material.Droid.Resource.Attribute.lottie_rawRes = global::InventoryManagementSystem.Droid.Resource.Attribute.lottie_rawRes;
+			global::XF.Material.Droid.Resource.Attribute.lottie_repeatCount = global::InventoryManagementSystem.Droid.Resource.Attribute.lottie_repeatCount;
+			global::XF.Material.Droid.Resource.Attribute.lottie_repeatMode = global::InventoryManagementSystem.Droid.Resource.Attribute.lottie_repeatMode;
+			global::XF.Material.Droid.Resource.Attribute.lottie_scale = global::InventoryManagementSystem.Droid.Resource.Attribute.lottie_scale;
+			global::XF.Material.Droid.Resource.Attribute.lottie_url = global::InventoryManagementSystem.Droid.Resource.Attribute.lottie_url;
+			global::XF.Material.Droid.Resource.Attribute.materialButtonStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.materialButtonStyle;
+			global::XF.Material.Droid.Resource.Attribute.materialCardViewStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.materialCardViewStyle;
+			global::XF.Material.Droid.Resource.Attribute.maxActionInlineWidth = global::InventoryManagementSystem.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::XF.Material.Droid.Resource.Attribute.maxButtonHeight = global::InventoryManagementSystem.Droid.Resource.Attribute.maxButtonHeight;
+			global::XF.Material.Droid.Resource.Attribute.maxImageSize = global::InventoryManagementSystem.Droid.Resource.Attribute.maxImageSize;
+			global::XF.Material.Droid.Resource.Attribute.measureWithLargestChild = global::InventoryManagementSystem.Droid.Resource.Attribute.measureWithLargestChild;
+			global::XF.Material.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable;
+			global::XF.Material.Droid.Resource.Attribute.mediaRouteButtonStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.mediaRouteButtonStyle;
+			global::XF.Material.Droid.Resource.Attribute.mediaRouteButtonTint = global::InventoryManagementSystem.Droid.Resource.Attribute.mediaRouteButtonTint;
+			global::XF.Material.Droid.Resource.Attribute.mediaRouteCloseDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.mediaRouteCloseDrawable;
+			global::XF.Material.Droid.Resource.Attribute.mediaRouteControlPanelThemeOverlay = global::InventoryManagementSystem.Droid.Resource.Attribute.mediaRouteControlPanelThemeOverlay;
+			global::XF.Material.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable;
+			global::XF.Material.Droid.Resource.Attribute.mediaRoutePauseDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.mediaRoutePauseDrawable;
+			global::XF.Material.Droid.Resource.Attribute.mediaRoutePlayDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.mediaRoutePlayDrawable;
+			global::XF.Material.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable;
+			global::XF.Material.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable;
+			global::XF.Material.Droid.Resource.Attribute.mediaRouteStopDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.mediaRouteStopDrawable;
+			global::XF.Material.Droid.Resource.Attribute.mediaRouteTheme = global::InventoryManagementSystem.Droid.Resource.Attribute.mediaRouteTheme;
+			global::XF.Material.Droid.Resource.Attribute.mediaRouteTvIconDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.mediaRouteTvIconDrawable;
+			global::XF.Material.Droid.Resource.Attribute.menu = global::InventoryManagementSystem.Droid.Resource.Attribute.menu;
+			global::XF.Material.Droid.Resource.Attribute.multiChoiceItemLayout = global::InventoryManagementSystem.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::XF.Material.Droid.Resource.Attribute.navigationContentDescription = global::InventoryManagementSystem.Droid.Resource.Attribute.navigationContentDescription;
+			global::XF.Material.Droid.Resource.Attribute.navigationIcon = global::InventoryManagementSystem.Droid.Resource.Attribute.navigationIcon;
+			global::XF.Material.Droid.Resource.Attribute.navigationMode = global::InventoryManagementSystem.Droid.Resource.Attribute.navigationMode;
+			global::XF.Material.Droid.Resource.Attribute.navigationViewStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.navigationViewStyle;
+			global::XF.Material.Droid.Resource.Attribute.numericModifiers = global::InventoryManagementSystem.Droid.Resource.Attribute.numericModifiers;
+			global::XF.Material.Droid.Resource.Attribute.overlapAnchor = global::InventoryManagementSystem.Droid.Resource.Attribute.overlapAnchor;
+			global::XF.Material.Droid.Resource.Attribute.paddingBottomNoButtons = global::InventoryManagementSystem.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::XF.Material.Droid.Resource.Attribute.paddingEnd = global::InventoryManagementSystem.Droid.Resource.Attribute.paddingEnd;
+			global::XF.Material.Droid.Resource.Attribute.paddingStart = global::InventoryManagementSystem.Droid.Resource.Attribute.paddingStart;
+			global::XF.Material.Droid.Resource.Attribute.paddingTopNoTitle = global::InventoryManagementSystem.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::XF.Material.Droid.Resource.Attribute.panelBackground = global::InventoryManagementSystem.Droid.Resource.Attribute.panelBackground;
+			global::XF.Material.Droid.Resource.Attribute.panelMenuListTheme = global::InventoryManagementSystem.Droid.Resource.Attribute.panelMenuListTheme;
+			global::XF.Material.Droid.Resource.Attribute.panelMenuListWidth = global::InventoryManagementSystem.Droid.Resource.Attribute.panelMenuListWidth;
+			global::XF.Material.Droid.Resource.Attribute.passwordToggleContentDescription = global::InventoryManagementSystem.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::XF.Material.Droid.Resource.Attribute.passwordToggleDrawable = global::InventoryManagementSystem.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::XF.Material.Droid.Resource.Attribute.passwordToggleEnabled = global::InventoryManagementSystem.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::XF.Material.Droid.Resource.Attribute.passwordToggleTint = global::InventoryManagementSystem.Droid.Resource.Attribute.passwordToggleTint;
+			global::XF.Material.Droid.Resource.Attribute.passwordToggleTintMode = global::InventoryManagementSystem.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::XF.Material.Droid.Resource.Attribute.popupMenuStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.popupMenuStyle;
+			global::XF.Material.Droid.Resource.Attribute.popupTheme = global::InventoryManagementSystem.Droid.Resource.Attribute.popupTheme;
+			global::XF.Material.Droid.Resource.Attribute.popupWindowStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.popupWindowStyle;
+			global::XF.Material.Droid.Resource.Attribute.preserveIconSpacing = global::InventoryManagementSystem.Droid.Resource.Attribute.preserveIconSpacing;
+			global::XF.Material.Droid.Resource.Attribute.pressedTranslationZ = global::InventoryManagementSystem.Droid.Resource.Attribute.pressedTranslationZ;
+			global::XF.Material.Droid.Resource.Attribute.progressBarPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.progressBarPadding;
+			global::XF.Material.Droid.Resource.Attribute.progressBarStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.progressBarStyle;
+			global::XF.Material.Droid.Resource.Attribute.queryBackground = global::InventoryManagementSystem.Droid.Resource.Attribute.queryBackground;
+			global::XF.Material.Droid.Resource.Attribute.queryHint = global::InventoryManagementSystem.Droid.Resource.Attribute.queryHint;
+			global::XF.Material.Droid.Resource.Attribute.radioButtonStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.radioButtonStyle;
+			global::XF.Material.Droid.Resource.Attribute.ratingBarStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.ratingBarStyle;
+			global::XF.Material.Droid.Resource.Attribute.ratingBarStyleIndicator = global::InventoryManagementSystem.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::XF.Material.Droid.Resource.Attribute.ratingBarStyleSmall = global::InventoryManagementSystem.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::XF.Material.Droid.Resource.Attribute.reverseLayout = global::InventoryManagementSystem.Droid.Resource.Attribute.reverseLayout;
+			global::XF.Material.Droid.Resource.Attribute.rippleColor = global::InventoryManagementSystem.Droid.Resource.Attribute.rippleColor;
+			global::XF.Material.Droid.Resource.Attribute.scrimAnimationDuration = global::InventoryManagementSystem.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::XF.Material.Droid.Resource.Attribute.scrimBackground = global::InventoryManagementSystem.Droid.Resource.Attribute.scrimBackground;
+			global::XF.Material.Droid.Resource.Attribute.scrimVisibleHeightTrigger = global::InventoryManagementSystem.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::XF.Material.Droid.Resource.Attribute.searchHintIcon = global::InventoryManagementSystem.Droid.Resource.Attribute.searchHintIcon;
+			global::XF.Material.Droid.Resource.Attribute.searchIcon = global::InventoryManagementSystem.Droid.Resource.Attribute.searchIcon;
+			global::XF.Material.Droid.Resource.Attribute.searchViewStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.searchViewStyle;
+			global::XF.Material.Droid.Resource.Attribute.seekBarStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.seekBarStyle;
+			global::XF.Material.Droid.Resource.Attribute.selectableItemBackground = global::InventoryManagementSystem.Droid.Resource.Attribute.selectableItemBackground;
+			global::XF.Material.Droid.Resource.Attribute.selectableItemBackgroundBorderless = global::InventoryManagementSystem.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::XF.Material.Droid.Resource.Attribute.showAsAction = global::InventoryManagementSystem.Droid.Resource.Attribute.showAsAction;
+			global::XF.Material.Droid.Resource.Attribute.showDividers = global::InventoryManagementSystem.Droid.Resource.Attribute.showDividers;
+			global::XF.Material.Droid.Resource.Attribute.showMotionSpec = global::InventoryManagementSystem.Droid.Resource.Attribute.showMotionSpec;
+			global::XF.Material.Droid.Resource.Attribute.showText = global::InventoryManagementSystem.Droid.Resource.Attribute.showText;
+			global::XF.Material.Droid.Resource.Attribute.showTitle = global::InventoryManagementSystem.Droid.Resource.Attribute.showTitle;
+			global::XF.Material.Droid.Resource.Attribute.singleChoiceItemLayout = global::InventoryManagementSystem.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::XF.Material.Droid.Resource.Attribute.singleLine = global::InventoryManagementSystem.Droid.Resource.Attribute.singleLine;
+			global::XF.Material.Droid.Resource.Attribute.singleSelection = global::InventoryManagementSystem.Droid.Resource.Attribute.singleSelection;
+			global::XF.Material.Droid.Resource.Attribute.snackbarButtonStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.snackbarButtonStyle;
+			global::XF.Material.Droid.Resource.Attribute.snackbarStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.snackbarStyle;
+			global::XF.Material.Droid.Resource.Attribute.spanCount = global::InventoryManagementSystem.Droid.Resource.Attribute.spanCount;
+			global::XF.Material.Droid.Resource.Attribute.spinBars = global::InventoryManagementSystem.Droid.Resource.Attribute.spinBars;
+			global::XF.Material.Droid.Resource.Attribute.spinnerDropDownItemStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::XF.Material.Droid.Resource.Attribute.spinnerStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.spinnerStyle;
+			global::XF.Material.Droid.Resource.Attribute.splitTrack = global::InventoryManagementSystem.Droid.Resource.Attribute.splitTrack;
+			global::XF.Material.Droid.Resource.Attribute.srcCompat = global::InventoryManagementSystem.Droid.Resource.Attribute.srcCompat;
+			global::XF.Material.Droid.Resource.Attribute.stackFromEnd = global::InventoryManagementSystem.Droid.Resource.Attribute.stackFromEnd;
+			global::XF.Material.Droid.Resource.Attribute.state_above_anchor = global::InventoryManagementSystem.Droid.Resource.Attribute.state_above_anchor;
+			global::XF.Material.Droid.Resource.Attribute.state_collapsed = global::InventoryManagementSystem.Droid.Resource.Attribute.state_collapsed;
+			global::XF.Material.Droid.Resource.Attribute.state_collapsible = global::InventoryManagementSystem.Droid.Resource.Attribute.state_collapsible;
+			global::XF.Material.Droid.Resource.Attribute.state_liftable = global::InventoryManagementSystem.Droid.Resource.Attribute.state_liftable;
+			global::XF.Material.Droid.Resource.Attribute.state_lifted = global::InventoryManagementSystem.Droid.Resource.Attribute.state_lifted;
+			global::XF.Material.Droid.Resource.Attribute.statusBarBackground = global::InventoryManagementSystem.Droid.Resource.Attribute.statusBarBackground;
+			global::XF.Material.Droid.Resource.Attribute.statusBarScrim = global::InventoryManagementSystem.Droid.Resource.Attribute.statusBarScrim;
+			global::XF.Material.Droid.Resource.Attribute.strokeColor = global::InventoryManagementSystem.Droid.Resource.Attribute.strokeColor;
+			global::XF.Material.Droid.Resource.Attribute.strokeWidth = global::InventoryManagementSystem.Droid.Resource.Attribute.strokeWidth;
+			global::XF.Material.Droid.Resource.Attribute.subMenuArrow = global::InventoryManagementSystem.Droid.Resource.Attribute.subMenuArrow;
+			global::XF.Material.Droid.Resource.Attribute.submitBackground = global::InventoryManagementSystem.Droid.Resource.Attribute.submitBackground;
+			global::XF.Material.Droid.Resource.Attribute.subtitle = global::InventoryManagementSystem.Droid.Resource.Attribute.subtitle;
+			global::XF.Material.Droid.Resource.Attribute.subtitleTextAppearance = global::InventoryManagementSystem.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::XF.Material.Droid.Resource.Attribute.subtitleTextColor = global::InventoryManagementSystem.Droid.Resource.Attribute.subtitleTextColor;
+			global::XF.Material.Droid.Resource.Attribute.subtitleTextStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.subtitleTextStyle;
+			global::XF.Material.Droid.Resource.Attribute.suggestionRowLayout = global::InventoryManagementSystem.Droid.Resource.Attribute.suggestionRowLayout;
+			global::XF.Material.Droid.Resource.Attribute.switchMinWidth = global::InventoryManagementSystem.Droid.Resource.Attribute.switchMinWidth;
+			global::XF.Material.Droid.Resource.Attribute.switchPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.switchPadding;
+			global::XF.Material.Droid.Resource.Attribute.switchStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.switchStyle;
+			global::XF.Material.Droid.Resource.Attribute.switchTextAppearance = global::InventoryManagementSystem.Droid.Resource.Attribute.switchTextAppearance;
+			global::XF.Material.Droid.Resource.Attribute.tabBackground = global::InventoryManagementSystem.Droid.Resource.Attribute.tabBackground;
+			global::XF.Material.Droid.Resource.Attribute.tabContentStart = global::InventoryManagementSystem.Droid.Resource.Attribute.tabContentStart;
+			global::XF.Material.Droid.Resource.Attribute.tabGravity = global::InventoryManagementSystem.Droid.Resource.Attribute.tabGravity;
+			global::XF.Material.Droid.Resource.Attribute.tabIconTint = global::InventoryManagementSystem.Droid.Resource.Attribute.tabIconTint;
+			global::XF.Material.Droid.Resource.Attribute.tabIconTintMode = global::InventoryManagementSystem.Droid.Resource.Attribute.tabIconTintMode;
+			global::XF.Material.Droid.Resource.Attribute.tabIndicator = global::InventoryManagementSystem.Droid.Resource.Attribute.tabIndicator;
+			global::XF.Material.Droid.Resource.Attribute.tabIndicatorAnimationDuration = global::InventoryManagementSystem.Droid.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::XF.Material.Droid.Resource.Attribute.tabIndicatorColor = global::InventoryManagementSystem.Droid.Resource.Attribute.tabIndicatorColor;
+			global::XF.Material.Droid.Resource.Attribute.tabIndicatorFullWidth = global::InventoryManagementSystem.Droid.Resource.Attribute.tabIndicatorFullWidth;
+			global::XF.Material.Droid.Resource.Attribute.tabIndicatorGravity = global::InventoryManagementSystem.Droid.Resource.Attribute.tabIndicatorGravity;
+			global::XF.Material.Droid.Resource.Attribute.tabIndicatorHeight = global::InventoryManagementSystem.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::XF.Material.Droid.Resource.Attribute.tabInlineLabel = global::InventoryManagementSystem.Droid.Resource.Attribute.tabInlineLabel;
+			global::XF.Material.Droid.Resource.Attribute.tabMaxWidth = global::InventoryManagementSystem.Droid.Resource.Attribute.tabMaxWidth;
+			global::XF.Material.Droid.Resource.Attribute.tabMinWidth = global::InventoryManagementSystem.Droid.Resource.Attribute.tabMinWidth;
+			global::XF.Material.Droid.Resource.Attribute.tabMode = global::InventoryManagementSystem.Droid.Resource.Attribute.tabMode;
+			global::XF.Material.Droid.Resource.Attribute.tabPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.tabPadding;
+			global::XF.Material.Droid.Resource.Attribute.tabPaddingBottom = global::InventoryManagementSystem.Droid.Resource.Attribute.tabPaddingBottom;
+			global::XF.Material.Droid.Resource.Attribute.tabPaddingEnd = global::InventoryManagementSystem.Droid.Resource.Attribute.tabPaddingEnd;
+			global::XF.Material.Droid.Resource.Attribute.tabPaddingStart = global::InventoryManagementSystem.Droid.Resource.Attribute.tabPaddingStart;
+			global::XF.Material.Droid.Resource.Attribute.tabPaddingTop = global::InventoryManagementSystem.Droid.Resource.Attribute.tabPaddingTop;
+			global::XF.Material.Droid.Resource.Attribute.tabRippleColor = global::InventoryManagementSystem.Droid.Resource.Attribute.tabRippleColor;
+			global::XF.Material.Droid.Resource.Attribute.tabSelectedTextColor = global::InventoryManagementSystem.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::XF.Material.Droid.Resource.Attribute.tabStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.tabStyle;
+			global::XF.Material.Droid.Resource.Attribute.tabTextAppearance = global::InventoryManagementSystem.Droid.Resource.Attribute.tabTextAppearance;
+			global::XF.Material.Droid.Resource.Attribute.tabTextColor = global::InventoryManagementSystem.Droid.Resource.Attribute.tabTextColor;
+			global::XF.Material.Droid.Resource.Attribute.tabUnboundedRipple = global::InventoryManagementSystem.Droid.Resource.Attribute.tabUnboundedRipple;
+			global::XF.Material.Droid.Resource.Attribute.textAllCaps = global::InventoryManagementSystem.Droid.Resource.Attribute.textAllCaps;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceBody1 = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceBody1;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceBody2 = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceBody2;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceButton = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceButton;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceCaption = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceCaption;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceHeadline1 = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceHeadline1;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceHeadline2 = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceHeadline2;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceHeadline3 = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceHeadline3;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceHeadline4 = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceHeadline4;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceHeadline5 = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceHeadline5;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceHeadline6 = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceHeadline6;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceLargePopupMenu = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceListItem = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceListItem;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceListItemSecondary = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceListItemSmall = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceOverline = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceOverline;
+			global::XF.Material.Droid.Resource.Attribute.textAppearancePopupMenuHeader = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceSearchResultTitle = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceSmallPopupMenu = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceSubtitle1 = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceSubtitle1;
+			global::XF.Material.Droid.Resource.Attribute.textAppearanceSubtitle2 = global::InventoryManagementSystem.Droid.Resource.Attribute.textAppearanceSubtitle2;
+			global::XF.Material.Droid.Resource.Attribute.textColorAlertDialogListItem = global::InventoryManagementSystem.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::XF.Material.Droid.Resource.Attribute.textColorSearchUrl = global::InventoryManagementSystem.Droid.Resource.Attribute.textColorSearchUrl;
+			global::XF.Material.Droid.Resource.Attribute.textEndPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.textEndPadding;
+			global::XF.Material.Droid.Resource.Attribute.textInputStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.textInputStyle;
+			global::XF.Material.Droid.Resource.Attribute.textStartPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.textStartPadding;
+			global::XF.Material.Droid.Resource.Attribute.theme = global::InventoryManagementSystem.Droid.Resource.Attribute.theme;
+			global::XF.Material.Droid.Resource.Attribute.thickness = global::InventoryManagementSystem.Droid.Resource.Attribute.thickness;
+			global::XF.Material.Droid.Resource.Attribute.thumbTextPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.thumbTextPadding;
+			global::XF.Material.Droid.Resource.Attribute.thumbTint = global::InventoryManagementSystem.Droid.Resource.Attribute.thumbTint;
+			global::XF.Material.Droid.Resource.Attribute.thumbTintMode = global::InventoryManagementSystem.Droid.Resource.Attribute.thumbTintMode;
+			global::XF.Material.Droid.Resource.Attribute.tickMark = global::InventoryManagementSystem.Droid.Resource.Attribute.tickMark;
+			global::XF.Material.Droid.Resource.Attribute.tickMarkTint = global::InventoryManagementSystem.Droid.Resource.Attribute.tickMarkTint;
+			global::XF.Material.Droid.Resource.Attribute.tickMarkTintMode = global::InventoryManagementSystem.Droid.Resource.Attribute.tickMarkTintMode;
+			global::XF.Material.Droid.Resource.Attribute.tint = global::InventoryManagementSystem.Droid.Resource.Attribute.tint;
+			global::XF.Material.Droid.Resource.Attribute.tintMode = global::InventoryManagementSystem.Droid.Resource.Attribute.tintMode;
+			global::XF.Material.Droid.Resource.Attribute.title = global::InventoryManagementSystem.Droid.Resource.Attribute.title;
+			global::XF.Material.Droid.Resource.Attribute.titleEnabled = global::InventoryManagementSystem.Droid.Resource.Attribute.titleEnabled;
+			global::XF.Material.Droid.Resource.Attribute.titleMargin = global::InventoryManagementSystem.Droid.Resource.Attribute.titleMargin;
+			global::XF.Material.Droid.Resource.Attribute.titleMarginBottom = global::InventoryManagementSystem.Droid.Resource.Attribute.titleMarginBottom;
+			global::XF.Material.Droid.Resource.Attribute.titleMarginEnd = global::InventoryManagementSystem.Droid.Resource.Attribute.titleMarginEnd;
+			global::XF.Material.Droid.Resource.Attribute.titleMarginStart = global::InventoryManagementSystem.Droid.Resource.Attribute.titleMarginStart;
+			global::XF.Material.Droid.Resource.Attribute.titleMarginTop = global::InventoryManagementSystem.Droid.Resource.Attribute.titleMarginTop;
+			global::XF.Material.Droid.Resource.Attribute.titleMargins = global::InventoryManagementSystem.Droid.Resource.Attribute.titleMargins;
+			global::XF.Material.Droid.Resource.Attribute.titleTextAppearance = global::InventoryManagementSystem.Droid.Resource.Attribute.titleTextAppearance;
+			global::XF.Material.Droid.Resource.Attribute.titleTextColor = global::InventoryManagementSystem.Droid.Resource.Attribute.titleTextColor;
+			global::XF.Material.Droid.Resource.Attribute.titleTextStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.titleTextStyle;
+			global::XF.Material.Droid.Resource.Attribute.toolbarId = global::InventoryManagementSystem.Droid.Resource.Attribute.toolbarId;
+			global::XF.Material.Droid.Resource.Attribute.toolbarNavigationButtonStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::XF.Material.Droid.Resource.Attribute.toolbarStyle = global::InventoryManagementSystem.Droid.Resource.Attribute.toolbarStyle;
+			global::XF.Material.Droid.Resource.Attribute.tooltipForegroundColor = global::InventoryManagementSystem.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::XF.Material.Droid.Resource.Attribute.tooltipFrameBackground = global::InventoryManagementSystem.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::XF.Material.Droid.Resource.Attribute.tooltipText = global::InventoryManagementSystem.Droid.Resource.Attribute.tooltipText;
+			global::XF.Material.Droid.Resource.Attribute.track = global::InventoryManagementSystem.Droid.Resource.Attribute.track;
+			global::XF.Material.Droid.Resource.Attribute.trackTint = global::InventoryManagementSystem.Droid.Resource.Attribute.trackTint;
+			global::XF.Material.Droid.Resource.Attribute.trackTintMode = global::InventoryManagementSystem.Droid.Resource.Attribute.trackTintMode;
+			global::XF.Material.Droid.Resource.Attribute.ttcIndex = global::InventoryManagementSystem.Droid.Resource.Attribute.ttcIndex;
+			global::XF.Material.Droid.Resource.Attribute.useCompatPadding = global::InventoryManagementSystem.Droid.Resource.Attribute.useCompatPadding;
+			global::XF.Material.Droid.Resource.Attribute.viewInflaterClass = global::InventoryManagementSystem.Droid.Resource.Attribute.viewInflaterClass;
+			global::XF.Material.Droid.Resource.Attribute.voiceIcon = global::InventoryManagementSystem.Droid.Resource.Attribute.voiceIcon;
+			global::XF.Material.Droid.Resource.Attribute.windowActionBar = global::InventoryManagementSystem.Droid.Resource.Attribute.windowActionBar;
+			global::XF.Material.Droid.Resource.Attribute.windowActionBarOverlay = global::InventoryManagementSystem.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::XF.Material.Droid.Resource.Attribute.windowActionModeOverlay = global::InventoryManagementSystem.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::XF.Material.Droid.Resource.Attribute.windowFixedHeightMajor = global::InventoryManagementSystem.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::XF.Material.Droid.Resource.Attribute.windowFixedHeightMinor = global::InventoryManagementSystem.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::XF.Material.Droid.Resource.Attribute.windowFixedWidthMajor = global::InventoryManagementSystem.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::XF.Material.Droid.Resource.Attribute.windowFixedWidthMinor = global::InventoryManagementSystem.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::XF.Material.Droid.Resource.Attribute.windowMinWidthMajor = global::InventoryManagementSystem.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::XF.Material.Droid.Resource.Attribute.windowMinWidthMinor = global::InventoryManagementSystem.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::XF.Material.Droid.Resource.Attribute.windowNoTitle = global::InventoryManagementSystem.Droid.Resource.Attribute.windowNoTitle;
+			global::XF.Material.Droid.Resource.Boolean.abc_action_bar_embed_tabs = global::InventoryManagementSystem.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::XF.Material.Droid.Resource.Boolean.abc_allow_stacked_button_bar = global::InventoryManagementSystem.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::XF.Material.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::InventoryManagementSystem.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::XF.Material.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::InventoryManagementSystem.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::XF.Material.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::XF.Material.Droid.Resource.Color.abc_background_cache_hint_selector_material_light = global::InventoryManagementSystem.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::XF.Material.Droid.Resource.Color.abc_btn_colored_borderless_text_material = global::InventoryManagementSystem.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::XF.Material.Droid.Resource.Color.abc_btn_colored_text_material = global::InventoryManagementSystem.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::XF.Material.Droid.Resource.Color.abc_color_highlight_material = global::InventoryManagementSystem.Droid.Resource.Color.abc_color_highlight_material;
+			global::XF.Material.Droid.Resource.Color.abc_hint_foreground_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::XF.Material.Droid.Resource.Color.abc_hint_foreground_material_light = global::InventoryManagementSystem.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::XF.Material.Droid.Resource.Color.abc_input_method_navigation_guard = global::InventoryManagementSystem.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::XF.Material.Droid.Resource.Color.abc_primary_text_disable_only_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::XF.Material.Droid.Resource.Color.abc_primary_text_disable_only_material_light = global::InventoryManagementSystem.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::XF.Material.Droid.Resource.Color.abc_primary_text_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::XF.Material.Droid.Resource.Color.abc_primary_text_material_light = global::InventoryManagementSystem.Droid.Resource.Color.abc_primary_text_material_light;
+			global::XF.Material.Droid.Resource.Color.abc_search_url_text = global::InventoryManagementSystem.Droid.Resource.Color.abc_search_url_text;
+			global::XF.Material.Droid.Resource.Color.abc_search_url_text_normal = global::InventoryManagementSystem.Droid.Resource.Color.abc_search_url_text_normal;
+			global::XF.Material.Droid.Resource.Color.abc_search_url_text_pressed = global::InventoryManagementSystem.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::XF.Material.Droid.Resource.Color.abc_search_url_text_selected = global::InventoryManagementSystem.Droid.Resource.Color.abc_search_url_text_selected;
+			global::XF.Material.Droid.Resource.Color.abc_secondary_text_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::XF.Material.Droid.Resource.Color.abc_secondary_text_material_light = global::InventoryManagementSystem.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::XF.Material.Droid.Resource.Color.abc_tint_btn_checkable = global::InventoryManagementSystem.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::XF.Material.Droid.Resource.Color.abc_tint_default = global::InventoryManagementSystem.Droid.Resource.Color.abc_tint_default;
+			global::XF.Material.Droid.Resource.Color.abc_tint_edittext = global::InventoryManagementSystem.Droid.Resource.Color.abc_tint_edittext;
+			global::XF.Material.Droid.Resource.Color.abc_tint_seek_thumb = global::InventoryManagementSystem.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::XF.Material.Droid.Resource.Color.abc_tint_spinner = global::InventoryManagementSystem.Droid.Resource.Color.abc_tint_spinner;
+			global::XF.Material.Droid.Resource.Color.abc_tint_switch_track = global::InventoryManagementSystem.Droid.Resource.Color.abc_tint_switch_track;
+			global::XF.Material.Droid.Resource.Color.accent_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.accent_material_dark;
+			global::XF.Material.Droid.Resource.Color.accent_material_light = global::InventoryManagementSystem.Droid.Resource.Color.accent_material_light;
+			global::XF.Material.Droid.Resource.Color.background_floating_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.background_floating_material_dark;
+			global::XF.Material.Droid.Resource.Color.background_floating_material_light = global::InventoryManagementSystem.Droid.Resource.Color.background_floating_material_light;
+			global::XF.Material.Droid.Resource.Color.background_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.background_material_dark;
+			global::XF.Material.Droid.Resource.Color.background_material_light = global::InventoryManagementSystem.Droid.Resource.Color.background_material_light;
+			global::XF.Material.Droid.Resource.Color.bright_foreground_disabled_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::XF.Material.Droid.Resource.Color.bright_foreground_disabled_material_light = global::InventoryManagementSystem.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::XF.Material.Droid.Resource.Color.bright_foreground_inverse_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::XF.Material.Droid.Resource.Color.bright_foreground_inverse_material_light = global::InventoryManagementSystem.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::XF.Material.Droid.Resource.Color.bright_foreground_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.bright_foreground_material_dark;
+			global::XF.Material.Droid.Resource.Color.bright_foreground_material_light = global::InventoryManagementSystem.Droid.Resource.Color.bright_foreground_material_light;
+			global::XF.Material.Droid.Resource.Color.browser_actions_bg_grey = global::InventoryManagementSystem.Droid.Resource.Color.browser_actions_bg_grey;
+			global::XF.Material.Droid.Resource.Color.browser_actions_divider_color = global::InventoryManagementSystem.Droid.Resource.Color.browser_actions_divider_color;
+			global::XF.Material.Droid.Resource.Color.browser_actions_text_color = global::InventoryManagementSystem.Droid.Resource.Color.browser_actions_text_color;
+			global::XF.Material.Droid.Resource.Color.browser_actions_title_color = global::InventoryManagementSystem.Droid.Resource.Color.browser_actions_title_color;
+			global::XF.Material.Droid.Resource.Color.button_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.button_material_dark;
+			global::XF.Material.Droid.Resource.Color.button_material_light = global::InventoryManagementSystem.Droid.Resource.Color.button_material_light;
+			global::XF.Material.Droid.Resource.Color.cardview_dark_background = global::InventoryManagementSystem.Droid.Resource.Color.cardview_dark_background;
+			global::XF.Material.Droid.Resource.Color.cardview_light_background = global::InventoryManagementSystem.Droid.Resource.Color.cardview_light_background;
+			global::XF.Material.Droid.Resource.Color.cardview_shadow_end_color = global::InventoryManagementSystem.Droid.Resource.Color.cardview_shadow_end_color;
+			global::XF.Material.Droid.Resource.Color.cardview_shadow_start_color = global::InventoryManagementSystem.Droid.Resource.Color.cardview_shadow_start_color;
+			global::XF.Material.Droid.Resource.Color.design_bottom_navigation_shadow_color = global::InventoryManagementSystem.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::XF.Material.Droid.Resource.Color.design_default_color_primary = global::InventoryManagementSystem.Droid.Resource.Color.design_default_color_primary;
+			global::XF.Material.Droid.Resource.Color.design_default_color_primary_dark = global::InventoryManagementSystem.Droid.Resource.Color.design_default_color_primary_dark;
+			global::XF.Material.Droid.Resource.Color.design_error = global::InventoryManagementSystem.Droid.Resource.Color.design_error;
+			global::XF.Material.Droid.Resource.Color.design_fab_shadow_end_color = global::InventoryManagementSystem.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::XF.Material.Droid.Resource.Color.design_fab_shadow_mid_color = global::InventoryManagementSystem.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::XF.Material.Droid.Resource.Color.design_fab_shadow_start_color = global::InventoryManagementSystem.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::XF.Material.Droid.Resource.Color.design_fab_stroke_end_inner_color = global::InventoryManagementSystem.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::XF.Material.Droid.Resource.Color.design_fab_stroke_end_outer_color = global::InventoryManagementSystem.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::XF.Material.Droid.Resource.Color.design_fab_stroke_top_inner_color = global::InventoryManagementSystem.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::XF.Material.Droid.Resource.Color.design_fab_stroke_top_outer_color = global::InventoryManagementSystem.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::XF.Material.Droid.Resource.Color.design_snackbar_background_color = global::InventoryManagementSystem.Droid.Resource.Color.design_snackbar_background_color;
+			global::XF.Material.Droid.Resource.Color.design_tint_password_toggle = global::InventoryManagementSystem.Droid.Resource.Color.design_tint_password_toggle;
+			global::XF.Material.Droid.Resource.Color.dim_foreground_disabled_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::XF.Material.Droid.Resource.Color.dim_foreground_disabled_material_light = global::InventoryManagementSystem.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::XF.Material.Droid.Resource.Color.dim_foreground_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.dim_foreground_material_dark;
+			global::XF.Material.Droid.Resource.Color.dim_foreground_material_light = global::InventoryManagementSystem.Droid.Resource.Color.dim_foreground_material_light;
+			global::XF.Material.Droid.Resource.Color.error_color_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.error_color_material_dark;
+			global::XF.Material.Droid.Resource.Color.error_color_material_light = global::InventoryManagementSystem.Droid.Resource.Color.error_color_material_light;
+			global::XF.Material.Droid.Resource.Color.foreground_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.foreground_material_dark;
+			global::XF.Material.Droid.Resource.Color.foreground_material_light = global::InventoryManagementSystem.Droid.Resource.Color.foreground_material_light;
+			global::XF.Material.Droid.Resource.Color.highlighted_text_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.highlighted_text_material_dark;
+			global::XF.Material.Droid.Resource.Color.highlighted_text_material_light = global::InventoryManagementSystem.Droid.Resource.Color.highlighted_text_material_light;
+			global::XF.Material.Droid.Resource.Color.material_blue_grey_800 = global::InventoryManagementSystem.Droid.Resource.Color.material_blue_grey_800;
+			global::XF.Material.Droid.Resource.Color.material_blue_grey_900 = global::InventoryManagementSystem.Droid.Resource.Color.material_blue_grey_900;
+			global::XF.Material.Droid.Resource.Color.material_blue_grey_950 = global::InventoryManagementSystem.Droid.Resource.Color.material_blue_grey_950;
+			global::XF.Material.Droid.Resource.Color.material_deep_teal_200 = global::InventoryManagementSystem.Droid.Resource.Color.material_deep_teal_200;
+			global::XF.Material.Droid.Resource.Color.material_deep_teal_500 = global::InventoryManagementSystem.Droid.Resource.Color.material_deep_teal_500;
+			global::XF.Material.Droid.Resource.Color.material_grey_100 = global::InventoryManagementSystem.Droid.Resource.Color.material_grey_100;
+			global::XF.Material.Droid.Resource.Color.material_grey_300 = global::InventoryManagementSystem.Droid.Resource.Color.material_grey_300;
+			global::XF.Material.Droid.Resource.Color.material_grey_50 = global::InventoryManagementSystem.Droid.Resource.Color.material_grey_50;
+			global::XF.Material.Droid.Resource.Color.material_grey_600 = global::InventoryManagementSystem.Droid.Resource.Color.material_grey_600;
+			global::XF.Material.Droid.Resource.Color.material_grey_800 = global::InventoryManagementSystem.Droid.Resource.Color.material_grey_800;
+			global::XF.Material.Droid.Resource.Color.material_grey_850 = global::InventoryManagementSystem.Droid.Resource.Color.material_grey_850;
+			global::XF.Material.Droid.Resource.Color.material_grey_900 = global::InventoryManagementSystem.Droid.Resource.Color.material_grey_900;
+			global::XF.Material.Droid.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_bottom_nav_colored_item_tint;
+			global::XF.Material.Droid.Resource.Color.mtrl_bottom_nav_item_tint = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_bottom_nav_item_tint;
+			global::XF.Material.Droid.Resource.Color.mtrl_btn_bg_color_disabled = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_btn_bg_color_disabled;
+			global::XF.Material.Droid.Resource.Color.mtrl_btn_bg_color_selector = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_btn_bg_color_selector;
+			global::XF.Material.Droid.Resource.Color.mtrl_btn_ripple_color = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_btn_ripple_color;
+			global::XF.Material.Droid.Resource.Color.mtrl_btn_stroke_color_selector = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::XF.Material.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::XF.Material.Droid.Resource.Color.mtrl_btn_text_color_disabled = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_btn_text_color_disabled;
+			global::XF.Material.Droid.Resource.Color.mtrl_btn_text_color_selector = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_btn_text_color_selector;
+			global::XF.Material.Droid.Resource.Color.mtrl_btn_transparent_bg_color = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::XF.Material.Droid.Resource.Color.mtrl_chip_background_color = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_chip_background_color;
+			global::XF.Material.Droid.Resource.Color.mtrl_chip_close_icon_tint = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_chip_close_icon_tint;
+			global::XF.Material.Droid.Resource.Color.mtrl_chip_ripple_color = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_chip_ripple_color;
+			global::XF.Material.Droid.Resource.Color.mtrl_chip_text_color = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_chip_text_color;
+			global::XF.Material.Droid.Resource.Color.mtrl_fab_ripple_color = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_fab_ripple_color;
+			global::XF.Material.Droid.Resource.Color.mtrl_scrim_color = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_scrim_color;
+			global::XF.Material.Droid.Resource.Color.mtrl_tabs_colored_ripple_color = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::XF.Material.Droid.Resource.Color.mtrl_tabs_icon_color_selector = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::XF.Material.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::XF.Material.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::XF.Material.Droid.Resource.Color.mtrl_tabs_ripple_color = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_tabs_ripple_color;
+			global::XF.Material.Droid.Resource.Color.mtrl_text_btn_text_color_selector = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::XF.Material.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::XF.Material.Droid.Resource.Color.mtrl_textinput_disabled_color = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_textinput_disabled_color;
+			global::XF.Material.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::XF.Material.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::InventoryManagementSystem.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::XF.Material.Droid.Resource.Color.notification_action_color_filter = global::InventoryManagementSystem.Droid.Resource.Color.notification_action_color_filter;
+			global::XF.Material.Droid.Resource.Color.notification_icon_bg_color = global::InventoryManagementSystem.Droid.Resource.Color.notification_icon_bg_color;
+			global::XF.Material.Droid.Resource.Color.notification_material_background_media_default_color = global::InventoryManagementSystem.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::XF.Material.Droid.Resource.Color.primary_dark_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.primary_dark_material_dark;
+			global::XF.Material.Droid.Resource.Color.primary_dark_material_light = global::InventoryManagementSystem.Droid.Resource.Color.primary_dark_material_light;
+			global::XF.Material.Droid.Resource.Color.primary_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.primary_material_dark;
+			global::XF.Material.Droid.Resource.Color.primary_material_light = global::InventoryManagementSystem.Droid.Resource.Color.primary_material_light;
+			global::XF.Material.Droid.Resource.Color.primary_text_default_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.primary_text_default_material_dark;
+			global::XF.Material.Droid.Resource.Color.primary_text_default_material_light = global::InventoryManagementSystem.Droid.Resource.Color.primary_text_default_material_light;
+			global::XF.Material.Droid.Resource.Color.primary_text_disabled_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::XF.Material.Droid.Resource.Color.primary_text_disabled_material_light = global::InventoryManagementSystem.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::XF.Material.Droid.Resource.Color.ripple_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.ripple_material_dark;
+			global::XF.Material.Droid.Resource.Color.ripple_material_light = global::InventoryManagementSystem.Droid.Resource.Color.ripple_material_light;
+			global::XF.Material.Droid.Resource.Color.secondary_text_default_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::XF.Material.Droid.Resource.Color.secondary_text_default_material_light = global::InventoryManagementSystem.Droid.Resource.Color.secondary_text_default_material_light;
+			global::XF.Material.Droid.Resource.Color.secondary_text_disabled_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::XF.Material.Droid.Resource.Color.secondary_text_disabled_material_light = global::InventoryManagementSystem.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::XF.Material.Droid.Resource.Color.switch_thumb_disabled_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::XF.Material.Droid.Resource.Color.switch_thumb_disabled_material_light = global::InventoryManagementSystem.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::XF.Material.Droid.Resource.Color.switch_thumb_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.switch_thumb_material_dark;
+			global::XF.Material.Droid.Resource.Color.switch_thumb_material_light = global::InventoryManagementSystem.Droid.Resource.Color.switch_thumb_material_light;
+			global::XF.Material.Droid.Resource.Color.switch_thumb_normal_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::XF.Material.Droid.Resource.Color.switch_thumb_normal_material_light = global::InventoryManagementSystem.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::XF.Material.Droid.Resource.Color.tooltip_background_dark = global::InventoryManagementSystem.Droid.Resource.Color.tooltip_background_dark;
+			global::XF.Material.Droid.Resource.Color.tooltip_background_light = global::InventoryManagementSystem.Droid.Resource.Color.tooltip_background_light;
+			global::XF.Material.Droid.Resource.Dimension.abc_action_bar_content_inset_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::XF.Material.Droid.Resource.Dimension.abc_action_bar_default_height_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_action_bar_elevation_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_action_bar_stacked_max_height = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::XF.Material.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::XF.Material.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_action_button_min_height_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_action_button_min_width_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::XF.Material.Droid.Resource.Dimension.abc_alert_dialog_button_dimen = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::XF.Material.Droid.Resource.Dimension.abc_button_inset_horizontal_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_button_inset_vertical_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_button_padding_horizontal_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_button_padding_vertical_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::XF.Material.Droid.Resource.Dimension.abc_config_prefDialogWidth = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::XF.Material.Droid.Resource.Dimension.abc_control_corner_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_control_corner_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_control_inset_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_control_inset_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_control_padding_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_control_padding_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_dialog_corner_radius_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_dialog_fixed_height_major = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::XF.Material.Droid.Resource.Dimension.abc_dialog_fixed_height_minor = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::XF.Material.Droid.Resource.Dimension.abc_dialog_fixed_width_major = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::XF.Material.Droid.Resource.Dimension.abc_dialog_fixed_width_minor = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::XF.Material.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::XF.Material.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::XF.Material.Droid.Resource.Dimension.abc_dialog_min_width_major = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::XF.Material.Droid.Resource.Dimension.abc_dialog_min_width_minor = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::XF.Material.Droid.Resource.Dimension.abc_dialog_padding_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_dialog_padding_top_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_dialog_title_divider_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_disabled_alpha_material_dark = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::XF.Material.Droid.Resource.Dimension.abc_disabled_alpha_material_light = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::XF.Material.Droid.Resource.Dimension.abc_dropdownitem_icon_width = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::XF.Material.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::XF.Material.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::XF.Material.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_edit_text_inset_top_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_floating_window_z = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_floating_window_z;
+			global::XF.Material.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_panel_menu_list_width = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::XF.Material.Droid.Resource.Dimension.abc_progress_bar_height_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_search_view_preferred_height = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::XF.Material.Droid.Resource.Dimension.abc_search_view_preferred_width = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::XF.Material.Droid.Resource.Dimension.abc_seekbar_track_background_height_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_select_dialog_padding_start_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_switch_padding = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_switch_padding;
+			global::XF.Material.Droid.Resource.Dimension.abc_text_size_body_1_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_text_size_body_2_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_text_size_button_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_text_size_caption_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_text_size_display_1_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_text_size_display_2_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_text_size_display_3_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_text_size_display_4_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_text_size_headline_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_text_size_large_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_text_size_medium_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_text_size_menu_header_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_text_size_menu_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_text_size_small_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_text_size_subhead_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::XF.Material.Droid.Resource.Dimension.abc_text_size_title_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::XF.Material.Droid.Resource.Dimension.abc_text_size_title_material_toolbar = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::XF.Material.Droid.Resource.Dimension.browser_actions_context_menu_max_width = global::InventoryManagementSystem.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::XF.Material.Droid.Resource.Dimension.browser_actions_context_menu_min_padding = global::InventoryManagementSystem.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::XF.Material.Droid.Resource.Dimension.cardview_compat_inset_shadow = global::InventoryManagementSystem.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::XF.Material.Droid.Resource.Dimension.cardview_default_elevation = global::InventoryManagementSystem.Droid.Resource.Dimension.cardview_default_elevation;
+			global::XF.Material.Droid.Resource.Dimension.cardview_default_radius = global::InventoryManagementSystem.Droid.Resource.Dimension.cardview_default_radius;
+			global::XF.Material.Droid.Resource.Dimension.compat_button_inset_horizontal_material = global::InventoryManagementSystem.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::XF.Material.Droid.Resource.Dimension.compat_button_inset_vertical_material = global::InventoryManagementSystem.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::XF.Material.Droid.Resource.Dimension.compat_button_padding_horizontal_material = global::InventoryManagementSystem.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::XF.Material.Droid.Resource.Dimension.compat_button_padding_vertical_material = global::InventoryManagementSystem.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::XF.Material.Droid.Resource.Dimension.compat_control_corner_material = global::InventoryManagementSystem.Droid.Resource.Dimension.compat_control_corner_material;
+			global::XF.Material.Droid.Resource.Dimension.compat_notification_large_icon_max_height = global::InventoryManagementSystem.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::XF.Material.Droid.Resource.Dimension.compat_notification_large_icon_max_width = global::InventoryManagementSystem.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::XF.Material.Droid.Resource.Dimension.design_appbar_elevation = global::InventoryManagementSystem.Droid.Resource.Dimension.design_appbar_elevation;
+			global::XF.Material.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::InventoryManagementSystem.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::XF.Material.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::InventoryManagementSystem.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::XF.Material.Droid.Resource.Dimension.design_bottom_navigation_active_text_size = global::InventoryManagementSystem.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::XF.Material.Droid.Resource.Dimension.design_bottom_navigation_elevation = global::InventoryManagementSystem.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::XF.Material.Droid.Resource.Dimension.design_bottom_navigation_height = global::InventoryManagementSystem.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::XF.Material.Droid.Resource.Dimension.design_bottom_navigation_icon_size = global::InventoryManagementSystem.Droid.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::XF.Material.Droid.Resource.Dimension.design_bottom_navigation_item_max_width = global::InventoryManagementSystem.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::XF.Material.Droid.Resource.Dimension.design_bottom_navigation_item_min_width = global::InventoryManagementSystem.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::XF.Material.Droid.Resource.Dimension.design_bottom_navigation_margin = global::InventoryManagementSystem.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::XF.Material.Droid.Resource.Dimension.design_bottom_navigation_shadow_height = global::InventoryManagementSystem.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::XF.Material.Droid.Resource.Dimension.design_bottom_navigation_text_size = global::InventoryManagementSystem.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::XF.Material.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation = global::InventoryManagementSystem.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::XF.Material.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min = global::InventoryManagementSystem.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::XF.Material.Droid.Resource.Dimension.design_fab_border_width = global::InventoryManagementSystem.Droid.Resource.Dimension.design_fab_border_width;
+			global::XF.Material.Droid.Resource.Dimension.design_fab_elevation = global::InventoryManagementSystem.Droid.Resource.Dimension.design_fab_elevation;
+			global::XF.Material.Droid.Resource.Dimension.design_fab_image_size = global::InventoryManagementSystem.Droid.Resource.Dimension.design_fab_image_size;
+			global::XF.Material.Droid.Resource.Dimension.design_fab_size_mini = global::InventoryManagementSystem.Droid.Resource.Dimension.design_fab_size_mini;
+			global::XF.Material.Droid.Resource.Dimension.design_fab_size_normal = global::InventoryManagementSystem.Droid.Resource.Dimension.design_fab_size_normal;
+			global::XF.Material.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused = global::InventoryManagementSystem.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::XF.Material.Droid.Resource.Dimension.design_fab_translation_z_pressed = global::InventoryManagementSystem.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::XF.Material.Droid.Resource.Dimension.design_navigation_elevation = global::InventoryManagementSystem.Droid.Resource.Dimension.design_navigation_elevation;
+			global::XF.Material.Droid.Resource.Dimension.design_navigation_icon_padding = global::InventoryManagementSystem.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::XF.Material.Droid.Resource.Dimension.design_navigation_icon_size = global::InventoryManagementSystem.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::XF.Material.Droid.Resource.Dimension.design_navigation_item_horizontal_padding = global::InventoryManagementSystem.Droid.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::XF.Material.Droid.Resource.Dimension.design_navigation_item_icon_padding = global::InventoryManagementSystem.Droid.Resource.Dimension.design_navigation_item_icon_padding;
+			global::XF.Material.Droid.Resource.Dimension.design_navigation_max_width = global::InventoryManagementSystem.Droid.Resource.Dimension.design_navigation_max_width;
+			global::XF.Material.Droid.Resource.Dimension.design_navigation_padding_bottom = global::InventoryManagementSystem.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::XF.Material.Droid.Resource.Dimension.design_navigation_separator_vertical_padding = global::InventoryManagementSystem.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::XF.Material.Droid.Resource.Dimension.design_snackbar_action_inline_max_width = global::InventoryManagementSystem.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::XF.Material.Droid.Resource.Dimension.design_snackbar_background_corner_radius = global::InventoryManagementSystem.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::XF.Material.Droid.Resource.Dimension.design_snackbar_elevation = global::InventoryManagementSystem.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::XF.Material.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::InventoryManagementSystem.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::XF.Material.Droid.Resource.Dimension.design_snackbar_max_width = global::InventoryManagementSystem.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::XF.Material.Droid.Resource.Dimension.design_snackbar_min_width = global::InventoryManagementSystem.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::XF.Material.Droid.Resource.Dimension.design_snackbar_padding_horizontal = global::InventoryManagementSystem.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::XF.Material.Droid.Resource.Dimension.design_snackbar_padding_vertical = global::InventoryManagementSystem.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::XF.Material.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::InventoryManagementSystem.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::XF.Material.Droid.Resource.Dimension.design_snackbar_text_size = global::InventoryManagementSystem.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::XF.Material.Droid.Resource.Dimension.design_tab_max_width = global::InventoryManagementSystem.Droid.Resource.Dimension.design_tab_max_width;
+			global::XF.Material.Droid.Resource.Dimension.design_tab_scrollable_min_width = global::InventoryManagementSystem.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::XF.Material.Droid.Resource.Dimension.design_tab_text_size = global::InventoryManagementSystem.Droid.Resource.Dimension.design_tab_text_size;
+			global::XF.Material.Droid.Resource.Dimension.design_tab_text_size_2line = global::InventoryManagementSystem.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::XF.Material.Droid.Resource.Dimension.design_textinput_caption_translate_y = global::InventoryManagementSystem.Droid.Resource.Dimension.design_textinput_caption_translate_y;
+			global::XF.Material.Droid.Resource.Dimension.disabled_alpha_material_dark = global::InventoryManagementSystem.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::XF.Material.Droid.Resource.Dimension.disabled_alpha_material_light = global::InventoryManagementSystem.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::XF.Material.Droid.Resource.Dimension.fastscroll_default_thickness = global::InventoryManagementSystem.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::XF.Material.Droid.Resource.Dimension.fastscroll_margin = global::InventoryManagementSystem.Droid.Resource.Dimension.fastscroll_margin;
+			global::XF.Material.Droid.Resource.Dimension.fastscroll_minimum_range = global::InventoryManagementSystem.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::XF.Material.Droid.Resource.Dimension.highlight_alpha_material_colored = global::InventoryManagementSystem.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::XF.Material.Droid.Resource.Dimension.highlight_alpha_material_dark = global::InventoryManagementSystem.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::XF.Material.Droid.Resource.Dimension.highlight_alpha_material_light = global::InventoryManagementSystem.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::XF.Material.Droid.Resource.Dimension.hint_alpha_material_dark = global::InventoryManagementSystem.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::XF.Material.Droid.Resource.Dimension.hint_alpha_material_light = global::InventoryManagementSystem.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::XF.Material.Droid.Resource.Dimension.hint_pressed_alpha_material_dark = global::InventoryManagementSystem.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::XF.Material.Droid.Resource.Dimension.hint_pressed_alpha_material_light = global::InventoryManagementSystem.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::XF.Material.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::InventoryManagementSystem.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::XF.Material.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::InventoryManagementSystem.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::XF.Material.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::InventoryManagementSystem.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::XF.Material.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height = global::InventoryManagementSystem.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height;
+			global::XF.Material.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size = global::InventoryManagementSystem.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size;
+			global::XF.Material.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height = global::InventoryManagementSystem.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height;
+			global::XF.Material.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top = global::InventoryManagementSystem.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top;
+			global::XF.Material.Droid.Resource.Dimension.mr_dialog_fixed_width_major = global::InventoryManagementSystem.Droid.Resource.Dimension.mr_dialog_fixed_width_major;
+			global::XF.Material.Droid.Resource.Dimension.mr_dialog_fixed_width_minor = global::InventoryManagementSystem.Droid.Resource.Dimension.mr_dialog_fixed_width_minor;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_bottomappbar_height = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_bottomappbar_height;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_additional_padding_end_for_icon = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_additional_padding_end_for_icon;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_additional_padding_start_for_icon = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_additional_padding_start_for_icon;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_corner_radius = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_corner_radius;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_disabled_elevation = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_disabled_z = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_disabled_z;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_elevation = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_elevation;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_focused_z = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_focused_z;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_hovered_z = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_hovered_z;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_icon_padding = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_icon_padding;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_inset = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_inset;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_letter_spacing = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_padding_bottom = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_padding_left = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_padding_left;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_padding_left_with_icon = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_padding_left_with_icon;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_padding_right = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_padding_right;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_padding_top = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_padding_top;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_pressed_z = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_pressed_z;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_stroke_size = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_stroke_size;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_text_padding_left = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_text_padding_left;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_text_padding_right = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_text_padding_right;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_text_size = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_text_size;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_btn_z = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_btn_z;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_card_elevation = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_card_elevation;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_card_spacing = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_card_spacing;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_chip_text_size = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_chip_text_size;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_fab_elevation = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_fab_elevation;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_navigation_elevation = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_navigation_elevation;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_snackbar_margin = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_snackbar_margin;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_textinput_box_bottom_offset = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_textinput_box_bottom_offset;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_textinput_box_padding_end = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_textinput_box_padding_end;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::XF.Material.Droid.Resource.Dimension.mtrl_toolbar_default_height = global::InventoryManagementSystem.Droid.Resource.Dimension.mtrl_toolbar_default_height;
+			global::XF.Material.Droid.Resource.Dimension.notification_action_icon_size = global::InventoryManagementSystem.Droid.Resource.Dimension.notification_action_icon_size;
+			global::XF.Material.Droid.Resource.Dimension.notification_action_text_size = global::InventoryManagementSystem.Droid.Resource.Dimension.notification_action_text_size;
+			global::XF.Material.Droid.Resource.Dimension.notification_big_circle_margin = global::InventoryManagementSystem.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::XF.Material.Droid.Resource.Dimension.notification_content_margin_start = global::InventoryManagementSystem.Droid.Resource.Dimension.notification_content_margin_start;
+			global::XF.Material.Droid.Resource.Dimension.notification_large_icon_height = global::InventoryManagementSystem.Droid.Resource.Dimension.notification_large_icon_height;
+			global::XF.Material.Droid.Resource.Dimension.notification_large_icon_width = global::InventoryManagementSystem.Droid.Resource.Dimension.notification_large_icon_width;
+			global::XF.Material.Droid.Resource.Dimension.notification_main_column_padding_top = global::InventoryManagementSystem.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::XF.Material.Droid.Resource.Dimension.notification_media_narrow_margin = global::InventoryManagementSystem.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::XF.Material.Droid.Resource.Dimension.notification_right_icon_size = global::InventoryManagementSystem.Droid.Resource.Dimension.notification_right_icon_size;
+			global::XF.Material.Droid.Resource.Dimension.notification_right_side_padding_top = global::InventoryManagementSystem.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::XF.Material.Droid.Resource.Dimension.notification_small_icon_background_padding = global::InventoryManagementSystem.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::XF.Material.Droid.Resource.Dimension.notification_small_icon_size_as_large = global::InventoryManagementSystem.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::XF.Material.Droid.Resource.Dimension.notification_subtext_size = global::InventoryManagementSystem.Droid.Resource.Dimension.notification_subtext_size;
+			global::XF.Material.Droid.Resource.Dimension.notification_top_pad = global::InventoryManagementSystem.Droid.Resource.Dimension.notification_top_pad;
+			global::XF.Material.Droid.Resource.Dimension.notification_top_pad_large_text = global::InventoryManagementSystem.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::XF.Material.Droid.Resource.Dimension.subtitle_corner_radius = global::InventoryManagementSystem.Droid.Resource.Dimension.subtitle_corner_radius;
+			global::XF.Material.Droid.Resource.Dimension.subtitle_outline_width = global::InventoryManagementSystem.Droid.Resource.Dimension.subtitle_outline_width;
+			global::XF.Material.Droid.Resource.Dimension.subtitle_shadow_offset = global::InventoryManagementSystem.Droid.Resource.Dimension.subtitle_shadow_offset;
+			global::XF.Material.Droid.Resource.Dimension.subtitle_shadow_radius = global::InventoryManagementSystem.Droid.Resource.Dimension.subtitle_shadow_radius;
+			global::XF.Material.Droid.Resource.Dimension.tooltip_corner_radius = global::InventoryManagementSystem.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::XF.Material.Droid.Resource.Dimension.tooltip_horizontal_padding = global::InventoryManagementSystem.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::XF.Material.Droid.Resource.Dimension.tooltip_margin = global::InventoryManagementSystem.Droid.Resource.Dimension.tooltip_margin;
+			global::XF.Material.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::InventoryManagementSystem.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::XF.Material.Droid.Resource.Dimension.tooltip_precise_anchor_threshold = global::InventoryManagementSystem.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::XF.Material.Droid.Resource.Dimension.tooltip_vertical_padding = global::InventoryManagementSystem.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::XF.Material.Droid.Resource.Dimension.tooltip_y_offset_non_touch = global::InventoryManagementSystem.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::XF.Material.Droid.Resource.Dimension.tooltip_y_offset_touch = global::InventoryManagementSystem.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::XF.Material.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::XF.Material.Droid.Resource.Drawable.abc_action_bar_item_background_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_btn_borderless_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_btn_check_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_btn_check_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::XF.Material.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::XF.Material.Droid.Resource.Drawable.abc_btn_colored_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_btn_default_mtrl_shape = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::XF.Material.Droid.Resource.Drawable.abc_btn_radio_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::XF.Material.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::XF.Material.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::XF.Material.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::XF.Material.Droid.Resource.Drawable.abc_cab_background_internal_bg = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::XF.Material.Droid.Resource.Drawable.abc_cab_background_top_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::XF.Material.Droid.Resource.Drawable.abc_control_background_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_control_background_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_dialog_material_background = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::XF.Material.Droid.Resource.Drawable.abc_edit_text_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_edit_text_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_ic_ab_back_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::XF.Material.Droid.Resource.Drawable.abc_ic_clear_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::XF.Material.Droid.Resource.Drawable.abc_ic_go_search_api_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::XF.Material.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::XF.Material.Droid.Resource.Drawable.abc_ic_menu_overflow_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::XF.Material.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::XF.Material.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::XF.Material.Droid.Resource.Drawable.abc_ic_search_api_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_ic_star_black_16dp = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::XF.Material.Droid.Resource.Drawable.abc_ic_star_black_36dp = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::XF.Material.Droid.Resource.Drawable.abc_ic_star_black_48dp = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::XF.Material.Droid.Resource.Drawable.abc_ic_star_half_black_16dp = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::XF.Material.Droid.Resource.Drawable.abc_ic_star_half_black_36dp = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::XF.Material.Droid.Resource.Drawable.abc_ic_star_half_black_48dp = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::XF.Material.Droid.Resource.Drawable.abc_ic_voice_search_api_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_item_background_holo_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::XF.Material.Droid.Resource.Drawable.abc_item_background_holo_light = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::XF.Material.Droid.Resource.Drawable.abc_list_divider_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_list_divider_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::XF.Material.Droid.Resource.Drawable.abc_list_focused_holo = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::XF.Material.Droid.Resource.Drawable.abc_list_longpressed_holo = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::XF.Material.Droid.Resource.Drawable.abc_list_pressed_holo_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::XF.Material.Droid.Resource.Drawable.abc_list_pressed_holo_light = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::XF.Material.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::XF.Material.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::XF.Material.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::XF.Material.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::XF.Material.Droid.Resource.Drawable.abc_list_selector_holo_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::XF.Material.Droid.Resource.Drawable.abc_list_selector_holo_light = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::XF.Material.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::XF.Material.Droid.Resource.Drawable.abc_popup_background_mtrl_mult = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::XF.Material.Droid.Resource.Drawable.abc_ratingbar_indicator_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_ratingbar_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_ratingbar_small_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::XF.Material.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::XF.Material.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::XF.Material.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::XF.Material.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::XF.Material.Droid.Resource.Drawable.abc_seekbar_thumb_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_seekbar_tick_mark_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_seekbar_track_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::XF.Material.Droid.Resource.Drawable.abc_spinner_textfield_background_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_switch_thumb_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::XF.Material.Droid.Resource.Drawable.abc_tab_indicator_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::XF.Material.Droid.Resource.Drawable.abc_text_cursor_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::XF.Material.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::XF.Material.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::XF.Material.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::XF.Material.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::XF.Material.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::XF.Material.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::XF.Material.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::XF.Material.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::XF.Material.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::XF.Material.Droid.Resource.Drawable.abc_textfield_search_material = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::XF.Material.Droid.Resource.Drawable.abc_vector_test = global::InventoryManagementSystem.Droid.Resource.Drawable.abc_vector_test;
+			global::XF.Material.Droid.Resource.Drawable.avd_hide_password = global::InventoryManagementSystem.Droid.Resource.Drawable.avd_hide_password;
+			global::XF.Material.Droid.Resource.Drawable.avd_show_password = global::InventoryManagementSystem.Droid.Resource.Drawable.avd_show_password;
+			global::XF.Material.Droid.Resource.Drawable.design_bottom_navigation_item_background = global::InventoryManagementSystem.Droid.Resource.Drawable.design_bottom_navigation_item_background;
+			global::XF.Material.Droid.Resource.Drawable.design_fab_background = global::InventoryManagementSystem.Droid.Resource.Drawable.design_fab_background;
+			global::XF.Material.Droid.Resource.Drawable.design_ic_visibility = global::InventoryManagementSystem.Droid.Resource.Drawable.design_ic_visibility;
+			global::XF.Material.Droid.Resource.Drawable.design_ic_visibility_off = global::InventoryManagementSystem.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::XF.Material.Droid.Resource.Drawable.design_password_eye = global::InventoryManagementSystem.Droid.Resource.Drawable.design_password_eye;
+			global::XF.Material.Droid.Resource.Drawable.design_snackbar_background = global::InventoryManagementSystem.Droid.Resource.Drawable.design_snackbar_background;
+			global::XF.Material.Droid.Resource.Drawable.drawable_ripple = global::InventoryManagementSystem.Droid.Resource.Drawable.drawable_ripple;
+			global::XF.Material.Droid.Resource.Drawable.drawable_ripple_image = global::InventoryManagementSystem.Droid.Resource.Drawable.drawable_ripple_image;
+			global::XF.Material.Droid.Resource.Drawable.drawable_ripple_outlined = global::InventoryManagementSystem.Droid.Resource.Drawable.drawable_ripple_outlined;
+			global::XF.Material.Droid.Resource.Drawable.drawable_ripple_outlined_with_icon = global::InventoryManagementSystem.Droid.Resource.Drawable.drawable_ripple_outlined_with_icon;
+			global::XF.Material.Droid.Resource.Drawable.drawable_ripple_text = global::InventoryManagementSystem.Droid.Resource.Drawable.drawable_ripple_text;
+			global::XF.Material.Droid.Resource.Drawable.drawable_ripple_with_icon = global::InventoryManagementSystem.Droid.Resource.Drawable.drawable_ripple_with_icon;
+			global::XF.Material.Droid.Resource.Drawable.drawable_selector = global::InventoryManagementSystem.Droid.Resource.Drawable.drawable_selector;
+			global::XF.Material.Droid.Resource.Drawable.drawable_shape = global::InventoryManagementSystem.Droid.Resource.Drawable.drawable_shape;
+			global::XF.Material.Droid.Resource.Drawable.drawable_shape_text = global::InventoryManagementSystem.Droid.Resource.Drawable.drawable_shape_text;
+			global::XF.Material.Droid.Resource.Drawable.drawable_shape_with_icon = global::InventoryManagementSystem.Droid.Resource.Drawable.drawable_shape_with_icon;
+			global::XF.Material.Droid.Resource.Drawable.ic_audiotrack_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_audiotrack_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_audiotrack_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_audiotrack_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_dialog_close_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_dialog_close_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_dialog_close_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_dialog_close_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_collapse_00 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_collapse_00;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_collapse_01 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_collapse_01;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_collapse_02 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_collapse_02;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_collapse_03 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_collapse_03;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_collapse_04 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_collapse_04;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_collapse_05 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_collapse_05;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_collapse_06 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_collapse_06;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_collapse_07 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_collapse_07;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_collapse_08 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_collapse_08;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_collapse_09 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_collapse_09;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_collapse_10 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_collapse_10;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_collapse_11 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_collapse_11;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_collapse_12 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_collapse_12;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_collapse_13 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_collapse_13;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_collapse_14 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_collapse_14;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_collapse_15 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_collapse_15;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_expand_00 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_expand_00;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_expand_01 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_expand_01;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_expand_02 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_expand_02;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_expand_03 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_expand_03;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_expand_04 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_expand_04;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_expand_05 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_expand_05;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_expand_06 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_expand_06;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_expand_07 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_expand_07;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_expand_08 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_expand_08;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_expand_09 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_expand_09;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_expand_10 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_expand_10;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_expand_11 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_expand_11;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_expand_12 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_expand_12;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_expand_13 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_expand_13;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_expand_14 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_expand_14;
+			global::XF.Material.Droid.Resource.Drawable.ic_group_expand_15 = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_group_expand_15;
+			global::XF.Material.Droid.Resource.Drawable.ic_media_pause_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_media_pause_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_media_pause_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_media_pause_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_media_play_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_media_play_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_media_play_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_media_play_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_media_stop_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_media_stop_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_media_stop_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_media_stop_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_00_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_00_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_00_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_00_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_01_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_01_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_01_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_01_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_02_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_02_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_02_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_02_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_03_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_03_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_03_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_03_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_04_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_04_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_04_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_04_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_05_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_05_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_05_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_05_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_06_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_06_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_06_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_06_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_07_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_07_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_07_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_07_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_08_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_08_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_08_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_08_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_09_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_09_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_09_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_09_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_10_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_10_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_10_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_10_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_11_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_11_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_11_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_11_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_12_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_12_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_12_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_12_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_13_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_13_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_13_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_13_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_14_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_14_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_14_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_14_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_15_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_15_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_15_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_15_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_16_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_16_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_16_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_16_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_17_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_17_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_17_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_17_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_18_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_18_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_18_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_18_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_19_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_19_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_19_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_19_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_20_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_20_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_20_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_20_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_21_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_21_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_21_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_21_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_22_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_22_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_22_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_22_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_23_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_23_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_23_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_23_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_24_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_24_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_24_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_24_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_25_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_25_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_25_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_25_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_26_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_26_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_26_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_26_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_27_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_27_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_27_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_27_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_28_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_28_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_28_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_28_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_29_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_29_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_29_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_29_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_30_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_30_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connected_30_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connected_30_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_00_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_00_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_00_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_00_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_01_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_01_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_01_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_01_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_02_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_02_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_02_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_02_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_03_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_03_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_03_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_03_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_04_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_04_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_04_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_04_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_05_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_05_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_05_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_05_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_06_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_06_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_06_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_06_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_07_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_07_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_07_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_07_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_08_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_08_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_08_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_08_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_09_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_09_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_09_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_09_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_10_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_10_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_10_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_10_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_11_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_11_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_11_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_11_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_12_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_12_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_12_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_12_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_13_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_13_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_13_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_13_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_14_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_14_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_14_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_14_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_15_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_15_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_15_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_15_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_16_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_16_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_16_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_16_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_17_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_17_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_17_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_17_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_18_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_18_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_18_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_18_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_19_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_19_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_19_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_19_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_20_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_20_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_20_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_20_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_21_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_21_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_21_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_21_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_22_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_22_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_22_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_22_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_23_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_23_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_23_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_23_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_24_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_24_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_24_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_24_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_25_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_25_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_25_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_25_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_26_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_26_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_26_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_26_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_27_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_27_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_27_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_27_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_28_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_28_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_28_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_28_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_29_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_29_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_29_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_29_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_30_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_30_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_connecting_30_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_connecting_30_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_disabled_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_disabled_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_disabled_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_disabled_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_disconnected_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_disconnected_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_disconnected_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_disconnected_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_mr_button_grey = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mr_button_grey;
+			global::XF.Material.Droid.Resource.Drawable.ic_mtrl_chip_checked_black = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::XF.Material.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::XF.Material.Droid.Resource.Drawable.ic_mtrl_chip_close_circle = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::XF.Material.Droid.Resource.Drawable.ic_vol_type_speaker_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_vol_type_speaker_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_vol_type_speaker_group_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_vol_type_speaker_group_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_vol_type_speaker_group_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_vol_type_speaker_group_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_vol_type_speaker_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_vol_type_speaker_light;
+			global::XF.Material.Droid.Resource.Drawable.ic_vol_type_tv_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_vol_type_tv_dark;
+			global::XF.Material.Droid.Resource.Drawable.ic_vol_type_tv_light = global::InventoryManagementSystem.Droid.Resource.Drawable.ic_vol_type_tv_light;
+			global::XF.Material.Droid.Resource.Drawable.mr_button_connected_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_button_connected_dark;
+			global::XF.Material.Droid.Resource.Drawable.mr_button_connected_light = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_button_connected_light;
+			global::XF.Material.Droid.Resource.Drawable.mr_button_connecting_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_button_connecting_dark;
+			global::XF.Material.Droid.Resource.Drawable.mr_button_connecting_light = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_button_connecting_light;
+			global::XF.Material.Droid.Resource.Drawable.mr_button_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_button_dark;
+			global::XF.Material.Droid.Resource.Drawable.mr_button_light = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_button_light;
+			global::XF.Material.Droid.Resource.Drawable.mr_dialog_close_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_dialog_close_dark;
+			global::XF.Material.Droid.Resource.Drawable.mr_dialog_close_light = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_dialog_close_light;
+			global::XF.Material.Droid.Resource.Drawable.mr_dialog_material_background_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_dialog_material_background_dark;
+			global::XF.Material.Droid.Resource.Drawable.mr_dialog_material_background_light = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_dialog_material_background_light;
+			global::XF.Material.Droid.Resource.Drawable.mr_group_collapse = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_group_collapse;
+			global::XF.Material.Droid.Resource.Drawable.mr_group_expand = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_group_expand;
+			global::XF.Material.Droid.Resource.Drawable.mr_media_pause_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_media_pause_dark;
+			global::XF.Material.Droid.Resource.Drawable.mr_media_pause_light = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_media_pause_light;
+			global::XF.Material.Droid.Resource.Drawable.mr_media_play_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_media_play_dark;
+			global::XF.Material.Droid.Resource.Drawable.mr_media_play_light = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_media_play_light;
+			global::XF.Material.Droid.Resource.Drawable.mr_media_stop_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_media_stop_dark;
+			global::XF.Material.Droid.Resource.Drawable.mr_media_stop_light = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_media_stop_light;
+			global::XF.Material.Droid.Resource.Drawable.mr_vol_type_audiotrack_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_vol_type_audiotrack_dark;
+			global::XF.Material.Droid.Resource.Drawable.mr_vol_type_audiotrack_light = global::InventoryManagementSystem.Droid.Resource.Drawable.mr_vol_type_audiotrack_light;
+			global::XF.Material.Droid.Resource.Drawable.mtrl_snackbar_background = global::InventoryManagementSystem.Droid.Resource.Drawable.mtrl_snackbar_background;
+			global::XF.Material.Droid.Resource.Drawable.mtrl_tabs_default_indicator = global::InventoryManagementSystem.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::XF.Material.Droid.Resource.Drawable.navigation_empty_icon = global::InventoryManagementSystem.Droid.Resource.Drawable.navigation_empty_icon;
+			global::XF.Material.Droid.Resource.Drawable.notification_action_background = global::InventoryManagementSystem.Droid.Resource.Drawable.notification_action_background;
+			global::XF.Material.Droid.Resource.Drawable.notification_bg = global::InventoryManagementSystem.Droid.Resource.Drawable.notification_bg;
+			global::XF.Material.Droid.Resource.Drawable.notification_bg_low = global::InventoryManagementSystem.Droid.Resource.Drawable.notification_bg_low;
+			global::XF.Material.Droid.Resource.Drawable.notification_bg_low_normal = global::InventoryManagementSystem.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::XF.Material.Droid.Resource.Drawable.notification_bg_low_pressed = global::InventoryManagementSystem.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::XF.Material.Droid.Resource.Drawable.notification_bg_normal = global::InventoryManagementSystem.Droid.Resource.Drawable.notification_bg_normal;
+			global::XF.Material.Droid.Resource.Drawable.notification_bg_normal_pressed = global::InventoryManagementSystem.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::XF.Material.Droid.Resource.Drawable.notification_icon_background = global::InventoryManagementSystem.Droid.Resource.Drawable.notification_icon_background;
+			global::XF.Material.Droid.Resource.Drawable.notification_template_icon_bg = global::InventoryManagementSystem.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::XF.Material.Droid.Resource.Drawable.notification_template_icon_low_bg = global::InventoryManagementSystem.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::XF.Material.Droid.Resource.Drawable.notification_tile_bg = global::InventoryManagementSystem.Droid.Resource.Drawable.notification_tile_bg;
+			global::XF.Material.Droid.Resource.Drawable.notify_panel_notification_icon_bg = global::InventoryManagementSystem.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::XF.Material.Droid.Resource.Drawable.tooltip_frame_dark = global::InventoryManagementSystem.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::XF.Material.Droid.Resource.Drawable.tooltip_frame_light = global::InventoryManagementSystem.Droid.Resource.Drawable.tooltip_frame_light;
+			global::XF.Material.Droid.Resource.Drawable.xf_arrow_dropdown = global::InventoryManagementSystem.Droid.Resource.Drawable.xf_arrow_dropdown;
+			global::XF.Material.Droid.Resource.Drawable.xf_check = global::InventoryManagementSystem.Droid.Resource.Drawable.xf_check;
+			global::XF.Material.Droid.Resource.Drawable.xf_checkbox_selected = global::InventoryManagementSystem.Droid.Resource.Drawable.xf_checkbox_selected;
+			global::XF.Material.Droid.Resource.Drawable.xf_checkbox_unselected = global::InventoryManagementSystem.Droid.Resource.Drawable.xf_checkbox_unselected;
+			global::XF.Material.Droid.Resource.Drawable.xf_clear = global::InventoryManagementSystem.Droid.Resource.Drawable.xf_clear;
+			global::XF.Material.Droid.Resource.Drawable.xf_error = global::InventoryManagementSystem.Droid.Resource.Drawable.xf_error;
+			global::XF.Material.Droid.Resource.Drawable.xf_radio_button_selected = global::InventoryManagementSystem.Droid.Resource.Drawable.xf_radio_button_selected;
+			global::XF.Material.Droid.Resource.Drawable.xf_radio_button_unselected = global::InventoryManagementSystem.Droid.Resource.Drawable.xf_radio_button_unselected;
+			global::XF.Material.Droid.Resource.Id.action0 = global::InventoryManagementSystem.Droid.Resource.Id.action0;
+			global::XF.Material.Droid.Resource.Id.action_bar = global::InventoryManagementSystem.Droid.Resource.Id.action_bar;
+			global::XF.Material.Droid.Resource.Id.action_bar_activity_content = global::InventoryManagementSystem.Droid.Resource.Id.action_bar_activity_content;
+			global::XF.Material.Droid.Resource.Id.action_bar_container = global::InventoryManagementSystem.Droid.Resource.Id.action_bar_container;
+			global::XF.Material.Droid.Resource.Id.action_bar_root = global::InventoryManagementSystem.Droid.Resource.Id.action_bar_root;
+			global::XF.Material.Droid.Resource.Id.action_bar_spinner = global::InventoryManagementSystem.Droid.Resource.Id.action_bar_spinner;
+			global::XF.Material.Droid.Resource.Id.action_bar_subtitle = global::InventoryManagementSystem.Droid.Resource.Id.action_bar_subtitle;
+			global::XF.Material.Droid.Resource.Id.action_bar_title = global::InventoryManagementSystem.Droid.Resource.Id.action_bar_title;
+			global::XF.Material.Droid.Resource.Id.action_container = global::InventoryManagementSystem.Droid.Resource.Id.action_container;
+			global::XF.Material.Droid.Resource.Id.action_context_bar = global::InventoryManagementSystem.Droid.Resource.Id.action_context_bar;
+			global::XF.Material.Droid.Resource.Id.action_divider = global::InventoryManagementSystem.Droid.Resource.Id.action_divider;
+			global::XF.Material.Droid.Resource.Id.action_image = global::InventoryManagementSystem.Droid.Resource.Id.action_image;
+			global::XF.Material.Droid.Resource.Id.action_menu_divider = global::InventoryManagementSystem.Droid.Resource.Id.action_menu_divider;
+			global::XF.Material.Droid.Resource.Id.action_menu_presenter = global::InventoryManagementSystem.Droid.Resource.Id.action_menu_presenter;
+			global::XF.Material.Droid.Resource.Id.action_mode_bar = global::InventoryManagementSystem.Droid.Resource.Id.action_mode_bar;
+			global::XF.Material.Droid.Resource.Id.action_mode_bar_stub = global::InventoryManagementSystem.Droid.Resource.Id.action_mode_bar_stub;
+			global::XF.Material.Droid.Resource.Id.action_mode_close_button = global::InventoryManagementSystem.Droid.Resource.Id.action_mode_close_button;
+			global::XF.Material.Droid.Resource.Id.action_text = global::InventoryManagementSystem.Droid.Resource.Id.action_text;
+			global::XF.Material.Droid.Resource.Id.actions = global::InventoryManagementSystem.Droid.Resource.Id.actions;
+			global::XF.Material.Droid.Resource.Id.activity_chooser_view_content = global::InventoryManagementSystem.Droid.Resource.Id.activity_chooser_view_content;
+			global::XF.Material.Droid.Resource.Id.add = global::InventoryManagementSystem.Droid.Resource.Id.add;
+			global::XF.Material.Droid.Resource.Id.alertTitle = global::InventoryManagementSystem.Droid.Resource.Id.alertTitle;
+			global::XF.Material.Droid.Resource.Id.async = global::InventoryManagementSystem.Droid.Resource.Id.async;
+			global::XF.Material.Droid.Resource.Id.auto = global::InventoryManagementSystem.Droid.Resource.Id.auto;
+			global::XF.Material.Droid.Resource.Id.blocking = global::InventoryManagementSystem.Droid.Resource.Id.blocking;
+			global::XF.Material.Droid.Resource.Id.bottom = global::InventoryManagementSystem.Droid.Resource.Id.bottom;
+			global::XF.Material.Droid.Resource.Id.browser_actions_header_text = global::InventoryManagementSystem.Droid.Resource.Id.browser_actions_header_text;
+			global::XF.Material.Droid.Resource.Id.browser_actions_menu_item_icon = global::InventoryManagementSystem.Droid.Resource.Id.browser_actions_menu_item_icon;
+			global::XF.Material.Droid.Resource.Id.browser_actions_menu_item_text = global::InventoryManagementSystem.Droid.Resource.Id.browser_actions_menu_item_text;
+			global::XF.Material.Droid.Resource.Id.browser_actions_menu_items = global::InventoryManagementSystem.Droid.Resource.Id.browser_actions_menu_items;
+			global::XF.Material.Droid.Resource.Id.browser_actions_menu_view = global::InventoryManagementSystem.Droid.Resource.Id.browser_actions_menu_view;
+			global::XF.Material.Droid.Resource.Id.buttonPanel = global::InventoryManagementSystem.Droid.Resource.Id.buttonPanel;
+			global::XF.Material.Droid.Resource.Id.cancel_action = global::InventoryManagementSystem.Droid.Resource.Id.cancel_action;
+			global::XF.Material.Droid.Resource.Id.center = global::InventoryManagementSystem.Droid.Resource.Id.center;
+			global::XF.Material.Droid.Resource.Id.checkbox = global::InventoryManagementSystem.Droid.Resource.Id.checkbox;
+			global::XF.Material.Droid.Resource.Id.chronometer = global::InventoryManagementSystem.Droid.Resource.Id.chronometer;
+			global::XF.Material.Droid.Resource.Id.container = global::InventoryManagementSystem.Droid.Resource.Id.container;
+			global::XF.Material.Droid.Resource.Id.content = global::InventoryManagementSystem.Droid.Resource.Id.content;
+			global::XF.Material.Droid.Resource.Id.contentPanel = global::InventoryManagementSystem.Droid.Resource.Id.contentPanel;
+			global::XF.Material.Droid.Resource.Id.coordinator = global::InventoryManagementSystem.Droid.Resource.Id.coordinator;
+			global::XF.Material.Droid.Resource.Id.custom = global::InventoryManagementSystem.Droid.Resource.Id.custom;
+			global::XF.Material.Droid.Resource.Id.customPanel = global::InventoryManagementSystem.Droid.Resource.Id.customPanel;
+			global::XF.Material.Droid.Resource.Id.decor_content_parent = global::InventoryManagementSystem.Droid.Resource.Id.decor_content_parent;
+			global::XF.Material.Droid.Resource.Id.default_activity_button = global::InventoryManagementSystem.Droid.Resource.Id.default_activity_button;
+			global::XF.Material.Droid.Resource.Id.design_bottom_sheet = global::InventoryManagementSystem.Droid.Resource.Id.design_bottom_sheet;
+			global::XF.Material.Droid.Resource.Id.design_menu_item_action_area = global::InventoryManagementSystem.Droid.Resource.Id.design_menu_item_action_area;
+			global::XF.Material.Droid.Resource.Id.design_menu_item_action_area_stub = global::InventoryManagementSystem.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::XF.Material.Droid.Resource.Id.design_menu_item_text = global::InventoryManagementSystem.Droid.Resource.Id.design_menu_item_text;
+			global::XF.Material.Droid.Resource.Id.design_navigation_view = global::InventoryManagementSystem.Droid.Resource.Id.design_navigation_view;
+			global::XF.Material.Droid.Resource.Id.edit_query = global::InventoryManagementSystem.Droid.Resource.Id.edit_query;
+			global::XF.Material.Droid.Resource.Id.end = global::InventoryManagementSystem.Droid.Resource.Id.end;
+			global::XF.Material.Droid.Resource.Id.end_padder = global::InventoryManagementSystem.Droid.Resource.Id.end_padder;
+			global::XF.Material.Droid.Resource.Id.expand_activities_button = global::InventoryManagementSystem.Droid.Resource.Id.expand_activities_button;
+			global::XF.Material.Droid.Resource.Id.expanded_menu = global::InventoryManagementSystem.Droid.Resource.Id.expanded_menu;
+			global::XF.Material.Droid.Resource.Id.fill = global::InventoryManagementSystem.Droid.Resource.Id.fill;
+			global::XF.Material.Droid.Resource.Id.filled = global::InventoryManagementSystem.Droid.Resource.Id.filled;
+			global::XF.Material.Droid.Resource.Id.@fixed = global::InventoryManagementSystem.Droid.Resource.Id.@fixed;
+			global::XF.Material.Droid.Resource.Id.forever = global::InventoryManagementSystem.Droid.Resource.Id.forever;
+			global::XF.Material.Droid.Resource.Id.ghost_view = global::InventoryManagementSystem.Droid.Resource.Id.ghost_view;
+			global::XF.Material.Droid.Resource.Id.group_divider = global::InventoryManagementSystem.Droid.Resource.Id.group_divider;
+			global::XF.Material.Droid.Resource.Id.home = global::InventoryManagementSystem.Droid.Resource.Id.home;
+			global::XF.Material.Droid.Resource.Id.icon = global::InventoryManagementSystem.Droid.Resource.Id.icon;
+			global::XF.Material.Droid.Resource.Id.icon_group = global::InventoryManagementSystem.Droid.Resource.Id.icon_group;
+			global::XF.Material.Droid.Resource.Id.image = global::InventoryManagementSystem.Droid.Resource.Id.image;
+			global::XF.Material.Droid.Resource.Id.info = global::InventoryManagementSystem.Droid.Resource.Id.info;
+			global::XF.Material.Droid.Resource.Id.inset_drawable = global::InventoryManagementSystem.Droid.Resource.Id.inset_drawable;
+			global::XF.Material.Droid.Resource.Id.italic = global::InventoryManagementSystem.Droid.Resource.Id.italic;
+			global::XF.Material.Droid.Resource.Id.item_touch_helper_previous_elevation = global::InventoryManagementSystem.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::XF.Material.Droid.Resource.Id.labeled = global::InventoryManagementSystem.Droid.Resource.Id.labeled;
+			global::XF.Material.Droid.Resource.Id.largeLabel = global::InventoryManagementSystem.Droid.Resource.Id.largeLabel;
+			global::XF.Material.Droid.Resource.Id.left = global::InventoryManagementSystem.Droid.Resource.Id.left;
+			global::XF.Material.Droid.Resource.Id.line1 = global::InventoryManagementSystem.Droid.Resource.Id.line1;
+			global::XF.Material.Droid.Resource.Id.line3 = global::InventoryManagementSystem.Droid.Resource.Id.line3;
+			global::XF.Material.Droid.Resource.Id.listMode = global::InventoryManagementSystem.Droid.Resource.Id.listMode;
+			global::XF.Material.Droid.Resource.Id.list_item = global::InventoryManagementSystem.Droid.Resource.Id.list_item;
+			global::XF.Material.Droid.Resource.Id.lottie_layer_name = global::InventoryManagementSystem.Droid.Resource.Id.lottie_layer_name;
+			global::XF.Material.Droid.Resource.Id.masked = global::InventoryManagementSystem.Droid.Resource.Id.masked;
+			global::XF.Material.Droid.Resource.Id.materialformsedittext = global::InventoryManagementSystem.Droid.Resource.Id.materialformsedittext;
+			global::XF.Material.Droid.Resource.Id.media_actions = global::InventoryManagementSystem.Droid.Resource.Id.media_actions;
+			global::XF.Material.Droid.Resource.Id.message = global::InventoryManagementSystem.Droid.Resource.Id.message;
+			global::XF.Material.Droid.Resource.Id.mini = global::InventoryManagementSystem.Droid.Resource.Id.mini;
+			global::XF.Material.Droid.Resource.Id.mr_art = global::InventoryManagementSystem.Droid.Resource.Id.mr_art;
+			global::XF.Material.Droid.Resource.Id.mr_cast_checkbox = global::InventoryManagementSystem.Droid.Resource.Id.mr_cast_checkbox;
+			global::XF.Material.Droid.Resource.Id.mr_cast_close_button = global::InventoryManagementSystem.Droid.Resource.Id.mr_cast_close_button;
+			global::XF.Material.Droid.Resource.Id.mr_cast_group_icon = global::InventoryManagementSystem.Droid.Resource.Id.mr_cast_group_icon;
+			global::XF.Material.Droid.Resource.Id.mr_cast_group_name = global::InventoryManagementSystem.Droid.Resource.Id.mr_cast_group_name;
+			global::XF.Material.Droid.Resource.Id.mr_cast_list = global::InventoryManagementSystem.Droid.Resource.Id.mr_cast_list;
+			global::XF.Material.Droid.Resource.Id.mr_cast_meta = global::InventoryManagementSystem.Droid.Resource.Id.mr_cast_meta;
+			global::XF.Material.Droid.Resource.Id.mr_cast_meta_art = global::InventoryManagementSystem.Droid.Resource.Id.mr_cast_meta_art;
+			global::XF.Material.Droid.Resource.Id.mr_cast_meta_subtitle = global::InventoryManagementSystem.Droid.Resource.Id.mr_cast_meta_subtitle;
+			global::XF.Material.Droid.Resource.Id.mr_cast_meta_title = global::InventoryManagementSystem.Droid.Resource.Id.mr_cast_meta_title;
+			global::XF.Material.Droid.Resource.Id.mr_cast_route_icon = global::InventoryManagementSystem.Droid.Resource.Id.mr_cast_route_icon;
+			global::XF.Material.Droid.Resource.Id.mr_cast_route_name = global::InventoryManagementSystem.Droid.Resource.Id.mr_cast_route_name;
+			global::XF.Material.Droid.Resource.Id.mr_cast_stop_button = global::InventoryManagementSystem.Droid.Resource.Id.mr_cast_stop_button;
+			global::XF.Material.Droid.Resource.Id.mr_cast_volume_layout = global::InventoryManagementSystem.Droid.Resource.Id.mr_cast_volume_layout;
+			global::XF.Material.Droid.Resource.Id.mr_cast_volume_slider = global::InventoryManagementSystem.Droid.Resource.Id.mr_cast_volume_slider;
+			global::XF.Material.Droid.Resource.Id.mr_chooser_list = global::InventoryManagementSystem.Droid.Resource.Id.mr_chooser_list;
+			global::XF.Material.Droid.Resource.Id.mr_chooser_route_desc = global::InventoryManagementSystem.Droid.Resource.Id.mr_chooser_route_desc;
+			global::XF.Material.Droid.Resource.Id.mr_chooser_route_icon = global::InventoryManagementSystem.Droid.Resource.Id.mr_chooser_route_icon;
+			global::XF.Material.Droid.Resource.Id.mr_chooser_route_name = global::InventoryManagementSystem.Droid.Resource.Id.mr_chooser_route_name;
+			global::XF.Material.Droid.Resource.Id.mr_chooser_title = global::InventoryManagementSystem.Droid.Resource.Id.mr_chooser_title;
+			global::XF.Material.Droid.Resource.Id.mr_close = global::InventoryManagementSystem.Droid.Resource.Id.mr_close;
+			global::XF.Material.Droid.Resource.Id.mr_control_divider = global::InventoryManagementSystem.Droid.Resource.Id.mr_control_divider;
+			global::XF.Material.Droid.Resource.Id.mr_control_playback_ctrl = global::InventoryManagementSystem.Droid.Resource.Id.mr_control_playback_ctrl;
+			global::XF.Material.Droid.Resource.Id.mr_control_subtitle = global::InventoryManagementSystem.Droid.Resource.Id.mr_control_subtitle;
+			global::XF.Material.Droid.Resource.Id.mr_control_title = global::InventoryManagementSystem.Droid.Resource.Id.mr_control_title;
+			global::XF.Material.Droid.Resource.Id.mr_control_title_container = global::InventoryManagementSystem.Droid.Resource.Id.mr_control_title_container;
+			global::XF.Material.Droid.Resource.Id.mr_custom_control = global::InventoryManagementSystem.Droid.Resource.Id.mr_custom_control;
+			global::XF.Material.Droid.Resource.Id.mr_default_control = global::InventoryManagementSystem.Droid.Resource.Id.mr_default_control;
+			global::XF.Material.Droid.Resource.Id.mr_dialog_area = global::InventoryManagementSystem.Droid.Resource.Id.mr_dialog_area;
+			global::XF.Material.Droid.Resource.Id.mr_dialog_header_name = global::InventoryManagementSystem.Droid.Resource.Id.mr_dialog_header_name;
+			global::XF.Material.Droid.Resource.Id.mr_expandable_area = global::InventoryManagementSystem.Droid.Resource.Id.mr_expandable_area;
+			global::XF.Material.Droid.Resource.Id.mr_group_expand_collapse = global::InventoryManagementSystem.Droid.Resource.Id.mr_group_expand_collapse;
+			global::XF.Material.Droid.Resource.Id.mr_group_volume_route_name = global::InventoryManagementSystem.Droid.Resource.Id.mr_group_volume_route_name;
+			global::XF.Material.Droid.Resource.Id.mr_group_volume_slider = global::InventoryManagementSystem.Droid.Resource.Id.mr_group_volume_slider;
+			global::XF.Material.Droid.Resource.Id.mr_media_main_control = global::InventoryManagementSystem.Droid.Resource.Id.mr_media_main_control;
+			global::XF.Material.Droid.Resource.Id.mr_name = global::InventoryManagementSystem.Droid.Resource.Id.mr_name;
+			global::XF.Material.Droid.Resource.Id.mr_picker_close_button = global::InventoryManagementSystem.Droid.Resource.Id.mr_picker_close_button;
+			global::XF.Material.Droid.Resource.Id.mr_picker_list = global::InventoryManagementSystem.Droid.Resource.Id.mr_picker_list;
+			global::XF.Material.Droid.Resource.Id.mr_picker_route_icon = global::InventoryManagementSystem.Droid.Resource.Id.mr_picker_route_icon;
+			global::XF.Material.Droid.Resource.Id.mr_picker_route_name = global::InventoryManagementSystem.Droid.Resource.Id.mr_picker_route_name;
+			global::XF.Material.Droid.Resource.Id.mr_playback_control = global::InventoryManagementSystem.Droid.Resource.Id.mr_playback_control;
+			global::XF.Material.Droid.Resource.Id.mr_title_bar = global::InventoryManagementSystem.Droid.Resource.Id.mr_title_bar;
+			global::XF.Material.Droid.Resource.Id.mr_volume_control = global::InventoryManagementSystem.Droid.Resource.Id.mr_volume_control;
+			global::XF.Material.Droid.Resource.Id.mr_volume_group_list = global::InventoryManagementSystem.Droid.Resource.Id.mr_volume_group_list;
+			global::XF.Material.Droid.Resource.Id.mr_volume_item_icon = global::InventoryManagementSystem.Droid.Resource.Id.mr_volume_item_icon;
+			global::XF.Material.Droid.Resource.Id.mr_volume_slider = global::InventoryManagementSystem.Droid.Resource.Id.mr_volume_slider;
+			global::XF.Material.Droid.Resource.Id.mtrl_child_content_container = global::InventoryManagementSystem.Droid.Resource.Id.mtrl_child_content_container;
+			global::XF.Material.Droid.Resource.Id.mtrl_internal_children_alpha_tag = global::InventoryManagementSystem.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::XF.Material.Droid.Resource.Id.multiply = global::InventoryManagementSystem.Droid.Resource.Id.multiply;
+			global::XF.Material.Droid.Resource.Id.navigation_header_container = global::InventoryManagementSystem.Droid.Resource.Id.navigation_header_container;
+			global::XF.Material.Droid.Resource.Id.none = global::InventoryManagementSystem.Droid.Resource.Id.none;
+			global::XF.Material.Droid.Resource.Id.normal = global::InventoryManagementSystem.Droid.Resource.Id.normal;
+			global::XF.Material.Droid.Resource.Id.notification_background = global::InventoryManagementSystem.Droid.Resource.Id.notification_background;
+			global::XF.Material.Droid.Resource.Id.notification_main_column = global::InventoryManagementSystem.Droid.Resource.Id.notification_main_column;
+			global::XF.Material.Droid.Resource.Id.notification_main_column_container = global::InventoryManagementSystem.Droid.Resource.Id.notification_main_column_container;
+			global::XF.Material.Droid.Resource.Id.outline = global::InventoryManagementSystem.Droid.Resource.Id.outline;
+			global::XF.Material.Droid.Resource.Id.parallax = global::InventoryManagementSystem.Droid.Resource.Id.parallax;
+			global::XF.Material.Droid.Resource.Id.parentPanel = global::InventoryManagementSystem.Droid.Resource.Id.parentPanel;
+			global::XF.Material.Droid.Resource.Id.parent_matrix = global::InventoryManagementSystem.Droid.Resource.Id.parent_matrix;
+			global::XF.Material.Droid.Resource.Id.pin = global::InventoryManagementSystem.Droid.Resource.Id.pin;
+			global::XF.Material.Droid.Resource.Id.progress_circular = global::InventoryManagementSystem.Droid.Resource.Id.progress_circular;
+			global::XF.Material.Droid.Resource.Id.progress_horizontal = global::InventoryManagementSystem.Droid.Resource.Id.progress_horizontal;
+			global::XF.Material.Droid.Resource.Id.radio = global::InventoryManagementSystem.Droid.Resource.Id.radio;
+			global::XF.Material.Droid.Resource.Id.restart = global::InventoryManagementSystem.Droid.Resource.Id.restart;
+			global::XF.Material.Droid.Resource.Id.reverse = global::InventoryManagementSystem.Droid.Resource.Id.reverse;
+			global::XF.Material.Droid.Resource.Id.right = global::InventoryManagementSystem.Droid.Resource.Id.right;
+			global::XF.Material.Droid.Resource.Id.right_icon = global::InventoryManagementSystem.Droid.Resource.Id.right_icon;
+			global::XF.Material.Droid.Resource.Id.right_side = global::InventoryManagementSystem.Droid.Resource.Id.right_side;
+			global::XF.Material.Droid.Resource.Id.save_image_matrix = global::InventoryManagementSystem.Droid.Resource.Id.save_image_matrix;
+			global::XF.Material.Droid.Resource.Id.save_non_transition_alpha = global::InventoryManagementSystem.Droid.Resource.Id.save_non_transition_alpha;
+			global::XF.Material.Droid.Resource.Id.save_scale_type = global::InventoryManagementSystem.Droid.Resource.Id.save_scale_type;
+			global::XF.Material.Droid.Resource.Id.screen = global::InventoryManagementSystem.Droid.Resource.Id.screen;
+			global::XF.Material.Droid.Resource.Id.scrollIndicatorDown = global::InventoryManagementSystem.Droid.Resource.Id.scrollIndicatorDown;
+			global::XF.Material.Droid.Resource.Id.scrollIndicatorUp = global::InventoryManagementSystem.Droid.Resource.Id.scrollIndicatorUp;
+			global::XF.Material.Droid.Resource.Id.scrollView = global::InventoryManagementSystem.Droid.Resource.Id.scrollView;
+			global::XF.Material.Droid.Resource.Id.scrollable = global::InventoryManagementSystem.Droid.Resource.Id.scrollable;
+			global::XF.Material.Droid.Resource.Id.search_badge = global::InventoryManagementSystem.Droid.Resource.Id.search_badge;
+			global::XF.Material.Droid.Resource.Id.search_bar = global::InventoryManagementSystem.Droid.Resource.Id.search_bar;
+			global::XF.Material.Droid.Resource.Id.search_button = global::InventoryManagementSystem.Droid.Resource.Id.search_button;
+			global::XF.Material.Droid.Resource.Id.search_close_btn = global::InventoryManagementSystem.Droid.Resource.Id.search_close_btn;
+			global::XF.Material.Droid.Resource.Id.search_edit_frame = global::InventoryManagementSystem.Droid.Resource.Id.search_edit_frame;
+			global::XF.Material.Droid.Resource.Id.search_go_btn = global::InventoryManagementSystem.Droid.Resource.Id.search_go_btn;
+			global::XF.Material.Droid.Resource.Id.search_mag_icon = global::InventoryManagementSystem.Droid.Resource.Id.search_mag_icon;
+			global::XF.Material.Droid.Resource.Id.search_plate = global::InventoryManagementSystem.Droid.Resource.Id.search_plate;
+			global::XF.Material.Droid.Resource.Id.search_src_text = global::InventoryManagementSystem.Droid.Resource.Id.search_src_text;
+			global::XF.Material.Droid.Resource.Id.search_voice_btn = global::InventoryManagementSystem.Droid.Resource.Id.search_voice_btn;
+			global::XF.Material.Droid.Resource.Id.select_dialog_listview = global::InventoryManagementSystem.Droid.Resource.Id.select_dialog_listview;
+			global::XF.Material.Droid.Resource.Id.selected = global::InventoryManagementSystem.Droid.Resource.Id.selected;
+			global::XF.Material.Droid.Resource.Id.shortcut = global::InventoryManagementSystem.Droid.Resource.Id.shortcut;
+			global::XF.Material.Droid.Resource.Id.smallLabel = global::InventoryManagementSystem.Droid.Resource.Id.smallLabel;
+			global::XF.Material.Droid.Resource.Id.snackbar_action = global::InventoryManagementSystem.Droid.Resource.Id.snackbar_action;
+			global::XF.Material.Droid.Resource.Id.snackbar_text = global::InventoryManagementSystem.Droid.Resource.Id.snackbar_text;
+			global::XF.Material.Droid.Resource.Id.spacer = global::InventoryManagementSystem.Droid.Resource.Id.spacer;
+			global::XF.Material.Droid.Resource.Id.split_action_bar = global::InventoryManagementSystem.Droid.Resource.Id.split_action_bar;
+			global::XF.Material.Droid.Resource.Id.src_atop = global::InventoryManagementSystem.Droid.Resource.Id.src_atop;
+			global::XF.Material.Droid.Resource.Id.src_in = global::InventoryManagementSystem.Droid.Resource.Id.src_in;
+			global::XF.Material.Droid.Resource.Id.src_over = global::InventoryManagementSystem.Droid.Resource.Id.src_over;
+			global::XF.Material.Droid.Resource.Id.start = global::InventoryManagementSystem.Droid.Resource.Id.start;
+			global::XF.Material.Droid.Resource.Id.status_bar_latest_event_content = global::InventoryManagementSystem.Droid.Resource.Id.status_bar_latest_event_content;
+			global::XF.Material.Droid.Resource.Id.stretch = global::InventoryManagementSystem.Droid.Resource.Id.stretch;
+			global::XF.Material.Droid.Resource.Id.submenuarrow = global::InventoryManagementSystem.Droid.Resource.Id.submenuarrow;
+			global::XF.Material.Droid.Resource.Id.submit_area = global::InventoryManagementSystem.Droid.Resource.Id.submit_area;
+			global::XF.Material.Droid.Resource.Id.tabMode = global::InventoryManagementSystem.Droid.Resource.Id.tabMode;
+			global::XF.Material.Droid.Resource.Id.tag_transition_group = global::InventoryManagementSystem.Droid.Resource.Id.tag_transition_group;
+			global::XF.Material.Droid.Resource.Id.tag_unhandled_key_event_manager = global::InventoryManagementSystem.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::XF.Material.Droid.Resource.Id.tag_unhandled_key_listeners = global::InventoryManagementSystem.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::XF.Material.Droid.Resource.Id.text = global::InventoryManagementSystem.Droid.Resource.Id.text;
+			global::XF.Material.Droid.Resource.Id.text2 = global::InventoryManagementSystem.Droid.Resource.Id.text2;
+			global::XF.Material.Droid.Resource.Id.textSpacerNoButtons = global::InventoryManagementSystem.Droid.Resource.Id.textSpacerNoButtons;
+			global::XF.Material.Droid.Resource.Id.textSpacerNoTitle = global::InventoryManagementSystem.Droid.Resource.Id.textSpacerNoTitle;
+			global::XF.Material.Droid.Resource.Id.text_input_password_toggle = global::InventoryManagementSystem.Droid.Resource.Id.text_input_password_toggle;
+			global::XF.Material.Droid.Resource.Id.textinput_counter = global::InventoryManagementSystem.Droid.Resource.Id.textinput_counter;
+			global::XF.Material.Droid.Resource.Id.textinput_error = global::InventoryManagementSystem.Droid.Resource.Id.textinput_error;
+			global::XF.Material.Droid.Resource.Id.textinput_helper_text = global::InventoryManagementSystem.Droid.Resource.Id.textinput_helper_text;
+			global::XF.Material.Droid.Resource.Id.time = global::InventoryManagementSystem.Droid.Resource.Id.time;
+			global::XF.Material.Droid.Resource.Id.title = global::InventoryManagementSystem.Droid.Resource.Id.title;
+			global::XF.Material.Droid.Resource.Id.titleDividerNoCustom = global::InventoryManagementSystem.Droid.Resource.Id.titleDividerNoCustom;
+			global::XF.Material.Droid.Resource.Id.title_template = global::InventoryManagementSystem.Droid.Resource.Id.title_template;
+			global::XF.Material.Droid.Resource.Id.top = global::InventoryManagementSystem.Droid.Resource.Id.top;
+			global::XF.Material.Droid.Resource.Id.topPanel = global::InventoryManagementSystem.Droid.Resource.Id.topPanel;
+			global::XF.Material.Droid.Resource.Id.touch_outside = global::InventoryManagementSystem.Droid.Resource.Id.touch_outside;
+			global::XF.Material.Droid.Resource.Id.transition_current_scene = global::InventoryManagementSystem.Droid.Resource.Id.transition_current_scene;
+			global::XF.Material.Droid.Resource.Id.transition_layout_save = global::InventoryManagementSystem.Droid.Resource.Id.transition_layout_save;
+			global::XF.Material.Droid.Resource.Id.transition_position = global::InventoryManagementSystem.Droid.Resource.Id.transition_position;
+			global::XF.Material.Droid.Resource.Id.transition_scene_layoutid_cache = global::InventoryManagementSystem.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::XF.Material.Droid.Resource.Id.transition_transform = global::InventoryManagementSystem.Droid.Resource.Id.transition_transform;
+			global::XF.Material.Droid.Resource.Id.uniform = global::InventoryManagementSystem.Droid.Resource.Id.uniform;
+			global::XF.Material.Droid.Resource.Id.unlabeled = global::InventoryManagementSystem.Droid.Resource.Id.unlabeled;
+			global::XF.Material.Droid.Resource.Id.up = global::InventoryManagementSystem.Droid.Resource.Id.up;
+			global::XF.Material.Droid.Resource.Id.view_offset_helper = global::InventoryManagementSystem.Droid.Resource.Id.view_offset_helper;
+			global::XF.Material.Droid.Resource.Id.visible = global::InventoryManagementSystem.Droid.Resource.Id.visible;
+			global::XF.Material.Droid.Resource.Id.volume_item_container = global::InventoryManagementSystem.Droid.Resource.Id.volume_item_container;
+			global::XF.Material.Droid.Resource.Id.wrap_content = global::InventoryManagementSystem.Droid.Resource.Id.wrap_content;
+			global::XF.Material.Droid.Resource.Integer.abc_config_activityDefaultDur = global::InventoryManagementSystem.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::XF.Material.Droid.Resource.Integer.abc_config_activityShortDur = global::InventoryManagementSystem.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::XF.Material.Droid.Resource.Integer.app_bar_elevation_anim_duration = global::InventoryManagementSystem.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::XF.Material.Droid.Resource.Integer.bottom_sheet_slide_duration = global::InventoryManagementSystem.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::XF.Material.Droid.Resource.Integer.cancel_button_image_alpha = global::InventoryManagementSystem.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::XF.Material.Droid.Resource.Integer.config_tooltipAnimTime = global::InventoryManagementSystem.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::XF.Material.Droid.Resource.Integer.design_snackbar_text_max_lines = global::InventoryManagementSystem.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::XF.Material.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms = global::InventoryManagementSystem.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::XF.Material.Droid.Resource.Integer.hide_password_duration = global::InventoryManagementSystem.Droid.Resource.Integer.hide_password_duration;
+			global::XF.Material.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms = global::InventoryManagementSystem.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms;
+			global::XF.Material.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms = global::InventoryManagementSystem.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms;
+			global::XF.Material.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms = global::InventoryManagementSystem.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms;
+			global::XF.Material.Droid.Resource.Integer.mr_update_routes_delay_ms = global::InventoryManagementSystem.Droid.Resource.Integer.mr_update_routes_delay_ms;
+			global::XF.Material.Droid.Resource.Integer.mtrl_btn_anim_delay_ms = global::InventoryManagementSystem.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::XF.Material.Droid.Resource.Integer.mtrl_btn_anim_duration_ms = global::InventoryManagementSystem.Droid.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::XF.Material.Droid.Resource.Integer.mtrl_chip_anim_duration = global::InventoryManagementSystem.Droid.Resource.Integer.mtrl_chip_anim_duration;
+			global::XF.Material.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::InventoryManagementSystem.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::XF.Material.Droid.Resource.Integer.show_password_duration = global::InventoryManagementSystem.Droid.Resource.Integer.show_password_duration;
+			global::XF.Material.Droid.Resource.Integer.status_bar_notification_info_maxnum = global::InventoryManagementSystem.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::XF.Material.Droid.Resource.Interpolator.mr_fast_out_slow_in = global::InventoryManagementSystem.Droid.Resource.Interpolator.mr_fast_out_slow_in;
+			global::XF.Material.Droid.Resource.Interpolator.mr_linear_out_slow_in = global::InventoryManagementSystem.Droid.Resource.Interpolator.mr_linear_out_slow_in;
+			global::XF.Material.Droid.Resource.Interpolator.mtrl_fast_out_linear_in = global::InventoryManagementSystem.Droid.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::XF.Material.Droid.Resource.Interpolator.mtrl_fast_out_slow_in = global::InventoryManagementSystem.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::XF.Material.Droid.Resource.Interpolator.mtrl_linear = global::InventoryManagementSystem.Droid.Resource.Interpolator.mtrl_linear;
+			global::XF.Material.Droid.Resource.Interpolator.mtrl_linear_out_slow_in = global::InventoryManagementSystem.Droid.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::XF.Material.Droid.Resource.Layout.abc_action_bar_title_item = global::InventoryManagementSystem.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::XF.Material.Droid.Resource.Layout.abc_action_bar_up_container = global::InventoryManagementSystem.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::XF.Material.Droid.Resource.Layout.abc_action_menu_item_layout = global::InventoryManagementSystem.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::XF.Material.Droid.Resource.Layout.abc_action_menu_layout = global::InventoryManagementSystem.Droid.Resource.Layout.abc_action_menu_layout;
+			global::XF.Material.Droid.Resource.Layout.abc_action_mode_bar = global::InventoryManagementSystem.Droid.Resource.Layout.abc_action_mode_bar;
+			global::XF.Material.Droid.Resource.Layout.abc_action_mode_close_item_material = global::InventoryManagementSystem.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::XF.Material.Droid.Resource.Layout.abc_activity_chooser_view = global::InventoryManagementSystem.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::XF.Material.Droid.Resource.Layout.abc_activity_chooser_view_list_item = global::InventoryManagementSystem.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::XF.Material.Droid.Resource.Layout.abc_alert_dialog_button_bar_material = global::InventoryManagementSystem.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::XF.Material.Droid.Resource.Layout.abc_alert_dialog_material = global::InventoryManagementSystem.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::XF.Material.Droid.Resource.Layout.abc_alert_dialog_title_material = global::InventoryManagementSystem.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::XF.Material.Droid.Resource.Layout.abc_cascading_menu_item_layout = global::InventoryManagementSystem.Droid.Resource.Layout.abc_cascading_menu_item_layout;
+			global::XF.Material.Droid.Resource.Layout.abc_dialog_title_material = global::InventoryManagementSystem.Droid.Resource.Layout.abc_dialog_title_material;
+			global::XF.Material.Droid.Resource.Layout.abc_expanded_menu_layout = global::InventoryManagementSystem.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::XF.Material.Droid.Resource.Layout.abc_list_menu_item_checkbox = global::InventoryManagementSystem.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::XF.Material.Droid.Resource.Layout.abc_list_menu_item_icon = global::InventoryManagementSystem.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::XF.Material.Droid.Resource.Layout.abc_list_menu_item_layout = global::InventoryManagementSystem.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::XF.Material.Droid.Resource.Layout.abc_list_menu_item_radio = global::InventoryManagementSystem.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::XF.Material.Droid.Resource.Layout.abc_popup_menu_header_item_layout = global::InventoryManagementSystem.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::XF.Material.Droid.Resource.Layout.abc_popup_menu_item_layout = global::InventoryManagementSystem.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::XF.Material.Droid.Resource.Layout.abc_screen_content_include = global::InventoryManagementSystem.Droid.Resource.Layout.abc_screen_content_include;
+			global::XF.Material.Droid.Resource.Layout.abc_screen_simple = global::InventoryManagementSystem.Droid.Resource.Layout.abc_screen_simple;
+			global::XF.Material.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode = global::InventoryManagementSystem.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::XF.Material.Droid.Resource.Layout.abc_screen_toolbar = global::InventoryManagementSystem.Droid.Resource.Layout.abc_screen_toolbar;
+			global::XF.Material.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line = global::InventoryManagementSystem.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::XF.Material.Droid.Resource.Layout.abc_search_view = global::InventoryManagementSystem.Droid.Resource.Layout.abc_search_view;
+			global::XF.Material.Droid.Resource.Layout.abc_select_dialog_material = global::InventoryManagementSystem.Droid.Resource.Layout.abc_select_dialog_material;
+			global::XF.Material.Droid.Resource.Layout.abc_tooltip = global::InventoryManagementSystem.Droid.Resource.Layout.abc_tooltip;
+			global::XF.Material.Droid.Resource.Layout.BottomTabLayout = global::InventoryManagementSystem.Droid.Resource.Layout.BottomTabLayout;
+			global::XF.Material.Droid.Resource.Layout.browser_actions_context_menu_page = global::InventoryManagementSystem.Droid.Resource.Layout.browser_actions_context_menu_page;
+			global::XF.Material.Droid.Resource.Layout.browser_actions_context_menu_row = global::InventoryManagementSystem.Droid.Resource.Layout.browser_actions_context_menu_row;
+			global::XF.Material.Droid.Resource.Layout.design_bottom_navigation_item = global::InventoryManagementSystem.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::XF.Material.Droid.Resource.Layout.design_bottom_sheet_dialog = global::InventoryManagementSystem.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::XF.Material.Droid.Resource.Layout.design_layout_snackbar = global::InventoryManagementSystem.Droid.Resource.Layout.design_layout_snackbar;
+			global::XF.Material.Droid.Resource.Layout.design_layout_snackbar_include = global::InventoryManagementSystem.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::XF.Material.Droid.Resource.Layout.design_layout_tab_icon = global::InventoryManagementSystem.Droid.Resource.Layout.design_layout_tab_icon;
+			global::XF.Material.Droid.Resource.Layout.design_layout_tab_text = global::InventoryManagementSystem.Droid.Resource.Layout.design_layout_tab_text;
+			global::XF.Material.Droid.Resource.Layout.design_menu_item_action_area = global::InventoryManagementSystem.Droid.Resource.Layout.design_menu_item_action_area;
+			global::XF.Material.Droid.Resource.Layout.design_navigation_item = global::InventoryManagementSystem.Droid.Resource.Layout.design_navigation_item;
+			global::XF.Material.Droid.Resource.Layout.design_navigation_item_header = global::InventoryManagementSystem.Droid.Resource.Layout.design_navigation_item_header;
+			global::XF.Material.Droid.Resource.Layout.design_navigation_item_separator = global::InventoryManagementSystem.Droid.Resource.Layout.design_navigation_item_separator;
+			global::XF.Material.Droid.Resource.Layout.design_navigation_item_subheader = global::InventoryManagementSystem.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::XF.Material.Droid.Resource.Layout.design_navigation_menu = global::InventoryManagementSystem.Droid.Resource.Layout.design_navigation_menu;
+			global::XF.Material.Droid.Resource.Layout.design_navigation_menu_item = global::InventoryManagementSystem.Droid.Resource.Layout.design_navigation_menu_item;
+			global::XF.Material.Droid.Resource.Layout.design_text_input_password_icon = global::InventoryManagementSystem.Droid.Resource.Layout.design_text_input_password_icon;
+			global::XF.Material.Droid.Resource.Layout.FlyoutContent = global::InventoryManagementSystem.Droid.Resource.Layout.FlyoutContent;
+			global::XF.Material.Droid.Resource.Layout.mr_cast_dialog = global::InventoryManagementSystem.Droid.Resource.Layout.mr_cast_dialog;
+			global::XF.Material.Droid.Resource.Layout.mr_cast_group_item = global::InventoryManagementSystem.Droid.Resource.Layout.mr_cast_group_item;
+			global::XF.Material.Droid.Resource.Layout.mr_cast_group_volume_item = global::InventoryManagementSystem.Droid.Resource.Layout.mr_cast_group_volume_item;
+			global::XF.Material.Droid.Resource.Layout.mr_cast_media_metadata = global::InventoryManagementSystem.Droid.Resource.Layout.mr_cast_media_metadata;
+			global::XF.Material.Droid.Resource.Layout.mr_cast_route_item = global::InventoryManagementSystem.Droid.Resource.Layout.mr_cast_route_item;
+			global::XF.Material.Droid.Resource.Layout.mr_chooser_dialog = global::InventoryManagementSystem.Droid.Resource.Layout.mr_chooser_dialog;
+			global::XF.Material.Droid.Resource.Layout.mr_chooser_list_item = global::InventoryManagementSystem.Droid.Resource.Layout.mr_chooser_list_item;
+			global::XF.Material.Droid.Resource.Layout.mr_controller_material_dialog_b = global::InventoryManagementSystem.Droid.Resource.Layout.mr_controller_material_dialog_b;
+			global::XF.Material.Droid.Resource.Layout.mr_controller_volume_item = global::InventoryManagementSystem.Droid.Resource.Layout.mr_controller_volume_item;
+			global::XF.Material.Droid.Resource.Layout.mr_dialog_header_item = global::InventoryManagementSystem.Droid.Resource.Layout.mr_dialog_header_item;
+			global::XF.Material.Droid.Resource.Layout.mr_picker_dialog = global::InventoryManagementSystem.Droid.Resource.Layout.mr_picker_dialog;
+			global::XF.Material.Droid.Resource.Layout.mr_picker_route_item = global::InventoryManagementSystem.Droid.Resource.Layout.mr_picker_route_item;
+			global::XF.Material.Droid.Resource.Layout.mr_playback_control = global::InventoryManagementSystem.Droid.Resource.Layout.mr_playback_control;
+			global::XF.Material.Droid.Resource.Layout.mr_volume_control = global::InventoryManagementSystem.Droid.Resource.Layout.mr_volume_control;
+			global::XF.Material.Droid.Resource.Layout.mtrl_layout_snackbar = global::InventoryManagementSystem.Droid.Resource.Layout.mtrl_layout_snackbar;
+			global::XF.Material.Droid.Resource.Layout.mtrl_layout_snackbar_include = global::InventoryManagementSystem.Droid.Resource.Layout.mtrl_layout_snackbar_include;
+			global::XF.Material.Droid.Resource.Layout.notification_action = global::InventoryManagementSystem.Droid.Resource.Layout.notification_action;
+			global::XF.Material.Droid.Resource.Layout.notification_action_tombstone = global::InventoryManagementSystem.Droid.Resource.Layout.notification_action_tombstone;
+			global::XF.Material.Droid.Resource.Layout.notification_media_action = global::InventoryManagementSystem.Droid.Resource.Layout.notification_media_action;
+			global::XF.Material.Droid.Resource.Layout.notification_media_cancel_action = global::InventoryManagementSystem.Droid.Resource.Layout.notification_media_cancel_action;
+			global::XF.Material.Droid.Resource.Layout.notification_template_big_media = global::InventoryManagementSystem.Droid.Resource.Layout.notification_template_big_media;
+			global::XF.Material.Droid.Resource.Layout.notification_template_big_media_custom = global::InventoryManagementSystem.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::XF.Material.Droid.Resource.Layout.notification_template_big_media_narrow = global::InventoryManagementSystem.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::XF.Material.Droid.Resource.Layout.notification_template_big_media_narrow_custom = global::InventoryManagementSystem.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::XF.Material.Droid.Resource.Layout.notification_template_custom_big = global::InventoryManagementSystem.Droid.Resource.Layout.notification_template_custom_big;
+			global::XF.Material.Droid.Resource.Layout.notification_template_icon_group = global::InventoryManagementSystem.Droid.Resource.Layout.notification_template_icon_group;
+			global::XF.Material.Droid.Resource.Layout.notification_template_lines_media = global::InventoryManagementSystem.Droid.Resource.Layout.notification_template_lines_media;
+			global::XF.Material.Droid.Resource.Layout.notification_template_media = global::InventoryManagementSystem.Droid.Resource.Layout.notification_template_media;
+			global::XF.Material.Droid.Resource.Layout.notification_template_media_custom = global::InventoryManagementSystem.Droid.Resource.Layout.notification_template_media_custom;
+			global::XF.Material.Droid.Resource.Layout.notification_template_part_chronometer = global::InventoryManagementSystem.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::XF.Material.Droid.Resource.Layout.notification_template_part_time = global::InventoryManagementSystem.Droid.Resource.Layout.notification_template_part_time;
+			global::XF.Material.Droid.Resource.Layout.RootLayout = global::InventoryManagementSystem.Droid.Resource.Layout.RootLayout;
+			global::XF.Material.Droid.Resource.Layout.select_dialog_item_material = global::InventoryManagementSystem.Droid.Resource.Layout.select_dialog_item_material;
+			global::XF.Material.Droid.Resource.Layout.select_dialog_multichoice_material = global::InventoryManagementSystem.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::XF.Material.Droid.Resource.Layout.select_dialog_singlechoice_material = global::InventoryManagementSystem.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::XF.Material.Droid.Resource.Layout.ShellContent = global::InventoryManagementSystem.Droid.Resource.Layout.ShellContent;
+			global::XF.Material.Droid.Resource.Layout.support_simple_spinner_dropdown_item = global::InventoryManagementSystem.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::XF.Material.Droid.Resource.Layout.TextInputLayoutFilledBox = global::InventoryManagementSystem.Droid.Resource.Layout.TextInputLayoutFilledBox;
+			global::XF.Material.Droid.Resource.Layout.TextInputLayoutOutlinedBox = global::InventoryManagementSystem.Droid.Resource.Layout.TextInputLayoutOutlinedBox;
+			global::XF.Material.Droid.Resource.Raw.loading_animation = global::InventoryManagementSystem.Droid.Resource.Raw.loading_animation;
+			global::XF.Material.Droid.Resource.String.abc_action_bar_home_description = global::InventoryManagementSystem.Droid.Resource.String.abc_action_bar_home_description;
+			global::XF.Material.Droid.Resource.String.abc_action_bar_up_description = global::InventoryManagementSystem.Droid.Resource.String.abc_action_bar_up_description;
+			global::XF.Material.Droid.Resource.String.abc_action_menu_overflow_description = global::InventoryManagementSystem.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::XF.Material.Droid.Resource.String.abc_action_mode_done = global::InventoryManagementSystem.Droid.Resource.String.abc_action_mode_done;
+			global::XF.Material.Droid.Resource.String.abc_activity_chooser_view_see_all = global::InventoryManagementSystem.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::XF.Material.Droid.Resource.String.abc_activitychooserview_choose_application = global::InventoryManagementSystem.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::XF.Material.Droid.Resource.String.abc_capital_off = global::InventoryManagementSystem.Droid.Resource.String.abc_capital_off;
+			global::XF.Material.Droid.Resource.String.abc_capital_on = global::InventoryManagementSystem.Droid.Resource.String.abc_capital_on;
+			global::XF.Material.Droid.Resource.String.abc_font_family_body_1_material = global::InventoryManagementSystem.Droid.Resource.String.abc_font_family_body_1_material;
+			global::XF.Material.Droid.Resource.String.abc_font_family_body_2_material = global::InventoryManagementSystem.Droid.Resource.String.abc_font_family_body_2_material;
+			global::XF.Material.Droid.Resource.String.abc_font_family_button_material = global::InventoryManagementSystem.Droid.Resource.String.abc_font_family_button_material;
+			global::XF.Material.Droid.Resource.String.abc_font_family_caption_material = global::InventoryManagementSystem.Droid.Resource.String.abc_font_family_caption_material;
+			global::XF.Material.Droid.Resource.String.abc_font_family_display_1_material = global::InventoryManagementSystem.Droid.Resource.String.abc_font_family_display_1_material;
+			global::XF.Material.Droid.Resource.String.abc_font_family_display_2_material = global::InventoryManagementSystem.Droid.Resource.String.abc_font_family_display_2_material;
+			global::XF.Material.Droid.Resource.String.abc_font_family_display_3_material = global::InventoryManagementSystem.Droid.Resource.String.abc_font_family_display_3_material;
+			global::XF.Material.Droid.Resource.String.abc_font_family_display_4_material = global::InventoryManagementSystem.Droid.Resource.String.abc_font_family_display_4_material;
+			global::XF.Material.Droid.Resource.String.abc_font_family_headline_material = global::InventoryManagementSystem.Droid.Resource.String.abc_font_family_headline_material;
+			global::XF.Material.Droid.Resource.String.abc_font_family_menu_material = global::InventoryManagementSystem.Droid.Resource.String.abc_font_family_menu_material;
+			global::XF.Material.Droid.Resource.String.abc_font_family_subhead_material = global::InventoryManagementSystem.Droid.Resource.String.abc_font_family_subhead_material;
+			global::XF.Material.Droid.Resource.String.abc_font_family_title_material = global::InventoryManagementSystem.Droid.Resource.String.abc_font_family_title_material;
+			global::XF.Material.Droid.Resource.String.abc_menu_alt_shortcut_label = global::InventoryManagementSystem.Droid.Resource.String.abc_menu_alt_shortcut_label;
+			global::XF.Material.Droid.Resource.String.abc_menu_ctrl_shortcut_label = global::InventoryManagementSystem.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::XF.Material.Droid.Resource.String.abc_menu_delete_shortcut_label = global::InventoryManagementSystem.Droid.Resource.String.abc_menu_delete_shortcut_label;
+			global::XF.Material.Droid.Resource.String.abc_menu_enter_shortcut_label = global::InventoryManagementSystem.Droid.Resource.String.abc_menu_enter_shortcut_label;
+			global::XF.Material.Droid.Resource.String.abc_menu_function_shortcut_label = global::InventoryManagementSystem.Droid.Resource.String.abc_menu_function_shortcut_label;
+			global::XF.Material.Droid.Resource.String.abc_menu_meta_shortcut_label = global::InventoryManagementSystem.Droid.Resource.String.abc_menu_meta_shortcut_label;
+			global::XF.Material.Droid.Resource.String.abc_menu_shift_shortcut_label = global::InventoryManagementSystem.Droid.Resource.String.abc_menu_shift_shortcut_label;
+			global::XF.Material.Droid.Resource.String.abc_menu_space_shortcut_label = global::InventoryManagementSystem.Droid.Resource.String.abc_menu_space_shortcut_label;
+			global::XF.Material.Droid.Resource.String.abc_menu_sym_shortcut_label = global::InventoryManagementSystem.Droid.Resource.String.abc_menu_sym_shortcut_label;
+			global::XF.Material.Droid.Resource.String.abc_prepend_shortcut_label = global::InventoryManagementSystem.Droid.Resource.String.abc_prepend_shortcut_label;
+			global::XF.Material.Droid.Resource.String.abc_search_hint = global::InventoryManagementSystem.Droid.Resource.String.abc_search_hint;
+			global::XF.Material.Droid.Resource.String.abc_searchview_description_clear = global::InventoryManagementSystem.Droid.Resource.String.abc_searchview_description_clear;
+			global::XF.Material.Droid.Resource.String.abc_searchview_description_query = global::InventoryManagementSystem.Droid.Resource.String.abc_searchview_description_query;
+			global::XF.Material.Droid.Resource.String.abc_searchview_description_search = global::InventoryManagementSystem.Droid.Resource.String.abc_searchview_description_search;
+			global::XF.Material.Droid.Resource.String.abc_searchview_description_submit = global::InventoryManagementSystem.Droid.Resource.String.abc_searchview_description_submit;
+			global::XF.Material.Droid.Resource.String.abc_searchview_description_voice = global::InventoryManagementSystem.Droid.Resource.String.abc_searchview_description_voice;
+			global::XF.Material.Droid.Resource.String.abc_shareactionprovider_share_with = global::InventoryManagementSystem.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::XF.Material.Droid.Resource.String.abc_shareactionprovider_share_with_application = global::InventoryManagementSystem.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::XF.Material.Droid.Resource.String.abc_toolbar_collapse_description = global::InventoryManagementSystem.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::XF.Material.Droid.Resource.String.app_name = global::InventoryManagementSystem.Droid.Resource.String.app_name;
+			global::XF.Material.Droid.Resource.String.appbar_scrolling_view_behavior = global::InventoryManagementSystem.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::XF.Material.Droid.Resource.String.bottom_sheet_behavior = global::InventoryManagementSystem.Droid.Resource.String.bottom_sheet_behavior;
+			global::XF.Material.Droid.Resource.String.character_counter_content_description = global::InventoryManagementSystem.Droid.Resource.String.character_counter_content_description;
+			global::XF.Material.Droid.Resource.String.character_counter_pattern = global::InventoryManagementSystem.Droid.Resource.String.character_counter_pattern;
+			global::XF.Material.Droid.Resource.String.fab_transformation_scrim_behavior = global::InventoryManagementSystem.Droid.Resource.String.fab_transformation_scrim_behavior;
+			global::XF.Material.Droid.Resource.String.fab_transformation_sheet_behavior = global::InventoryManagementSystem.Droid.Resource.String.fab_transformation_sheet_behavior;
+			global::XF.Material.Droid.Resource.String.hello = global::InventoryManagementSystem.Droid.Resource.String.hello;
+			global::XF.Material.Droid.Resource.String.hide_bottom_view_on_scroll_behavior = global::InventoryManagementSystem.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::XF.Material.Droid.Resource.String.mr_button_content_description = global::InventoryManagementSystem.Droid.Resource.String.mr_button_content_description;
+			global::XF.Material.Droid.Resource.String.mr_cast_button_connected = global::InventoryManagementSystem.Droid.Resource.String.mr_cast_button_connected;
+			global::XF.Material.Droid.Resource.String.mr_cast_button_connecting = global::InventoryManagementSystem.Droid.Resource.String.mr_cast_button_connecting;
+			global::XF.Material.Droid.Resource.String.mr_cast_button_disconnected = global::InventoryManagementSystem.Droid.Resource.String.mr_cast_button_disconnected;
+			global::XF.Material.Droid.Resource.String.mr_cast_dialog_title_view_placeholder = global::InventoryManagementSystem.Droid.Resource.String.mr_cast_dialog_title_view_placeholder;
+			global::XF.Material.Droid.Resource.String.mr_chooser_searching = global::InventoryManagementSystem.Droid.Resource.String.mr_chooser_searching;
+			global::XF.Material.Droid.Resource.String.mr_chooser_title = global::InventoryManagementSystem.Droid.Resource.String.mr_chooser_title;
+			global::XF.Material.Droid.Resource.String.mr_controller_album_art = global::InventoryManagementSystem.Droid.Resource.String.mr_controller_album_art;
+			global::XF.Material.Droid.Resource.String.mr_controller_casting_screen = global::InventoryManagementSystem.Droid.Resource.String.mr_controller_casting_screen;
+			global::XF.Material.Droid.Resource.String.mr_controller_close_description = global::InventoryManagementSystem.Droid.Resource.String.mr_controller_close_description;
+			global::XF.Material.Droid.Resource.String.mr_controller_collapse_group = global::InventoryManagementSystem.Droid.Resource.String.mr_controller_collapse_group;
+			global::XF.Material.Droid.Resource.String.mr_controller_disconnect = global::InventoryManagementSystem.Droid.Resource.String.mr_controller_disconnect;
+			global::XF.Material.Droid.Resource.String.mr_controller_expand_group = global::InventoryManagementSystem.Droid.Resource.String.mr_controller_expand_group;
+			global::XF.Material.Droid.Resource.String.mr_controller_no_info_available = global::InventoryManagementSystem.Droid.Resource.String.mr_controller_no_info_available;
+			global::XF.Material.Droid.Resource.String.mr_controller_no_media_selected = global::InventoryManagementSystem.Droid.Resource.String.mr_controller_no_media_selected;
+			global::XF.Material.Droid.Resource.String.mr_controller_pause = global::InventoryManagementSystem.Droid.Resource.String.mr_controller_pause;
+			global::XF.Material.Droid.Resource.String.mr_controller_play = global::InventoryManagementSystem.Droid.Resource.String.mr_controller_play;
+			global::XF.Material.Droid.Resource.String.mr_controller_stop = global::InventoryManagementSystem.Droid.Resource.String.mr_controller_stop;
+			global::XF.Material.Droid.Resource.String.mr_controller_stop_casting = global::InventoryManagementSystem.Droid.Resource.String.mr_controller_stop_casting;
+			global::XF.Material.Droid.Resource.String.mr_controller_volume_slider = global::InventoryManagementSystem.Droid.Resource.String.mr_controller_volume_slider;
+			global::XF.Material.Droid.Resource.String.mr_dialog_device_header = global::InventoryManagementSystem.Droid.Resource.String.mr_dialog_device_header;
+			global::XF.Material.Droid.Resource.String.mr_dialog_route_header = global::InventoryManagementSystem.Droid.Resource.String.mr_dialog_route_header;
+			global::XF.Material.Droid.Resource.String.mr_system_route_name = global::InventoryManagementSystem.Droid.Resource.String.mr_system_route_name;
+			global::XF.Material.Droid.Resource.String.mr_user_route_category_name = global::InventoryManagementSystem.Droid.Resource.String.mr_user_route_category_name;
+			global::XF.Material.Droid.Resource.String.mtrl_chip_close_icon_content_description = global::InventoryManagementSystem.Droid.Resource.String.mtrl_chip_close_icon_content_description;
+			global::XF.Material.Droid.Resource.String.password_toggle_content_description = global::InventoryManagementSystem.Droid.Resource.String.password_toggle_content_description;
+			global::XF.Material.Droid.Resource.String.path_password_eye = global::InventoryManagementSystem.Droid.Resource.String.path_password_eye;
+			global::XF.Material.Droid.Resource.String.path_password_eye_mask_strike_through = global::InventoryManagementSystem.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::XF.Material.Droid.Resource.String.path_password_eye_mask_visible = global::InventoryManagementSystem.Droid.Resource.String.path_password_eye_mask_visible;
+			global::XF.Material.Droid.Resource.String.path_password_strike_through = global::InventoryManagementSystem.Droid.Resource.String.path_password_strike_through;
+			global::XF.Material.Droid.Resource.String.search_menu_title = global::InventoryManagementSystem.Droid.Resource.String.search_menu_title;
+			global::XF.Material.Droid.Resource.String.status_bar_notification_info_overflow = global::InventoryManagementSystem.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::XF.Material.Droid.Resource.Style.AlertDialog_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::XF.Material.Droid.Resource.Style.AlertDialog_AppCompat_Light = global::InventoryManagementSystem.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::XF.Material.Droid.Resource.Style.Animation_AppCompat_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::XF.Material.Droid.Resource.Style.Animation_AppCompat_DropDownUp = global::InventoryManagementSystem.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::XF.Material.Droid.Resource.Style.Animation_AppCompat_Tooltip = global::InventoryManagementSystem.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::XF.Material.Droid.Resource.Style.Animation_Design_BottomSheetDialog = global::InventoryManagementSystem.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::XF.Material.Droid.Resource.Style.Base_AlertDialog_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::XF.Material.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light = global::InventoryManagementSystem.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::XF.Material.Droid.Resource.Style.Base_Animation_AppCompat_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::XF.Material.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::InventoryManagementSystem.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::XF.Material.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip = global::InventoryManagementSystem.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::XF.Material.Droid.Resource.Style.Base_CardView = global::InventoryManagementSystem.Droid.Resource.Style.Base_CardView;
+			global::XF.Material.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::XF.Material.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::XF.Material.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::InventoryManagementSystem.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_AppCompat_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_AppCompat_Light = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_MaterialComponents = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_MaterialComponents;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_MaterialComponents_Light = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::XF.Material.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::InventoryManagementSystem.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::XF.Material.Droid.Resource.Style.Base_ThemeOverlay_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::XF.Material.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::XF.Material.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::InventoryManagementSystem.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::XF.Material.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::XF.Material.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::XF.Material.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::InventoryManagementSystem.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::XF.Material.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::InventoryManagementSystem.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::XF.Material.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::XF.Material.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::InventoryManagementSystem.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::XF.Material.Droid.Resource.Style.Base_V14_Theme_MaterialComponents = global::InventoryManagementSystem.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::XF.Material.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::InventoryManagementSystem.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::XF.Material.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::XF.Material.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::InventoryManagementSystem.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::XF.Material.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::InventoryManagementSystem.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::XF.Material.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::InventoryManagementSystem.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::XF.Material.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::XF.Material.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::XF.Material.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::InventoryManagementSystem.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::XF.Material.Droid.Resource.Style.Base_V21_Theme_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::XF.Material.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::XF.Material.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light = global::InventoryManagementSystem.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::XF.Material.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::XF.Material.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::XF.Material.Droid.Resource.Style.Base_V22_Theme_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::XF.Material.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light = global::InventoryManagementSystem.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::XF.Material.Droid.Resource.Style.Base_V23_Theme_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::XF.Material.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light = global::InventoryManagementSystem.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::XF.Material.Droid.Resource.Style.Base_V26_Theme_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::XF.Material.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light = global::InventoryManagementSystem.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::XF.Material.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::InventoryManagementSystem.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::XF.Material.Droid.Resource.Style.Base_V28_Theme_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.Base_V28_Theme_AppCompat;
+			global::XF.Material.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light = global::InventoryManagementSystem.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::XF.Material.Droid.Resource.Style.Base_V7_Theme_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::XF.Material.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::XF.Material.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light = global::InventoryManagementSystem.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::XF.Material.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::XF.Material.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::XF.Material.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::InventoryManagementSystem.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::XF.Material.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::InventoryManagementSystem.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::XF.Material.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::InventoryManagementSystem.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_Button = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_EditText = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ListView = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_SearchView = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_Spinner = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_Design_TabLayout = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::XF.Material.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::InventoryManagementSystem.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::XF.Material.Droid.Resource.Style.CardView = global::InventoryManagementSystem.Droid.Resource.Style.CardView;
+			global::XF.Material.Droid.Resource.Style.CardView_Dark = global::InventoryManagementSystem.Droid.Resource.Style.CardView_Dark;
+			global::XF.Material.Droid.Resource.Style.CardView_Light = global::InventoryManagementSystem.Droid.Resource.Style.CardView_Light;
+			global::XF.Material.Droid.Resource.Style.Platform_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.Platform_AppCompat;
+			global::XF.Material.Droid.Resource.Style.Platform_AppCompat_Light = global::InventoryManagementSystem.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::XF.Material.Droid.Resource.Style.Platform_MaterialComponents = global::InventoryManagementSystem.Droid.Resource.Style.Platform_MaterialComponents;
+			global::XF.Material.Droid.Resource.Style.Platform_MaterialComponents_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::XF.Material.Droid.Resource.Style.Platform_MaterialComponents_Light = global::InventoryManagementSystem.Droid.Resource.Style.Platform_MaterialComponents_Light;
+			global::XF.Material.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::XF.Material.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::XF.Material.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::InventoryManagementSystem.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::XF.Material.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::InventoryManagementSystem.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::XF.Material.Droid.Resource.Style.Platform_V21_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::XF.Material.Droid.Resource.Style.Platform_V21_AppCompat_Light = global::InventoryManagementSystem.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::XF.Material.Droid.Resource.Style.Platform_V25_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::XF.Material.Droid.Resource.Style.Platform_V25_AppCompat_Light = global::InventoryManagementSystem.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::XF.Material.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner = global::InventoryManagementSystem.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::XF.Material.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::XF.Material.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::InventoryManagementSystem.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::XF.Material.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::InventoryManagementSystem.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::XF.Material.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::InventoryManagementSystem.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::XF.Material.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::InventoryManagementSystem.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::XF.Material.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::InventoryManagementSystem.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::XF.Material.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::InventoryManagementSystem.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::XF.Material.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::InventoryManagementSystem.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::XF.Material.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::InventoryManagementSystem.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::XF.Material.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::InventoryManagementSystem.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::XF.Material.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::InventoryManagementSystem.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::XF.Material.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::InventoryManagementSystem.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::XF.Material.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::InventoryManagementSystem.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::XF.Material.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::InventoryManagementSystem.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::XF.Material.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::InventoryManagementSystem.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::XF.Material.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::InventoryManagementSystem.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::XF.Material.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::InventoryManagementSystem.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Body1 = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Body2 = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Button = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Caption = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Display1 = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Display2 = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Display3 = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Display4 = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Headline = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Large = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Medium = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Menu = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Small = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Subhead = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Title = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Compat_Notification = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Compat_Notification_Info = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Compat_Notification_Media = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Compat_Notification_Time = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Compat_Notification_Title = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Design_Counter = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Design_Error = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Design_HelperText = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Design_HelperText;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Design_Hint = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Design_Tab = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_MaterialComponents_Button = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_MaterialComponents_Tab = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_MaterialComponents_Tab;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_MediaRouter_PrimaryText = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_MediaRouter_PrimaryText;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_MediaRouter_SecondaryText = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_MediaRouter_SecondaryText;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_MediaRouter_Title = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_MediaRouter_Title;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::XF.Material.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::InventoryManagementSystem.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_CompactMenu = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_DayNight = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_Light = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_Light_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::XF.Material.Droid.Resource.Style.Theme_AppCompat_NoActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::XF.Material.Droid.Resource.Style.Theme_Design = global::InventoryManagementSystem.Droid.Resource.Style.Theme_Design;
+			global::XF.Material.Droid.Resource.Style.Theme_Design_BottomSheetDialog = global::InventoryManagementSystem.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::XF.Material.Droid.Resource.Style.Theme_Design_Light = global::InventoryManagementSystem.Droid.Resource.Style.Theme_Design_Light;
+			global::XF.Material.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::InventoryManagementSystem.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::XF.Material.Droid.Resource.Style.Theme_Design_Light_NoActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::XF.Material.Droid.Resource.Style.Theme_Design_NoActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_Bridge = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_Light = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_Light;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::XF.Material.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::XF.Material.Droid.Resource.Style.Theme_MediaRouter = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MediaRouter;
+			global::XF.Material.Droid.Resource.Style.Theme_MediaRouter_Light = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MediaRouter_Light;
+			global::XF.Material.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel;
+			global::XF.Material.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel = global::InventoryManagementSystem.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_AppCompat = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_AppCompat_Light = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_MaterialComponents = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_MediaRouter_Dark = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_MediaRouter_Dark;
+			global::XF.Material.Droid.Resource.Style.ThemeOverlay_MediaRouter_Light = global::InventoryManagementSystem.Droid.Resource.Style.ThemeOverlay_MediaRouter_Light;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ActionButton = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ActionMode = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Button = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Button_Borderless = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Button_Colored = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Button_Small = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ButtonBar = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_EditText = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ImageButton = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_SearchView = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ListMenuView = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ListView = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ListView_Menu = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_PopupMenu = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_PopupWindow = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ProgressBar = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_RatingBar = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_SearchView = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_SeekBar = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Spinner = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Toolbar = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::XF.Material.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::InventoryManagementSystem.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::XF.Material.Droid.Resource.Style.Widget_Compat_NotificationActionContainer = global::InventoryManagementSystem.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::XF.Material.Droid.Resource.Style.Widget_Compat_NotificationActionText = global::InventoryManagementSystem.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::XF.Material.Droid.Resource.Style.Widget_Design_AppBarLayout = global::InventoryManagementSystem.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::XF.Material.Droid.Resource.Style.Widget_Design_BottomNavigationView = global::InventoryManagementSystem.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::XF.Material.Droid.Resource.Style.Widget_Design_BottomSheet_Modal = global::InventoryManagementSystem.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::XF.Material.Droid.Resource.Style.Widget_Design_CollapsingToolbar = global::InventoryManagementSystem.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::XF.Material.Droid.Resource.Style.Widget_Design_FloatingActionButton = global::InventoryManagementSystem.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::XF.Material.Droid.Resource.Style.Widget_Design_NavigationView = global::InventoryManagementSystem.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::XF.Material.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::InventoryManagementSystem.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::XF.Material.Droid.Resource.Style.Widget_Design_Snackbar = global::InventoryManagementSystem.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::XF.Material.Droid.Resource.Style.Widget_Design_TabLayout = global::InventoryManagementSystem.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::XF.Material.Droid.Resource.Style.Widget_Design_TextInputLayout = global::InventoryManagementSystem.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_Button = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_Button;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_CardView = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_CardView;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_NavigationView = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_Snackbar = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_TabLayout = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::XF.Material.Droid.Resource.Style.Widget_MaterialComponents_Toolbar = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::XF.Material.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton;
+			global::XF.Material.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton = global::InventoryManagementSystem.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton;
+			global::XF.Material.Droid.Resource.Style.Widget_Support_CoordinatorLayout = global::InventoryManagementSystem.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::XF.Material.Droid.Resource.Style.XamarinFormsMaterialProgressBarCircular = global::InventoryManagementSystem.Droid.Resource.Style.XamarinFormsMaterialProgressBarCircular;
+			global::XF.Material.Droid.Resource.Style.XamarinFormsMaterialProgressBarHorizontal = global::InventoryManagementSystem.Droid.Resource.Style.XamarinFormsMaterialProgressBarHorizontal;
+			global::XF.Material.Droid.Resource.Style.XamarinFormsMaterialTextInputLayoutFilledBox = global::InventoryManagementSystem.Droid.Resource.Style.XamarinFormsMaterialTextInputLayoutFilledBox;
+			global::XF.Material.Droid.Resource.Style.XamarinFormsMaterialTheme = global::InventoryManagementSystem.Droid.Resource.Style.XamarinFormsMaterialTheme;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_background = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_background;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_backgroundSplit = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_backgroundStacked = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_contentInsetEnd = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_contentInsetLeft = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_contentInsetRight = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_contentInsetStart = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_customNavigationLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_displayOptions = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_divider = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_divider;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_elevation = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_elevation;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_height = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_height;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_hideOnContentScroll = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_homeLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_icon = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_icon;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_itemPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_logo = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_logo;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_navigationMode = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_popupTheme = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_progressBarPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_progressBarStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_subtitle = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_subtitleTextStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_title = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_title;
+			global::XF.Material.Droid.Resource.Styleable.ActionBar_titleTextStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::XF.Material.Droid.Resource.Styleable.ActionBarLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBarLayout;
+			global::XF.Material.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::XF.Material.Droid.Resource.Styleable.ActionMenuItemView = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionMenuItemView;
+			global::XF.Material.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::XF.Material.Droid.Resource.Styleable.ActionMenuView = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionMenuView;
+			global::XF.Material.Droid.Resource.Styleable.ActionMode = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionMode;
+			global::XF.Material.Droid.Resource.Styleable.ActionMode_background = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionMode_background;
+			global::XF.Material.Droid.Resource.Styleable.ActionMode_backgroundSplit = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::XF.Material.Droid.Resource.Styleable.ActionMode_closeItemLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::XF.Material.Droid.Resource.Styleable.ActionMode_height = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionMode_height;
+			global::XF.Material.Droid.Resource.Styleable.ActionMode_subtitleTextStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::XF.Material.Droid.Resource.Styleable.ActionMode_titleTextStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::XF.Material.Droid.Resource.Styleable.ActivityChooserView = global::InventoryManagementSystem.Droid.Resource.Styleable.ActivityChooserView;
+			global::XF.Material.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::InventoryManagementSystem.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::XF.Material.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount = global::InventoryManagementSystem.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::XF.Material.Droid.Resource.Styleable.AlertDialog = global::InventoryManagementSystem.Droid.Resource.Styleable.AlertDialog;
+			global::XF.Material.Droid.Resource.Styleable.AlertDialog_android_layout = global::InventoryManagementSystem.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::XF.Material.Droid.Resource.Styleable.AlertDialog_buttonIconDimen = global::InventoryManagementSystem.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::XF.Material.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::XF.Material.Droid.Resource.Styleable.AlertDialog_listItemLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::XF.Material.Droid.Resource.Styleable.AlertDialog_listLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::XF.Material.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::XF.Material.Droid.Resource.Styleable.AlertDialog_showTitle = global::InventoryManagementSystem.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::XF.Material.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::XF.Material.Droid.Resource.Styleable.AnimatedStateListDrawableCompat = global::InventoryManagementSystem.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::XF.Material.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::InventoryManagementSystem.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::XF.Material.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::InventoryManagementSystem.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::XF.Material.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::InventoryManagementSystem.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::XF.Material.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::InventoryManagementSystem.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::XF.Material.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::InventoryManagementSystem.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::XF.Material.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::InventoryManagementSystem.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::XF.Material.Droid.Resource.Styleable.AnimatedStateListDrawableItem = global::InventoryManagementSystem.Droid.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::XF.Material.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::InventoryManagementSystem.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::XF.Material.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::InventoryManagementSystem.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::XF.Material.Droid.Resource.Styleable.AnimatedStateListDrawableTransition = global::InventoryManagementSystem.Droid.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::XF.Material.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::InventoryManagementSystem.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::XF.Material.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::InventoryManagementSystem.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::XF.Material.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::InventoryManagementSystem.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::XF.Material.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::InventoryManagementSystem.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::XF.Material.Droid.Resource.Styleable.AppBarLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.AppBarLayout;
+			global::XF.Material.Droid.Resource.Styleable.AppBarLayout_android_background = global::InventoryManagementSystem.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::XF.Material.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::InventoryManagementSystem.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::XF.Material.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::InventoryManagementSystem.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::XF.Material.Droid.Resource.Styleable.AppBarLayout_elevation = global::InventoryManagementSystem.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::XF.Material.Droid.Resource.Styleable.AppBarLayout_expanded = global::InventoryManagementSystem.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::XF.Material.Droid.Resource.Styleable.AppBarLayout_liftOnScroll = global::InventoryManagementSystem.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::XF.Material.Droid.Resource.Styleable.AppBarLayoutStates = global::InventoryManagementSystem.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::XF.Material.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::InventoryManagementSystem.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::XF.Material.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::InventoryManagementSystem.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::XF.Material.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable = global::InventoryManagementSystem.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::XF.Material.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted = global::InventoryManagementSystem.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::XF.Material.Droid.Resource.Styleable.AppBarLayout_Layout = global::InventoryManagementSystem.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::XF.Material.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::InventoryManagementSystem.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::XF.Material.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::InventoryManagementSystem.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatImageView = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatImageView;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatImageView_android_src = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatImageView_srcCompat = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatImageView_tint = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatImageView_tintMode = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatSeekBar = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatSeekBar_tickMark = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextHelper = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextView = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextView;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextView_fontFamily = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextView_lineHeight = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTextView_textAllCaps = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionBarSize = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_buttonStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_colorAccent = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_colorError = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_colorPrimary = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_controlBackground = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_dialogTheme = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_dividerVertical = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_editTextBackground = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_editTextColor = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_editTextStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_panelBackground = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_switchStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_windowActionBar = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::XF.Material.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle = global::InventoryManagementSystem.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::XF.Material.Droid.Resource.Styleable.BottomAppBar = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomAppBar;
+			global::XF.Material.Droid.Resource.Styleable.BottomAppBar_backgroundTint = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::XF.Material.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::XF.Material.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::XF.Material.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::XF.Material.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::XF.Material.Droid.Resource.Styleable.BottomAppBar_hideOnScroll = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::XF.Material.Droid.Resource.Styleable.BottomNavigationView = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomNavigationView;
+			global::XF.Material.Droid.Resource.Styleable.BottomNavigationView_elevation = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomNavigationView_elevation;
+			global::XF.Material.Droid.Resource.Styleable.BottomNavigationView_itemBackground = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::XF.Material.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::XF.Material.Droid.Resource.Styleable.BottomNavigationView_itemIconSize = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomNavigationView_itemIconSize;
+			global::XF.Material.Droid.Resource.Styleable.BottomNavigationView_itemIconTint = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::XF.Material.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
+			global::XF.Material.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
+			global::XF.Material.Droid.Resource.Styleable.BottomNavigationView_itemTextColor = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::XF.Material.Droid.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
+			global::XF.Material.Droid.Resource.Styleable.BottomNavigationView_menu = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomNavigationView_menu;
+			global::XF.Material.Droid.Resource.Styleable.BottomSheetBehavior_Layout = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::XF.Material.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::XF.Material.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::XF.Material.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::XF.Material.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::InventoryManagementSystem.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::XF.Material.Droid.Resource.Styleable.ButtonBarLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.ButtonBarLayout;
+			global::XF.Material.Droid.Resource.Styleable.ButtonBarLayout_allowStacking = global::InventoryManagementSystem.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::XF.Material.Droid.Resource.Styleable.CardView = global::InventoryManagementSystem.Droid.Resource.Styleable.CardView;
+			global::XF.Material.Droid.Resource.Styleable.CardView_android_minHeight = global::InventoryManagementSystem.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::XF.Material.Droid.Resource.Styleable.CardView_android_minWidth = global::InventoryManagementSystem.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::XF.Material.Droid.Resource.Styleable.CardView_cardBackgroundColor = global::InventoryManagementSystem.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::XF.Material.Droid.Resource.Styleable.CardView_cardCornerRadius = global::InventoryManagementSystem.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::XF.Material.Droid.Resource.Styleable.CardView_cardElevation = global::InventoryManagementSystem.Droid.Resource.Styleable.CardView_cardElevation;
+			global::XF.Material.Droid.Resource.Styleable.CardView_cardMaxElevation = global::InventoryManagementSystem.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::XF.Material.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap = global::InventoryManagementSystem.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::XF.Material.Droid.Resource.Styleable.CardView_cardUseCompatPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::XF.Material.Droid.Resource.Styleable.CardView_contentPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.CardView_contentPadding;
+			global::XF.Material.Droid.Resource.Styleable.CardView_contentPaddingBottom = global::InventoryManagementSystem.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::XF.Material.Droid.Resource.Styleable.CardView_contentPaddingLeft = global::InventoryManagementSystem.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::XF.Material.Droid.Resource.Styleable.CardView_contentPaddingRight = global::InventoryManagementSystem.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::XF.Material.Droid.Resource.Styleable.CardView_contentPaddingTop = global::InventoryManagementSystem.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::XF.Material.Droid.Resource.Styleable.Chip = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip;
+			global::XF.Material.Droid.Resource.Styleable.Chip_android_checkable = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_android_checkable;
+			global::XF.Material.Droid.Resource.Styleable.Chip_android_ellipsize = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_android_ellipsize;
+			global::XF.Material.Droid.Resource.Styleable.Chip_android_maxWidth = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_android_maxWidth;
+			global::XF.Material.Droid.Resource.Styleable.Chip_android_text = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_android_text;
+			global::XF.Material.Droid.Resource.Styleable.Chip_android_textAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_android_textAppearance;
+			global::XF.Material.Droid.Resource.Styleable.Chip_checkedIcon = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_checkedIcon;
+			global::XF.Material.Droid.Resource.Styleable.Chip_checkedIconEnabled = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_checkedIconEnabled;
+			global::XF.Material.Droid.Resource.Styleable.Chip_checkedIconVisible = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_checkedIconVisible;
+			global::XF.Material.Droid.Resource.Styleable.Chip_chipBackgroundColor = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_chipBackgroundColor;
+			global::XF.Material.Droid.Resource.Styleable.Chip_chipCornerRadius = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_chipCornerRadius;
+			global::XF.Material.Droid.Resource.Styleable.Chip_chipEndPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_chipEndPadding;
+			global::XF.Material.Droid.Resource.Styleable.Chip_chipIcon = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_chipIcon;
+			global::XF.Material.Droid.Resource.Styleable.Chip_chipIconEnabled = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_chipIconEnabled;
+			global::XF.Material.Droid.Resource.Styleable.Chip_chipIconSize = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_chipIconSize;
+			global::XF.Material.Droid.Resource.Styleable.Chip_chipIconTint = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_chipIconTint;
+			global::XF.Material.Droid.Resource.Styleable.Chip_chipIconVisible = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_chipIconVisible;
+			global::XF.Material.Droid.Resource.Styleable.Chip_chipMinHeight = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_chipMinHeight;
+			global::XF.Material.Droid.Resource.Styleable.Chip_chipStartPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_chipStartPadding;
+			global::XF.Material.Droid.Resource.Styleable.Chip_chipStrokeColor = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_chipStrokeColor;
+			global::XF.Material.Droid.Resource.Styleable.Chip_chipStrokeWidth = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_chipStrokeWidth;
+			global::XF.Material.Droid.Resource.Styleable.Chip_closeIcon = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_closeIcon;
+			global::XF.Material.Droid.Resource.Styleable.Chip_closeIconEnabled = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_closeIconEnabled;
+			global::XF.Material.Droid.Resource.Styleable.Chip_closeIconEndPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_closeIconEndPadding;
+			global::XF.Material.Droid.Resource.Styleable.Chip_closeIconSize = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_closeIconSize;
+			global::XF.Material.Droid.Resource.Styleable.Chip_closeIconStartPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_closeIconStartPadding;
+			global::XF.Material.Droid.Resource.Styleable.Chip_closeIconTint = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_closeIconTint;
+			global::XF.Material.Droid.Resource.Styleable.Chip_closeIconVisible = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_closeIconVisible;
+			global::XF.Material.Droid.Resource.Styleable.Chip_hideMotionSpec = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_hideMotionSpec;
+			global::XF.Material.Droid.Resource.Styleable.Chip_iconEndPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_iconEndPadding;
+			global::XF.Material.Droid.Resource.Styleable.Chip_iconStartPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_iconStartPadding;
+			global::XF.Material.Droid.Resource.Styleable.Chip_rippleColor = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_rippleColor;
+			global::XF.Material.Droid.Resource.Styleable.Chip_showMotionSpec = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_showMotionSpec;
+			global::XF.Material.Droid.Resource.Styleable.Chip_textEndPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_textEndPadding;
+			global::XF.Material.Droid.Resource.Styleable.Chip_textStartPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.Chip_textStartPadding;
+			global::XF.Material.Droid.Resource.Styleable.ChipGroup = global::InventoryManagementSystem.Droid.Resource.Styleable.ChipGroup;
+			global::XF.Material.Droid.Resource.Styleable.ChipGroup_checkedChip = global::InventoryManagementSystem.Droid.Resource.Styleable.ChipGroup_checkedChip;
+			global::XF.Material.Droid.Resource.Styleable.ChipGroup_chipSpacing = global::InventoryManagementSystem.Droid.Resource.Styleable.ChipGroup_chipSpacing;
+			global::XF.Material.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::InventoryManagementSystem.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::XF.Material.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical = global::InventoryManagementSystem.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::XF.Material.Droid.Resource.Styleable.ChipGroup_singleLine = global::InventoryManagementSystem.Droid.Resource.Styleable.ChipGroup_singleLine;
+			global::XF.Material.Droid.Resource.Styleable.ChipGroup_singleSelection = global::InventoryManagementSystem.Droid.Resource.Styleable.ChipGroup_singleSelection;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout_title = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::XF.Material.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::InventoryManagementSystem.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::XF.Material.Droid.Resource.Styleable.ColorStateListItem = global::InventoryManagementSystem.Droid.Resource.Styleable.ColorStateListItem;
+			global::XF.Material.Droid.Resource.Styleable.ColorStateListItem_alpha = global::InventoryManagementSystem.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::XF.Material.Droid.Resource.Styleable.ColorStateListItem_android_alpha = global::InventoryManagementSystem.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::XF.Material.Droid.Resource.Styleable.ColorStateListItem_android_color = global::InventoryManagementSystem.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::XF.Material.Droid.Resource.Styleable.CompoundButton = global::InventoryManagementSystem.Droid.Resource.Styleable.CompoundButton;
+			global::XF.Material.Droid.Resource.Styleable.CompoundButton_android_button = global::InventoryManagementSystem.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::XF.Material.Droid.Resource.Styleable.CompoundButton_buttonTint = global::InventoryManagementSystem.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::XF.Material.Droid.Resource.Styleable.CompoundButton_buttonTintMode = global::InventoryManagementSystem.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::XF.Material.Droid.Resource.Styleable.CoordinatorLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.CoordinatorLayout;
+			global::XF.Material.Droid.Resource.Styleable.CoordinatorLayout_keylines = global::InventoryManagementSystem.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::XF.Material.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::InventoryManagementSystem.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::XF.Material.Droid.Resource.Styleable.CoordinatorLayout_Layout = global::InventoryManagementSystem.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::XF.Material.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::InventoryManagementSystem.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::XF.Material.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::InventoryManagementSystem.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::XF.Material.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::InventoryManagementSystem.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::XF.Material.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::InventoryManagementSystem.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::XF.Material.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::InventoryManagementSystem.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::XF.Material.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::InventoryManagementSystem.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::XF.Material.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::InventoryManagementSystem.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::XF.Material.Droid.Resource.Styleable.DesignTheme = global::InventoryManagementSystem.Droid.Resource.Styleable.DesignTheme;
+			global::XF.Material.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::InventoryManagementSystem.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::XF.Material.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::XF.Material.Droid.Resource.Styleable.DrawerArrowToggle = global::InventoryManagementSystem.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::XF.Material.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::InventoryManagementSystem.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::XF.Material.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::InventoryManagementSystem.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::XF.Material.Droid.Resource.Styleable.DrawerArrowToggle_barLength = global::InventoryManagementSystem.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::XF.Material.Droid.Resource.Styleable.DrawerArrowToggle_color = global::InventoryManagementSystem.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::XF.Material.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize = global::InventoryManagementSystem.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::XF.Material.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::InventoryManagementSystem.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::XF.Material.Droid.Resource.Styleable.DrawerArrowToggle_spinBars = global::InventoryManagementSystem.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::XF.Material.Droid.Resource.Styleable.DrawerArrowToggle_thickness = global::InventoryManagementSystem.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::XF.Material.Droid.Resource.Styleable.FloatingActionButton = global::InventoryManagementSystem.Droid.Resource.Styleable.FloatingActionButton;
+			global::XF.Material.Droid.Resource.Styleable.FloatingActionButton_backgroundTint = global::InventoryManagementSystem.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::XF.Material.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::InventoryManagementSystem.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::XF.Material.Droid.Resource.Styleable.FloatingActionButton_borderWidth = global::InventoryManagementSystem.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::XF.Material.Droid.Resource.Styleable.FloatingActionButton_elevation = global::InventoryManagementSystem.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::XF.Material.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize = global::InventoryManagementSystem.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::XF.Material.Droid.Resource.Styleable.FloatingActionButton_fabSize = global::InventoryManagementSystem.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::XF.Material.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::InventoryManagementSystem.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::XF.Material.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::InventoryManagementSystem.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::XF.Material.Droid.Resource.Styleable.FloatingActionButton_maxImageSize = global::InventoryManagementSystem.Droid.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::XF.Material.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::InventoryManagementSystem.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::XF.Material.Droid.Resource.Styleable.FloatingActionButton_rippleColor = global::InventoryManagementSystem.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::XF.Material.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec = global::InventoryManagementSystem.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::XF.Material.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::XF.Material.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::InventoryManagementSystem.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::XF.Material.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::InventoryManagementSystem.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::XF.Material.Droid.Resource.Styleable.FlowLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.FlowLayout;
+			global::XF.Material.Droid.Resource.Styleable.FlowLayout_itemSpacing = global::InventoryManagementSystem.Droid.Resource.Styleable.FlowLayout_itemSpacing;
+			global::XF.Material.Droid.Resource.Styleable.FlowLayout_lineSpacing = global::InventoryManagementSystem.Droid.Resource.Styleable.FlowLayout_lineSpacing;
+			global::XF.Material.Droid.Resource.Styleable.FontFamily = global::InventoryManagementSystem.Droid.Resource.Styleable.FontFamily;
+			global::XF.Material.Droid.Resource.Styleable.FontFamily_fontProviderAuthority = global::InventoryManagementSystem.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::XF.Material.Droid.Resource.Styleable.FontFamily_fontProviderCerts = global::InventoryManagementSystem.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::XF.Material.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::InventoryManagementSystem.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::XF.Material.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::InventoryManagementSystem.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::XF.Material.Droid.Resource.Styleable.FontFamily_fontProviderPackage = global::InventoryManagementSystem.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::XF.Material.Droid.Resource.Styleable.FontFamily_fontProviderQuery = global::InventoryManagementSystem.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::XF.Material.Droid.Resource.Styleable.FontFamilyFont = global::InventoryManagementSystem.Droid.Resource.Styleable.FontFamilyFont;
+			global::XF.Material.Droid.Resource.Styleable.FontFamilyFont_android_font = global::InventoryManagementSystem.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::XF.Material.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::XF.Material.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::InventoryManagementSystem.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::XF.Material.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight = global::InventoryManagementSystem.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::XF.Material.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::InventoryManagementSystem.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::XF.Material.Droid.Resource.Styleable.FontFamilyFont_font = global::InventoryManagementSystem.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::XF.Material.Droid.Resource.Styleable.FontFamilyFont_fontStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::XF.Material.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::InventoryManagementSystem.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::XF.Material.Droid.Resource.Styleable.FontFamilyFont_fontWeight = global::InventoryManagementSystem.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::XF.Material.Droid.Resource.Styleable.FontFamilyFont_ttcIndex = global::InventoryManagementSystem.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::XF.Material.Droid.Resource.Styleable.ForegroundLinearLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::XF.Material.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::InventoryManagementSystem.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::XF.Material.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::InventoryManagementSystem.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::XF.Material.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::InventoryManagementSystem.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::XF.Material.Droid.Resource.Styleable.GradientColor = global::InventoryManagementSystem.Droid.Resource.Styleable.GradientColor;
+			global::XF.Material.Droid.Resource.Styleable.GradientColor_android_centerColor = global::InventoryManagementSystem.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::XF.Material.Droid.Resource.Styleable.GradientColor_android_centerX = global::InventoryManagementSystem.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::XF.Material.Droid.Resource.Styleable.GradientColor_android_centerY = global::InventoryManagementSystem.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::XF.Material.Droid.Resource.Styleable.GradientColor_android_endColor = global::InventoryManagementSystem.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::XF.Material.Droid.Resource.Styleable.GradientColor_android_endX = global::InventoryManagementSystem.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::XF.Material.Droid.Resource.Styleable.GradientColor_android_endY = global::InventoryManagementSystem.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::XF.Material.Droid.Resource.Styleable.GradientColor_android_gradientRadius = global::InventoryManagementSystem.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::XF.Material.Droid.Resource.Styleable.GradientColor_android_startColor = global::InventoryManagementSystem.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::XF.Material.Droid.Resource.Styleable.GradientColor_android_startX = global::InventoryManagementSystem.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::XF.Material.Droid.Resource.Styleable.GradientColor_android_startY = global::InventoryManagementSystem.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::XF.Material.Droid.Resource.Styleable.GradientColor_android_tileMode = global::InventoryManagementSystem.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::XF.Material.Droid.Resource.Styleable.GradientColor_android_type = global::InventoryManagementSystem.Droid.Resource.Styleable.GradientColor_android_type;
+			global::XF.Material.Droid.Resource.Styleable.GradientColorItem = global::InventoryManagementSystem.Droid.Resource.Styleable.GradientColorItem;
+			global::XF.Material.Droid.Resource.Styleable.GradientColorItem_android_color = global::InventoryManagementSystem.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::XF.Material.Droid.Resource.Styleable.GradientColorItem_android_offset = global::InventoryManagementSystem.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::XF.Material.Droid.Resource.Styleable.LinearLayoutCompat = global::InventoryManagementSystem.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::XF.Material.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::InventoryManagementSystem.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::XF.Material.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::InventoryManagementSystem.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::XF.Material.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity = global::InventoryManagementSystem.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::XF.Material.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation = global::InventoryManagementSystem.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::XF.Material.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::InventoryManagementSystem.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::XF.Material.Droid.Resource.Styleable.LinearLayoutCompat_divider = global::InventoryManagementSystem.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::XF.Material.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::XF.Material.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::InventoryManagementSystem.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::XF.Material.Droid.Resource.Styleable.LinearLayoutCompat_showDividers = global::InventoryManagementSystem.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::XF.Material.Droid.Resource.Styleable.LinearLayoutCompat_Layout = global::InventoryManagementSystem.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::XF.Material.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::InventoryManagementSystem.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::XF.Material.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::InventoryManagementSystem.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::XF.Material.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::InventoryManagementSystem.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::XF.Material.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::InventoryManagementSystem.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::XF.Material.Droid.Resource.Styleable.ListPopupWindow = global::InventoryManagementSystem.Droid.Resource.Styleable.ListPopupWindow;
+			global::XF.Material.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::InventoryManagementSystem.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::XF.Material.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::InventoryManagementSystem.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::XF.Material.Droid.Resource.Styleable.LottieAnimationView = global::InventoryManagementSystem.Droid.Resource.Styleable.LottieAnimationView;
+			global::XF.Material.Droid.Resource.Styleable.LottieAnimationView_lottie_autoPlay = global::InventoryManagementSystem.Droid.Resource.Styleable.LottieAnimationView_lottie_autoPlay;
+			global::XF.Material.Droid.Resource.Styleable.LottieAnimationView_lottie_colorFilter = global::InventoryManagementSystem.Droid.Resource.Styleable.LottieAnimationView_lottie_colorFilter;
+			global::XF.Material.Droid.Resource.Styleable.LottieAnimationView_lottie_enableMergePathsForKitKatAndAbove = global::InventoryManagementSystem.Droid.Resource.Styleable.LottieAnimationView_lottie_enableMergePathsForKitKatAndAbove;
+			global::XF.Material.Droid.Resource.Styleable.LottieAnimationView_lottie_fileName = global::InventoryManagementSystem.Droid.Resource.Styleable.LottieAnimationView_lottie_fileName;
+			global::XF.Material.Droid.Resource.Styleable.LottieAnimationView_lottie_imageAssetsFolder = global::InventoryManagementSystem.Droid.Resource.Styleable.LottieAnimationView_lottie_imageAssetsFolder;
+			global::XF.Material.Droid.Resource.Styleable.LottieAnimationView_lottie_loop = global::InventoryManagementSystem.Droid.Resource.Styleable.LottieAnimationView_lottie_loop;
+			global::XF.Material.Droid.Resource.Styleable.LottieAnimationView_lottie_progress = global::InventoryManagementSystem.Droid.Resource.Styleable.LottieAnimationView_lottie_progress;
+			global::XF.Material.Droid.Resource.Styleable.LottieAnimationView_lottie_rawRes = global::InventoryManagementSystem.Droid.Resource.Styleable.LottieAnimationView_lottie_rawRes;
+			global::XF.Material.Droid.Resource.Styleable.LottieAnimationView_lottie_repeatCount = global::InventoryManagementSystem.Droid.Resource.Styleable.LottieAnimationView_lottie_repeatCount;
+			global::XF.Material.Droid.Resource.Styleable.LottieAnimationView_lottie_repeatMode = global::InventoryManagementSystem.Droid.Resource.Styleable.LottieAnimationView_lottie_repeatMode;
+			global::XF.Material.Droid.Resource.Styleable.LottieAnimationView_lottie_scale = global::InventoryManagementSystem.Droid.Resource.Styleable.LottieAnimationView_lottie_scale;
+			global::XF.Material.Droid.Resource.Styleable.LottieAnimationView_lottie_url = global::InventoryManagementSystem.Droid.Resource.Styleable.LottieAnimationView_lottie_url;
+			global::XF.Material.Droid.Resource.Styleable.MaterialButton = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialButton;
+			global::XF.Material.Droid.Resource.Styleable.MaterialButton_android_insetBottom = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::XF.Material.Droid.Resource.Styleable.MaterialButton_android_insetLeft = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::XF.Material.Droid.Resource.Styleable.MaterialButton_android_insetRight = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialButton_android_insetRight;
+			global::XF.Material.Droid.Resource.Styleable.MaterialButton_android_insetTop = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialButton_android_insetTop;
+			global::XF.Material.Droid.Resource.Styleable.MaterialButton_backgroundTint = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialButton_backgroundTint;
+			global::XF.Material.Droid.Resource.Styleable.MaterialButton_backgroundTintMode = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::XF.Material.Droid.Resource.Styleable.MaterialButton_cornerRadius = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialButton_cornerRadius;
+			global::XF.Material.Droid.Resource.Styleable.MaterialButton_icon = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialButton_icon;
+			global::XF.Material.Droid.Resource.Styleable.MaterialButton_iconGravity = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialButton_iconGravity;
+			global::XF.Material.Droid.Resource.Styleable.MaterialButton_iconPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialButton_iconPadding;
+			global::XF.Material.Droid.Resource.Styleable.MaterialButton_iconSize = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialButton_iconSize;
+			global::XF.Material.Droid.Resource.Styleable.MaterialButton_iconTint = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialButton_iconTint;
+			global::XF.Material.Droid.Resource.Styleable.MaterialButton_iconTintMode = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialButton_iconTintMode;
+			global::XF.Material.Droid.Resource.Styleable.MaterialButton_rippleColor = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialButton_rippleColor;
+			global::XF.Material.Droid.Resource.Styleable.MaterialButton_strokeColor = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialButton_strokeColor;
+			global::XF.Material.Droid.Resource.Styleable.MaterialButton_strokeWidth = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialButton_strokeWidth;
+			global::XF.Material.Droid.Resource.Styleable.MaterialCardView = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialCardView;
+			global::XF.Material.Droid.Resource.Styleable.MaterialCardView_strokeColor = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialCardView_strokeColor;
+			global::XF.Material.Droid.Resource.Styleable.MaterialCardView_strokeWidth = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_chipStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_chipStyle;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_colorAccent = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_colorAccent;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimary = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimary;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_colorSecondary = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_colorSecondary;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_editTextStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_editTextStyle;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_scrimBackground = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_scrimBackground;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_tabStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_tabStyle;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1 = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2 = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1 = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2 = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3 = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4 = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5 = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6 = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1 = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2 = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2;
+			global::XF.Material.Droid.Resource.Styleable.MaterialComponentsTheme_textInputStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.MaterialComponentsTheme_textInputStyle;
+			global::XF.Material.Droid.Resource.Styleable.MediaRouteButton = global::InventoryManagementSystem.Droid.Resource.Styleable.MediaRouteButton;
+			global::XF.Material.Droid.Resource.Styleable.MediaRouteButton_android_minHeight = global::InventoryManagementSystem.Droid.Resource.Styleable.MediaRouteButton_android_minHeight;
+			global::XF.Material.Droid.Resource.Styleable.MediaRouteButton_android_minWidth = global::InventoryManagementSystem.Droid.Resource.Styleable.MediaRouteButton_android_minWidth;
+			global::XF.Material.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable = global::InventoryManagementSystem.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable;
+			global::XF.Material.Droid.Resource.Styleable.MediaRouteButton_mediaRouteButtonTint = global::InventoryManagementSystem.Droid.Resource.Styleable.MediaRouteButton_mediaRouteButtonTint;
+			global::XF.Material.Droid.Resource.Styleable.MenuGroup = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuGroup;
+			global::XF.Material.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::XF.Material.Droid.Resource.Styleable.MenuGroup_android_enabled = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::XF.Material.Droid.Resource.Styleable.MenuGroup_android_id = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::XF.Material.Droid.Resource.Styleable.MenuGroup_android_menuCategory = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::XF.Material.Droid.Resource.Styleable.MenuGroup_android_orderInCategory = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::XF.Material.Droid.Resource.Styleable.MenuGroup_android_visible = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_actionLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_actionProviderClass = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_actionViewClass = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_alphabeticModifiers = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_android_checkable = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_android_checked = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_android_enabled = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_android_icon = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_android_id = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_android_id;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_android_menuCategory = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_android_numericShortcut = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_android_onClick = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_android_orderInCategory = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_android_title = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_android_title;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_android_titleCondensed = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_android_visible = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_contentDescription = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_iconTint = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_iconTintMode = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_numericModifiers = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_showAsAction = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::XF.Material.Droid.Resource.Styleable.MenuItem_tooltipText = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::XF.Material.Droid.Resource.Styleable.MenuView = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuView;
+			global::XF.Material.Droid.Resource.Styleable.MenuView_android_headerBackground = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::XF.Material.Droid.Resource.Styleable.MenuView_android_horizontalDivider = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::XF.Material.Droid.Resource.Styleable.MenuView_android_itemBackground = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::XF.Material.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::XF.Material.Droid.Resource.Styleable.MenuView_android_itemTextAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::XF.Material.Droid.Resource.Styleable.MenuView_android_verticalDivider = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::XF.Material.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::XF.Material.Droid.Resource.Styleable.MenuView_preserveIconSpacing = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::XF.Material.Droid.Resource.Styleable.MenuView_subMenuArrow = global::InventoryManagementSystem.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::XF.Material.Droid.Resource.Styleable.NavigationView = global::InventoryManagementSystem.Droid.Resource.Styleable.NavigationView;
+			global::XF.Material.Droid.Resource.Styleable.NavigationView_android_background = global::InventoryManagementSystem.Droid.Resource.Styleable.NavigationView_android_background;
+			global::XF.Material.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::InventoryManagementSystem.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::XF.Material.Droid.Resource.Styleable.NavigationView_android_maxWidth = global::InventoryManagementSystem.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::XF.Material.Droid.Resource.Styleable.NavigationView_elevation = global::InventoryManagementSystem.Droid.Resource.Styleable.NavigationView_elevation;
+			global::XF.Material.Droid.Resource.Styleable.NavigationView_headerLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::XF.Material.Droid.Resource.Styleable.NavigationView_itemBackground = global::InventoryManagementSystem.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::XF.Material.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::XF.Material.Droid.Resource.Styleable.NavigationView_itemIconPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.NavigationView_itemIconPadding;
+			global::XF.Material.Droid.Resource.Styleable.NavigationView_itemIconTint = global::InventoryManagementSystem.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::XF.Material.Droid.Resource.Styleable.NavigationView_itemTextAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::XF.Material.Droid.Resource.Styleable.NavigationView_itemTextColor = global::InventoryManagementSystem.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::XF.Material.Droid.Resource.Styleable.NavigationView_menu = global::InventoryManagementSystem.Droid.Resource.Styleable.NavigationView_menu;
+			global::XF.Material.Droid.Resource.Styleable.PopupWindow = global::InventoryManagementSystem.Droid.Resource.Styleable.PopupWindow;
+			global::XF.Material.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::XF.Material.Droid.Resource.Styleable.PopupWindow_android_popupBackground = global::InventoryManagementSystem.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::XF.Material.Droid.Resource.Styleable.PopupWindow_overlapAnchor = global::InventoryManagementSystem.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::XF.Material.Droid.Resource.Styleable.PopupWindowBackgroundState = global::InventoryManagementSystem.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::XF.Material.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::InventoryManagementSystem.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::XF.Material.Droid.Resource.Styleable.RecycleListView = global::InventoryManagementSystem.Droid.Resource.Styleable.RecycleListView;
+			global::XF.Material.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::InventoryManagementSystem.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::XF.Material.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::InventoryManagementSystem.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::XF.Material.Droid.Resource.Styleable.RecyclerView = global::InventoryManagementSystem.Droid.Resource.Styleable.RecyclerView;
+			global::XF.Material.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability = global::InventoryManagementSystem.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::XF.Material.Droid.Resource.Styleable.RecyclerView_android_orientation = global::InventoryManagementSystem.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::XF.Material.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled = global::InventoryManagementSystem.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::XF.Material.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::InventoryManagementSystem.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::XF.Material.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::InventoryManagementSystem.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::XF.Material.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::InventoryManagementSystem.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::XF.Material.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::InventoryManagementSystem.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::XF.Material.Droid.Resource.Styleable.RecyclerView_layoutManager = global::InventoryManagementSystem.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::XF.Material.Droid.Resource.Styleable.RecyclerView_reverseLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::XF.Material.Droid.Resource.Styleable.RecyclerView_spanCount = global::InventoryManagementSystem.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::XF.Material.Droid.Resource.Styleable.RecyclerView_stackFromEnd = global::InventoryManagementSystem.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::XF.Material.Droid.Resource.Styleable.ScrimInsetsFrameLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::XF.Material.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::InventoryManagementSystem.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::XF.Material.Droid.Resource.Styleable.ScrollingViewBehavior_Layout = global::InventoryManagementSystem.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::XF.Material.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::InventoryManagementSystem.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::XF.Material.Droid.Resource.Styleable.SearchView = global::InventoryManagementSystem.Droid.Resource.Styleable.SearchView;
+			global::XF.Material.Droid.Resource.Styleable.SearchView_android_focusable = global::InventoryManagementSystem.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::XF.Material.Droid.Resource.Styleable.SearchView_android_imeOptions = global::InventoryManagementSystem.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::XF.Material.Droid.Resource.Styleable.SearchView_android_inputType = global::InventoryManagementSystem.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::XF.Material.Droid.Resource.Styleable.SearchView_android_maxWidth = global::InventoryManagementSystem.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::XF.Material.Droid.Resource.Styleable.SearchView_closeIcon = global::InventoryManagementSystem.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::XF.Material.Droid.Resource.Styleable.SearchView_commitIcon = global::InventoryManagementSystem.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::XF.Material.Droid.Resource.Styleable.SearchView_defaultQueryHint = global::InventoryManagementSystem.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::XF.Material.Droid.Resource.Styleable.SearchView_goIcon = global::InventoryManagementSystem.Droid.Resource.Styleable.SearchView_goIcon;
+			global::XF.Material.Droid.Resource.Styleable.SearchView_iconifiedByDefault = global::InventoryManagementSystem.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::XF.Material.Droid.Resource.Styleable.SearchView_layout = global::InventoryManagementSystem.Droid.Resource.Styleable.SearchView_layout;
+			global::XF.Material.Droid.Resource.Styleable.SearchView_queryBackground = global::InventoryManagementSystem.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::XF.Material.Droid.Resource.Styleable.SearchView_queryHint = global::InventoryManagementSystem.Droid.Resource.Styleable.SearchView_queryHint;
+			global::XF.Material.Droid.Resource.Styleable.SearchView_searchHintIcon = global::InventoryManagementSystem.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::XF.Material.Droid.Resource.Styleable.SearchView_searchIcon = global::InventoryManagementSystem.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::XF.Material.Droid.Resource.Styleable.SearchView_submitBackground = global::InventoryManagementSystem.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::XF.Material.Droid.Resource.Styleable.SearchView_suggestionRowLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::XF.Material.Droid.Resource.Styleable.SearchView_voiceIcon = global::InventoryManagementSystem.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::XF.Material.Droid.Resource.Styleable.Snackbar = global::InventoryManagementSystem.Droid.Resource.Styleable.Snackbar;
+			global::XF.Material.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::XF.Material.Droid.Resource.Styleable.Snackbar_snackbarStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.Snackbar_snackbarStyle;
+			global::XF.Material.Droid.Resource.Styleable.SnackbarLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.SnackbarLayout;
+			global::XF.Material.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth = global::InventoryManagementSystem.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::XF.Material.Droid.Resource.Styleable.SnackbarLayout_elevation = global::InventoryManagementSystem.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::XF.Material.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::InventoryManagementSystem.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::XF.Material.Droid.Resource.Styleable.Spinner = global::InventoryManagementSystem.Droid.Resource.Styleable.Spinner;
+			global::XF.Material.Droid.Resource.Styleable.Spinner_android_dropDownWidth = global::InventoryManagementSystem.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::XF.Material.Droid.Resource.Styleable.Spinner_android_entries = global::InventoryManagementSystem.Droid.Resource.Styleable.Spinner_android_entries;
+			global::XF.Material.Droid.Resource.Styleable.Spinner_android_popupBackground = global::InventoryManagementSystem.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::XF.Material.Droid.Resource.Styleable.Spinner_android_prompt = global::InventoryManagementSystem.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::XF.Material.Droid.Resource.Styleable.Spinner_popupTheme = global::InventoryManagementSystem.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::XF.Material.Droid.Resource.Styleable.StateListDrawable = global::InventoryManagementSystem.Droid.Resource.Styleable.StateListDrawable;
+			global::XF.Material.Droid.Resource.Styleable.StateListDrawable_android_constantSize = global::InventoryManagementSystem.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::XF.Material.Droid.Resource.Styleable.StateListDrawable_android_dither = global::InventoryManagementSystem.Droid.Resource.Styleable.StateListDrawable_android_dither;
+			global::XF.Material.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::InventoryManagementSystem.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::XF.Material.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::InventoryManagementSystem.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::XF.Material.Droid.Resource.Styleable.StateListDrawable_android_variablePadding = global::InventoryManagementSystem.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::XF.Material.Droid.Resource.Styleable.StateListDrawable_android_visible = global::InventoryManagementSystem.Droid.Resource.Styleable.StateListDrawable_android_visible;
+			global::XF.Material.Droid.Resource.Styleable.StateListDrawableItem = global::InventoryManagementSystem.Droid.Resource.Styleable.StateListDrawableItem;
+			global::XF.Material.Droid.Resource.Styleable.StateListDrawableItem_android_drawable = global::InventoryManagementSystem.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::XF.Material.Droid.Resource.Styleable.SwitchCompat = global::InventoryManagementSystem.Droid.Resource.Styleable.SwitchCompat;
+			global::XF.Material.Droid.Resource.Styleable.SwitchCompat_android_textOff = global::InventoryManagementSystem.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::XF.Material.Droid.Resource.Styleable.SwitchCompat_android_textOn = global::InventoryManagementSystem.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::XF.Material.Droid.Resource.Styleable.SwitchCompat_android_thumb = global::InventoryManagementSystem.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::XF.Material.Droid.Resource.Styleable.SwitchCompat_showText = global::InventoryManagementSystem.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::XF.Material.Droid.Resource.Styleable.SwitchCompat_splitTrack = global::InventoryManagementSystem.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::XF.Material.Droid.Resource.Styleable.SwitchCompat_switchMinWidth = global::InventoryManagementSystem.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::XF.Material.Droid.Resource.Styleable.SwitchCompat_switchPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::XF.Material.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::XF.Material.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::XF.Material.Droid.Resource.Styleable.SwitchCompat_thumbTint = global::InventoryManagementSystem.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::XF.Material.Droid.Resource.Styleable.SwitchCompat_thumbTintMode = global::InventoryManagementSystem.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::XF.Material.Droid.Resource.Styleable.SwitchCompat_track = global::InventoryManagementSystem.Droid.Resource.Styleable.SwitchCompat_track;
+			global::XF.Material.Droid.Resource.Styleable.SwitchCompat_trackTint = global::InventoryManagementSystem.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::XF.Material.Droid.Resource.Styleable.SwitchCompat_trackTintMode = global::InventoryManagementSystem.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::XF.Material.Droid.Resource.Styleable.TabItem = global::InventoryManagementSystem.Droid.Resource.Styleable.TabItem;
+			global::XF.Material.Droid.Resource.Styleable.TabItem_android_icon = global::InventoryManagementSystem.Droid.Resource.Styleable.TabItem_android_icon;
+			global::XF.Material.Droid.Resource.Styleable.TabItem_android_layout = global::InventoryManagementSystem.Droid.Resource.Styleable.TabItem_android_layout;
+			global::XF.Material.Droid.Resource.Styleable.TabItem_android_text = global::InventoryManagementSystem.Droid.Resource.Styleable.TabItem_android_text;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabBackground = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabContentStart = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabGravity = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabIconTint = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabIconTint;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabIconTintMode = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabIndicator = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabIndicator;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabIndicatorColor = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabInlineLabel = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabMaxWidth = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabMinWidth = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabMode = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabPadding = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabPaddingBottom = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabPaddingEnd = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabPaddingStart = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabPaddingTop = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabRippleColor = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabRippleColor;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabTextAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabTextColor = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::XF.Material.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple = global::InventoryManagementSystem.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::XF.Material.Droid.Resource.Styleable.TextAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.TextAppearance;
+			global::XF.Material.Droid.Resource.Styleable.TextAppearance_android_fontFamily = global::InventoryManagementSystem.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::XF.Material.Droid.Resource.Styleable.TextAppearance_android_shadowColor = global::InventoryManagementSystem.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::XF.Material.Droid.Resource.Styleable.TextAppearance_android_shadowDx = global::InventoryManagementSystem.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::XF.Material.Droid.Resource.Styleable.TextAppearance_android_shadowDy = global::InventoryManagementSystem.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::XF.Material.Droid.Resource.Styleable.TextAppearance_android_shadowRadius = global::InventoryManagementSystem.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::XF.Material.Droid.Resource.Styleable.TextAppearance_android_textColor = global::InventoryManagementSystem.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::XF.Material.Droid.Resource.Styleable.TextAppearance_android_textColorHint = global::InventoryManagementSystem.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::XF.Material.Droid.Resource.Styleable.TextAppearance_android_textColorLink = global::InventoryManagementSystem.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::XF.Material.Droid.Resource.Styleable.TextAppearance_android_textSize = global::InventoryManagementSystem.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::XF.Material.Droid.Resource.Styleable.TextAppearance_android_textStyle = global::InventoryManagementSystem.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::XF.Material.Droid.Resource.Styleable.TextAppearance_android_typeface = global::InventoryManagementSystem.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::XF.Material.Droid.Resource.Styleable.TextAppearance_fontFamily = global::InventoryManagementSystem.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::XF.Material.Droid.Resource.Styleable.TextAppearance_textAllCaps = global::InventoryManagementSystem.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_android_hint = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_android_textColorHint = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_counterEnabled = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_counterMaxLength = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_errorEnabled = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_helperText = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_helperText;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_hintEnabled = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::XF.Material.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::InventoryManagementSystem.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::XF.Material.Droid.Resource.Styleable.ThemeEnforcement = global::InventoryManagementSystem.Droid.Resource.Styleable.ThemeEnforcement;
+			global::XF.Material.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::XF.Material.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::InventoryManagementSystem.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::XF.Material.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_android_gravity = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_android_minHeight = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_buttonGravity = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_collapseContentDescription = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_collapseIcon = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_contentInsetEnd = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_contentInsetLeft = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_contentInsetRight = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_contentInsetStart = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_logo = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_logo;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_logoDescription = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_maxButtonHeight = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_navigationContentDescription = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_navigationIcon = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_popupTheme = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_subtitle = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_subtitleTextColor = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_title = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_title;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_titleMargin = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_titleMarginBottom = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_titleMarginEnd = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_titleMarginStart = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_titleMarginTop = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_titleMargins = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_titleTextAppearance = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::XF.Material.Droid.Resource.Styleable.Toolbar_titleTextColor = global::InventoryManagementSystem.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::XF.Material.Droid.Resource.Styleable.View = global::InventoryManagementSystem.Droid.Resource.Styleable.View;
+			global::XF.Material.Droid.Resource.Styleable.View_android_focusable = global::InventoryManagementSystem.Droid.Resource.Styleable.View_android_focusable;
+			global::XF.Material.Droid.Resource.Styleable.View_android_theme = global::InventoryManagementSystem.Droid.Resource.Styleable.View_android_theme;
+			global::XF.Material.Droid.Resource.Styleable.View_paddingEnd = global::InventoryManagementSystem.Droid.Resource.Styleable.View_paddingEnd;
+			global::XF.Material.Droid.Resource.Styleable.View_paddingStart = global::InventoryManagementSystem.Droid.Resource.Styleable.View_paddingStart;
+			global::XF.Material.Droid.Resource.Styleable.View_theme = global::InventoryManagementSystem.Droid.Resource.Styleable.View_theme;
+			global::XF.Material.Droid.Resource.Styleable.ViewBackgroundHelper = global::InventoryManagementSystem.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::XF.Material.Droid.Resource.Styleable.ViewBackgroundHelper_android_background = global::InventoryManagementSystem.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::XF.Material.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::InventoryManagementSystem.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::XF.Material.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::InventoryManagementSystem.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::XF.Material.Droid.Resource.Styleable.ViewStubCompat = global::InventoryManagementSystem.Droid.Resource.Styleable.ViewStubCompat;
+			global::XF.Material.Droid.Resource.Styleable.ViewStubCompat_android_id = global::InventoryManagementSystem.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::XF.Material.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId = global::InventoryManagementSystem.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::XF.Material.Droid.Resource.Styleable.ViewStubCompat_android_layout = global::InventoryManagementSystem.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 			global::XFGloss.Droid.Resource.Animation.abc_fade_in = global::InventoryManagementSystem.Droid.Resource.Animation.abc_fade_in;
 			global::XFGloss.Droid.Resource.Animation.abc_fade_out = global::InventoryManagementSystem.Droid.Resource.Animation.abc_fade_out;
 			global::XFGloss.Droid.Resource.Animation.abc_grow_fade_in_from_bottom = global::InventoryManagementSystem.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
@@ -2946,6 +5864,7 @@ namespace InventoryManagementSystem.Droid
 			global::XFGloss.Droid.Resource.Boolean.abc_action_bar_embed_tabs = global::InventoryManagementSystem.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
 			global::XFGloss.Droid.Resource.Boolean.abc_allow_stacked_button_bar = global::InventoryManagementSystem.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
 			global::XFGloss.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::InventoryManagementSystem.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::XFGloss.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::InventoryManagementSystem.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
 			global::XFGloss.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark = global::InventoryManagementSystem.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
 			global::XFGloss.Droid.Resource.Color.abc_background_cache_hint_selector_material_light = global::InventoryManagementSystem.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
 			global::XFGloss.Droid.Resource.Color.abc_btn_colored_borderless_text_material = global::InventoryManagementSystem.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
@@ -3051,6 +5970,7 @@ namespace InventoryManagementSystem.Droid
 			global::XFGloss.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
 			global::XFGloss.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
 			global::XFGloss.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::XFGloss.Droid.Resource.Dimension.abc_action_bar_progress_bar_size = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
 			global::XFGloss.Droid.Resource.Dimension.abc_action_bar_stacked_max_height = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
 			global::XFGloss.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
 			global::XFGloss.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::InventoryManagementSystem.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
@@ -4722,6 +7642,9 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F020003
 			public const int design_fab_show_motion_spec = 2130837507;
 			
+			// aapt resource value: 0x7F100012
+			public const int material_button_state_list_anim = 2131755026;
+			
 			// aapt resource value: 0x7F020004
 			public const int mtrl_btn_state_list_anim = 2130837508;
 			
@@ -4877,14 +7800,14 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F040022
 			public const int activityChooserViewStyle = 2130968610;
 			
-			// aapt resource value: 0x7F080505
-			public const int adSize = 2131232005;
+			// aapt resource value: 0x7F080517
+			public const int adSize = 2131232023;
 			
-			// aapt resource value: 0x7F080506
-			public const int adSizes = 2131232006;
+			// aapt resource value: 0x7F080518
+			public const int adSizes = 2131232024;
 			
-			// aapt resource value: 0x7F080507
-			public const int adUnitId = 2131232007;
+			// aapt resource value: 0x7F080519
+			public const int adUnitId = 2131232025;
 			
 			// aapt resource value: 0x7F080005
 			public const int ahBarColor = 2131230725;
@@ -4940,8 +7863,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F040027
 			public const int allowStacking = 2130968615;
 			
-			// aapt resource value: 0x7F040001
-			public const int alpha = 2130968577;
+			// aapt resource value: 0x7F040028
+			public const int alpha = 2130968616;
 			
 			// aapt resource value: 0x7F040029
 			public const int alphabeticModifiers = 2130968617;
@@ -5012,8 +7935,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F04003D
 			public const int behavior_skipCollapsed = 2130968637;
 			
-			// aapt resource value: 0x7F04003F
-			public const int borderlessButtonStyle = 2130968639;
+			// aapt resource value: 0x7F040038
+			public const int borderlessButtonStyle = 2130968632;
 			
 			// aapt resource value: 0x7F04003E
 			public const int borderWidth = 2130968638;
@@ -5057,44 +7980,44 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F04004C
 			public const int boxStrokeWidth = 2130968652;
 			
-			// aapt resource value: 0x7F04004D
-			public const int buttonBarButtonStyle = 2130968653;
+			// aapt resource value: 0x7F040039
+			public const int buttonBarButtonStyle = 2130968633;
 			
-			// aapt resource value: 0x7F04004E
-			public const int buttonBarNegativeButtonStyle = 2130968654;
+			// aapt resource value: 0x7F04003A
+			public const int buttonBarNegativeButtonStyle = 2130968634;
 			
-			// aapt resource value: 0x7F04004F
-			public const int buttonBarNeutralButtonStyle = 2130968655;
+			// aapt resource value: 0x7F04003B
+			public const int buttonBarNeutralButtonStyle = 2130968635;
 			
-			// aapt resource value: 0x7F040050
-			public const int buttonBarPositiveButtonStyle = 2130968656;
+			// aapt resource value: 0x7F04003C
+			public const int buttonBarPositiveButtonStyle = 2130968636;
 			
-			// aapt resource value: 0x7F040051
-			public const int buttonBarStyle = 2130968657;
+			// aapt resource value: 0x7F04003D
+			public const int buttonBarStyle = 2130968637;
 			
-			// aapt resource value: 0x7F040052
-			public const int buttonGravity = 2130968658;
+			// aapt resource value: 0x7F04003E
+			public const int buttonGravity = 2130968638;
 			
-			// aapt resource value: 0x7F040053
-			public const int buttonIconDimen = 2130968659;
+			// aapt resource value: 0x7F04003F
+			public const int buttonIconDimen = 2130968639;
 			
-			// aapt resource value: 0x7F040054
-			public const int buttonPanelSideLayout = 2130968660;
+			// aapt resource value: 0x7F040040
+			public const int buttonPanelSideLayout = 2130968640;
 			
 			// aapt resource value: 0x1
 			public const int buttonSize = 1;
 			
-			// aapt resource value: 0x7F040055
-			public const int buttonStyle = 2130968661;
+			// aapt resource value: 0x7F040041
+			public const int buttonStyle = 2130968641;
 			
-			// aapt resource value: 0x7F040056
-			public const int buttonStyleSmall = 2130968662;
+			// aapt resource value: 0x7F040042
+			public const int buttonStyleSmall = 2130968642;
 			
-			// aapt resource value: 0x7F040057
-			public const int buttonTint = 2130968663;
+			// aapt resource value: 0x7F040043
+			public const int buttonTint = 2130968643;
 			
-			// aapt resource value: 0x7F040058
-			public const int buttonTintMode = 2130968664;
+			// aapt resource value: 0x7F040044
+			public const int buttonTintMode = 2130968644;
 			
 			// aapt resource value: 0x1
 			public const int buyButtonAppearance = 1;
@@ -5240,8 +8163,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int castTitleTextAppearance = 1;
 			
-			// aapt resource value: 0x7F040060
-			public const int checkboxStyle = 2130968672;
+			// aapt resource value: 0x7F040045
+			public const int checkboxStyle = 2130968645;
 			
 			// aapt resource value: 0x7F040061
 			public const int checkedChip = 2130968673;
@@ -5255,8 +8178,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F040064
 			public const int checkedIconVisible = 2130968676;
 			
-			// aapt resource value: 0x7F040065
-			public const int checkedTextViewStyle = 2130968677;
+			// aapt resource value: 0x7F040046
+			public const int checkedTextViewStyle = 2130968646;
 			
 			// aapt resource value: 0x7F040066
 			public const int chipBackgroundColor = 2130968678;
@@ -5315,8 +8238,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int circleCrop = 1;
 			
-			// aapt resource value: 0x7F040078
-			public const int closeIcon = 2130968696;
+			// aapt resource value: 0x7F040047
+			public const int closeIcon = 2130968647;
 			
 			// aapt resource value: 0x7F040079
 			public const int closeIconEnabled = 2130968697;
@@ -5336,11 +8259,11 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F04007E
 			public const int closeIconVisible = 2130968702;
 			
-			// aapt resource value: 0x7F04007F
-			public const int closeItemLayout = 2130968703;
+			// aapt resource value: 0x7F040048
+			public const int closeItemLayout = 2130968648;
 			
-			// aapt resource value: 0x7F040080
-			public const int collapseContentDescription = 2130968704;
+			// aapt resource value: 0x7F040049
+			public const int collapseContentDescription = 2130968649;
 			
 			// aapt resource value: 0x7F040082
 			public const int collapsedTitleGravity = 2130968706;
@@ -5348,38 +8271,38 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F040083
 			public const int collapsedTitleTextAppearance = 2130968707;
 			
-			// aapt resource value: 0x7F040081
-			public const int collapseIcon = 2130968705;
+			// aapt resource value: 0x7F04004A
+			public const int collapseIcon = 2130968650;
 			
-			// aapt resource value: 0x7F040084
-			public const int color = 2130968708;
+			// aapt resource value: 0x7F04004B
+			public const int color = 2130968651;
 			
-			// aapt resource value: 0x7F040085
-			public const int colorAccent = 2130968709;
+			// aapt resource value: 0x7F04004C
+			public const int colorAccent = 2130968652;
 			
-			// aapt resource value: 0x7F040086
-			public const int colorBackgroundFloating = 2130968710;
+			// aapt resource value: 0x7F04004D
+			public const int colorBackgroundFloating = 2130968653;
 			
-			// aapt resource value: 0x7F040087
-			public const int colorButtonNormal = 2130968711;
+			// aapt resource value: 0x7F04004E
+			public const int colorButtonNormal = 2130968654;
 			
-			// aapt resource value: 0x7F040088
-			public const int colorControlActivated = 2130968712;
+			// aapt resource value: 0x7F04004F
+			public const int colorControlActivated = 2130968655;
 			
-			// aapt resource value: 0x7F040089
-			public const int colorControlHighlight = 2130968713;
+			// aapt resource value: 0x7F040050
+			public const int colorControlHighlight = 2130968656;
 			
-			// aapt resource value: 0x7F04008A
-			public const int colorControlNormal = 2130968714;
+			// aapt resource value: 0x7F040051
+			public const int colorControlNormal = 2130968657;
 			
-			// aapt resource value: 0x7F04008B
-			public const int colorError = 2130968715;
+			// aapt resource value: 0x7F040052
+			public const int colorError = 2130968658;
 			
-			// aapt resource value: 0x7F04008C
-			public const int colorPrimary = 2130968716;
+			// aapt resource value: 0x7F040053
+			public const int colorPrimary = 2130968659;
 			
-			// aapt resource value: 0x7F04008D
-			public const int colorPrimaryDark = 2130968717;
+			// aapt resource value: 0x7F040054
+			public const int colorPrimaryDark = 2130968660;
 			
 			// aapt resource value: 0x1
 			public const int colorScheme = 1;
@@ -5387,32 +8310,32 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F04008E
 			public const int colorSecondary = 2130968718;
 			
-			// aapt resource value: 0x7F04008F
-			public const int colorSwitchThumbNormal = 2130968719;
+			// aapt resource value: 0x7F040055
+			public const int colorSwitchThumbNormal = 2130968661;
 			
-			// aapt resource value: 0x7F040090
-			public const int commitIcon = 2130968720;
+			// aapt resource value: 0x7F040056
+			public const int commitIcon = 2130968662;
 			
-			// aapt resource value: 0x7F040091
-			public const int contentDescription = 2130968721;
+			// aapt resource value: 0x7F040057
+			public const int contentDescription = 2130968663;
 			
-			// aapt resource value: 0x7F040092
-			public const int contentInsetEnd = 2130968722;
+			// aapt resource value: 0x7F040058
+			public const int contentInsetEnd = 2130968664;
 			
-			// aapt resource value: 0x7F040093
-			public const int contentInsetEndWithActions = 2130968723;
+			// aapt resource value: 0x7F040059
+			public const int contentInsetEndWithActions = 2130968665;
 			
-			// aapt resource value: 0x7F040094
-			public const int contentInsetLeft = 2130968724;
+			// aapt resource value: 0x7F04005A
+			public const int contentInsetLeft = 2130968666;
 			
-			// aapt resource value: 0x7F040095
-			public const int contentInsetRight = 2130968725;
+			// aapt resource value: 0x7F04005B
+			public const int contentInsetRight = 2130968667;
 			
-			// aapt resource value: 0x7F040096
-			public const int contentInsetStart = 2130968726;
+			// aapt resource value: 0x7F04005C
+			public const int contentInsetStart = 2130968668;
 			
-			// aapt resource value: 0x7F040097
-			public const int contentInsetStartWithNavigation = 2130968727;
+			// aapt resource value: 0x7F04005D
+			public const int contentInsetStartWithNavigation = 2130968669;
 			
 			// aapt resource value: 0x7F040098
 			public const int contentPadding = 2130968728;
@@ -5435,11 +8358,11 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F04009D
 			public const int contentScrim = 2130968733;
 			
-			// aapt resource value: 0x7F04009E
-			public const int controlBackground = 2130968734;
+			// aapt resource value: 0x7F04005E
+			public const int controlBackground = 2130968670;
 			
-			// aapt resource value: 0x7F040002
-			public const int coordinatorLayoutStyle = 2130968578;
+			// aapt resource value: 0x7F04005F
+			public const int coordinatorLayoutStyle = 2130968671;
 			
 			// aapt resource value: 0x7F0400A0
 			public const int cornerRadius = 2130968736;
@@ -5462,8 +8385,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0400A4
 			public const int counterTextAppearance = 2130968740;
 			
-			// aapt resource value: 0x7F0400A5
-			public const int customNavigationLayout = 2130968741;
+			// aapt resource value: 0x7F040060
+			public const int customNavigationLayout = 2130968672;
 			
 			// aapt resource value: 0x1
 			public const int defaultIntentAction = 1;
@@ -5474,59 +8397,59 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int defaultIntentData = 1;
 			
-			// aapt resource value: 0x7F0400A6
-			public const int defaultQueryHint = 2130968742;
+			// aapt resource value: 0x7F040061
+			public const int defaultQueryHint = 2130968673;
 			
 			// aapt resource value: 0x7F0400A7
 			public const int dialogCornerRadius = 2130968743;
 			
-			// aapt resource value: 0x7F0400A8
-			public const int dialogPreferredPadding = 2130968744;
+			// aapt resource value: 0x7F040062
+			public const int dialogPreferredPadding = 2130968674;
 			
-			// aapt resource value: 0x7F0400A9
-			public const int dialogTheme = 2130968745;
+			// aapt resource value: 0x7F040063
+			public const int dialogTheme = 2130968675;
 			
-			// aapt resource value: 0x7F0400AA
-			public const int displayOptions = 2130968746;
+			// aapt resource value: 0x7F040064
+			public const int displayOptions = 2130968676;
 			
-			// aapt resource value: 0x7F0400AB
-			public const int divider = 2130968747;
+			// aapt resource value: 0x7F040065
+			public const int divider = 2130968677;
 			
-			// aapt resource value: 0x7F0400AC
-			public const int dividerHorizontal = 2130968748;
+			// aapt resource value: 0x7F040066
+			public const int dividerHorizontal = 2130968678;
 			
-			// aapt resource value: 0x7F0400AD
-			public const int dividerPadding = 2130968749;
+			// aapt resource value: 0x7F040067
+			public const int dividerPadding = 2130968679;
 			
-			// aapt resource value: 0x7F0400AE
-			public const int dividerVertical = 2130968750;
+			// aapt resource value: 0x7F040068
+			public const int dividerVertical = 2130968680;
 			
 			// aapt resource value: 0x1
 			public const int documentMaxAgeSecs = 1;
 			
-			// aapt resource value: 0x7F0400AF
-			public const int drawableSize = 2130968751;
+			// aapt resource value: 0x7F040069
+			public const int drawableSize = 2130968681;
 			
-			// aapt resource value: 0x7F0400B0
-			public const int drawerArrowStyle = 2130968752;
+			// aapt resource value: 0x7F04006A
+			public const int drawerArrowStyle = 2130968682;
 			
-			// aapt resource value: 0x7F0400B2
-			public const int dropdownListPreferredItemHeight = 2130968754;
+			// aapt resource value: 0x7F04006C
+			public const int dropdownListPreferredItemHeight = 2130968684;
 			
-			// aapt resource value: 0x7F0400B1
-			public const int dropDownListViewStyle = 2130968753;
+			// aapt resource value: 0x7F04006B
+			public const int dropDownListViewStyle = 2130968683;
 			
-			// aapt resource value: 0x7F0400B3
-			public const int editTextBackground = 2130968755;
+			// aapt resource value: 0x7F04006D
+			public const int editTextBackground = 2130968685;
 			
-			// aapt resource value: 0x7F0400B4
-			public const int editTextColor = 2130968756;
+			// aapt resource value: 0x7F04006E
+			public const int editTextColor = 2130968686;
 			
-			// aapt resource value: 0x7F0400B5
-			public const int editTextStyle = 2130968757;
+			// aapt resource value: 0x7F04006F
+			public const int editTextStyle = 2130968687;
 			
-			// aapt resource value: 0x7F0400B6
-			public const int elevation = 2130968758;
+			// aapt resource value: 0x7F040070
+			public const int elevation = 2130968688;
 			
 			// aapt resource value: 0x7F0400B7
 			public const int enforceMaterialTheme = 2130968759;
@@ -5543,8 +8466,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0400BA
 			public const int errorTextAppearance = 2130968762;
 			
-			// aapt resource value: 0x7F0400BB
-			public const int expandActivityOverflowButtonDrawable = 2130968763;
+			// aapt resource value: 0x7F040071
+			public const int expandActivityOverflowButtonDrawable = 2130968689;
 			
 			// aapt resource value: 0x7F0400BC
 			public const int expanded = 2130968764;
@@ -5615,38 +8538,38 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0400D0
 			public const int floatingActionButtonStyle = 2130968784;
 			
-			// aapt resource value: 0x7F040002
-			public const int font = 2130968578;
+			// aapt resource value: 0x7F040072
+			public const int font = 2130968690;
 			
-			// aapt resource value: 0x7F0400D2
-			public const int fontFamily = 2130968786;
+			// aapt resource value: 0x7F040073
+			public const int fontFamily = 2130968691;
 			
-			// aapt resource value: 0x7F040003
-			public const int fontProviderAuthority = 2130968579;
+			// aapt resource value: 0x7F040074
+			public const int fontProviderAuthority = 2130968692;
 			
-			// aapt resource value: 0x7F040004
-			public const int fontProviderCerts = 2130968580;
+			// aapt resource value: 0x7F040075
+			public const int fontProviderCerts = 2130968693;
 			
-			// aapt resource value: 0x7F040005
-			public const int fontProviderFetchStrategy = 2130968581;
+			// aapt resource value: 0x7F040076
+			public const int fontProviderFetchStrategy = 2130968694;
 			
-			// aapt resource value: 0x7F040006
-			public const int fontProviderFetchTimeout = 2130968582;
+			// aapt resource value: 0x7F040077
+			public const int fontProviderFetchTimeout = 2130968695;
 			
-			// aapt resource value: 0x7F040007
-			public const int fontProviderPackage = 2130968583;
+			// aapt resource value: 0x7F040078
+			public const int fontProviderPackage = 2130968696;
 			
-			// aapt resource value: 0x7F040008
-			public const int fontProviderQuery = 2130968584;
+			// aapt resource value: 0x7F040079
+			public const int fontProviderQuery = 2130968697;
 			
-			// aapt resource value: 0x7F040009
-			public const int fontStyle = 2130968585;
+			// aapt resource value: 0x7F04007A
+			public const int fontStyle = 2130968698;
 			
 			// aapt resource value: 0x7F04000A
 			public const int fontVariationSettings = 2130968586;
 			
-			// aapt resource value: 0x7F04000B
-			public const int fontWeight = 2130968587;
+			// aapt resource value: 0x7F04007B
+			public const int fontWeight = 2130968699;
 			
 			// aapt resource value: 0x7F0400DC
 			public const int foregroundInsidePadding = 2130968796;
@@ -5657,17 +8580,17 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int fragmentStyle = 1;
 			
-			// aapt resource value: 0x7F0400DD
-			public const int gapBetweenBars = 2130968797;
+			// aapt resource value: 0x7F04007C
+			public const int gapBetweenBars = 2130968700;
 			
-			// aapt resource value: 0x7F0400DE
-			public const int goIcon = 2130968798;
+			// aapt resource value: 0x7F04007D
+			public const int goIcon = 2130968701;
 			
 			// aapt resource value: 0x7F0400DF
 			public const int headerLayout = 2130968799;
 			
-			// aapt resource value: 0x7F0400E0
-			public const int height = 2130968800;
+			// aapt resource value: 0x7F04007E
+			public const int height = 2130968702;
 			
 			// aapt resource value: 0x7F0400E1
 			public const int helperText = 2130968801;
@@ -5681,8 +8604,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0400E4
 			public const int hideMotionSpec = 2130968804;
 			
-			// aapt resource value: 0x7F0400E5
-			public const int hideOnContentScroll = 2130968805;
+			// aapt resource value: 0x7F04007F
+			public const int hideOnContentScroll = 2130968703;
 			
 			// aapt resource value: 0x7F0400E6
 			public const int hideOnScroll = 2130968806;
@@ -5696,17 +8619,17 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0400E9
 			public const int hintTextAppearance = 2130968809;
 			
-			// aapt resource value: 0x7F0400EA
-			public const int homeAsUpIndicator = 2130968810;
+			// aapt resource value: 0x7F040080
+			public const int homeAsUpIndicator = 2130968704;
 			
-			// aapt resource value: 0x7F0400EB
-			public const int homeLayout = 2130968811;
+			// aapt resource value: 0x7F040081
+			public const int homeLayout = 2130968705;
 			
 			// aapt resource value: 0x7F0400EC
 			public const int hoveredFocusedTranslationZ = 2130968812;
 			
-			// aapt resource value: 0x7F0400ED
-			public const int icon = 2130968813;
+			// aapt resource value: 0x7F040082
+			public const int icon = 2130968706;
 			
 			// aapt resource value: 0x7F0400EE
 			public const int iconEndPadding = 2130968814;
@@ -5714,8 +8637,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0400EF
 			public const int iconGravity = 2130968815;
 			
-			// aapt resource value: 0x7F0400F5
-			public const int iconifiedByDefault = 2130968821;
+			// aapt resource value: 0x7F040085
+			public const int iconifiedByDefault = 2130968709;
 			
 			// aapt resource value: 0x7F0400F0
 			public const int iconPadding = 2130968816;
@@ -5726,11 +8649,11 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0400F2
 			public const int iconStartPadding = 2130968818;
 			
-			// aapt resource value: 0x7F0400F3
-			public const int iconTint = 2130968819;
+			// aapt resource value: 0x7F040083
+			public const int iconTint = 2130968707;
 			
-			// aapt resource value: 0x7F0400F4
-			public const int iconTintMode = 2130968820;
+			// aapt resource value: 0x7F040084
+			public const int iconTintMode = 2130968708;
 			
 			// aapt resource value: 0x1
 			public const int imageAspectRatio = 1;
@@ -5738,17 +8661,17 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int imageAspectRatioAdjust = 1;
 			
-			// aapt resource value: 0x7F0400F6
-			public const int imageButtonStyle = 2130968822;
+			// aapt resource value: 0x7F040086
+			public const int imageButtonStyle = 2130968710;
 			
-			// aapt resource value: 0x7F0400F7
-			public const int indeterminateProgressStyle = 2130968823;
+			// aapt resource value: 0x7F040087
+			public const int indeterminateProgressStyle = 2130968711;
 			
 			// aapt resource value: 0x1
 			public const int indexPrefixes = 1;
 			
-			// aapt resource value: 0x7F0400F8
-			public const int initialActivityCount = 2130968824;
+			// aapt resource value: 0x7F040088
+			public const int initialActivityCount = 2130968712;
 			
 			// aapt resource value: 0x1
 			public const int inputEnabled = 1;
@@ -5756,8 +8679,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0400F9
 			public const int insetForeground = 2130968825;
 			
-			// aapt resource value: 0x7F0400FA
-			public const int isLightTheme = 2130968826;
+			// aapt resource value: 0x7F040089
+			public const int isLightTheme = 2130968713;
 			
 			// aapt resource value: 0x7F0400FB
 			public const int itemBackground = 2130968827;
@@ -5777,8 +8700,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F040100
 			public const int itemIconTint = 2130968832;
 			
-			// aapt resource value: 0x7F040101
-			public const int itemPadding = 2130968833;
+			// aapt resource value: 0x7F04008A
+			public const int itemPadding = 2130968714;
 			
 			// aapt resource value: 0x7F040102
 			public const int itemSpacing = 2130968834;
@@ -5795,8 +8718,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F040106
 			public const int itemTextColor = 2130968838;
 			
-			// aapt resource value: 0x7F04000D
-			public const int keylines = 2130968589;
+			// aapt resource value: 0x7F04008B
+			public const int keylines = 2130968715;
 			
 			// aapt resource value: 0x7F040108
 			public const int labelVisibilityMode = 2130968840;
@@ -5816,20 +8739,20 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int latLngBoundsSouthWestLongitude = 1;
 			
-			// aapt resource value: 0x7F04010A
-			public const int layout = 2130968842;
+			// aapt resource value: 0x7F04008C
+			public const int layout = 2130968716;
 			
 			// aapt resource value: 0x7F04010B
 			public const int layoutManager = 2130968843;
 			
-			// aapt resource value: 0x7F04000E
-			public const int layout_anchor = 2130968590;
+			// aapt resource value: 0x7F04008D
+			public const int layout_anchor = 2130968717;
 			
-			// aapt resource value: 0x7F04000F
-			public const int layout_anchorGravity = 2130968591;
+			// aapt resource value: 0x7F04008E
+			public const int layout_anchorGravity = 2130968718;
 			
-			// aapt resource value: 0x7F040010
-			public const int layout_behavior = 2130968592;
+			// aapt resource value: 0x7F04008F
+			public const int layout_behavior = 2130968719;
 			
 			// aapt resource value: 0x7F04010F
 			public const int layout_collapseMode = 2130968847;
@@ -5837,14 +8760,14 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F040110
 			public const int layout_collapseParallaxMultiplier = 2130968848;
 			
-			// aapt resource value: 0x7F040011
-			public const int layout_dodgeInsetEdges = 2130968593;
+			// aapt resource value: 0x7F040090
+			public const int layout_dodgeInsetEdges = 2130968720;
 			
-			// aapt resource value: 0x7F040012
-			public const int layout_insetEdge = 2130968594;
+			// aapt resource value: 0x7F040091
+			public const int layout_insetEdge = 2130968721;
 			
-			// aapt resource value: 0x7F040013
-			public const int layout_keyline = 2130968595;
+			// aapt resource value: 0x7F040092
+			public const int layout_keyline = 2130968722;
 			
 			// aapt resource value: 0x7F040114
 			public const int layout_scrollFlags = 2130968852;
@@ -5861,47 +8784,83 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F040118
 			public const int lineSpacing = 2130968856;
 			
-			// aapt resource value: 0x7F040119
-			public const int listChoiceBackgroundIndicator = 2130968857;
+			// aapt resource value: 0x7F040093
+			public const int listChoiceBackgroundIndicator = 2130968723;
 			
-			// aapt resource value: 0x7F04011A
-			public const int listDividerAlertDialog = 2130968858;
+			// aapt resource value: 0x7F040094
+			public const int listDividerAlertDialog = 2130968724;
 			
-			// aapt resource value: 0x7F04011B
-			public const int listItemLayout = 2130968859;
+			// aapt resource value: 0x7F040095
+			public const int listItemLayout = 2130968725;
 			
-			// aapt resource value: 0x7F04011C
-			public const int listLayout = 2130968860;
+			// aapt resource value: 0x7F040096
+			public const int listLayout = 2130968726;
 			
-			// aapt resource value: 0x7F04011D
-			public const int listMenuViewStyle = 2130968861;
+			// aapt resource value: 0x7F040097
+			public const int listMenuViewStyle = 2130968727;
 			
-			// aapt resource value: 0x7F04011E
-			public const int listPopupWindowStyle = 2130968862;
+			// aapt resource value: 0x7F040098
+			public const int listPopupWindowStyle = 2130968728;
 			
-			// aapt resource value: 0x7F04011F
-			public const int listPreferredItemHeight = 2130968863;
+			// aapt resource value: 0x7F040099
+			public const int listPreferredItemHeight = 2130968729;
 			
-			// aapt resource value: 0x7F040120
-			public const int listPreferredItemHeightLarge = 2130968864;
+			// aapt resource value: 0x7F04009A
+			public const int listPreferredItemHeightLarge = 2130968730;
 			
-			// aapt resource value: 0x7F040121
-			public const int listPreferredItemHeightSmall = 2130968865;
+			// aapt resource value: 0x7F04009B
+			public const int listPreferredItemHeightSmall = 2130968731;
 			
-			// aapt resource value: 0x7F040122
-			public const int listPreferredItemPaddingLeft = 2130968866;
+			// aapt resource value: 0x7F04009C
+			public const int listPreferredItemPaddingLeft = 2130968732;
 			
-			// aapt resource value: 0x7F040123
-			public const int listPreferredItemPaddingRight = 2130968867;
+			// aapt resource value: 0x7F04009D
+			public const int listPreferredItemPaddingRight = 2130968733;
 			
 			// aapt resource value: 0x1
 			public const int liteMode = 1;
 			
-			// aapt resource value: 0x7F040124
-			public const int logo = 2130968868;
+			// aapt resource value: 0x7F04009E
+			public const int logo = 2130968734;
 			
-			// aapt resource value: 0x7F040125
-			public const int logoDescription = 2130968869;
+			// aapt resource value: 0x7F04009F
+			public const int logoDescription = 2130968735;
+			
+			// aapt resource value: 0x7F0400A0
+			public const int lottie_autoPlay = 2130968736;
+			
+			// aapt resource value: 0x7F0400A1
+			public const int lottie_colorFilter = 2130968737;
+			
+			// aapt resource value: 0x7F0400A2
+			public const int lottie_enableMergePathsForKitKatAndAbove = 2130968738;
+			
+			// aapt resource value: 0x7F0400A3
+			public const int lottie_fileName = 2130968739;
+			
+			// aapt resource value: 0x7F0400A4
+			public const int lottie_imageAssetsFolder = 2130968740;
+			
+			// aapt resource value: 0x7F0400A5
+			public const int lottie_loop = 2130968741;
+			
+			// aapt resource value: 0x7F0400A6
+			public const int lottie_progress = 2130968742;
+			
+			// aapt resource value: 0x7F0400A7
+			public const int lottie_rawRes = 2130968743;
+			
+			// aapt resource value: 0x7F0400A8
+			public const int lottie_repeatCount = 2130968744;
+			
+			// aapt resource value: 0x7F0400A9
+			public const int lottie_repeatMode = 2130968745;
+			
+			// aapt resource value: 0x7F0400AA
+			public const int lottie_scale = 2130968746;
+			
+			// aapt resource value: 0x7F0400AB
+			public const int lottie_url = 2130968747;
 			
 			// aapt resource value: 0x1
 			public const int mapType = 1;
@@ -5936,14 +8895,14 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F040128
 			public const int maxActionInlineWidth = 2130968872;
 			
-			// aapt resource value: 0x7F040129
-			public const int maxButtonHeight = 2130968873;
+			// aapt resource value: 0x7F0400AC
+			public const int maxButtonHeight = 2130968748;
 			
 			// aapt resource value: 0x7F04012A
 			public const int maxImageSize = 2130968874;
 			
-			// aapt resource value: 0x7F04012B
-			public const int measureWithLargestChild = 2130968875;
+			// aapt resource value: 0x7F0400AD
+			public const int measureWithLargestChild = 2130968749;
 			
 			// aapt resource value: 0x7F0400AE
 			public const int mediaRouteAudioTrackDrawable = 2130968750;
@@ -5987,17 +8946,17 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F04012C
 			public const int menu = 2130968876;
 			
-			// aapt resource value: 0x7F04012D
-			public const int multiChoiceItemLayout = 2130968877;
+			// aapt resource value: 0x7F0400AE
+			public const int multiChoiceItemLayout = 2130968750;
 			
-			// aapt resource value: 0x7F04012E
-			public const int navigationContentDescription = 2130968878;
+			// aapt resource value: 0x7F0400AF
+			public const int navigationContentDescription = 2130968751;
 			
-			// aapt resource value: 0x7F04012F
-			public const int navigationIcon = 2130968879;
+			// aapt resource value: 0x7F0400B0
+			public const int navigationIcon = 2130968752;
 			
-			// aapt resource value: 0x7F040130
-			public const int navigationMode = 2130968880;
+			// aapt resource value: 0x7F0400B1
+			public const int navigationMode = 2130968753;
 			
 			// aapt resource value: 0x7F040131
 			public const int navigationViewStyle = 2130968881;
@@ -6005,32 +8964,32 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int noIndex = 1;
 			
-			// aapt resource value: 0x7F040132
-			public const int numericModifiers = 2130968882;
+			// aapt resource value: 0x7F0400B2
+			public const int numericModifiers = 2130968754;
 			
-			// aapt resource value: 0x7F040133
-			public const int overlapAnchor = 2130968883;
+			// aapt resource value: 0x7F0400B3
+			public const int overlapAnchor = 2130968755;
 			
-			// aapt resource value: 0x7F040134
-			public const int paddingBottomNoButtons = 2130968884;
+			// aapt resource value: 0x7F0400B4
+			public const int paddingBottomNoButtons = 2130968756;
 			
-			// aapt resource value: 0x7F040135
-			public const int paddingEnd = 2130968885;
+			// aapt resource value: 0x7F0400B5
+			public const int paddingEnd = 2130968757;
 			
-			// aapt resource value: 0x7F040136
-			public const int paddingStart = 2130968886;
+			// aapt resource value: 0x7F0400B6
+			public const int paddingStart = 2130968758;
 			
-			// aapt resource value: 0x7F040137
-			public const int paddingTopNoTitle = 2130968887;
+			// aapt resource value: 0x7F0400B7
+			public const int paddingTopNoTitle = 2130968759;
 			
-			// aapt resource value: 0x7F040138
-			public const int panelBackground = 2130968888;
+			// aapt resource value: 0x7F0400B8
+			public const int panelBackground = 2130968760;
 			
-			// aapt resource value: 0x7F040139
-			public const int panelMenuListTheme = 2130968889;
+			// aapt resource value: 0x7F0400B9
+			public const int panelMenuListTheme = 2130968761;
 			
-			// aapt resource value: 0x7F04013A
-			public const int panelMenuListWidth = 2130968890;
+			// aapt resource value: 0x7F0400BA
+			public const int panelMenuListWidth = 2130968762;
 			
 			// aapt resource value: 0x1
 			public const int paramName = 1;
@@ -6056,44 +9015,44 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int perAccountTemplate = 1;
 			
-			// aapt resource value: 0x7F040140
-			public const int popupMenuStyle = 2130968896;
+			// aapt resource value: 0x7F0400BB
+			public const int popupMenuStyle = 2130968763;
 			
-			// aapt resource value: 0x7F040141
-			public const int popupTheme = 2130968897;
+			// aapt resource value: 0x7F0400BC
+			public const int popupTheme = 2130968764;
 			
-			// aapt resource value: 0x7F040142
-			public const int popupWindowStyle = 2130968898;
+			// aapt resource value: 0x7F0400BD
+			public const int popupWindowStyle = 2130968765;
 			
-			// aapt resource value: 0x7F040143
-			public const int preserveIconSpacing = 2130968899;
+			// aapt resource value: 0x7F0400BE
+			public const int preserveIconSpacing = 2130968766;
 			
 			// aapt resource value: 0x7F040144
 			public const int pressedTranslationZ = 2130968900;
 			
-			// aapt resource value: 0x7F040145
-			public const int progressBarPadding = 2130968901;
+			// aapt resource value: 0x7F0400BF
+			public const int progressBarPadding = 2130968767;
 			
-			// aapt resource value: 0x7F040146
-			public const int progressBarStyle = 2130968902;
+			// aapt resource value: 0x7F0400C0
+			public const int progressBarStyle = 2130968768;
 			
-			// aapt resource value: 0x7F040147
-			public const int queryBackground = 2130968903;
+			// aapt resource value: 0x7F0400C1
+			public const int queryBackground = 2130968769;
 			
-			// aapt resource value: 0x7F040148
-			public const int queryHint = 2130968904;
+			// aapt resource value: 0x7F0400C2
+			public const int queryHint = 2130968770;
 			
-			// aapt resource value: 0x7F040149
-			public const int radioButtonStyle = 2130968905;
+			// aapt resource value: 0x7F0400C3
+			public const int radioButtonStyle = 2130968771;
 			
-			// aapt resource value: 0x7F04014A
-			public const int ratingBarStyle = 2130968906;
+			// aapt resource value: 0x7F0400C4
+			public const int ratingBarStyle = 2130968772;
 			
-			// aapt resource value: 0x7F04014B
-			public const int ratingBarStyleIndicator = 2130968907;
+			// aapt resource value: 0x7F0400C5
+			public const int ratingBarStyleIndicator = 2130968773;
 			
-			// aapt resource value: 0x7F04014C
-			public const int ratingBarStyleSmall = 2130968908;
+			// aapt resource value: 0x7F0400C6
+			public const int ratingBarStyleSmall = 2130968774;
 			
 			// aapt resource value: 0x7F04014D
 			public const int reverseLayout = 2130968909;
@@ -6122,17 +9081,17 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int searchEnabled = 1;
 			
-			// aapt resource value: 0x7F040152
-			public const int searchHintIcon = 2130968914;
+			// aapt resource value: 0x7F0400C7
+			public const int searchHintIcon = 2130968775;
 			
-			// aapt resource value: 0x7F040153
-			public const int searchIcon = 2130968915;
+			// aapt resource value: 0x7F0400C8
+			public const int searchIcon = 2130968776;
 			
 			// aapt resource value: 0x1
 			public const int searchLabel = 1;
 			
-			// aapt resource value: 0x7F040154
-			public const int searchViewStyle = 2130968916;
+			// aapt resource value: 0x7F0400C9
+			public const int searchViewStyle = 2130968777;
 			
 			// aapt resource value: 0x1
 			public const int sectionContent = 1;
@@ -6149,14 +9108,14 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int sectionWeight = 1;
 			
-			// aapt resource value: 0x7F040155
-			public const int seekBarStyle = 2130968917;
+			// aapt resource value: 0x7F0400CA
+			public const int seekBarStyle = 2130968778;
 			
-			// aapt resource value: 0x7F040156
-			public const int selectableItemBackground = 2130968918;
+			// aapt resource value: 0x7F0400CB
+			public const int selectableItemBackground = 2130968779;
 			
-			// aapt resource value: 0x7F040157
-			public const int selectableItemBackgroundBorderless = 2130968919;
+			// aapt resource value: 0x7F0400CC
+			public const int selectableItemBackgroundBorderless = 2130968780;
 			
 			// aapt resource value: 0x1
 			public const int semanticallySearchable = 1;
@@ -6164,23 +9123,23 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int settingsDescription = 1;
 			
-			// aapt resource value: 0x7F040158
-			public const int showAsAction = 2130968920;
+			// aapt resource value: 0x7F0400CD
+			public const int showAsAction = 2130968781;
 			
-			// aapt resource value: 0x7F040159
-			public const int showDividers = 2130968921;
+			// aapt resource value: 0x7F0400CE
+			public const int showDividers = 2130968782;
 			
 			// aapt resource value: 0x7F04015A
 			public const int showMotionSpec = 2130968922;
 			
-			// aapt resource value: 0x7F04015B
-			public const int showText = 2130968923;
+			// aapt resource value: 0x7F0400CF
+			public const int showText = 2130968783;
 			
-			// aapt resource value: 0x7F04015C
-			public const int showTitle = 2130968924;
+			// aapt resource value: 0x7F0400D0
+			public const int showTitle = 2130968784;
 			
-			// aapt resource value: 0x7F04015D
-			public const int singleChoiceItemLayout = 2130968925;
+			// aapt resource value: 0x7F0400D1
+			public const int singleChoiceItemLayout = 2130968785;
 			
 			// aapt resource value: 0x7F04015E
 			public const int singleLine = 2130968926;
@@ -6200,26 +9159,26 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F040162
 			public const int spanCount = 2130968930;
 			
-			// aapt resource value: 0x7F040163
-			public const int spinBars = 2130968931;
+			// aapt resource value: 0x7F0400D2
+			public const int spinBars = 2130968786;
 			
-			// aapt resource value: 0x7F040164
-			public const int spinnerDropDownItemStyle = 2130968932;
+			// aapt resource value: 0x7F0400D3
+			public const int spinnerDropDownItemStyle = 2130968787;
 			
-			// aapt resource value: 0x7F040165
-			public const int spinnerStyle = 2130968933;
+			// aapt resource value: 0x7F0400D4
+			public const int spinnerStyle = 2130968788;
 			
-			// aapt resource value: 0x7F040166
-			public const int splitTrack = 2130968934;
+			// aapt resource value: 0x7F0400D5
+			public const int splitTrack = 2130968789;
 			
-			// aapt resource value: 0x7F040167
-			public const int srcCompat = 2130968935;
+			// aapt resource value: 0x7F0400D6
+			public const int srcCompat = 2130968790;
 			
 			// aapt resource value: 0x7F040168
 			public const int stackFromEnd = 2130968936;
 			
-			// aapt resource value: 0x7F040169
-			public const int state_above_anchor = 2130968937;
+			// aapt resource value: 0x7F0400D7
+			public const int state_above_anchor = 2130968791;
 			
 			// aapt resource value: 0x7F04016A
 			public const int state_collapsed = 2130968938;
@@ -6233,8 +9192,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F04016D
 			public const int state_lifted = 2130968941;
 			
-			// aapt resource value: 0x7F040014
-			public const int statusBarBackground = 2130968596;
+			// aapt resource value: 0x7F0400D8
+			public const int statusBarBackground = 2130968792;
 			
 			// aapt resource value: 0x7F04016F
 			public const int statusBarScrim = 2130968943;
@@ -6245,41 +9204,41 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F040171
 			public const int strokeWidth = 2130968945;
 			
-			// aapt resource value: 0x7F040172
-			public const int subMenuArrow = 2130968946;
+			// aapt resource value: 0x7F0400D9
+			public const int subMenuArrow = 2130968793;
 			
-			// aapt resource value: 0x7F040173
-			public const int submitBackground = 2130968947;
+			// aapt resource value: 0x7F0400DA
+			public const int submitBackground = 2130968794;
 			
 			// aapt resource value: 0x1
 			public const int subsectionSeparator = 1;
 			
-			// aapt resource value: 0x7F040174
-			public const int subtitle = 2130968948;
+			// aapt resource value: 0x7F0400DB
+			public const int subtitle = 2130968795;
 			
-			// aapt resource value: 0x7F040175
-			public const int subtitleTextAppearance = 2130968949;
+			// aapt resource value: 0x7F0400DC
+			public const int subtitleTextAppearance = 2130968796;
 			
-			// aapt resource value: 0x7F040176
-			public const int subtitleTextColor = 2130968950;
+			// aapt resource value: 0x7F0400DD
+			public const int subtitleTextColor = 2130968797;
 			
-			// aapt resource value: 0x7F040177
-			public const int subtitleTextStyle = 2130968951;
+			// aapt resource value: 0x7F0400DE
+			public const int subtitleTextStyle = 2130968798;
 			
-			// aapt resource value: 0x7F040178
-			public const int suggestionRowLayout = 2130968952;
+			// aapt resource value: 0x7F0400DF
+			public const int suggestionRowLayout = 2130968799;
 			
-			// aapt resource value: 0x7F040179
-			public const int switchMinWidth = 2130968953;
+			// aapt resource value: 0x7F0400E0
+			public const int switchMinWidth = 2130968800;
 			
-			// aapt resource value: 0x7F04017A
-			public const int switchPadding = 2130968954;
+			// aapt resource value: 0x7F0400E1
+			public const int switchPadding = 2130968801;
 			
-			// aapt resource value: 0x7F04017B
-			public const int switchStyle = 2130968955;
+			// aapt resource value: 0x7F0400E2
+			public const int switchStyle = 2130968802;
 			
-			// aapt resource value: 0x7F04017C
-			public const int switchTextAppearance = 2130968956;
+			// aapt resource value: 0x7F0400E3
+			public const int switchTextAppearance = 2130968803;
 			
 			// aapt resource value: 0x7F04017D
 			public const int tabBackground = 2130968957;
@@ -6359,8 +9318,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F040196
 			public const int tabUnboundedRipple = 2130968982;
 			
-			// aapt resource value: 0x7F040197
-			public const int textAllCaps = 2130968983;
+			// aapt resource value: 0x7F0400E4
+			public const int textAllCaps = 2130968804;
 			
 			// aapt resource value: 0x7F040198
 			public const int textAppearanceBody1 = 2130968984;
@@ -6392,32 +9351,32 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0401A1
 			public const int textAppearanceHeadline6 = 2130968993;
 			
-			// aapt resource value: 0x7F0401A2
-			public const int textAppearanceLargePopupMenu = 2130968994;
+			// aapt resource value: 0x7F0400E5
+			public const int textAppearanceLargePopupMenu = 2130968805;
 			
-			// aapt resource value: 0x7F0401A3
-			public const int textAppearanceListItem = 2130968995;
+			// aapt resource value: 0x7F0400E6
+			public const int textAppearanceListItem = 2130968806;
 			
-			// aapt resource value: 0x7F0401A4
-			public const int textAppearanceListItemSecondary = 2130968996;
+			// aapt resource value: 0x7F0400E7
+			public const int textAppearanceListItemSecondary = 2130968807;
 			
-			// aapt resource value: 0x7F0401A5
-			public const int textAppearanceListItemSmall = 2130968997;
+			// aapt resource value: 0x7F0400E8
+			public const int textAppearanceListItemSmall = 2130968808;
 			
 			// aapt resource value: 0x7F0401A6
 			public const int textAppearanceOverline = 2130968998;
 			
-			// aapt resource value: 0x7F0401A7
-			public const int textAppearancePopupMenuHeader = 2130968999;
+			// aapt resource value: 0x7F0400E9
+			public const int textAppearancePopupMenuHeader = 2130968809;
 			
-			// aapt resource value: 0x7F0401A8
-			public const int textAppearanceSearchResultSubtitle = 2130969000;
+			// aapt resource value: 0x7F0400EA
+			public const int textAppearanceSearchResultSubtitle = 2130968810;
 			
-			// aapt resource value: 0x7F0401A9
-			public const int textAppearanceSearchResultTitle = 2130969001;
+			// aapt resource value: 0x7F0400EB
+			public const int textAppearanceSearchResultTitle = 2130968811;
 			
-			// aapt resource value: 0x7F0401AA
-			public const int textAppearanceSmallPopupMenu = 2130969002;
+			// aapt resource value: 0x7F0400EC
+			public const int textAppearanceSmallPopupMenu = 2130968812;
 			
 			// aapt resource value: 0x7F0401AB
 			public const int textAppearanceSubtitle1 = 2130969003;
@@ -6425,11 +9384,11 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0401AC
 			public const int textAppearanceSubtitle2 = 2130969004;
 			
-			// aapt resource value: 0x7F0401AD
-			public const int textColorAlertDialogListItem = 2130969005;
+			// aapt resource value: 0x7F0400ED
+			public const int textColorAlertDialogListItem = 2130968813;
 			
-			// aapt resource value: 0x7F0401AE
-			public const int textColorSearchUrl = 2130969006;
+			// aapt resource value: 0x7F0400EE
+			public const int textColorSearchUrl = 2130968814;
 			
 			// aapt resource value: 0x7F0401AF
 			public const int textEndPadding = 2130969007;
@@ -6440,68 +9399,68 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0401B1
 			public const int textStartPadding = 2130969009;
 			
-			// aapt resource value: 0x7F0401B2
-			public const int theme = 2130969010;
+			// aapt resource value: 0x7F0400EF
+			public const int theme = 2130968815;
 			
-			// aapt resource value: 0x7F0401B3
-			public const int thickness = 2130969011;
+			// aapt resource value: 0x7F0400F0
+			public const int thickness = 2130968816;
 			
-			// aapt resource value: 0x7F0401B4
-			public const int thumbTextPadding = 2130969012;
+			// aapt resource value: 0x7F0400F1
+			public const int thumbTextPadding = 2130968817;
 			
-			// aapt resource value: 0x7F0401B5
-			public const int thumbTint = 2130969013;
+			// aapt resource value: 0x7F0400F2
+			public const int thumbTint = 2130968818;
 			
-			// aapt resource value: 0x7F0401B6
-			public const int thumbTintMode = 2130969014;
+			// aapt resource value: 0x7F0400F3
+			public const int thumbTintMode = 2130968819;
 			
-			// aapt resource value: 0x7F0401B7
-			public const int tickMark = 2130969015;
+			// aapt resource value: 0x7F0400F4
+			public const int tickMark = 2130968820;
 			
-			// aapt resource value: 0x7F0401B8
-			public const int tickMarkTint = 2130969016;
+			// aapt resource value: 0x7F0400F5
+			public const int tickMarkTint = 2130968821;
 			
-			// aapt resource value: 0x7F0401B9
-			public const int tickMarkTintMode = 2130969017;
+			// aapt resource value: 0x7F0400F6
+			public const int tickMarkTintMode = 2130968822;
 			
-			// aapt resource value: 0x7F0401BA
-			public const int tint = 2130969018;
+			// aapt resource value: 0x7F0400F7
+			public const int tint = 2130968823;
 			
-			// aapt resource value: 0x7F0401BB
-			public const int tintMode = 2130969019;
+			// aapt resource value: 0x7F0400F8
+			public const int tintMode = 2130968824;
 			
-			// aapt resource value: 0x7F0401BC
-			public const int title = 2130969020;
+			// aapt resource value: 0x7F0400F9
+			public const int title = 2130968825;
 			
 			// aapt resource value: 0x7F0401BD
 			public const int titleEnabled = 2130969021;
 			
-			// aapt resource value: 0x7F0401BE
-			public const int titleMargin = 2130969022;
+			// aapt resource value: 0x7F0400FA
+			public const int titleMargin = 2130968826;
 			
-			// aapt resource value: 0x7F0401BF
-			public const int titleMarginBottom = 2130969023;
+			// aapt resource value: 0x7F0400FB
+			public const int titleMarginBottom = 2130968827;
 			
-			// aapt resource value: 0x7F0401C0
-			public const int titleMarginEnd = 2130969024;
+			// aapt resource value: 0x7F0400FC
+			public const int titleMarginEnd = 2130968828;
 			
-			// aapt resource value: 0x7F0401C3
-			public const int titleMargins = 2130969027;
+			// aapt resource value: 0x7F0400FF
+			public const int titleMargins = 2130968831;
 			
-			// aapt resource value: 0x7F0401C1
-			public const int titleMarginStart = 2130969025;
+			// aapt resource value: 0x7F0400FD
+			public const int titleMarginStart = 2130968829;
 			
-			// aapt resource value: 0x7F0401C2
-			public const int titleMarginTop = 2130969026;
+			// aapt resource value: 0x7F0400FE
+			public const int titleMarginTop = 2130968830;
 			
-			// aapt resource value: 0x7F0401C4
-			public const int titleTextAppearance = 2130969028;
+			// aapt resource value: 0x7F040100
+			public const int titleTextAppearance = 2130968832;
 			
-			// aapt resource value: 0x7F0401C5
-			public const int titleTextColor = 2130969029;
+			// aapt resource value: 0x7F040101
+			public const int titleTextColor = 2130968833;
 			
-			// aapt resource value: 0x7F0401C6
-			public const int titleTextStyle = 2130969030;
+			// aapt resource value: 0x7F040102
+			public const int titleTextStyle = 2130968834;
 			
 			// aapt resource value: 0x1
 			public const int toAddressesSection = 1;
@@ -6509,32 +9468,32 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0401C7
 			public const int toolbarId = 2130969031;
 			
-			// aapt resource value: 0x7F0401C8
-			public const int toolbarNavigationButtonStyle = 2130969032;
+			// aapt resource value: 0x7F040103
+			public const int toolbarNavigationButtonStyle = 2130968835;
 			
-			// aapt resource value: 0x7F0401C9
-			public const int toolbarStyle = 2130969033;
+			// aapt resource value: 0x7F040104
+			public const int toolbarStyle = 2130968836;
 			
 			// aapt resource value: 0x1
 			public const int toolbarTextColorStyle = 1;
 			
-			// aapt resource value: 0x7F0401CA
-			public const int tooltipForegroundColor = 2130969034;
+			// aapt resource value: 0x7F040105
+			public const int tooltipForegroundColor = 2130968837;
 			
-			// aapt resource value: 0x7F0401CB
-			public const int tooltipFrameBackground = 2130969035;
+			// aapt resource value: 0x7F040106
+			public const int tooltipFrameBackground = 2130968838;
 			
-			// aapt resource value: 0x7F0401CC
-			public const int tooltipText = 2130969036;
+			// aapt resource value: 0x7F040107
+			public const int tooltipText = 2130968839;
 			
-			// aapt resource value: 0x7F0401CD
-			public const int track = 2130969037;
+			// aapt resource value: 0x7F040108
+			public const int track = 2130968840;
 			
-			// aapt resource value: 0x7F0401CE
-			public const int trackTint = 2130969038;
+			// aapt resource value: 0x7F040109
+			public const int trackTint = 2130968841;
 			
-			// aapt resource value: 0x7F0401CF
-			public const int trackTintMode = 2130969039;
+			// aapt resource value: 0x7F04010A
+			public const int trackTintMode = 2130968842;
 			
 			// aapt resource value: 0x1
 			public const int trimmable = 1;
@@ -6578,41 +9537,41 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int useViewLifecycle = 1;
 			
-			// aapt resource value: 0x7F0401D2
-			public const int viewInflaterClass = 2130969042;
+			// aapt resource value: 0x7F04010B
+			public const int viewInflaterClass = 2130968843;
 			
-			// aapt resource value: 0x7F0401D3
-			public const int voiceIcon = 2130969043;
+			// aapt resource value: 0x7F04010C
+			public const int voiceIcon = 2130968844;
 			
-			// aapt resource value: 0x7F0401D4
-			public const int windowActionBar = 2130969044;
+			// aapt resource value: 0x7F04010D
+			public const int windowActionBar = 2130968845;
 			
-			// aapt resource value: 0x7F0401D5
-			public const int windowActionBarOverlay = 2130969045;
+			// aapt resource value: 0x7F04010E
+			public const int windowActionBarOverlay = 2130968846;
 			
-			// aapt resource value: 0x7F0401D6
-			public const int windowActionModeOverlay = 2130969046;
+			// aapt resource value: 0x7F04010F
+			public const int windowActionModeOverlay = 2130968847;
 			
-			// aapt resource value: 0x7F0401D7
-			public const int windowFixedHeightMajor = 2130969047;
+			// aapt resource value: 0x7F040110
+			public const int windowFixedHeightMajor = 2130968848;
 			
-			// aapt resource value: 0x7F0401D8
-			public const int windowFixedHeightMinor = 2130969048;
+			// aapt resource value: 0x7F040111
+			public const int windowFixedHeightMinor = 2130968849;
 			
-			// aapt resource value: 0x7F0401D9
-			public const int windowFixedWidthMajor = 2130969049;
+			// aapt resource value: 0x7F040112
+			public const int windowFixedWidthMajor = 2130968850;
 			
-			// aapt resource value: 0x7F0401DA
-			public const int windowFixedWidthMinor = 2130969050;
+			// aapt resource value: 0x7F040113
+			public const int windowFixedWidthMinor = 2130968851;
 			
-			// aapt resource value: 0x7F0401DB
-			public const int windowMinWidthMajor = 2130969051;
+			// aapt resource value: 0x7F040114
+			public const int windowMinWidthMajor = 2130968852;
 			
-			// aapt resource value: 0x7F0401DC
-			public const int windowMinWidthMinor = 2130969052;
+			// aapt resource value: 0x7F040115
+			public const int windowMinWidthMinor = 2130968853;
 			
-			// aapt resource value: 0x7F0401DD
-			public const int windowNoTitle = 2130969053;
+			// aapt resource value: 0x7F040116
+			public const int windowNoTitle = 2130968854;
 			
 			// aapt resource value: 0x1
 			public const int windowTransitionStyle = 1;
@@ -6641,6 +9600,9 @@ namespace InventoryManagementSystem.Droid
 			
 			// aapt resource value: 0x7F050003
 			public const int abc_config_actionMenuItemAllCaps = 2131034115;
+			
+			// aapt resource value: 0x7F050004
+			public const int abc_config_showMenuShortcutsWhenKeyboardPresent = 2131034116;
 			
 			// aapt resource value: 0x7F050004
 			public const int mtrl_btn_textappearance_all_caps = 2131034116;
@@ -6901,17 +9863,20 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F060037
 			public const int design_tint_password_toggle = 2131099703;
 			
-			// aapt resource value: 0x7F060038
-			public const int dim_foreground_disabled_material_dark = 2131099704;
+			// aapt resource value: 0x7F060027
+			public const int dim_foreground_disabled_material_dark = 2131099687;
 			
-			// aapt resource value: 0x7F060039
-			public const int dim_foreground_disabled_material_light = 2131099705;
+			// aapt resource value: 0x7F060028
+			public const int dim_foreground_disabled_material_light = 2131099688;
 			
-			// aapt resource value: 0x7F06003A
-			public const int dim_foreground_material_dark = 2131099706;
+			// aapt resource value: 0x7F060029
+			public const int dim_foreground_material_dark = 2131099689;
 			
-			// aapt resource value: 0x7F06003B
-			public const int dim_foreground_material_light = 2131099707;
+			// aapt resource value: 0x7F06002A
+			public const int dim_foreground_material_light = 2131099690;
+			
+			// aapt resource value: 0x7F06002B
+			public const int error_color_material = 2131099691;
 			
 			// aapt resource value: 0x7F06003C
 			public const int error_color_material_dark = 2131099708;
@@ -6919,53 +9884,53 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F06003D
 			public const int error_color_material_light = 2131099709;
 			
-			// aapt resource value: 0x7F06003E
-			public const int foreground_material_dark = 2131099710;
+			// aapt resource value: 0x7F06002C
+			public const int foreground_material_dark = 2131099692;
 			
-			// aapt resource value: 0x7F06003F
-			public const int foreground_material_light = 2131099711;
+			// aapt resource value: 0x7F06002D
+			public const int foreground_material_light = 2131099693;
 			
-			// aapt resource value: 0x7F060040
-			public const int highlighted_text_material_dark = 2131099712;
+			// aapt resource value: 0x7F06002E
+			public const int highlighted_text_material_dark = 2131099694;
 			
-			// aapt resource value: 0x7F060041
-			public const int highlighted_text_material_light = 2131099713;
+			// aapt resource value: 0x7F06002F
+			public const int highlighted_text_material_light = 2131099695;
 			
-			// aapt resource value: 0x7F060042
-			public const int material_blue_grey_800 = 2131099714;
+			// aapt resource value: 0x7F060030
+			public const int material_blue_grey_800 = 2131099696;
 			
-			// aapt resource value: 0x7F060043
-			public const int material_blue_grey_900 = 2131099715;
+			// aapt resource value: 0x7F060031
+			public const int material_blue_grey_900 = 2131099697;
 			
-			// aapt resource value: 0x7F060044
-			public const int material_blue_grey_950 = 2131099716;
+			// aapt resource value: 0x7F060032
+			public const int material_blue_grey_950 = 2131099698;
 			
-			// aapt resource value: 0x7F060045
-			public const int material_deep_teal_200 = 2131099717;
+			// aapt resource value: 0x7F060033
+			public const int material_deep_teal_200 = 2131099699;
 			
-			// aapt resource value: 0x7F060046
-			public const int material_deep_teal_500 = 2131099718;
+			// aapt resource value: 0x7F060034
+			public const int material_deep_teal_500 = 2131099700;
 			
-			// aapt resource value: 0x7F060047
-			public const int material_grey_100 = 2131099719;
+			// aapt resource value: 0x7F060035
+			public const int material_grey_100 = 2131099701;
 			
-			// aapt resource value: 0x7F060048
-			public const int material_grey_300 = 2131099720;
+			// aapt resource value: 0x7F060036
+			public const int material_grey_300 = 2131099702;
 			
-			// aapt resource value: 0x7F060049
-			public const int material_grey_50 = 2131099721;
+			// aapt resource value: 0x7F060037
+			public const int material_grey_50 = 2131099703;
 			
-			// aapt resource value: 0x7F06004A
-			public const int material_grey_600 = 2131099722;
+			// aapt resource value: 0x7F060038
+			public const int material_grey_600 = 2131099704;
 			
-			// aapt resource value: 0x7F06004B
-			public const int material_grey_800 = 2131099723;
+			// aapt resource value: 0x7F060039
+			public const int material_grey_800 = 2131099705;
 			
-			// aapt resource value: 0x7F06004C
-			public const int material_grey_850 = 2131099724;
+			// aapt resource value: 0x7F06003A
+			public const int material_grey_850 = 2131099706;
 			
-			// aapt resource value: 0x7F06004D
-			public const int material_grey_900 = 2131099725;
+			// aapt resource value: 0x7F06003B
+			public const int material_grey_900 = 2131099707;
 			
 			// aapt resource value: 0x7F06004E
 			public const int mtrl_bottom_nav_colored_item_tint = 2131099726;
@@ -7045,11 +10010,11 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F060063
 			public const int mtrl_text_btn_text_color_selector = 2131099747;
 			
-			// aapt resource value: 0x7F060001
-			public const int notification_action_color_filter = 2131099649;
+			// aapt resource value: 0x7F06003C
+			public const int notification_action_color_filter = 2131099708;
 			
-			// aapt resource value: 0x7F060002
-			public const int notification_icon_bg_color = 2131099650;
+			// aapt resource value: 0x7F06003D
+			public const int notification_icon_bg_color = 2131099709;
 			
 			// aapt resource value: 0x7F060003
 			public const int notification_material_background_media_default_color = 2131099651;
@@ -7072,71 +10037,71 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int place_autocomplete_separator = 1;
 			
-			// aapt resource value: 0x7F06006A
-			public const int primary_dark_material_dark = 2131099754;
+			// aapt resource value: 0x7F06003E
+			public const int primary_dark_material_dark = 2131099710;
 			
-			// aapt resource value: 0x7F06006B
-			public const int primary_dark_material_light = 2131099755;
+			// aapt resource value: 0x7F06003F
+			public const int primary_dark_material_light = 2131099711;
 			
-			// aapt resource value: 0x7F06006C
-			public const int primary_material_dark = 2131099756;
+			// aapt resource value: 0x7F060040
+			public const int primary_material_dark = 2131099712;
 			
-			// aapt resource value: 0x7F06006D
-			public const int primary_material_light = 2131099757;
+			// aapt resource value: 0x7F060041
+			public const int primary_material_light = 2131099713;
 			
-			// aapt resource value: 0x7F06006E
-			public const int primary_text_default_material_dark = 2131099758;
+			// aapt resource value: 0x7F060042
+			public const int primary_text_default_material_dark = 2131099714;
 			
-			// aapt resource value: 0x7F06006F
-			public const int primary_text_default_material_light = 2131099759;
+			// aapt resource value: 0x7F060043
+			public const int primary_text_default_material_light = 2131099715;
 			
-			// aapt resource value: 0x7F060070
-			public const int primary_text_disabled_material_dark = 2131099760;
+			// aapt resource value: 0x7F060044
+			public const int primary_text_disabled_material_dark = 2131099716;
 			
-			// aapt resource value: 0x7F060071
-			public const int primary_text_disabled_material_light = 2131099761;
+			// aapt resource value: 0x7F060045
+			public const int primary_text_disabled_material_light = 2131099717;
 			
-			// aapt resource value: 0x7F060072
-			public const int ripple_material_dark = 2131099762;
+			// aapt resource value: 0x7F060046
+			public const int ripple_material_dark = 2131099718;
 			
-			// aapt resource value: 0x7F060003
-			public const int ripple_material_light = 2131099651;
+			// aapt resource value: 0x7F060047
+			public const int ripple_material_light = 2131099719;
 			
-			// aapt resource value: 0x7F060074
-			public const int secondary_text_default_material_dark = 2131099764;
+			// aapt resource value: 0x7F060048
+			public const int secondary_text_default_material_dark = 2131099720;
 			
-			// aapt resource value: 0x7F060004
-			public const int secondary_text_default_material_light = 2131099652;
+			// aapt resource value: 0x7F060049
+			public const int secondary_text_default_material_light = 2131099721;
 			
-			// aapt resource value: 0x7F060076
-			public const int secondary_text_disabled_material_dark = 2131099766;
+			// aapt resource value: 0x7F06004A
+			public const int secondary_text_disabled_material_dark = 2131099722;
 			
-			// aapt resource value: 0x7F060077
-			public const int secondary_text_disabled_material_light = 2131099767;
+			// aapt resource value: 0x7F06004B
+			public const int secondary_text_disabled_material_light = 2131099723;
 			
-			// aapt resource value: 0x7F060078
-			public const int switch_thumb_disabled_material_dark = 2131099768;
+			// aapt resource value: 0x7F06004C
+			public const int switch_thumb_disabled_material_dark = 2131099724;
 			
-			// aapt resource value: 0x7F060079
-			public const int switch_thumb_disabled_material_light = 2131099769;
+			// aapt resource value: 0x7F06004D
+			public const int switch_thumb_disabled_material_light = 2131099725;
 			
-			// aapt resource value: 0x7F06007A
-			public const int switch_thumb_material_dark = 2131099770;
+			// aapt resource value: 0x7F06004E
+			public const int switch_thumb_material_dark = 2131099726;
 			
-			// aapt resource value: 0x7F06007B
-			public const int switch_thumb_material_light = 2131099771;
+			// aapt resource value: 0x7F06004F
+			public const int switch_thumb_material_light = 2131099727;
 			
-			// aapt resource value: 0x7F06007C
-			public const int switch_thumb_normal_material_dark = 2131099772;
+			// aapt resource value: 0x7F060050
+			public const int switch_thumb_normal_material_dark = 2131099728;
 			
-			// aapt resource value: 0x7F06007D
-			public const int switch_thumb_normal_material_light = 2131099773;
+			// aapt resource value: 0x7F060051
+			public const int switch_thumb_normal_material_light = 2131099729;
 			
-			// aapt resource value: 0x7F06007E
-			public const int tooltip_background_dark = 2131099774;
+			// aapt resource value: 0x7F060052
+			public const int tooltip_background_dark = 2131099730;
 			
-			// aapt resource value: 0x7F06007F
-			public const int tooltip_background_light = 2131099775;
+			// aapt resource value: 0x7F060053
+			public const int tooltip_background_light = 2131099731;
 			
 			// aapt resource value: 0x1
 			public const int wallet_bright_foreground_disabled_holo_light = 1;
@@ -7218,58 +10183,61 @@ namespace InventoryManagementSystem.Droid
 			public const int abc_action_bar_overflow_padding_start_material = 2131230729;
 			
 			// aapt resource value: 0x7F08000A
-			public const int abc_action_bar_stacked_max_height = 2131230730;
+			public const int abc_action_bar_progress_bar_size = 2131230730;
 			
 			// aapt resource value: 0x7F08000B
-			public const int abc_action_bar_stacked_tab_max_width = 2131230731;
+			public const int abc_action_bar_stacked_max_height = 2131230731;
 			
 			// aapt resource value: 0x7F08000C
-			public const int abc_action_bar_subtitle_bottom_margin_material = 2131230732;
+			public const int abc_action_bar_stacked_tab_max_width = 2131230732;
 			
 			// aapt resource value: 0x7F08000D
-			public const int abc_action_bar_subtitle_top_margin_material = 2131230733;
+			public const int abc_action_bar_subtitle_bottom_margin_material = 2131230733;
 			
 			// aapt resource value: 0x7F08000E
-			public const int abc_action_button_min_height_material = 2131230734;
+			public const int abc_action_bar_subtitle_top_margin_material = 2131230734;
 			
 			// aapt resource value: 0x7F08000F
-			public const int abc_action_button_min_width_material = 2131230735;
+			public const int abc_action_button_min_height_material = 2131230735;
 			
 			// aapt resource value: 0x7F080010
-			public const int abc_action_button_min_width_overflow_material = 2131230736;
+			public const int abc_action_button_min_width_material = 2131230736;
 			
 			// aapt resource value: 0x7F080011
-			public const int abc_alert_dialog_button_bar_height = 2131230737;
+			public const int abc_action_button_min_width_overflow_material = 2131230737;
 			
 			// aapt resource value: 0x7F080012
-			public const int abc_alert_dialog_button_dimen = 2131230738;
+			public const int abc_alert_dialog_button_bar_height = 2131230738;
 			
 			// aapt resource value: 0x7F080013
-			public const int abc_button_inset_horizontal_material = 2131230739;
+			public const int abc_alert_dialog_button_dimen = 2131230739;
 			
 			// aapt resource value: 0x7F080014
-			public const int abc_button_inset_vertical_material = 2131230740;
+			public const int abc_button_inset_horizontal_material = 2131230740;
 			
 			// aapt resource value: 0x7F080015
-			public const int abc_button_padding_horizontal_material = 2131230741;
+			public const int abc_button_inset_vertical_material = 2131230741;
 			
 			// aapt resource value: 0x7F080016
-			public const int abc_button_padding_vertical_material = 2131230742;
+			public const int abc_button_padding_horizontal_material = 2131230742;
 			
 			// aapt resource value: 0x7F080017
-			public const int abc_cascading_menus_min_smallest_width = 2131230743;
+			public const int abc_button_padding_vertical_material = 2131230743;
 			
 			// aapt resource value: 0x7F080018
-			public const int abc_config_prefDialogWidth = 2131230744;
+			public const int abc_cascading_menus_min_smallest_width = 2131230744;
 			
 			// aapt resource value: 0x7F080019
-			public const int abc_control_corner_material = 2131230745;
+			public const int abc_config_prefDialogWidth = 2131230745;
 			
 			// aapt resource value: 0x7F08001A
-			public const int abc_control_inset_material = 2131230746;
+			public const int abc_control_corner_material = 2131230746;
 			
 			// aapt resource value: 0x7F08001B
-			public const int abc_control_padding_material = 2131230747;
+			public const int abc_control_inset_material = 2131230747;
+			
+			// aapt resource value: 0x7F08001C
+			public const int abc_control_padding_material = 2131230748;
 			
 			// aapt resource value: 0x7F08001C
 			public const int abc_dialog_corner_radius_material = 2131230748;
@@ -7517,20 +10485,20 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int cast_tracks_chooser_dialog_row_text_size = 1;
 			
-			// aapt resource value: 0x7F080001
-			public const int compat_button_inset_horizontal_material = 2131230721;
+			// aapt resource value: 0x7F08004C
+			public const int compat_button_inset_horizontal_material = 2131230796;
 			
-			// aapt resource value: 0x7F080002
-			public const int compat_button_inset_vertical_material = 2131230722;
+			// aapt resource value: 0x7F08004D
+			public const int compat_button_inset_vertical_material = 2131230797;
 			
-			// aapt resource value: 0x7F080003
-			public const int compat_button_padding_horizontal_material = 2131230723;
+			// aapt resource value: 0x7F08004E
+			public const int compat_button_padding_horizontal_material = 2131230798;
 			
-			// aapt resource value: 0x7F080004
-			public const int compat_button_padding_vertical_material = 2131230724;
+			// aapt resource value: 0x7F08004F
+			public const int compat_button_padding_vertical_material = 2131230799;
 			
-			// aapt resource value: 0x7F080005
-			public const int compat_control_corner_material = 2131230725;
+			// aapt resource value: 0x7F080050
+			public const int compat_control_corner_material = 2131230800;
 			
 			// aapt resource value: 0x7F080006
 			public const int compat_notification_large_icon_max_height = 2131230726;
@@ -7670,11 +10638,11 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F080081
 			public const int design_textinput_caption_translate_y = 2131230849;
 			
-			// aapt resource value: 0x7F080082
-			public const int disabled_alpha_material_dark = 2131230850;
+			// aapt resource value: 0x7F080051
+			public const int disabled_alpha_material_dark = 2131230801;
 			
-			// aapt resource value: 0x7F080083
-			public const int disabled_alpha_material_light = 2131230851;
+			// aapt resource value: 0x7F080052
+			public const int disabled_alpha_material_light = 2131230802;
 			
 			// aapt resource value: 0x7F080084
 			public const int fastscroll_default_thickness = 2131230852;
@@ -7685,26 +10653,26 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F080086
 			public const int fastscroll_minimum_range = 2131230854;
 			
-			// aapt resource value: 0x7F080087
-			public const int highlight_alpha_material_colored = 2131230855;
+			// aapt resource value: 0x7F080053
+			public const int highlight_alpha_material_colored = 2131230803;
 			
-			// aapt resource value: 0x7F080088
-			public const int highlight_alpha_material_dark = 2131230856;
+			// aapt resource value: 0x7F080054
+			public const int highlight_alpha_material_dark = 2131230804;
 			
-			// aapt resource value: 0x7F080089
-			public const int highlight_alpha_material_light = 2131230857;
+			// aapt resource value: 0x7F080055
+			public const int highlight_alpha_material_light = 2131230805;
 			
-			// aapt resource value: 0x7F08008A
-			public const int hint_alpha_material_dark = 2131230858;
+			// aapt resource value: 0x7F080056
+			public const int hint_alpha_material_dark = 2131230806;
 			
-			// aapt resource value: 0x7F08008B
-			public const int hint_alpha_material_light = 2131230859;
+			// aapt resource value: 0x7F080057
+			public const int hint_alpha_material_light = 2131230807;
 			
-			// aapt resource value: 0x7F08008C
-			public const int hint_pressed_alpha_material_dark = 2131230860;
+			// aapt resource value: 0x7F080058
+			public const int hint_pressed_alpha_material_dark = 2131230808;
 			
-			// aapt resource value: 0x7F08008D
-			public const int hint_pressed_alpha_material_light = 2131230861;
+			// aapt resource value: 0x7F080059
+			public const int hint_pressed_alpha_material_light = 2131230809;
 			
 			// aapt resource value: 0x7F08008E
 			public const int item_touch_helper_max_drag_scroll_per_frame = 2131230862;
@@ -7748,6 +10716,12 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F080095
 			public const int mtrl_bottomappbar_height = 2131230869;
 			
+			// aapt resource value: 0x7F120273
+			public const int mtrl_btn_additional_padding_end_for_icon = 2131886707;
+			
+			// aapt resource value: 0x7F120272
+			public const int mtrl_btn_additional_padding_start_for_icon = 2131886706;
+			
 			// aapt resource value: 0x7F080096
 			public const int mtrl_btn_corner_radius = 2131230870;
 			
@@ -7787,6 +10761,9 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0800A2
 			public const int mtrl_btn_padding_left = 2131230882;
 			
+			// aapt resource value: 0x7F120269
+			public const int mtrl_btn_padding_left_with_icon = 2131886697;
+			
 			// aapt resource value: 0x7F0800A3
 			public const int mtrl_btn_padding_right = 2131230883;
 			
@@ -7807,6 +10784,12 @@ namespace InventoryManagementSystem.Droid
 			
 			// aapt resource value: 0x7F0800A9
 			public const int mtrl_btn_text_btn_padding_right = 2131230889;
+			
+			// aapt resource value: 0x7F120270
+			public const int mtrl_btn_text_padding_left = 2131886704;
+			
+			// aapt resource value: 0x7F120271
+			public const int mtrl_btn_text_padding_right = 2131886705;
 			
 			// aapt resource value: 0x7F0800AA
 			public const int mtrl_btn_text_size = 2131230890;
@@ -7877,50 +10860,50 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0800C0
 			public const int mtrl_toolbar_default_height = 2131230912;
 			
-			// aapt resource value: 0x7F080008
-			public const int notification_action_icon_size = 2131230728;
+			// aapt resource value: 0x7F08005A
+			public const int notification_action_icon_size = 2131230810;
 			
-			// aapt resource value: 0x7F080009
-			public const int notification_action_text_size = 2131230729;
+			// aapt resource value: 0x7F08005B
+			public const int notification_action_text_size = 2131230811;
 			
-			// aapt resource value: 0x7F08000A
-			public const int notification_big_circle_margin = 2131230730;
+			// aapt resource value: 0x7F08005C
+			public const int notification_big_circle_margin = 2131230812;
 			
-			// aapt resource value: 0x7F08000B
-			public const int notification_content_margin_start = 2131230731;
+			// aapt resource value: 0x7F08005D
+			public const int notification_content_margin_start = 2131230813;
 			
-			// aapt resource value: 0x7F08000C
-			public const int notification_large_icon_height = 2131230732;
+			// aapt resource value: 0x7F08005E
+			public const int notification_large_icon_height = 2131230814;
 			
-			// aapt resource value: 0x7F08000D
-			public const int notification_large_icon_width = 2131230733;
+			// aapt resource value: 0x7F08005F
+			public const int notification_large_icon_width = 2131230815;
 			
-			// aapt resource value: 0x7F08000E
-			public const int notification_main_column_padding_top = 2131230734;
+			// aapt resource value: 0x7F080060
+			public const int notification_main_column_padding_top = 2131230816;
 			
-			// aapt resource value: 0x7F08000F
-			public const int notification_media_narrow_margin = 2131230735;
+			// aapt resource value: 0x7F080061
+			public const int notification_media_narrow_margin = 2131230817;
 			
-			// aapt resource value: 0x7F080010
-			public const int notification_right_icon_size = 2131230736;
+			// aapt resource value: 0x7F080062
+			public const int notification_right_icon_size = 2131230818;
 			
-			// aapt resource value: 0x7F080011
-			public const int notification_right_side_padding_top = 2131230737;
+			// aapt resource value: 0x7F080063
+			public const int notification_right_side_padding_top = 2131230819;
 			
-			// aapt resource value: 0x7F080012
-			public const int notification_small_icon_background_padding = 2131230738;
+			// aapt resource value: 0x7F080064
+			public const int notification_small_icon_background_padding = 2131230820;
 			
-			// aapt resource value: 0x7F080013
-			public const int notification_small_icon_size_as_large = 2131230739;
+			// aapt resource value: 0x7F080065
+			public const int notification_small_icon_size_as_large = 2131230821;
 			
-			// aapt resource value: 0x7F080014
-			public const int notification_subtext_size = 2131230740;
+			// aapt resource value: 0x7F080066
+			public const int notification_subtext_size = 2131230822;
 			
-			// aapt resource value: 0x7F080015
-			public const int notification_top_pad = 2131230741;
+			// aapt resource value: 0x7F080067
+			public const int notification_top_pad = 2131230823;
 			
-			// aapt resource value: 0x7F080016
-			public const int notification_top_pad_large_text = 2131230742;
+			// aapt resource value: 0x7F080068
+			public const int notification_top_pad_large_text = 2131230824;
 			
 			// aapt resource value: 0x1
 			public const int place_autocomplete_button_padding = 1;
@@ -7964,29 +10947,29 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F08001A
 			public const int subtitle_shadow_radius = 2131230746;
 			
-			// aapt resource value: 0x7F0800D0
-			public const int tooltip_corner_radius = 2131230928;
+			// aapt resource value: 0x7F080069
+			public const int tooltip_corner_radius = 2131230825;
 			
-			// aapt resource value: 0x7F0800D1
-			public const int tooltip_horizontal_padding = 2131230929;
+			// aapt resource value: 0x7F08006A
+			public const int tooltip_horizontal_padding = 2131230826;
 			
-			// aapt resource value: 0x7F0800D2
-			public const int tooltip_margin = 2131230930;
+			// aapt resource value: 0x7F08006B
+			public const int tooltip_margin = 2131230827;
 			
-			// aapt resource value: 0x7F0800D3
-			public const int tooltip_precise_anchor_extra_offset = 2131230931;
+			// aapt resource value: 0x7F08006C
+			public const int tooltip_precise_anchor_extra_offset = 2131230828;
 			
-			// aapt resource value: 0x7F0800D4
-			public const int tooltip_precise_anchor_threshold = 2131230932;
+			// aapt resource value: 0x7F08006D
+			public const int tooltip_precise_anchor_threshold = 2131230829;
 			
-			// aapt resource value: 0x7F0800D5
-			public const int tooltip_vertical_padding = 2131230933;
+			// aapt resource value: 0x7F08006E
+			public const int tooltip_vertical_padding = 2131230830;
 			
-			// aapt resource value: 0x7F0800D6
-			public const int tooltip_y_offset_non_touch = 2131230934;
+			// aapt resource value: 0x7F08006F
+			public const int tooltip_y_offset_non_touch = 2131230831;
 			
-			// aapt resource value: 0x7F0800D7
-			public const int tooltip_y_offset_touch = 2131230935;
+			// aapt resource value: 0x7F080070
+			public const int tooltip_y_offset_touch = 2131230832;
 			
 			static Dimension()
 			{
@@ -8124,134 +11107,134 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F090029
 			public const int abc_list_divider_material = 2131296297;
 			
+			// aapt resource value: 0x7F090029
+			public const int abc_list_divider_mtrl_alpha = 2131296297;
+			
 			// aapt resource value: 0x7F09002A
-			public const int abc_list_divider_mtrl_alpha = 2131296298;
+			public const int abc_list_focused_holo = 2131296298;
 			
 			// aapt resource value: 0x7F09002B
-			public const int abc_list_focused_holo = 2131296299;
+			public const int abc_list_longpressed_holo = 2131296299;
 			
 			// aapt resource value: 0x7F09002C
-			public const int abc_list_longpressed_holo = 2131296300;
+			public const int abc_list_pressed_holo_dark = 2131296300;
 			
 			// aapt resource value: 0x7F09002D
-			public const int abc_list_pressed_holo_dark = 2131296301;
+			public const int abc_list_pressed_holo_light = 2131296301;
 			
 			// aapt resource value: 0x7F09002E
-			public const int abc_list_pressed_holo_light = 2131296302;
+			public const int abc_list_selector_background_transition_holo_dark = 2131296302;
 			
 			// aapt resource value: 0x7F09002F
-			public const int abc_list_selector_background_transition_holo_dark = 2131296303;
+			public const int abc_list_selector_background_transition_holo_light = 2131296303;
 			
 			// aapt resource value: 0x7F090030
-			public const int abc_list_selector_background_transition_holo_light = 2131296304;
+			public const int abc_list_selector_disabled_holo_dark = 2131296304;
 			
 			// aapt resource value: 0x7F090031
-			public const int abc_list_selector_disabled_holo_dark = 2131296305;
+			public const int abc_list_selector_disabled_holo_light = 2131296305;
 			
 			// aapt resource value: 0x7F090032
-			public const int abc_list_selector_disabled_holo_light = 2131296306;
+			public const int abc_list_selector_holo_dark = 2131296306;
 			
 			// aapt resource value: 0x7F090033
-			public const int abc_list_selector_holo_dark = 2131296307;
+			public const int abc_list_selector_holo_light = 2131296307;
 			
 			// aapt resource value: 0x7F090034
-			public const int abc_list_selector_holo_light = 2131296308;
+			public const int abc_menu_hardkey_panel_mtrl_mult = 2131296308;
 			
 			// aapt resource value: 0x7F090035
-			public const int abc_menu_hardkey_panel_mtrl_mult = 2131296309;
+			public const int abc_popup_background_mtrl_mult = 2131296309;
 			
 			// aapt resource value: 0x7F090036
-			public const int abc_popup_background_mtrl_mult = 2131296310;
+			public const int abc_ratingbar_indicator_material = 2131296310;
 			
 			// aapt resource value: 0x7F090037
-			public const int abc_ratingbar_indicator_material = 2131296311;
+			public const int abc_ratingbar_material = 2131296311;
 			
 			// aapt resource value: 0x7F090038
-			public const int abc_ratingbar_material = 2131296312;
+			public const int abc_ratingbar_small_material = 2131296312;
 			
 			// aapt resource value: 0x7F090039
-			public const int abc_ratingbar_small_material = 2131296313;
+			public const int abc_scrubber_control_off_mtrl_alpha = 2131296313;
 			
 			// aapt resource value: 0x7F09003A
-			public const int abc_scrubber_control_off_mtrl_alpha = 2131296314;
+			public const int abc_scrubber_control_to_pressed_mtrl_000 = 2131296314;
 			
 			// aapt resource value: 0x7F09003B
-			public const int abc_scrubber_control_to_pressed_mtrl_000 = 2131296315;
+			public const int abc_scrubber_control_to_pressed_mtrl_005 = 2131296315;
 			
 			// aapt resource value: 0x7F09003C
-			public const int abc_scrubber_control_to_pressed_mtrl_005 = 2131296316;
+			public const int abc_scrubber_primary_mtrl_alpha = 2131296316;
 			
 			// aapt resource value: 0x7F09003D
-			public const int abc_scrubber_primary_mtrl_alpha = 2131296317;
+			public const int abc_scrubber_track_mtrl_alpha = 2131296317;
 			
 			// aapt resource value: 0x7F09003E
-			public const int abc_scrubber_track_mtrl_alpha = 2131296318;
+			public const int abc_seekbar_thumb_material = 2131296318;
 			
 			// aapt resource value: 0x7F09003F
-			public const int abc_seekbar_thumb_material = 2131296319;
+			public const int abc_seekbar_tick_mark_material = 2131296319;
 			
 			// aapt resource value: 0x7F090040
-			public const int abc_seekbar_tick_mark_material = 2131296320;
+			public const int abc_seekbar_track_material = 2131296320;
 			
 			// aapt resource value: 0x7F090041
-			public const int abc_seekbar_track_material = 2131296321;
+			public const int abc_spinner_mtrl_am_alpha = 2131296321;
 			
 			// aapt resource value: 0x7F090042
-			public const int abc_spinner_mtrl_am_alpha = 2131296322;
+			public const int abc_spinner_textfield_background_material = 2131296322;
 			
 			// aapt resource value: 0x7F090043
-			public const int abc_spinner_textfield_background_material = 2131296323;
+			public const int abc_switch_thumb_material = 2131296323;
 			
 			// aapt resource value: 0x7F090044
-			public const int abc_switch_thumb_material = 2131296324;
+			public const int abc_switch_track_mtrl_alpha = 2131296324;
 			
 			// aapt resource value: 0x7F090045
-			public const int abc_switch_track_mtrl_alpha = 2131296325;
+			public const int abc_tab_indicator_material = 2131296325;
 			
 			// aapt resource value: 0x7F090046
-			public const int abc_tab_indicator_material = 2131296326;
-			
-			// aapt resource value: 0x7F090047
-			public const int abc_tab_indicator_mtrl_alpha = 2131296327;
-			
-			// aapt resource value: 0x7F09004F
-			public const int abc_textfield_activated_mtrl_alpha = 2131296335;
-			
-			// aapt resource value: 0x7F090050
-			public const int abc_textfield_default_mtrl_alpha = 2131296336;
-			
-			// aapt resource value: 0x7F090051
-			public const int abc_textfield_search_activated_mtrl_alpha = 2131296337;
-			
-			// aapt resource value: 0x7F090052
-			public const int abc_textfield_search_default_mtrl_alpha = 2131296338;
-			
-			// aapt resource value: 0x7F090053
-			public const int abc_textfield_search_material = 2131296339;
-			
-			// aapt resource value: 0x7F090048
-			public const int abc_text_cursor_material = 2131296328;
-			
-			// aapt resource value: 0x7F090049
-			public const int abc_text_select_handle_left_mtrl_dark = 2131296329;
-			
-			// aapt resource value: 0x7F09004A
-			public const int abc_text_select_handle_left_mtrl_light = 2131296330;
-			
-			// aapt resource value: 0x7F09004B
-			public const int abc_text_select_handle_middle_mtrl_dark = 2131296331;
-			
-			// aapt resource value: 0x7F09004C
-			public const int abc_text_select_handle_middle_mtrl_light = 2131296332;
-			
-			// aapt resource value: 0x7F09004D
-			public const int abc_text_select_handle_right_mtrl_dark = 2131296333;
+			public const int abc_tab_indicator_mtrl_alpha = 2131296326;
 			
 			// aapt resource value: 0x7F09004E
-			public const int abc_text_select_handle_right_mtrl_light = 2131296334;
+			public const int abc_textfield_activated_mtrl_alpha = 2131296334;
 			
-			// aapt resource value: 0x7F090054
-			public const int abc_vector_test = 2131296340;
+			// aapt resource value: 0x7F09004F
+			public const int abc_textfield_default_mtrl_alpha = 2131296335;
+			
+			// aapt resource value: 0x7F090050
+			public const int abc_textfield_search_activated_mtrl_alpha = 2131296336;
+			
+			// aapt resource value: 0x7F090051
+			public const int abc_textfield_search_default_mtrl_alpha = 2131296337;
+			
+			// aapt resource value: 0x7F090052
+			public const int abc_textfield_search_material = 2131296338;
+			
+			// aapt resource value: 0x7F090047
+			public const int abc_text_cursor_material = 2131296327;
+			
+			// aapt resource value: 0x7F090048
+			public const int abc_text_select_handle_left_mtrl_dark = 2131296328;
+			
+			// aapt resource value: 0x7F090049
+			public const int abc_text_select_handle_left_mtrl_light = 2131296329;
+			
+			// aapt resource value: 0x7F09004A
+			public const int abc_text_select_handle_middle_mtrl_dark = 2131296330;
+			
+			// aapt resource value: 0x7F09004B
+			public const int abc_text_select_handle_middle_mtrl_light = 2131296331;
+			
+			// aapt resource value: 0x7F09004C
+			public const int abc_text_select_handle_right_mtrl_dark = 2131296332;
+			
+			// aapt resource value: 0x7F09004D
+			public const int abc_text_select_handle_right_mtrl_light = 2131296333;
+			
+			// aapt resource value: 0x7F090053
+			public const int abc_vector_test = 2131296339;
 			
 			// aapt resource value: 0x7F090055
 			public const int avd_hide_password = 2131296341;
@@ -8498,6 +11481,36 @@ namespace InventoryManagementSystem.Droid
 			
 			// aapt resource value: 0x7F09005C
 			public const int design_snackbar_background = 2131296348;
+			
+			// aapt resource value: 0x7F010465
+			public const int drawable_ripple = 2130773093;
+			
+			// aapt resource value: 0x7F010466
+			public const int drawable_ripple_image = 2130773094;
+			
+			// aapt resource value: 0x7F010467
+			public const int drawable_ripple_outlined = 2130773095;
+			
+			// aapt resource value: 0x7F010468
+			public const int drawable_ripple_outlined_with_icon = 2130773096;
+			
+			// aapt resource value: 0x7F010469
+			public const int drawable_ripple_text = 2130773097;
+			
+			// aapt resource value: 0x7F010470
+			public const int drawable_ripple_with_icon = 2130773104;
+			
+			// aapt resource value: 0x7F010453
+			public const int drawable_selector = 2130773075;
+			
+			// aapt resource value: 0x7F010454
+			public const int drawable_shape = 2130773076;
+			
+			// aapt resource value: 0x7F010455
+			public const int drawable_shape_text = 2130773077;
+			
+			// aapt resource value: 0x7F010456
+			public const int drawable_shape_with_icon = 2130773078;
 			
 			// aapt resource value: 0x1
 			public const int googleg_disabled_color_18 = 1;
@@ -9168,41 +12181,41 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F090062
 			public const int navigation_empty_icon = 2131296354;
 			
-			// aapt resource value: 0x7F090001
-			public const int notification_action_background = 2131296257;
+			// aapt resource value: 0x7F090054
+			public const int notification_action_background = 2131296340;
 			
-			// aapt resource value: 0x7F090002
-			public const int notification_bg = 2131296258;
+			// aapt resource value: 0x7F090055
+			public const int notification_bg = 2131296341;
 			
-			// aapt resource value: 0x7F090003
-			public const int notification_bg_low = 2131296259;
+			// aapt resource value: 0x7F090056
+			public const int notification_bg_low = 2131296342;
 			
-			// aapt resource value: 0x7F090004
-			public const int notification_bg_low_normal = 2131296260;
+			// aapt resource value: 0x7F090057
+			public const int notification_bg_low_normal = 2131296343;
 			
-			// aapt resource value: 0x7F090005
-			public const int notification_bg_low_pressed = 2131296261;
+			// aapt resource value: 0x7F090058
+			public const int notification_bg_low_pressed = 2131296344;
 			
-			// aapt resource value: 0x7F090006
-			public const int notification_bg_normal = 2131296262;
+			// aapt resource value: 0x7F090059
+			public const int notification_bg_normal = 2131296345;
 			
-			// aapt resource value: 0x7F090007
-			public const int notification_bg_normal_pressed = 2131296263;
+			// aapt resource value: 0x7F09005A
+			public const int notification_bg_normal_pressed = 2131296346;
 			
-			// aapt resource value: 0x7F090008
-			public const int notification_icon_background = 2131296264;
+			// aapt resource value: 0x7F09005B
+			public const int notification_icon_background = 2131296347;
 			
-			// aapt resource value: 0x7F090009
-			public const int notification_template_icon_bg = 2131296265;
+			// aapt resource value: 0x7F09005C
+			public const int notification_template_icon_bg = 2131296348;
 			
-			// aapt resource value: 0x7F09000A
-			public const int notification_template_icon_low_bg = 2131296266;
+			// aapt resource value: 0x7F09005D
+			public const int notification_template_icon_low_bg = 2131296349;
 			
-			// aapt resource value: 0x7F09000B
-			public const int notification_tile_bg = 2131296267;
+			// aapt resource value: 0x7F09005E
+			public const int notification_tile_bg = 2131296350;
 			
-			// aapt resource value: 0x7F09000C
-			public const int notify_panel_notification_icon_bg = 2131296268;
+			// aapt resource value: 0x7F09005F
+			public const int notify_panel_notification_icon_bg = 2131296351;
 			
 			// aapt resource value: 0x7F010015
 			public const int outer_circle = 2130771989;
@@ -9348,11 +12361,35 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F010017
 			public const int roundedbgdark = 2130771991;
 			
-			// aapt resource value: 0x7F09006F
-			public const int tooltip_frame_dark = 2131296367;
+			// aapt resource value: 0x7F090060
+			public const int tooltip_frame_dark = 2131296352;
 			
-			// aapt resource value: 0x7F090070
-			public const int tooltip_frame_light = 2131296368;
+			// aapt resource value: 0x7F090061
+			public const int tooltip_frame_light = 2131296353;
+			
+			// aapt resource value: 0x7F010457
+			public const int xf_arrow_dropdown = 2130773079;
+			
+			// aapt resource value: 0x7F010458
+			public const int xf_check = 2130773080;
+			
+			// aapt resource value: 0x7F010459
+			public const int xf_checkbox_selected = 2130773081;
+			
+			// aapt resource value: 0x7F010460
+			public const int xf_checkbox_unselected = 2130773088;
+			
+			// aapt resource value: 0x7F010461
+			public const int xf_clear = 2130773089;
+			
+			// aapt resource value: 0x7F010462
+			public const int xf_error = 2130773090;
+			
+			// aapt resource value: 0x7F010463
+			public const int xf_radio_button_selected = 2130773091;
+			
+			// aapt resource value: 0x7F010464
+			public const int xf_radio_button_unselected = 2130773092;
 			
 			static Drawable()
 			{
@@ -9370,8 +12407,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0C0001
 			public const int action0 = 2131492865;
 			
-			// aapt resource value: 0x7F0C0005
-			public const int actions = 2131492869;
+			// aapt resource value: 0x7F0C0012
+			public const int actions = 2131492882;
 			
 			// aapt resource value: 0x7F0C0001
 			public const int action_bar = 2131492865;
@@ -9394,17 +12431,17 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0C0007
 			public const int action_bar_title = 2131492871;
 			
-			// aapt resource value: 0x7F0C0001
-			public const int action_container = 2131492865;
+			// aapt resource value: 0x7F0C0008
+			public const int action_container = 2131492872;
 			
 			// aapt resource value: 0x7F0C0009
 			public const int action_context_bar = 2131492873;
 			
-			// aapt resource value: 0x7F0C0002
-			public const int action_divider = 2131492866;
+			// aapt resource value: 0x7F0C000A
+			public const int action_divider = 2131492874;
 			
-			// aapt resource value: 0x7F0C0003
-			public const int action_image = 2131492867;
+			// aapt resource value: 0x7F0C000B
+			public const int action_image = 2131492875;
 			
 			// aapt resource value: 0x7F0C000C
 			public const int action_menu_divider = 2131492876;
@@ -9421,8 +12458,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0C0010
 			public const int action_mode_close_button = 2131492880;
 			
-			// aapt resource value: 0x7F0C0004
-			public const int action_text = 2131492868;
+			// aapt resource value: 0x7F0C0011
+			public const int action_text = 2131492881;
 			
 			// aapt resource value: 0x7F0C0013
 			public const int activity_chooser_view_content = 2131492883;
@@ -9463,8 +12500,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int android_pay_light_with_border = 1;
 			
-			// aapt resource value: 0x7F0C0006
-			public const int async = 2131492870;
+			// aapt resource value: 0x7F0C0016
+			public const int async = 2131492886;
 			
 			// aapt resource value: 0x1
 			public const int audio_list_view = 1;
@@ -9478,8 +12515,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int background_place_holder_image_view = 1;
 			
-			// aapt resource value: 0x7F0C0007
-			public const int blocking = 2131492871;
+			// aapt resource value: 0x7F0C0017
+			public const int blocking = 2131492887;
 			
 			// aapt resource value: 0x1
 			public const int blurred_background_image_view = 1;
@@ -9487,14 +12524,14 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int book_now = 1;
 			
-			// aapt resource value: 0x7F0C0008
-			public const int bottom = 2131492872;
+			// aapt resource value: 0x7F0C0018
+			public const int bottom = 2131492888;
 			
-			// aapt resource value: 0x7F020218
-			public const int bottomtab.navarea = 2130838040;
+			// aapt resource value: 0x7F020221
+			public const int bottomtab.navarea = 2130838049;
 			
-			// aapt resource value: 0x7F020219
-			public const int bottomtab.tabbar = 2130838041;
+			// aapt resource value: 0x7F020222
+			public const int bottomtab.tabbar = 2130838050;
 			
 			// aapt resource value: 0x7F0C0009
 			public const int browser_actions_header_text = 2131492873;
@@ -9514,8 +12551,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int button = 1;
 			
-			// aapt resource value: 0x7F0C001A
-			public const int buttonPanel = 2131492890;
+			// aapt resource value: 0x7F0C0019
+			public const int buttonPanel = 2131492889;
 			
 			// aapt resource value: 0x1
 			public const int button_0 = 1;
@@ -9589,11 +12626,11 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0C001B
 			public const int center = 2131492891;
 			
-			// aapt resource value: 0x7F0C001C
-			public const int checkbox = 2131492892;
+			// aapt resource value: 0x7F0C001A
+			public const int checkbox = 2131492890;
 			
-			// aapt resource value: 0x7F0C0008
-			public const int chronometer = 2131492872;
+			// aapt resource value: 0x7F0C001B
+			public const int chronometer = 2131492891;
 			
 			// aapt resource value: 0x1
 			public const int classic = 1;
@@ -9613,8 +12650,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0C001F
 			public const int content = 2131492895;
 			
-			// aapt resource value: 0x7F0C0020
-			public const int contentPanel = 2131492896;
+			// aapt resource value: 0x7F0C001C
+			public const int contentPanel = 2131492892;
 			
 			// aapt resource value: 0x1
 			public const int controllers = 1;
@@ -9625,11 +12662,11 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int crash_reporting_present = 1;
 			
-			// aapt resource value: 0x7F0C0022
-			public const int custom = 2131492898;
+			// aapt resource value: 0x7F0C001D
+			public const int custom = 2131492893;
 			
-			// aapt resource value: 0x7F0C0023
-			public const int customPanel = 2131492899;
+			// aapt resource value: 0x7F0C001E
+			public const int customPanel = 2131492894;
 			
 			// aapt resource value: 0x1
 			public const int dark = 1;
@@ -9637,11 +12674,11 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int date = 1;
 			
-			// aapt resource value: 0x7F0C0024
-			public const int decor_content_parent = 2131492900;
+			// aapt resource value: 0x7F0C001F
+			public const int decor_content_parent = 2131492895;
 			
-			// aapt resource value: 0x7F0C0025
-			public const int default_activity_button = 2131492901;
+			// aapt resource value: 0x7F0C0020
+			public const int default_activity_button = 2131492896;
 			
 			// aapt resource value: 0x1
 			public const int demote_common_words = 1;
@@ -9670,14 +12707,14 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int donate_with_google = 1;
 			
-			// aapt resource value: 0x7F0C002B
-			public const int edit_query = 2131492907;
+			// aapt resource value: 0x7F0C0021
+			public const int edit_query = 2131492897;
 			
 			// aapt resource value: 0x1
 			public const int email = 1;
 			
-			// aapt resource value: 0x7F0C000A
-			public const int end = 2131492874;
+			// aapt resource value: 0x7F0C0022
+			public const int end = 2131492898;
 			
 			// aapt resource value: 0x7F0C000B
 			public const int end_padder = 2131492875;
@@ -9688,11 +12725,11 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int expanded_controller_layout = 1;
 			
-			// aapt resource value: 0x7F0C002E
-			public const int expanded_menu = 2131492910;
+			// aapt resource value: 0x7F0C0024
+			public const int expanded_menu = 2131492900;
 			
-			// aapt resource value: 0x7F0C002D
-			public const int expand_activities_button = 2131492909;
+			// aapt resource value: 0x7F0C0023
+			public const int expand_activities_button = 2131492899;
 			
 			// aapt resource value: 0x7F0C002F
 			public const int fill = 2131492911;
@@ -9703,14 +12740,14 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0C0031
 			public const int @fixed = 2131492913;
 			
-			// aapt resource value: 0x7F020220
-			public const int flyoutcontent.appbar = 2130838048;
+			// aapt resource value: 0x7F020223
+			public const int flyoutcontent.appbar = 2130838051;
 			
-			// aapt resource value: 0x7F020221
-			public const int flyoutcontent.recycler = 2130838049;
+			// aapt resource value: 0x7F020224
+			public const int flyoutcontent.recycler = 2130838052;
 			
-			// aapt resource value: 0x7F0C0009
-			public const int forever = 2131492873;
+			// aapt resource value: 0x7F0C0025
+			public const int forever = 2131492901;
 			
 			// aapt resource value: 0x7F0C0033
 			public const int ghost_view = 2131492915;
@@ -9736,8 +12773,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int holo_light = 1;
 			
-			// aapt resource value: 0x7F0C0035
-			public const int home = 2131492917;
+			// aapt resource value: 0x7F0C0026
+			public const int home = 2131492902;
 			
 			// aapt resource value: 0x1
 			public const int html = 1;
@@ -9745,11 +12782,11 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int hybrid = 1;
 			
-			// aapt resource value: 0x7F0C000A
-			public const int icon = 2131492874;
+			// aapt resource value: 0x7F0C0027
+			public const int icon = 2131492903;
 			
-			// aapt resource value: 0x7F0C000B
-			public const int icon_group = 2131492875;
+			// aapt resource value: 0x7F0C0028
+			public const int icon_group = 2131492904;
 			
 			// aapt resource value: 0x1
 			public const int icon_only = 1;
@@ -9760,14 +12797,17 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int icon_view = 1;
 			
-			// aapt resource value: 0x7F0C0038
-			public const int image = 2131492920;
+			// aapt resource value: 0x7F0C0029
+			public const int image = 2131492905;
 			
 			// aapt resource value: 0x1
 			public const int index_entity_types = 1;
 			
-			// aapt resource value: 0x7F0C000C
-			public const int info = 2131492876;
+			// aapt resource value: 0x7F0C002A
+			public const int info = 2131492906;
+			
+			// aapt resource value: 0x7F020353
+			public const int inset_drawable = 2130838355;
 			
 			// aapt resource value: 0x1
 			public const int instant_message = 1;
@@ -9787,8 +12827,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int intent_extra_data = 1;
 			
-			// aapt resource value: 0x7F0C000D
-			public const int italic = 2131492877;
+			// aapt resource value: 0x7F0C002B
+			public const int italic = 2131492907;
 			
 			// aapt resource value: 0x7F0C003B
 			public const int item_touch_helper_previous_elevation = 2131492923;
@@ -9802,8 +12842,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int large_icon_uri = 1;
 			
-			// aapt resource value: 0x7F0C0010
-			public const int left = 2131492880;
+			// aapt resource value: 0x7F0C002C
+			public const int left = 2131492908;
 			
 			// aapt resource value: 0x1
 			public const int license = 1;
@@ -9820,17 +12860,17 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int light = 1;
 			
-			// aapt resource value: 0x7F0C000E
-			public const int line1 = 2131492878;
+			// aapt resource value: 0x7F0C002D
+			public const int line1 = 2131492909;
 			
-			// aapt resource value: 0x7F0C000F
-			public const int line3 = 2131492879;
+			// aapt resource value: 0x7F0C002E
+			public const int line3 = 2131492910;
 			
-			// aapt resource value: 0x7F0C0041
-			public const int listMode = 2131492929;
+			// aapt resource value: 0x7F0C002F
+			public const int listMode = 2131492911;
 			
-			// aapt resource value: 0x7F0C0042
-			public const int list_item = 2131492930;
+			// aapt resource value: 0x7F0C0030
+			public const int list_item = 2131492912;
 			
 			// aapt resource value: 0x1
 			public const int live_stream_indicator = 1;
@@ -9853,17 +12893,20 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int logo_only = 1;
 			
-			// aapt resource value: 0x7F020222
-			public const int main.appbar = 2130838050;
+			// aapt resource value: 0x7F0C0031
+			public const int lottie_layer_name = 2131492913;
 			
 			// aapt resource value: 0x7F020225
-			public const int main.scrollview = 2130838053;
+			public const int main.appbar = 2130838053;
 			
-			// aapt resource value: 0x7F020224
-			public const int main.tablayout = 2130838052;
+			// aapt resource value: 0x7F020228
+			public const int main.scrollview = 2130838056;
 			
-			// aapt resource value: 0x7F020223
-			public const int main.toolbar = 2130838051;
+			// aapt resource value: 0x7F020227
+			public const int main.tablayout = 2130838055;
+			
+			// aapt resource value: 0x7F020226
+			public const int main.toolbar = 2130838054;
 			
 			// aapt resource value: 0x7F0C0043
 			public const int masked = 2131492931;
@@ -9874,14 +12917,14 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int match_parent = 1;
 			
-			// aapt resource value: 0x7F020229
-			public const int materialformsedittext = 2130838057;
+			// aapt resource value: 0x7F020232
+			public const int materialformsedittext = 2130838066;
 			
 			// aapt resource value: 0x7F0C0013
 			public const int media_actions = 2131492883;
 			
-			// aapt resource value: 0x7F0C0044
-			public const int message = 2131492932;
+			// aapt resource value: 0x7F0C0032
+			public const int message = 2131492914;
 			
 			// aapt resource value: 0x7F0C0045
 			public const int mini = 2131492933;
@@ -10033,8 +13076,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0C0047
 			public const int mtrl_internal_children_alpha_tag = 2131492935;
 			
-			// aapt resource value: 0x7F0C0048
-			public const int multiply = 2131492936;
+			// aapt resource value: 0x7F0C0033
+			public const int multiply = 2131492915;
 			
 			// aapt resource value: 0x7F020002
 			public const int myButton = 2130837506;
@@ -10042,20 +13085,20 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0C0049
 			public const int navigation_header_container = 2131492937;
 			
-			// aapt resource value: 0x7F0C0013
-			public const int none = 2131492883;
+			// aapt resource value: 0x7F0C0034
+			public const int none = 2131492916;
 			
-			// aapt resource value: 0x7F0C0010
-			public const int normal = 2131492880;
+			// aapt resource value: 0x7F0C0035
+			public const int normal = 2131492917;
 			
-			// aapt resource value: 0x7F0C0011
-			public const int notification_background = 2131492881;
+			// aapt resource value: 0x7F0C0036
+			public const int notification_background = 2131492918;
 			
-			// aapt resource value: 0x7F0C0012
-			public const int notification_main_column = 2131492882;
+			// aapt resource value: 0x7F0C0037
+			public const int notification_main_column = 2131492919;
 			
-			// aapt resource value: 0x7F0C0013
-			public const int notification_main_column_container = 2131492883;
+			// aapt resource value: 0x7F0C0038
+			public const int notification_main_column_container = 2131492920;
 			
 			// aapt resource value: 0x1
 			public const int no_licenses_text = 1;
@@ -10072,8 +13115,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0C0050
 			public const int parallax = 2131492944;
 			
-			// aapt resource value: 0x7F0C0051
-			public const int parentPanel = 2131492945;
+			// aapt resource value: 0x7F0C0039
+			public const int parentPanel = 2131492921;
 			
 			// aapt resource value: 0x7F0C0052
 			public const int parent_matrix = 2131492946;
@@ -10114,26 +13157,32 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int progressBar = 1;
 			
-			// aapt resource value: 0x7F0C0054
-			public const int progress_circular = 2131492948;
+			// aapt resource value: 0x7F0C003A
+			public const int progress_circular = 2131492922;
 			
-			// aapt resource value: 0x7F0C0055
-			public const int progress_horizontal = 2131492949;
+			// aapt resource value: 0x7F0C003B
+			public const int progress_horizontal = 2131492923;
 			
-			// aapt resource value: 0x7F0C0056
-			public const int radio = 2131492950;
+			// aapt resource value: 0x7F0C003C
+			public const int radio = 2131492924;
+			
+			// aapt resource value: 0x7F0C003D
+			public const int restart = 2131492925;
+			
+			// aapt resource value: 0x7F0C003E
+			public const int reverse = 2131492926;
 			
 			// aapt resource value: 0x1
 			public const int rfc822 = 1;
 			
-			// aapt resource value: 0x7F0C0018
-			public const int right = 2131492888;
+			// aapt resource value: 0x7F0C003F
+			public const int right = 2131492927;
 			
-			// aapt resource value: 0x7F0C0014
-			public const int right_icon = 2131492884;
+			// aapt resource value: 0x7F0C0040
+			public const int right_icon = 2131492928;
 			
-			// aapt resource value: 0x7F0C0015
-			public const int right_side = 2131492885;
+			// aapt resource value: 0x7F0C0041
+			public const int right_side = 2131492929;
 			
 			// aapt resource value: 0x1
 			public const int sandbox = 1;
@@ -10150,50 +13199,50 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0C005C
 			public const int save_scale_type = 2131492956;
 			
-			// aapt resource value: 0x7F0C005D
-			public const int screen = 2131492957;
+			// aapt resource value: 0x7F0C0042
+			public const int screen = 2131492930;
 			
 			// aapt resource value: 0x7F0C0061
 			public const int scrollable = 2131492961;
 			
-			// aapt resource value: 0x7F0C005E
-			public const int scrollIndicatorDown = 2131492958;
+			// aapt resource value: 0x7F0C0043
+			public const int scrollIndicatorDown = 2131492931;
 			
-			// aapt resource value: 0x7F0C005F
-			public const int scrollIndicatorUp = 2131492959;
+			// aapt resource value: 0x7F0C0044
+			public const int scrollIndicatorUp = 2131492932;
 			
-			// aapt resource value: 0x7F0C0060
-			public const int scrollView = 2131492960;
+			// aapt resource value: 0x7F0C0045
+			public const int scrollView = 2131492933;
 			
-			// aapt resource value: 0x7F0C0062
-			public const int search_badge = 2131492962;
+			// aapt resource value: 0x7F0C0046
+			public const int search_badge = 2131492934;
 			
-			// aapt resource value: 0x7F0C0063
-			public const int search_bar = 2131492963;
+			// aapt resource value: 0x7F0C0047
+			public const int search_bar = 2131492935;
 			
-			// aapt resource value: 0x7F0C0064
-			public const int search_button = 2131492964;
+			// aapt resource value: 0x7F0C0048
+			public const int search_button = 2131492936;
 			
-			// aapt resource value: 0x7F0C0065
-			public const int search_close_btn = 2131492965;
+			// aapt resource value: 0x7F0C0049
+			public const int search_close_btn = 2131492937;
 			
-			// aapt resource value: 0x7F0C0066
-			public const int search_edit_frame = 2131492966;
+			// aapt resource value: 0x7F0C004A
+			public const int search_edit_frame = 2131492938;
 			
-			// aapt resource value: 0x7F0C0067
-			public const int search_go_btn = 2131492967;
+			// aapt resource value: 0x7F0C004B
+			public const int search_go_btn = 2131492939;
 			
-			// aapt resource value: 0x7F0C0068
-			public const int search_mag_icon = 2131492968;
+			// aapt resource value: 0x7F0C004C
+			public const int search_mag_icon = 2131492940;
 			
-			// aapt resource value: 0x7F0C0069
-			public const int search_plate = 2131492969;
+			// aapt resource value: 0x7F0C004D
+			public const int search_plate = 2131492941;
 			
-			// aapt resource value: 0x7F0C006A
-			public const int search_src_text = 2131492970;
+			// aapt resource value: 0x7F0C004E
+			public const int search_src_text = 2131492942;
 			
-			// aapt resource value: 0x7F0C006B
-			public const int search_voice_btn = 2131492971;
+			// aapt resource value: 0x7F0C004F
+			public const int search_voice_btn = 2131492943;
 			
 			// aapt resource value: 0x1
 			public const int seek_bar = 1;
@@ -10207,20 +13256,20 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int selectionDetails = 1;
 			
-			// aapt resource value: 0x7F0C006C
-			public const int select_dialog_listview = 2131492972;
+			// aapt resource value: 0x7F0C0050
+			public const int select_dialog_listview = 2131492944;
 			
-			// aapt resource value: 0x7F020226
-			public const int shellcontent.appbar = 2130838054;
+			// aapt resource value: 0x7F020229
+			public const int shellcontent.appbar = 2130838057;
 			
-			// aapt resource value: 0x7F020228
-			public const int shellcontent.scrollview = 2130838056;
+			// aapt resource value: 0x7F020231
+			public const int shellcontent.scrollview = 2130838065;
 			
-			// aapt resource value: 0x7F020227
-			public const int shellcontent.toolbar = 2130838055;
+			// aapt resource value: 0x7F020230
+			public const int shellcontent.toolbar = 2130838064;
 			
-			// aapt resource value: 0x7F0C006E
-			public const int shortcut = 2131492974;
+			// aapt resource value: 0x7F0C0051
+			public const int shortcut = 2131492945;
 			
 			// aapt resource value: 0x1
 			public const int slide = 1;
@@ -10237,26 +13286,26 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0C0071
 			public const int snackbar_text = 2131492977;
 			
-			// aapt resource value: 0x7F0C0072
-			public const int spacer = 2131492978;
+			// aapt resource value: 0x7F0C0052
+			public const int spacer = 2131492946;
 			
-			// aapt resource value: 0x7F0C0073
-			public const int split_action_bar = 2131492979;
+			// aapt resource value: 0x7F0C0053
+			public const int split_action_bar = 2131492947;
 			
-			// aapt resource value: 0x7F0C0074
-			public const int src_atop = 2131492980;
+			// aapt resource value: 0x7F0C0054
+			public const int src_atop = 2131492948;
 			
-			// aapt resource value: 0x7F0C0075
-			public const int src_in = 2131492981;
+			// aapt resource value: 0x7F0C0055
+			public const int src_in = 2131492949;
 			
-			// aapt resource value: 0x7F0C0076
-			public const int src_over = 2131492982;
+			// aapt resource value: 0x7F0C0056
+			public const int src_over = 2131492950;
 			
 			// aapt resource value: 0x1
 			public const int standard = 1;
 			
-			// aapt resource value: 0x7F0C001B
-			public const int start = 2131492891;
+			// aapt resource value: 0x7F0C0057
+			public const int start = 2131492951;
 			
 			// aapt resource value: 0x1
 			public const int start_text = 1;
@@ -10273,23 +13322,23 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int strict_sandbox = 1;
 			
-			// aapt resource value: 0x7F0C0079
-			public const int submenuarrow = 2131492985;
+			// aapt resource value: 0x7F0C0058
+			public const int submenuarrow = 2131492952;
 			
-			// aapt resource value: 0x7F0C007A
-			public const int submit_area = 2131492986;
+			// aapt resource value: 0x7F0C0059
+			public const int submit_area = 2131492953;
 			
 			// aapt resource value: 0x1
 			public const int subtitle_view = 1;
 			
-			// aapt resource value: 0x7F0C007B
-			public const int tabMode = 2131492987;
+			// aapt resource value: 0x7F0C005A
+			public const int tabMode = 2131492954;
 			
 			// aapt resource value: 0x1
 			public const int tab_host = 1;
 			
-			// aapt resource value: 0x7F0C0016
-			public const int tag_transition_group = 2131492886;
+			// aapt resource value: 0x7F0C005B
+			public const int tag_transition_group = 2131492955;
 			
 			// aapt resource value: 0x7F0C0017
 			public const int tag_unhandled_key_event_manager = 2131492887;
@@ -10303,14 +13352,14 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int test = 1;
 			
-			// aapt resource value: 0x7F0C0019
-			public const int text = 2131492889;
+			// aapt resource value: 0x7F0C005C
+			public const int text = 2131492956;
 			
 			// aapt resource value: 0x1
 			public const int text1 = 1;
 			
-			// aapt resource value: 0x7F0C001A
-			public const int text2 = 2131492890;
+			// aapt resource value: 0x7F0C005D
+			public const int text2 = 2131492957;
 			
 			// aapt resource value: 0x7F0C0084
 			public const int textinput_counter = 2131492996;
@@ -10321,11 +13370,11 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0C0086
 			public const int textinput_helper_text = 2131492998;
 			
-			// aapt resource value: 0x7F0C0081
-			public const int textSpacerNoButtons = 2131492993;
+			// aapt resource value: 0x7F0C005E
+			public const int textSpacerNoButtons = 2131492958;
 			
-			// aapt resource value: 0x7F0C0082
-			public const int textSpacerNoTitle = 2131492994;
+			// aapt resource value: 0x7F0C005F
+			public const int textSpacerNoTitle = 2131492959;
 			
 			// aapt resource value: 0x1
 			public const int textTitle = 1;
@@ -10342,17 +13391,17 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int thing_proto = 1;
 			
-			// aapt resource value: 0x7F0C001B
-			public const int time = 2131492891;
+			// aapt resource value: 0x7F0C0060
+			public const int time = 2131492960;
 			
-			// aapt resource value: 0x7F0C001C
-			public const int title = 2131492892;
+			// aapt resource value: 0x7F0C0061
+			public const int title = 2131492961;
 			
-			// aapt resource value: 0x7F0C0089
-			public const int titleDividerNoCustom = 2131493001;
+			// aapt resource value: 0x7F0C0062
+			public const int titleDividerNoCustom = 2131492962;
 			
-			// aapt resource value: 0x7F0C008A
-			public const int title_template = 2131493002;
+			// aapt resource value: 0x7F0C0063
+			public const int title_template = 2131492963;
 			
 			// aapt resource value: 0x1
 			public const int title_view = 1;
@@ -10360,11 +13409,11 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F020004
 			public const int toolbar = 2130837508;
 			
-			// aapt resource value: 0x7F0C0023
-			public const int top = 2131492899;
+			// aapt resource value: 0x7F0C0064
+			public const int top = 2131492964;
 			
-			// aapt resource value: 0x7F0C008C
-			public const int topPanel = 2131493004;
+			// aapt resource value: 0x7F0C0065
+			public const int topPanel = 2131492965;
 			
 			// aapt resource value: 0x7F0C008D
 			public const int touch_outside = 2131493005;
@@ -10384,14 +13433,14 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0C0092
 			public const int transition_transform = 2131493010;
 			
-			// aapt resource value: 0x7F0C0093
-			public const int uniform = 2131493011;
+			// aapt resource value: 0x7F0C0066
+			public const int uniform = 2131492966;
 			
 			// aapt resource value: 0x7F0C0094
 			public const int unlabeled = 2131493012;
 			
-			// aapt resource value: 0x7F0C0095
-			public const int up = 2131493013;
+			// aapt resource value: 0x7F0C0067
+			public const int up = 2131492967;
 			
 			// aapt resource value: 0x1
 			public const int url = 1;
@@ -10408,8 +13457,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int wide = 1;
 			
-			// aapt resource value: 0x7F0C0098
-			public const int wrap_content = 2131493016;
+			// aapt resource value: 0x7F0C0068
+			public const int wrap_content = 2131492968;
 			
 			static Id()
 			{
@@ -10436,14 +13485,14 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0D0004
 			public const int bottom_sheet_slide_duration = 2131558404;
 			
-			// aapt resource value: 0x7F0D0005
-			public const int cancel_button_image_alpha = 2131558405;
+			// aapt resource value: 0x7F0D0003
+			public const int cancel_button_image_alpha = 2131558403;
 			
 			// aapt resource value: 0x1
 			public const int cast_libraries_material_featurehighlight_pulse_base_alpha = 1;
 			
-			// aapt resource value: 0x7F0D0006
-			public const int config_tooltipAnimTime = 2131558406;
+			// aapt resource value: 0x7F0D0004
+			public const int config_tooltipAnimTime = 2131558404;
 			
 			// aapt resource value: 0x7F0D0007
 			public const int design_snackbar_text_max_lines = 2131558407;
@@ -10484,8 +13533,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0D000E
 			public const int show_password_duration = 2131558414;
 			
-			// aapt resource value: 0x7F0D0001
-			public const int status_bar_notification_info_maxnum = 2131558401;
+			// aapt resource value: 0x7F0D0005
+			public const int status_bar_notification_info_maxnum = 2131558405;
 			
 			static Integer()
 			{
@@ -10567,53 +13616,53 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0F000C
 			public const int abc_cascading_menu_item_layout = 2131689484;
 			
+			// aapt resource value: 0x7F0F000C
+			public const int abc_dialog_title_material = 2131689484;
+			
 			// aapt resource value: 0x7F0F000D
-			public const int abc_dialog_title_material = 2131689485;
+			public const int abc_expanded_menu_layout = 2131689485;
 			
 			// aapt resource value: 0x7F0F000E
-			public const int abc_expanded_menu_layout = 2131689486;
+			public const int abc_list_menu_item_checkbox = 2131689486;
 			
 			// aapt resource value: 0x7F0F000F
-			public const int abc_list_menu_item_checkbox = 2131689487;
+			public const int abc_list_menu_item_icon = 2131689487;
 			
 			// aapt resource value: 0x7F0F0010
-			public const int abc_list_menu_item_icon = 2131689488;
+			public const int abc_list_menu_item_layout = 2131689488;
 			
 			// aapt resource value: 0x7F0F0011
-			public const int abc_list_menu_item_layout = 2131689489;
+			public const int abc_list_menu_item_radio = 2131689489;
 			
 			// aapt resource value: 0x7F0F0012
-			public const int abc_list_menu_item_radio = 2131689490;
+			public const int abc_popup_menu_header_item_layout = 2131689490;
 			
 			// aapt resource value: 0x7F0F0013
-			public const int abc_popup_menu_header_item_layout = 2131689491;
+			public const int abc_popup_menu_item_layout = 2131689491;
 			
 			// aapt resource value: 0x7F0F0014
-			public const int abc_popup_menu_item_layout = 2131689492;
+			public const int abc_screen_content_include = 2131689492;
 			
 			// aapt resource value: 0x7F0F0015
-			public const int abc_screen_content_include = 2131689493;
+			public const int abc_screen_simple = 2131689493;
 			
 			// aapt resource value: 0x7F0F0016
-			public const int abc_screen_simple = 2131689494;
+			public const int abc_screen_simple_overlay_action_mode = 2131689494;
 			
 			// aapt resource value: 0x7F0F0017
-			public const int abc_screen_simple_overlay_action_mode = 2131689495;
+			public const int abc_screen_toolbar = 2131689495;
 			
 			// aapt resource value: 0x7F0F0018
-			public const int abc_screen_toolbar = 2131689496;
+			public const int abc_search_dropdown_item_icons_2line = 2131689496;
 			
 			// aapt resource value: 0x7F0F0019
-			public const int abc_search_dropdown_item_icons_2line = 2131689497;
+			public const int abc_search_view = 2131689497;
 			
 			// aapt resource value: 0x7F0F001A
-			public const int abc_search_view = 2131689498;
+			public const int abc_select_dialog_material = 2131689498;
 			
 			// aapt resource value: 0x7F0F001B
-			public const int abc_select_dialog_material = 2131689499;
-			
-			// aapt resource value: 0x7F0F001C
-			public const int abc_tooltip = 2131689500;
+			public const int abc_tooltip = 2131689499;
 			
 			// aapt resource value: 0x7F030087
 			public const int BottomTabLayout = 2130903175;
@@ -10759,11 +13808,11 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0F002C
 			public const int mtrl_layout_snackbar_include = 2131689516;
 			
-			// aapt resource value: 0x7F0F0001
-			public const int notification_action = 2131689473;
+			// aapt resource value: 0x7F0F001C
+			public const int notification_action = 2131689500;
 			
-			// aapt resource value: 0x7F0F0002
-			public const int notification_action_tombstone = 2131689474;
+			// aapt resource value: 0x7F0F001D
+			public const int notification_action_tombstone = 2131689501;
 			
 			// aapt resource value: 0x7F0F0003
 			public const int notification_media_action = 2131689475;
@@ -10783,11 +13832,11 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0F0008
 			public const int notification_template_big_media_narrow_custom = 2131689480;
 			
-			// aapt resource value: 0x7F0F0003
-			public const int notification_template_custom_big = 2131689475;
+			// aapt resource value: 0x7F0F001E
+			public const int notification_template_custom_big = 2131689502;
 			
-			// aapt resource value: 0x7F0F0004
-			public const int notification_template_icon_group = 2131689476;
+			// aapt resource value: 0x7F0F001F
+			public const int notification_template_icon_group = 2131689503;
 			
 			// aapt resource value: 0x7F0F000B
 			public const int notification_template_lines_media = 2131689483;
@@ -10798,11 +13847,11 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F0F000D
 			public const int notification_template_media_custom = 2131689485;
 			
-			// aapt resource value: 0x7F0F0005
-			public const int notification_template_part_chronometer = 2131689477;
+			// aapt resource value: 0x7F0F0020
+			public const int notification_template_part_chronometer = 2131689504;
 			
-			// aapt resource value: 0x7F0F0006
-			public const int notification_template_part_time = 2131689478;
+			// aapt resource value: 0x7F0F0021
+			public const int notification_template_part_time = 2131689505;
 			
 			// aapt resource value: 0x1
 			public const int place_autocomplete_fragment = 1;
@@ -10819,20 +13868,20 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F030089
 			public const int RootLayout = 2130903177;
 			
-			// aapt resource value: 0x7F0F0033
-			public const int select_dialog_item_material = 2131689523;
+			// aapt resource value: 0x7F0F0022
+			public const int select_dialog_item_material = 2131689506;
 			
-			// aapt resource value: 0x7F0F0034
-			public const int select_dialog_multichoice_material = 2131689524;
+			// aapt resource value: 0x7F0F0023
+			public const int select_dialog_multichoice_material = 2131689507;
 			
-			// aapt resource value: 0x7F0F0035
-			public const int select_dialog_singlechoice_material = 2131689525;
+			// aapt resource value: 0x7F0F0024
+			public const int select_dialog_singlechoice_material = 2131689508;
 			
 			// aapt resource value: 0x7F030090
 			public const int ShellContent = 2130903184;
 			
-			// aapt resource value: 0x7F0F0036
-			public const int support_simple_spinner_dropdown_item = 2131689526;
+			// aapt resource value: 0x7F0F0025
+			public const int support_simple_spinner_dropdown_item = 2131689509;
 			
 			// aapt resource value: 0x7F030003
 			public const int Tabbar = 2130903043;
@@ -10880,6 +13929,9 @@ namespace InventoryManagementSystem.Droid
 			
 			// aapt resource value: 0x1
 			public const int keep_third_party_licenses = 1;
+			
+			// aapt resource value: 0x7F110003
+			public const int loading_animation = 2131820547;
 			
 			static Raw()
 			{
@@ -10984,32 +14036,32 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F15001E
 			public const int abc_prepend_shortcut_label = 2132082718;
 			
-			// aapt resource value: 0x7F150020
-			public const int abc_searchview_description_clear = 2132082720;
+			// aapt resource value: 0x7F150016
+			public const int abc_searchview_description_clear = 2132082710;
 			
-			// aapt resource value: 0x7F150021
-			public const int abc_searchview_description_query = 2132082721;
+			// aapt resource value: 0x7F150017
+			public const int abc_searchview_description_query = 2132082711;
 			
-			// aapt resource value: 0x7F150022
-			public const int abc_searchview_description_search = 2132082722;
+			// aapt resource value: 0x7F150018
+			public const int abc_searchview_description_search = 2132082712;
 			
-			// aapt resource value: 0x7F150023
-			public const int abc_searchview_description_submit = 2132082723;
+			// aapt resource value: 0x7F150019
+			public const int abc_searchview_description_submit = 2132082713;
 			
-			// aapt resource value: 0x7F150024
-			public const int abc_searchview_description_voice = 2132082724;
+			// aapt resource value: 0x7F15001A
+			public const int abc_searchview_description_voice = 2132082714;
 			
-			// aapt resource value: 0x7F15001F
-			public const int abc_search_hint = 2132082719;
+			// aapt resource value: 0x7F150015
+			public const int abc_search_hint = 2132082709;
 			
-			// aapt resource value: 0x7F150025
-			public const int abc_shareactionprovider_share_with = 2132082725;
+			// aapt resource value: 0x7F15001B
+			public const int abc_shareactionprovider_share_with = 2132082715;
 			
-			// aapt resource value: 0x7F150026
-			public const int abc_shareactionprovider_share_with_application = 2132082726;
+			// aapt resource value: 0x7F15001C
+			public const int abc_shareactionprovider_share_with_application = 2132082716;
 			
-			// aapt resource value: 0x7F150027
-			public const int abc_toolbar_collapse_description = 2132082727;
+			// aapt resource value: 0x7F15001D
+			public const int abc_toolbar_collapse_description = 2132082717;
 			
 			// aapt resource value: 0x7F150028
 			public const int appbar_scrolling_view_behavior = 2132082728;
@@ -11344,11 +14396,11 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F050088
 			public const int s6 = 2131034248;
 			
-			// aapt resource value: 0x7F150035
-			public const int search_menu_title = 2132082741;
+			// aapt resource value: 0x7F15001E
+			public const int search_menu_title = 2132082718;
 			
-			// aapt resource value: 0x7F150001
-			public const int status_bar_notification_info_overflow = 2132082689;
+			// aapt resource value: 0x7F15001F
+			public const int status_bar_notification_info_overflow = 2132082719;
 			
 			// aapt resource value: 0x1
 			public const int tagmanager_preview_dialog_button = 1;
@@ -11396,194 +14448,194 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F060004
 			public const int AppCompatDialogStyle = 2131099652;
 			
+			// aapt resource value: 0x7F160006
+			public const int Base_AlertDialog_AppCompat = 2132148230;
+			
 			// aapt resource value: 0x7F160007
-			public const int Base_AlertDialog_AppCompat = 2132148231;
+			public const int Base_AlertDialog_AppCompat_Light = 2132148231;
 			
 			// aapt resource value: 0x7F160008
-			public const int Base_AlertDialog_AppCompat_Light = 2132148232;
+			public const int Base_Animation_AppCompat_Dialog = 2132148232;
 			
 			// aapt resource value: 0x7F160009
-			public const int Base_Animation_AppCompat_Dialog = 2132148233;
+			public const int Base_Animation_AppCompat_DropDownUp = 2132148233;
 			
 			// aapt resource value: 0x7F16000A
-			public const int Base_Animation_AppCompat_DropDownUp = 2132148234;
-			
-			// aapt resource value: 0x7F16000B
-			public const int Base_Animation_AppCompat_Tooltip = 2132148235;
+			public const int Base_Animation_AppCompat_Tooltip = 2132148234;
 			
 			// aapt resource value: 0x7F16000C
 			public const int Base_CardView = 2132148236;
 			
+			// aapt resource value: 0x7F16000B
+			public const int Base_DialogWindowTitleBackground_AppCompat = 2132148235;
+			
+			// aapt resource value: 0x7F16000C
+			public const int Base_DialogWindowTitle_AppCompat = 2132148236;
+			
 			// aapt resource value: 0x7F16000D
-			public const int Base_DialogWindowTitleBackground_AppCompat = 2132148237;
+			public const int Base_TextAppearance_AppCompat = 2132148237;
 			
 			// aapt resource value: 0x7F16000E
-			public const int Base_DialogWindowTitle_AppCompat = 2132148238;
+			public const int Base_TextAppearance_AppCompat_Body1 = 2132148238;
 			
 			// aapt resource value: 0x7F16000F
-			public const int Base_TextAppearance_AppCompat = 2132148239;
+			public const int Base_TextAppearance_AppCompat_Body2 = 2132148239;
 			
 			// aapt resource value: 0x7F160010
-			public const int Base_TextAppearance_AppCompat_Body1 = 2132148240;
+			public const int Base_TextAppearance_AppCompat_Button = 2132148240;
 			
 			// aapt resource value: 0x7F160011
-			public const int Base_TextAppearance_AppCompat_Body2 = 2132148241;
+			public const int Base_TextAppearance_AppCompat_Caption = 2132148241;
 			
 			// aapt resource value: 0x7F160012
-			public const int Base_TextAppearance_AppCompat_Button = 2132148242;
+			public const int Base_TextAppearance_AppCompat_Display1 = 2132148242;
 			
 			// aapt resource value: 0x7F160013
-			public const int Base_TextAppearance_AppCompat_Caption = 2132148243;
+			public const int Base_TextAppearance_AppCompat_Display2 = 2132148243;
 			
 			// aapt resource value: 0x7F160014
-			public const int Base_TextAppearance_AppCompat_Display1 = 2132148244;
+			public const int Base_TextAppearance_AppCompat_Display3 = 2132148244;
 			
 			// aapt resource value: 0x7F160015
-			public const int Base_TextAppearance_AppCompat_Display2 = 2132148245;
+			public const int Base_TextAppearance_AppCompat_Display4 = 2132148245;
 			
 			// aapt resource value: 0x7F160016
-			public const int Base_TextAppearance_AppCompat_Display3 = 2132148246;
+			public const int Base_TextAppearance_AppCompat_Headline = 2132148246;
 			
 			// aapt resource value: 0x7F160017
-			public const int Base_TextAppearance_AppCompat_Display4 = 2132148247;
+			public const int Base_TextAppearance_AppCompat_Inverse = 2132148247;
 			
 			// aapt resource value: 0x7F160018
-			public const int Base_TextAppearance_AppCompat_Headline = 2132148248;
+			public const int Base_TextAppearance_AppCompat_Large = 2132148248;
 			
 			// aapt resource value: 0x7F160019
-			public const int Base_TextAppearance_AppCompat_Inverse = 2132148249;
+			public const int Base_TextAppearance_AppCompat_Large_Inverse = 2132148249;
 			
 			// aapt resource value: 0x7F16001A
-			public const int Base_TextAppearance_AppCompat_Large = 2132148250;
+			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2132148250;
 			
 			// aapt resource value: 0x7F16001B
-			public const int Base_TextAppearance_AppCompat_Large_Inverse = 2132148251;
+			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2132148251;
 			
 			// aapt resource value: 0x7F16001C
-			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2132148252;
+			public const int Base_TextAppearance_AppCompat_Medium = 2132148252;
 			
 			// aapt resource value: 0x7F16001D
-			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2132148253;
+			public const int Base_TextAppearance_AppCompat_Medium_Inverse = 2132148253;
 			
 			// aapt resource value: 0x7F16001E
-			public const int Base_TextAppearance_AppCompat_Medium = 2132148254;
+			public const int Base_TextAppearance_AppCompat_Menu = 2132148254;
 			
 			// aapt resource value: 0x7F16001F
-			public const int Base_TextAppearance_AppCompat_Medium_Inverse = 2132148255;
+			public const int Base_TextAppearance_AppCompat_SearchResult = 2132148255;
 			
 			// aapt resource value: 0x7F160020
-			public const int Base_TextAppearance_AppCompat_Menu = 2132148256;
+			public const int Base_TextAppearance_AppCompat_SearchResult_Subtitle = 2132148256;
 			
 			// aapt resource value: 0x7F160021
-			public const int Base_TextAppearance_AppCompat_SearchResult = 2132148257;
+			public const int Base_TextAppearance_AppCompat_SearchResult_Title = 2132148257;
 			
 			// aapt resource value: 0x7F160022
-			public const int Base_TextAppearance_AppCompat_SearchResult_Subtitle = 2132148258;
+			public const int Base_TextAppearance_AppCompat_Small = 2132148258;
 			
 			// aapt resource value: 0x7F160023
-			public const int Base_TextAppearance_AppCompat_SearchResult_Title = 2132148259;
+			public const int Base_TextAppearance_AppCompat_Small_Inverse = 2132148259;
 			
 			// aapt resource value: 0x7F160024
-			public const int Base_TextAppearance_AppCompat_Small = 2132148260;
+			public const int Base_TextAppearance_AppCompat_Subhead = 2132148260;
 			
 			// aapt resource value: 0x7F160025
-			public const int Base_TextAppearance_AppCompat_Small_Inverse = 2132148261;
+			public const int Base_TextAppearance_AppCompat_Subhead_Inverse = 2132148261;
 			
 			// aapt resource value: 0x7F160026
-			public const int Base_TextAppearance_AppCompat_Subhead = 2132148262;
+			public const int Base_TextAppearance_AppCompat_Title = 2132148262;
 			
 			// aapt resource value: 0x7F160027
-			public const int Base_TextAppearance_AppCompat_Subhead_Inverse = 2132148263;
+			public const int Base_TextAppearance_AppCompat_Title_Inverse = 2132148263;
 			
 			// aapt resource value: 0x7F160028
-			public const int Base_TextAppearance_AppCompat_Title = 2132148264;
+			public const int Base_TextAppearance_AppCompat_Tooltip = 2132148264;
 			
 			// aapt resource value: 0x7F160029
-			public const int Base_TextAppearance_AppCompat_Title_Inverse = 2132148265;
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = 2132148265;
 			
 			// aapt resource value: 0x7F16002A
-			public const int Base_TextAppearance_AppCompat_Tooltip = 2132148266;
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2132148266;
 			
 			// aapt resource value: 0x7F16002B
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = 2132148267;
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2132148267;
 			
 			// aapt resource value: 0x7F16002C
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2132148268;
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title = 2132148268;
 			
 			// aapt resource value: 0x7F16002D
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2132148269;
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2132148269;
 			
 			// aapt resource value: 0x7F16002E
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title = 2132148270;
+			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2132148270;
 			
 			// aapt resource value: 0x7F16002F
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2132148271;
+			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Title = 2132148271;
 			
 			// aapt resource value: 0x7F160030
-			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2132148272;
+			public const int Base_TextAppearance_AppCompat_Widget_Button = 2132148272;
 			
 			// aapt resource value: 0x7F160031
-			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Title = 2132148273;
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2132148273;
 			
 			// aapt resource value: 0x7F160032
-			public const int Base_TextAppearance_AppCompat_Widget_Button = 2132148274;
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Colored = 2132148274;
 			
 			// aapt resource value: 0x7F160033
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2132148275;
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Inverse = 2132148275;
 			
 			// aapt resource value: 0x7F160034
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Colored = 2132148276;
+			public const int Base_TextAppearance_AppCompat_Widget_DropDownItem = 2132148276;
 			
 			// aapt resource value: 0x7F160035
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Inverse = 2132148277;
+			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = 2132148277;
 			
 			// aapt resource value: 0x7F160036
-			public const int Base_TextAppearance_AppCompat_Widget_DropDownItem = 2132148278;
+			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = 2132148278;
 			
 			// aapt resource value: 0x7F160037
-			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = 2132148279;
+			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = 2132148279;
 			
 			// aapt resource value: 0x7F160038
-			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = 2132148280;
+			public const int Base_TextAppearance_AppCompat_Widget_Switch = 2132148280;
 			
 			// aapt resource value: 0x7F160039
-			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = 2132148281;
+			public const int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2132148281;
 			
 			// aapt resource value: 0x7F16003A
-			public const int Base_TextAppearance_AppCompat_Widget_Switch = 2132148282;
+			public const int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2132148282;
 			
 			// aapt resource value: 0x7F16003B
-			public const int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2132148283;
+			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2132148283;
 			
 			// aapt resource value: 0x7F16003C
-			public const int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2132148284;
+			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Title = 2132148284;
 			
 			// aapt resource value: 0x7F16003D
-			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2132148285;
+			public const int Base_ThemeOverlay_AppCompat = 2132148285;
 			
 			// aapt resource value: 0x7F16003E
-			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Title = 2132148286;
+			public const int Base_ThemeOverlay_AppCompat_ActionBar = 2132148286;
 			
 			// aapt resource value: 0x7F16003F
-			public const int Base_ThemeOverlay_AppCompat = 2132148287;
+			public const int Base_ThemeOverlay_AppCompat_Dark = 2132148287;
 			
 			// aapt resource value: 0x7F160040
-			public const int Base_ThemeOverlay_AppCompat_ActionBar = 2132148288;
+			public const int Base_ThemeOverlay_AppCompat_Dark_ActionBar = 2132148288;
 			
 			// aapt resource value: 0x7F160041
-			public const int Base_ThemeOverlay_AppCompat_Dark = 2132148289;
+			public const int Base_ThemeOverlay_AppCompat_Dialog = 2132148289;
 			
 			// aapt resource value: 0x7F160042
-			public const int Base_ThemeOverlay_AppCompat_Dark_ActionBar = 2132148290;
+			public const int Base_ThemeOverlay_AppCompat_Dialog_Alert = 2132148290;
 			
 			// aapt resource value: 0x7F160043
-			public const int Base_ThemeOverlay_AppCompat_Dialog = 2132148291;
-			
-			// aapt resource value: 0x7F160044
-			public const int Base_ThemeOverlay_AppCompat_Dialog_Alert = 2132148292;
-			
-			// aapt resource value: 0x7F160045
-			public const int Base_ThemeOverlay_AppCompat_Light = 2132148293;
+			public const int Base_ThemeOverlay_AppCompat_Light = 2132148291;
 			
 			// aapt resource value: 0x7F160046
 			public const int Base_ThemeOverlay_MaterialComponents_Dialog = 2132148294;
@@ -11591,47 +14643,47 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F160047
 			public const int Base_ThemeOverlay_MaterialComponents_Dialog_Alert = 2132148295;
 			
+			// aapt resource value: 0x7F160044
+			public const int Base_Theme_AppCompat = 2132148292;
+			
+			// aapt resource value: 0x7F160045
+			public const int Base_Theme_AppCompat_CompactMenu = 2132148293;
+			
+			// aapt resource value: 0x7F160046
+			public const int Base_Theme_AppCompat_Dialog = 2132148294;
+			
+			// aapt resource value: 0x7F160047
+			public const int Base_Theme_AppCompat_DialogWhenLarge = 2132148295;
+			
 			// aapt resource value: 0x7F160048
-			public const int Base_Theme_AppCompat = 2132148296;
+			public const int Base_Theme_AppCompat_Dialog_Alert = 2132148296;
 			
 			// aapt resource value: 0x7F160049
-			public const int Base_Theme_AppCompat_CompactMenu = 2132148297;
+			public const int Base_Theme_AppCompat_Dialog_FixedSize = 2132148297;
 			
 			// aapt resource value: 0x7F16004A
-			public const int Base_Theme_AppCompat_Dialog = 2132148298;
+			public const int Base_Theme_AppCompat_Dialog_MinWidth = 2132148298;
 			
 			// aapt resource value: 0x7F16004B
-			public const int Base_Theme_AppCompat_DialogWhenLarge = 2132148299;
+			public const int Base_Theme_AppCompat_Light = 2132148299;
 			
 			// aapt resource value: 0x7F16004C
-			public const int Base_Theme_AppCompat_Dialog_Alert = 2132148300;
+			public const int Base_Theme_AppCompat_Light_DarkActionBar = 2132148300;
 			
 			// aapt resource value: 0x7F16004D
-			public const int Base_Theme_AppCompat_Dialog_FixedSize = 2132148301;
+			public const int Base_Theme_AppCompat_Light_Dialog = 2132148301;
 			
 			// aapt resource value: 0x7F16004E
-			public const int Base_Theme_AppCompat_Dialog_MinWidth = 2132148302;
+			public const int Base_Theme_AppCompat_Light_DialogWhenLarge = 2132148302;
 			
 			// aapt resource value: 0x7F16004F
-			public const int Base_Theme_AppCompat_Light = 2132148303;
+			public const int Base_Theme_AppCompat_Light_Dialog_Alert = 2132148303;
 			
 			// aapt resource value: 0x7F160050
-			public const int Base_Theme_AppCompat_Light_DarkActionBar = 2132148304;
+			public const int Base_Theme_AppCompat_Light_Dialog_FixedSize = 2132148304;
 			
 			// aapt resource value: 0x7F160051
-			public const int Base_Theme_AppCompat_Light_Dialog = 2132148305;
-			
-			// aapt resource value: 0x7F160052
-			public const int Base_Theme_AppCompat_Light_DialogWhenLarge = 2132148306;
-			
-			// aapt resource value: 0x7F160053
-			public const int Base_Theme_AppCompat_Light_Dialog_Alert = 2132148307;
-			
-			// aapt resource value: 0x7F160054
-			public const int Base_Theme_AppCompat_Light_Dialog_FixedSize = 2132148308;
-			
-			// aapt resource value: 0x7F160055
-			public const int Base_Theme_AppCompat_Light_Dialog_MinWidth = 2132148309;
+			public const int Base_Theme_AppCompat_Light_Dialog_MinWidth = 2132148305;
 			
 			// aapt resource value: 0x7F160056
 			public const int Base_Theme_MaterialComponents = 2132148310;
@@ -11711,41 +14763,41 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F16006F
 			public const int Base_V14_Theme_MaterialComponents_Light_Dialog = 2132148335;
 			
-			// aapt resource value: 0x7F160070
-			public const int Base_V21_ThemeOverlay_AppCompat_Dialog = 2132148336;
+			// aapt resource value: 0x7F160052
+			public const int Base_V21_ThemeOverlay_AppCompat_Dialog = 2132148306;
 			
-			// aapt resource value: 0x7F160071
-			public const int Base_V21_Theme_AppCompat = 2132148337;
+			// aapt resource value: 0x7F160053
+			public const int Base_V21_Theme_AppCompat = 2132148307;
 			
-			// aapt resource value: 0x7F160072
-			public const int Base_V21_Theme_AppCompat_Dialog = 2132148338;
+			// aapt resource value: 0x7F160054
+			public const int Base_V21_Theme_AppCompat_Dialog = 2132148308;
 			
-			// aapt resource value: 0x7F160073
-			public const int Base_V21_Theme_AppCompat_Light = 2132148339;
+			// aapt resource value: 0x7F160055
+			public const int Base_V21_Theme_AppCompat_Light = 2132148309;
 			
-			// aapt resource value: 0x7F160074
-			public const int Base_V21_Theme_AppCompat_Light_Dialog = 2132148340;
+			// aapt resource value: 0x7F160056
+			public const int Base_V21_Theme_AppCompat_Light_Dialog = 2132148310;
 			
-			// aapt resource value: 0x7F160075
-			public const int Base_V22_Theme_AppCompat = 2132148341;
+			// aapt resource value: 0x7F160057
+			public const int Base_V22_Theme_AppCompat = 2132148311;
 			
-			// aapt resource value: 0x7F160076
-			public const int Base_V22_Theme_AppCompat_Light = 2132148342;
+			// aapt resource value: 0x7F160058
+			public const int Base_V22_Theme_AppCompat_Light = 2132148312;
 			
-			// aapt resource value: 0x7F160077
-			public const int Base_V23_Theme_AppCompat = 2132148343;
+			// aapt resource value: 0x7F160059
+			public const int Base_V23_Theme_AppCompat = 2132148313;
 			
-			// aapt resource value: 0x7F160078
-			public const int Base_V23_Theme_AppCompat_Light = 2132148344;
+			// aapt resource value: 0x7F16005A
+			public const int Base_V23_Theme_AppCompat_Light = 2132148314;
 			
-			// aapt resource value: 0x7F160079
-			public const int Base_V26_Theme_AppCompat = 2132148345;
+			// aapt resource value: 0x7F16005B
+			public const int Base_V26_Theme_AppCompat = 2132148315;
 			
-			// aapt resource value: 0x7F16007A
-			public const int Base_V26_Theme_AppCompat_Light = 2132148346;
+			// aapt resource value: 0x7F16005C
+			public const int Base_V26_Theme_AppCompat_Light = 2132148316;
 			
-			// aapt resource value: 0x7F16007B
-			public const int Base_V26_Widget_AppCompat_Toolbar = 2132148347;
+			// aapt resource value: 0x7F16005D
+			public const int Base_V26_Widget_AppCompat_Toolbar = 2132148317;
 			
 			// aapt resource value: 0x7F16007C
 			public const int Base_V28_Theme_AppCompat = 2132148348;
@@ -11753,200 +14805,200 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F16007D
 			public const int Base_V28_Theme_AppCompat_Light = 2132148349;
 			
+			// aapt resource value: 0x7F16005E
+			public const int Base_V7_ThemeOverlay_AppCompat_Dialog = 2132148318;
+			
+			// aapt resource value: 0x7F16005F
+			public const int Base_V7_Theme_AppCompat = 2132148319;
+			
+			// aapt resource value: 0x7F160060
+			public const int Base_V7_Theme_AppCompat_Dialog = 2132148320;
+			
+			// aapt resource value: 0x7F160061
+			public const int Base_V7_Theme_AppCompat_Light = 2132148321;
+			
+			// aapt resource value: 0x7F160062
+			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2132148322;
+			
+			// aapt resource value: 0x7F160063
+			public const int Base_V7_Widget_AppCompat_AutoCompleteTextView = 2132148323;
+			
+			// aapt resource value: 0x7F160064
+			public const int Base_V7_Widget_AppCompat_EditText = 2132148324;
+			
+			// aapt resource value: 0x7F160065
+			public const int Base_V7_Widget_AppCompat_Toolbar = 2132148325;
+			
+			// aapt resource value: 0x7F160066
+			public const int Base_Widget_AppCompat_ActionBar = 2132148326;
+			
+			// aapt resource value: 0x7F160067
+			public const int Base_Widget_AppCompat_ActionBar_Solid = 2132148327;
+			
+			// aapt resource value: 0x7F160068
+			public const int Base_Widget_AppCompat_ActionBar_TabBar = 2132148328;
+			
+			// aapt resource value: 0x7F160069
+			public const int Base_Widget_AppCompat_ActionBar_TabText = 2132148329;
+			
+			// aapt resource value: 0x7F16006A
+			public const int Base_Widget_AppCompat_ActionBar_TabView = 2132148330;
+			
+			// aapt resource value: 0x7F16006B
+			public const int Base_Widget_AppCompat_ActionButton = 2132148331;
+			
+			// aapt resource value: 0x7F16006C
+			public const int Base_Widget_AppCompat_ActionButton_CloseMode = 2132148332;
+			
+			// aapt resource value: 0x7F16006D
+			public const int Base_Widget_AppCompat_ActionButton_Overflow = 2132148333;
+			
+			// aapt resource value: 0x7F16006E
+			public const int Base_Widget_AppCompat_ActionMode = 2132148334;
+			
+			// aapt resource value: 0x7F16006F
+			public const int Base_Widget_AppCompat_ActivityChooserView = 2132148335;
+			
+			// aapt resource value: 0x7F160070
+			public const int Base_Widget_AppCompat_AutoCompleteTextView = 2132148336;
+			
+			// aapt resource value: 0x7F160071
+			public const int Base_Widget_AppCompat_Button = 2132148337;
+			
+			// aapt resource value: 0x7F160072
+			public const int Base_Widget_AppCompat_ButtonBar = 2132148338;
+			
+			// aapt resource value: 0x7F160073
+			public const int Base_Widget_AppCompat_ButtonBar_AlertDialog = 2132148339;
+			
+			// aapt resource value: 0x7F160074
+			public const int Base_Widget_AppCompat_Button_Borderless = 2132148340;
+			
+			// aapt resource value: 0x7F160075
+			public const int Base_Widget_AppCompat_Button_Borderless_Colored = 2132148341;
+			
+			// aapt resource value: 0x7F160076
+			public const int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = 2132148342;
+			
+			// aapt resource value: 0x7F160077
+			public const int Base_Widget_AppCompat_Button_Colored = 2132148343;
+			
+			// aapt resource value: 0x7F160078
+			public const int Base_Widget_AppCompat_Button_Small = 2132148344;
+			
+			// aapt resource value: 0x7F160079
+			public const int Base_Widget_AppCompat_CompoundButton_CheckBox = 2132148345;
+			
+			// aapt resource value: 0x7F16007A
+			public const int Base_Widget_AppCompat_CompoundButton_RadioButton = 2132148346;
+			
+			// aapt resource value: 0x7F16007B
+			public const int Base_Widget_AppCompat_CompoundButton_Switch = 2132148347;
+			
+			// aapt resource value: 0x7F16007C
+			public const int Base_Widget_AppCompat_DrawerArrowToggle = 2132148348;
+			
+			// aapt resource value: 0x7F16007D
+			public const int Base_Widget_AppCompat_DrawerArrowToggle_Common = 2132148349;
+			
 			// aapt resource value: 0x7F16007E
-			public const int Base_V7_ThemeOverlay_AppCompat_Dialog = 2132148350;
+			public const int Base_Widget_AppCompat_DropDownItem_Spinner = 2132148350;
 			
 			// aapt resource value: 0x7F16007F
-			public const int Base_V7_Theme_AppCompat = 2132148351;
+			public const int Base_Widget_AppCompat_EditText = 2132148351;
 			
 			// aapt resource value: 0x7F160080
-			public const int Base_V7_Theme_AppCompat_Dialog = 2132148352;
+			public const int Base_Widget_AppCompat_ImageButton = 2132148352;
 			
 			// aapt resource value: 0x7F160081
-			public const int Base_V7_Theme_AppCompat_Light = 2132148353;
+			public const int Base_Widget_AppCompat_Light_ActionBar = 2132148353;
 			
 			// aapt resource value: 0x7F160082
-			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2132148354;
+			public const int Base_Widget_AppCompat_Light_ActionBar_Solid = 2132148354;
 			
 			// aapt resource value: 0x7F160083
-			public const int Base_V7_Widget_AppCompat_AutoCompleteTextView = 2132148355;
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabBar = 2132148355;
 			
 			// aapt resource value: 0x7F160084
-			public const int Base_V7_Widget_AppCompat_EditText = 2132148356;
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabText = 2132148356;
 			
 			// aapt resource value: 0x7F160085
-			public const int Base_V7_Widget_AppCompat_Toolbar = 2132148357;
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2132148357;
 			
 			// aapt resource value: 0x7F160086
-			public const int Base_Widget_AppCompat_ActionBar = 2132148358;
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabView = 2132148358;
 			
 			// aapt resource value: 0x7F160087
-			public const int Base_Widget_AppCompat_ActionBar_Solid = 2132148359;
+			public const int Base_Widget_AppCompat_Light_PopupMenu = 2132148359;
 			
 			// aapt resource value: 0x7F160088
-			public const int Base_Widget_AppCompat_ActionBar_TabBar = 2132148360;
+			public const int Base_Widget_AppCompat_Light_PopupMenu_Overflow = 2132148360;
 			
 			// aapt resource value: 0x7F160089
-			public const int Base_Widget_AppCompat_ActionBar_TabText = 2132148361;
+			public const int Base_Widget_AppCompat_ListMenuView = 2132148361;
 			
 			// aapt resource value: 0x7F16008A
-			public const int Base_Widget_AppCompat_ActionBar_TabView = 2132148362;
+			public const int Base_Widget_AppCompat_ListPopupWindow = 2132148362;
 			
 			// aapt resource value: 0x7F16008B
-			public const int Base_Widget_AppCompat_ActionButton = 2132148363;
+			public const int Base_Widget_AppCompat_ListView = 2132148363;
 			
 			// aapt resource value: 0x7F16008C
-			public const int Base_Widget_AppCompat_ActionButton_CloseMode = 2132148364;
+			public const int Base_Widget_AppCompat_ListView_DropDown = 2132148364;
 			
 			// aapt resource value: 0x7F16008D
-			public const int Base_Widget_AppCompat_ActionButton_Overflow = 2132148365;
+			public const int Base_Widget_AppCompat_ListView_Menu = 2132148365;
 			
 			// aapt resource value: 0x7F16008E
-			public const int Base_Widget_AppCompat_ActionMode = 2132148366;
+			public const int Base_Widget_AppCompat_PopupMenu = 2132148366;
 			
 			// aapt resource value: 0x7F16008F
-			public const int Base_Widget_AppCompat_ActivityChooserView = 2132148367;
+			public const int Base_Widget_AppCompat_PopupMenu_Overflow = 2132148367;
 			
 			// aapt resource value: 0x7F160090
-			public const int Base_Widget_AppCompat_AutoCompleteTextView = 2132148368;
+			public const int Base_Widget_AppCompat_PopupWindow = 2132148368;
 			
 			// aapt resource value: 0x7F160091
-			public const int Base_Widget_AppCompat_Button = 2132148369;
+			public const int Base_Widget_AppCompat_ProgressBar = 2132148369;
 			
 			// aapt resource value: 0x7F160092
-			public const int Base_Widget_AppCompat_ButtonBar = 2132148370;
+			public const int Base_Widget_AppCompat_ProgressBar_Horizontal = 2132148370;
 			
 			// aapt resource value: 0x7F160093
-			public const int Base_Widget_AppCompat_ButtonBar_AlertDialog = 2132148371;
+			public const int Base_Widget_AppCompat_RatingBar = 2132148371;
 			
 			// aapt resource value: 0x7F160094
-			public const int Base_Widget_AppCompat_Button_Borderless = 2132148372;
+			public const int Base_Widget_AppCompat_RatingBar_Indicator = 2132148372;
 			
 			// aapt resource value: 0x7F160095
-			public const int Base_Widget_AppCompat_Button_Borderless_Colored = 2132148373;
+			public const int Base_Widget_AppCompat_RatingBar_Small = 2132148373;
 			
 			// aapt resource value: 0x7F160096
-			public const int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = 2132148374;
+			public const int Base_Widget_AppCompat_SearchView = 2132148374;
 			
 			// aapt resource value: 0x7F160097
-			public const int Base_Widget_AppCompat_Button_Colored = 2132148375;
+			public const int Base_Widget_AppCompat_SearchView_ActionBar = 2132148375;
 			
 			// aapt resource value: 0x7F160098
-			public const int Base_Widget_AppCompat_Button_Small = 2132148376;
+			public const int Base_Widget_AppCompat_SeekBar = 2132148376;
 			
 			// aapt resource value: 0x7F160099
-			public const int Base_Widget_AppCompat_CompoundButton_CheckBox = 2132148377;
+			public const int Base_Widget_AppCompat_SeekBar_Discrete = 2132148377;
 			
 			// aapt resource value: 0x7F16009A
-			public const int Base_Widget_AppCompat_CompoundButton_RadioButton = 2132148378;
+			public const int Base_Widget_AppCompat_Spinner = 2132148378;
 			
 			// aapt resource value: 0x7F16009B
-			public const int Base_Widget_AppCompat_CompoundButton_Switch = 2132148379;
+			public const int Base_Widget_AppCompat_Spinner_Underlined = 2132148379;
 			
 			// aapt resource value: 0x7F16009C
-			public const int Base_Widget_AppCompat_DrawerArrowToggle = 2132148380;
+			public const int Base_Widget_AppCompat_TextView_SpinnerItem = 2132148380;
 			
 			// aapt resource value: 0x7F16009D
-			public const int Base_Widget_AppCompat_DrawerArrowToggle_Common = 2132148381;
+			public const int Base_Widget_AppCompat_Toolbar = 2132148381;
 			
 			// aapt resource value: 0x7F16009E
-			public const int Base_Widget_AppCompat_DropDownItem_Spinner = 2132148382;
-			
-			// aapt resource value: 0x7F16009F
-			public const int Base_Widget_AppCompat_EditText = 2132148383;
-			
-			// aapt resource value: 0x7F1600A0
-			public const int Base_Widget_AppCompat_ImageButton = 2132148384;
-			
-			// aapt resource value: 0x7F1600A1
-			public const int Base_Widget_AppCompat_Light_ActionBar = 2132148385;
-			
-			// aapt resource value: 0x7F1600A2
-			public const int Base_Widget_AppCompat_Light_ActionBar_Solid = 2132148386;
-			
-			// aapt resource value: 0x7F1600A3
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabBar = 2132148387;
-			
-			// aapt resource value: 0x7F1600A4
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabText = 2132148388;
-			
-			// aapt resource value: 0x7F1600A5
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2132148389;
-			
-			// aapt resource value: 0x7F1600A6
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabView = 2132148390;
-			
-			// aapt resource value: 0x7F1600A7
-			public const int Base_Widget_AppCompat_Light_PopupMenu = 2132148391;
-			
-			// aapt resource value: 0x7F1600A8
-			public const int Base_Widget_AppCompat_Light_PopupMenu_Overflow = 2132148392;
-			
-			// aapt resource value: 0x7F1600A9
-			public const int Base_Widget_AppCompat_ListMenuView = 2132148393;
-			
-			// aapt resource value: 0x7F1600AA
-			public const int Base_Widget_AppCompat_ListPopupWindow = 2132148394;
-			
-			// aapt resource value: 0x7F1600AB
-			public const int Base_Widget_AppCompat_ListView = 2132148395;
-			
-			// aapt resource value: 0x7F1600AC
-			public const int Base_Widget_AppCompat_ListView_DropDown = 2132148396;
-			
-			// aapt resource value: 0x7F1600AD
-			public const int Base_Widget_AppCompat_ListView_Menu = 2132148397;
-			
-			// aapt resource value: 0x7F1600AE
-			public const int Base_Widget_AppCompat_PopupMenu = 2132148398;
-			
-			// aapt resource value: 0x7F1600AF
-			public const int Base_Widget_AppCompat_PopupMenu_Overflow = 2132148399;
-			
-			// aapt resource value: 0x7F1600B0
-			public const int Base_Widget_AppCompat_PopupWindow = 2132148400;
-			
-			// aapt resource value: 0x7F1600B1
-			public const int Base_Widget_AppCompat_ProgressBar = 2132148401;
-			
-			// aapt resource value: 0x7F1600B2
-			public const int Base_Widget_AppCompat_ProgressBar_Horizontal = 2132148402;
-			
-			// aapt resource value: 0x7F1600B3
-			public const int Base_Widget_AppCompat_RatingBar = 2132148403;
-			
-			// aapt resource value: 0x7F1600B4
-			public const int Base_Widget_AppCompat_RatingBar_Indicator = 2132148404;
-			
-			// aapt resource value: 0x7F1600B5
-			public const int Base_Widget_AppCompat_RatingBar_Small = 2132148405;
-			
-			// aapt resource value: 0x7F1600B6
-			public const int Base_Widget_AppCompat_SearchView = 2132148406;
-			
-			// aapt resource value: 0x7F1600B7
-			public const int Base_Widget_AppCompat_SearchView_ActionBar = 2132148407;
-			
-			// aapt resource value: 0x7F1600B8
-			public const int Base_Widget_AppCompat_SeekBar = 2132148408;
-			
-			// aapt resource value: 0x7F1600B9
-			public const int Base_Widget_AppCompat_SeekBar_Discrete = 2132148409;
-			
-			// aapt resource value: 0x7F1600BA
-			public const int Base_Widget_AppCompat_Spinner = 2132148410;
-			
-			// aapt resource value: 0x7F1600BB
-			public const int Base_Widget_AppCompat_Spinner_Underlined = 2132148411;
-			
-			// aapt resource value: 0x7F1600BC
-			public const int Base_Widget_AppCompat_TextView_SpinnerItem = 2132148412;
-			
-			// aapt resource value: 0x7F1600BD
-			public const int Base_Widget_AppCompat_Toolbar = 2132148413;
-			
-			// aapt resource value: 0x7F1600BE
-			public const int Base_Widget_AppCompat_Toolbar_Button_Navigation = 2132148414;
+			public const int Base_Widget_AppCompat_Toolbar_Button_Navigation = 2132148382;
 			
 			// aapt resource value: 0x7F1600BF
 			public const int Base_Widget_Design_TabLayout = 2132148415;
@@ -11987,11 +15039,11 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F060003
 			public const int MainTheme_Base = 2131099651;
 			
-			// aapt resource value: 0x7F1600C6
-			public const int Platform_AppCompat = 2132148422;
+			// aapt resource value: 0x7F16009F
+			public const int Platform_AppCompat = 2132148383;
 			
-			// aapt resource value: 0x7F1600C7
-			public const int Platform_AppCompat_Light = 2132148423;
+			// aapt resource value: 0x7F1600A0
+			public const int Platform_AppCompat_Light = 2132148384;
 			
 			// aapt resource value: 0x7F1600C8
 			public const int Platform_MaterialComponents = 2132148424;
@@ -12005,44 +15057,44 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F1600CB
 			public const int Platform_MaterialComponents_Light_Dialog = 2132148427;
 			
-			// aapt resource value: 0x7F1600CC
-			public const int Platform_ThemeOverlay_AppCompat = 2132148428;
+			// aapt resource value: 0x7F1600A1
+			public const int Platform_ThemeOverlay_AppCompat = 2132148385;
 			
-			// aapt resource value: 0x7F1600CD
-			public const int Platform_ThemeOverlay_AppCompat_Dark = 2132148429;
+			// aapt resource value: 0x7F1600A2
+			public const int Platform_ThemeOverlay_AppCompat_Dark = 2132148386;
 			
-			// aapt resource value: 0x7F1600CE
-			public const int Platform_ThemeOverlay_AppCompat_Light = 2132148430;
+			// aapt resource value: 0x7F1600A3
+			public const int Platform_ThemeOverlay_AppCompat_Light = 2132148387;
 			
-			// aapt resource value: 0x7F1600CF
-			public const int Platform_V21_AppCompat = 2132148431;
+			// aapt resource value: 0x7F1600A4
+			public const int Platform_V21_AppCompat = 2132148388;
 			
-			// aapt resource value: 0x7F1600D0
-			public const int Platform_V21_AppCompat_Light = 2132148432;
+			// aapt resource value: 0x7F1600A5
+			public const int Platform_V21_AppCompat_Light = 2132148389;
 			
-			// aapt resource value: 0x7F1600D1
-			public const int Platform_V25_AppCompat = 2132148433;
+			// aapt resource value: 0x7F1600A6
+			public const int Platform_V25_AppCompat = 2132148390;
 			
-			// aapt resource value: 0x7F1600D2
-			public const int Platform_V25_AppCompat_Light = 2132148434;
+			// aapt resource value: 0x7F1600A7
+			public const int Platform_V25_AppCompat_Light = 2132148391;
 			
-			// aapt resource value: 0x7F1600D3
-			public const int Platform_Widget_AppCompat_Spinner = 2132148435;
+			// aapt resource value: 0x7F1600A8
+			public const int Platform_Widget_AppCompat_Spinner = 2132148392;
 			
-			// aapt resource value: 0x7F1600D4
-			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2132148436;
+			// aapt resource value: 0x7F1600A9
+			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2132148393;
 			
-			// aapt resource value: 0x7F1600D5
-			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2132148437;
+			// aapt resource value: 0x7F1600AA
+			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2132148394;
 			
-			// aapt resource value: 0x7F1600D6
-			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2132148438;
+			// aapt resource value: 0x7F1600AB
+			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2132148395;
 			
-			// aapt resource value: 0x7F1600D7
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2132148439;
+			// aapt resource value: 0x7F1600AC
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2132148396;
 			
-			// aapt resource value: 0x7F1600D8
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2132148440;
+			// aapt resource value: 0x7F1600AD
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2132148397;
 			
 			// aapt resource value: 0x7F1600D9
 			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2132148441;
@@ -12050,179 +15102,179 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F1600DA
 			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2132148442;
 			
-			// aapt resource value: 0x7F1600DB
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2132148443;
+			// aapt resource value: 0x7F1600AE
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2132148398;
 			
 			// aapt resource value: 0x7F1600DC
 			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2132148444;
 			
+			// aapt resource value: 0x7F1600AF
+			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2132148399;
+			
+			// aapt resource value: 0x7F1600B0
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2132148400;
+			
+			// aapt resource value: 0x7F1600B1
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2132148401;
+			
+			// aapt resource value: 0x7F1600B2
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2132148402;
+			
+			// aapt resource value: 0x7F1600B3
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2132148403;
+			
+			// aapt resource value: 0x7F1600B4
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2132148404;
+			
+			// aapt resource value: 0x7F1600B5
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2132148405;
+			
+			// aapt resource value: 0x7F1600B6
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2132148406;
+			
+			// aapt resource value: 0x7F1600B7
+			public const int TextAppearance_AppCompat = 2132148407;
+			
+			// aapt resource value: 0x7F1600B8
+			public const int TextAppearance_AppCompat_Body1 = 2132148408;
+			
+			// aapt resource value: 0x7F1600B9
+			public const int TextAppearance_AppCompat_Body2 = 2132148409;
+			
+			// aapt resource value: 0x7F1600BA
+			public const int TextAppearance_AppCompat_Button = 2132148410;
+			
+			// aapt resource value: 0x7F1600BB
+			public const int TextAppearance_AppCompat_Caption = 2132148411;
+			
+			// aapt resource value: 0x7F1600BC
+			public const int TextAppearance_AppCompat_Display1 = 2132148412;
+			
+			// aapt resource value: 0x7F1600BD
+			public const int TextAppearance_AppCompat_Display2 = 2132148413;
+			
+			// aapt resource value: 0x7F1600BE
+			public const int TextAppearance_AppCompat_Display3 = 2132148414;
+			
+			// aapt resource value: 0x7F1600BF
+			public const int TextAppearance_AppCompat_Display4 = 2132148415;
+			
+			// aapt resource value: 0x7F1600C0
+			public const int TextAppearance_AppCompat_Headline = 2132148416;
+			
+			// aapt resource value: 0x7F1600C1
+			public const int TextAppearance_AppCompat_Inverse = 2132148417;
+			
+			// aapt resource value: 0x7F1600C2
+			public const int TextAppearance_AppCompat_Large = 2132148418;
+			
+			// aapt resource value: 0x7F1600C3
+			public const int TextAppearance_AppCompat_Large_Inverse = 2132148419;
+			
+			// aapt resource value: 0x7F1600C4
+			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2132148420;
+			
+			// aapt resource value: 0x7F1600C5
+			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2132148421;
+			
+			// aapt resource value: 0x7F1600C6
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2132148422;
+			
+			// aapt resource value: 0x7F1600C7
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2132148423;
+			
+			// aapt resource value: 0x7F1600C8
+			public const int TextAppearance_AppCompat_Medium = 2132148424;
+			
+			// aapt resource value: 0x7F1600C9
+			public const int TextAppearance_AppCompat_Medium_Inverse = 2132148425;
+			
+			// aapt resource value: 0x7F1600CA
+			public const int TextAppearance_AppCompat_Menu = 2132148426;
+			
+			// aapt resource value: 0x7F1600CB
+			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2132148427;
+			
+			// aapt resource value: 0x7F1600CC
+			public const int TextAppearance_AppCompat_SearchResult_Title = 2132148428;
+			
+			// aapt resource value: 0x7F1600CD
+			public const int TextAppearance_AppCompat_Small = 2132148429;
+			
+			// aapt resource value: 0x7F1600CE
+			public const int TextAppearance_AppCompat_Small_Inverse = 2132148430;
+			
+			// aapt resource value: 0x7F1600CF
+			public const int TextAppearance_AppCompat_Subhead = 2132148431;
+			
+			// aapt resource value: 0x7F1600D0
+			public const int TextAppearance_AppCompat_Subhead_Inverse = 2132148432;
+			
+			// aapt resource value: 0x7F1600D1
+			public const int TextAppearance_AppCompat_Title = 2132148433;
+			
+			// aapt resource value: 0x7F1600D2
+			public const int TextAppearance_AppCompat_Title_Inverse = 2132148434;
+			
+			// aapt resource value: 0x7F1600D3
+			public const int TextAppearance_AppCompat_Tooltip = 2132148435;
+			
+			// aapt resource value: 0x7F1600D4
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2132148436;
+			
+			// aapt resource value: 0x7F1600D5
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2132148437;
+			
+			// aapt resource value: 0x7F1600D6
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2132148438;
+			
+			// aapt resource value: 0x7F1600D7
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2132148439;
+			
+			// aapt resource value: 0x7F1600D8
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2132148440;
+			
+			// aapt resource value: 0x7F1600D9
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2132148441;
+			
+			// aapt resource value: 0x7F1600DA
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2132148442;
+			
+			// aapt resource value: 0x7F1600DB
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2132148443;
+			
+			// aapt resource value: 0x7F1600DC
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2132148444;
+			
 			// aapt resource value: 0x7F1600DD
-			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2132148445;
+			public const int TextAppearance_AppCompat_Widget_Button = 2132148445;
 			
 			// aapt resource value: 0x7F1600DE
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2132148446;
+			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2132148446;
 			
 			// aapt resource value: 0x7F1600DF
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2132148447;
+			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2132148447;
 			
 			// aapt resource value: 0x7F1600E0
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2132148448;
+			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2132148448;
 			
 			// aapt resource value: 0x7F1600E1
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2132148449;
+			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2132148449;
 			
 			// aapt resource value: 0x7F1600E2
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2132148450;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2132148450;
 			
 			// aapt resource value: 0x7F1600E3
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2132148451;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2132148451;
 			
 			// aapt resource value: 0x7F1600E4
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2132148452;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2132148452;
 			
 			// aapt resource value: 0x7F1600E5
-			public const int TextAppearance_AppCompat = 2132148453;
+			public const int TextAppearance_AppCompat_Widget_Switch = 2132148453;
 			
 			// aapt resource value: 0x7F1600E6
-			public const int TextAppearance_AppCompat_Body1 = 2132148454;
-			
-			// aapt resource value: 0x7F1600E7
-			public const int TextAppearance_AppCompat_Body2 = 2132148455;
-			
-			// aapt resource value: 0x7F1600E8
-			public const int TextAppearance_AppCompat_Button = 2132148456;
-			
-			// aapt resource value: 0x7F1600E9
-			public const int TextAppearance_AppCompat_Caption = 2132148457;
-			
-			// aapt resource value: 0x7F1600EA
-			public const int TextAppearance_AppCompat_Display1 = 2132148458;
-			
-			// aapt resource value: 0x7F1600EB
-			public const int TextAppearance_AppCompat_Display2 = 2132148459;
-			
-			// aapt resource value: 0x7F1600EC
-			public const int TextAppearance_AppCompat_Display3 = 2132148460;
-			
-			// aapt resource value: 0x7F1600ED
-			public const int TextAppearance_AppCompat_Display4 = 2132148461;
-			
-			// aapt resource value: 0x7F1600EE
-			public const int TextAppearance_AppCompat_Headline = 2132148462;
-			
-			// aapt resource value: 0x7F1600EF
-			public const int TextAppearance_AppCompat_Inverse = 2132148463;
-			
-			// aapt resource value: 0x7F1600F0
-			public const int TextAppearance_AppCompat_Large = 2132148464;
-			
-			// aapt resource value: 0x7F1600F1
-			public const int TextAppearance_AppCompat_Large_Inverse = 2132148465;
-			
-			// aapt resource value: 0x7F1600F2
-			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2132148466;
-			
-			// aapt resource value: 0x7F1600F3
-			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2132148467;
-			
-			// aapt resource value: 0x7F1600F4
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2132148468;
-			
-			// aapt resource value: 0x7F1600F5
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2132148469;
-			
-			// aapt resource value: 0x7F1600F6
-			public const int TextAppearance_AppCompat_Medium = 2132148470;
-			
-			// aapt resource value: 0x7F1600F7
-			public const int TextAppearance_AppCompat_Medium_Inverse = 2132148471;
-			
-			// aapt resource value: 0x7F1600F8
-			public const int TextAppearance_AppCompat_Menu = 2132148472;
-			
-			// aapt resource value: 0x7F1600F9
-			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2132148473;
-			
-			// aapt resource value: 0x7F1600FA
-			public const int TextAppearance_AppCompat_SearchResult_Title = 2132148474;
-			
-			// aapt resource value: 0x7F1600FB
-			public const int TextAppearance_AppCompat_Small = 2132148475;
-			
-			// aapt resource value: 0x7F1600FC
-			public const int TextAppearance_AppCompat_Small_Inverse = 2132148476;
-			
-			// aapt resource value: 0x7F1600FD
-			public const int TextAppearance_AppCompat_Subhead = 2132148477;
-			
-			// aapt resource value: 0x7F1600FE
-			public const int TextAppearance_AppCompat_Subhead_Inverse = 2132148478;
-			
-			// aapt resource value: 0x7F1600FF
-			public const int TextAppearance_AppCompat_Title = 2132148479;
-			
-			// aapt resource value: 0x7F160100
-			public const int TextAppearance_AppCompat_Title_Inverse = 2132148480;
-			
-			// aapt resource value: 0x7F160101
-			public const int TextAppearance_AppCompat_Tooltip = 2132148481;
-			
-			// aapt resource value: 0x7F160102
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2132148482;
-			
-			// aapt resource value: 0x7F160103
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2132148483;
-			
-			// aapt resource value: 0x7F160104
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2132148484;
-			
-			// aapt resource value: 0x7F160105
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2132148485;
-			
-			// aapt resource value: 0x7F160106
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2132148486;
-			
-			// aapt resource value: 0x7F160107
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2132148487;
-			
-			// aapt resource value: 0x7F160108
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2132148488;
-			
-			// aapt resource value: 0x7F160109
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2132148489;
-			
-			// aapt resource value: 0x7F16010A
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2132148490;
-			
-			// aapt resource value: 0x7F16010B
-			public const int TextAppearance_AppCompat_Widget_Button = 2132148491;
-			
-			// aapt resource value: 0x7F16010C
-			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2132148492;
-			
-			// aapt resource value: 0x7F16010D
-			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2132148493;
-			
-			// aapt resource value: 0x7F16010E
-			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2132148494;
-			
-			// aapt resource value: 0x7F16010F
-			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2132148495;
-			
-			// aapt resource value: 0x7F160110
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2132148496;
-			
-			// aapt resource value: 0x7F160111
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2132148497;
-			
-			// aapt resource value: 0x7F160112
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2132148498;
-			
-			// aapt resource value: 0x7F160113
-			public const int TextAppearance_AppCompat_Widget_Switch = 2132148499;
-			
-			// aapt resource value: 0x7F160114
-			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2132148500;
+			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2132148454;
 			
 			// aapt resource value: 0x1
 			public const int TextAppearance_CastIntroOverlay_Button = 1;
@@ -12236,17 +15288,17 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int TextAppearance_CastMiniController_Title = 1;
 			
-			// aapt resource value: 0x7F160001
-			public const int TextAppearance_Compat_Notification = 2132148225;
+			// aapt resource value: 0x7F1600E7
+			public const int TextAppearance_Compat_Notification = 2132148455;
 			
-			// aapt resource value: 0x7F160002
-			public const int TextAppearance_Compat_Notification_Info = 2132148226;
+			// aapt resource value: 0x7F1600E8
+			public const int TextAppearance_Compat_Notification_Info = 2132148456;
 			
 			// aapt resource value: 0x7F160003
 			public const int TextAppearance_Compat_Notification_Info_Media = 2132148227;
 			
-			// aapt resource value: 0x7F160003
-			public const int TextAppearance_Compat_Notification_Line2 = 2132148227;
+			// aapt resource value: 0x7F1600E9
+			public const int TextAppearance_Compat_Notification_Line2 = 2132148457;
 			
 			// aapt resource value: 0x7F160005
 			public const int TextAppearance_Compat_Notification_Line2_Media = 2132148229;
@@ -12254,14 +15306,14 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F160006
 			public const int TextAppearance_Compat_Notification_Media = 2132148230;
 			
-			// aapt resource value: 0x7F160004
-			public const int TextAppearance_Compat_Notification_Time = 2132148228;
+			// aapt resource value: 0x7F1600EA
+			public const int TextAppearance_Compat_Notification_Time = 2132148458;
 			
 			// aapt resource value: 0x7F160008
 			public const int TextAppearance_Compat_Notification_Time_Media = 2132148232;
 			
-			// aapt resource value: 0x7F160005
-			public const int TextAppearance_Compat_Notification_Title = 2132148229;
+			// aapt resource value: 0x7F1600EB
+			public const int TextAppearance_Compat_Notification_Title = 2132148459;
 			
 			// aapt resource value: 0x7F16000A
 			public const int TextAppearance_Compat_Notification_Title_Media = 2132148234;
@@ -12344,35 +15396,35 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F1600F8
 			public const int TextAppearance_MediaRouter_Title = 2132148472;
 			
-			// aapt resource value: 0x7F160131
-			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2132148529;
+			// aapt resource value: 0x7F1600EC
+			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2132148460;
 			
-			// aapt resource value: 0x7F160132
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2132148530;
+			// aapt resource value: 0x7F1600ED
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2132148461;
 			
-			// aapt resource value: 0x7F160133
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2132148531;
+			// aapt resource value: 0x7F1600EE
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2132148462;
 			
-			// aapt resource value: 0x7F160134
-			public const int ThemeOverlay_AppCompat = 2132148532;
+			// aapt resource value: 0x7F1600EF
+			public const int ThemeOverlay_AppCompat = 2132148463;
 			
-			// aapt resource value: 0x7F160135
-			public const int ThemeOverlay_AppCompat_ActionBar = 2132148533;
+			// aapt resource value: 0x7F1600F0
+			public const int ThemeOverlay_AppCompat_ActionBar = 2132148464;
 			
-			// aapt resource value: 0x7F160136
-			public const int ThemeOverlay_AppCompat_Dark = 2132148534;
+			// aapt resource value: 0x7F1600F1
+			public const int ThemeOverlay_AppCompat_Dark = 2132148465;
 			
-			// aapt resource value: 0x7F160137
-			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2132148535;
+			// aapt resource value: 0x7F1600F2
+			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2132148466;
 			
-			// aapt resource value: 0x7F160138
-			public const int ThemeOverlay_AppCompat_Dialog = 2132148536;
+			// aapt resource value: 0x7F1600F3
+			public const int ThemeOverlay_AppCompat_Dialog = 2132148467;
 			
-			// aapt resource value: 0x7F160139
-			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2132148537;
+			// aapt resource value: 0x7F1600F4
+			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2132148468;
 			
-			// aapt resource value: 0x7F16013A
-			public const int ThemeOverlay_AppCompat_Light = 2132148538;
+			// aapt resource value: 0x7F1600F5
+			public const int ThemeOverlay_AppCompat_Light = 2132148469;
 			
 			// aapt resource value: 0x7F16013B
 			public const int ThemeOverlay_MaterialComponents = 2132148539;
@@ -12416,68 +15468,68 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F160104
 			public const int ThemeOverlay_MediaRouter_Light = 2132148484;
 			
-			// aapt resource value: 0x7F160147
-			public const int Theme_AppCompat = 2132148551;
+			// aapt resource value: 0x7F1600F6
+			public const int Theme_AppCompat = 2132148470;
 			
-			// aapt resource value: 0x7F160148
-			public const int Theme_AppCompat_CompactMenu = 2132148552;
+			// aapt resource value: 0x7F1600F7
+			public const int Theme_AppCompat_CompactMenu = 2132148471;
 			
-			// aapt resource value: 0x7F160149
-			public const int Theme_AppCompat_DayNight = 2132148553;
+			// aapt resource value: 0x7F1600F8
+			public const int Theme_AppCompat_DayNight = 2132148472;
 			
-			// aapt resource value: 0x7F16014A
-			public const int Theme_AppCompat_DayNight_DarkActionBar = 2132148554;
+			// aapt resource value: 0x7F1600F9
+			public const int Theme_AppCompat_DayNight_DarkActionBar = 2132148473;
 			
-			// aapt resource value: 0x7F16014B
-			public const int Theme_AppCompat_DayNight_Dialog = 2132148555;
+			// aapt resource value: 0x7F1600FA
+			public const int Theme_AppCompat_DayNight_Dialog = 2132148474;
 			
-			// aapt resource value: 0x7F16014C
-			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2132148556;
+			// aapt resource value: 0x7F1600FB
+			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2132148475;
 			
-			// aapt resource value: 0x7F16014D
-			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2132148557;
+			// aapt resource value: 0x7F1600FC
+			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2132148476;
 			
-			// aapt resource value: 0x7F16014E
-			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2132148558;
+			// aapt resource value: 0x7F1600FD
+			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2132148477;
 			
-			// aapt resource value: 0x7F16014F
-			public const int Theme_AppCompat_DayNight_NoActionBar = 2132148559;
+			// aapt resource value: 0x7F1600FE
+			public const int Theme_AppCompat_DayNight_NoActionBar = 2132148478;
 			
-			// aapt resource value: 0x7F160150
-			public const int Theme_AppCompat_Dialog = 2132148560;
+			// aapt resource value: 0x7F1600FF
+			public const int Theme_AppCompat_Dialog = 2132148479;
 			
-			// aapt resource value: 0x7F160151
-			public const int Theme_AppCompat_DialogWhenLarge = 2132148561;
+			// aapt resource value: 0x7F160100
+			public const int Theme_AppCompat_DialogWhenLarge = 2132148480;
 			
-			// aapt resource value: 0x7F160152
-			public const int Theme_AppCompat_Dialog_Alert = 2132148562;
+			// aapt resource value: 0x7F160101
+			public const int Theme_AppCompat_Dialog_Alert = 2132148481;
 			
-			// aapt resource value: 0x7F160153
-			public const int Theme_AppCompat_Dialog_MinWidth = 2132148563;
+			// aapt resource value: 0x7F160102
+			public const int Theme_AppCompat_Dialog_MinWidth = 2132148482;
 			
-			// aapt resource value: 0x7F160154
-			public const int Theme_AppCompat_Light = 2132148564;
+			// aapt resource value: 0x7F160103
+			public const int Theme_AppCompat_Light = 2132148483;
 			
-			// aapt resource value: 0x7F160155
-			public const int Theme_AppCompat_Light_DarkActionBar = 2132148565;
+			// aapt resource value: 0x7F160104
+			public const int Theme_AppCompat_Light_DarkActionBar = 2132148484;
 			
-			// aapt resource value: 0x7F160156
-			public const int Theme_AppCompat_Light_Dialog = 2132148566;
+			// aapt resource value: 0x7F160105
+			public const int Theme_AppCompat_Light_Dialog = 2132148485;
 			
-			// aapt resource value: 0x7F160157
-			public const int Theme_AppCompat_Light_DialogWhenLarge = 2132148567;
+			// aapt resource value: 0x7F160106
+			public const int Theme_AppCompat_Light_DialogWhenLarge = 2132148486;
 			
-			// aapt resource value: 0x7F160158
-			public const int Theme_AppCompat_Light_Dialog_Alert = 2132148568;
+			// aapt resource value: 0x7F160107
+			public const int Theme_AppCompat_Light_Dialog_Alert = 2132148487;
 			
-			// aapt resource value: 0x7F160159
-			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2132148569;
+			// aapt resource value: 0x7F160108
+			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2132148488;
 			
-			// aapt resource value: 0x7F16015A
-			public const int Theme_AppCompat_Light_NoActionBar = 2132148570;
+			// aapt resource value: 0x7F160109
+			public const int Theme_AppCompat_Light_NoActionBar = 2132148489;
 			
-			// aapt resource value: 0x7F16015B
-			public const int Theme_AppCompat_NoActionBar = 2132148571;
+			// aapt resource value: 0x7F16010A
+			public const int Theme_AppCompat_NoActionBar = 2132148490;
 			
 			// aapt resource value: 0x1
 			public const int Theme_AppInvite_Preview = 1;
@@ -12593,227 +15645,227 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int WalletFragmentDefaultStyle = 1;
 			
-			// aapt resource value: 0x7F160177
-			public const int Widget_AppCompat_ActionBar = 2132148599;
+			// aapt resource value: 0x7F16010B
+			public const int Widget_AppCompat_ActionBar = 2132148491;
 			
-			// aapt resource value: 0x7F160178
-			public const int Widget_AppCompat_ActionBar_Solid = 2132148600;
+			// aapt resource value: 0x7F16010C
+			public const int Widget_AppCompat_ActionBar_Solid = 2132148492;
 			
-			// aapt resource value: 0x7F160179
-			public const int Widget_AppCompat_ActionBar_TabBar = 2132148601;
+			// aapt resource value: 0x7F16010D
+			public const int Widget_AppCompat_ActionBar_TabBar = 2132148493;
 			
-			// aapt resource value: 0x7F16017A
-			public const int Widget_AppCompat_ActionBar_TabText = 2132148602;
+			// aapt resource value: 0x7F16010E
+			public const int Widget_AppCompat_ActionBar_TabText = 2132148494;
 			
-			// aapt resource value: 0x7F16017B
-			public const int Widget_AppCompat_ActionBar_TabView = 2132148603;
+			// aapt resource value: 0x7F16010F
+			public const int Widget_AppCompat_ActionBar_TabView = 2132148495;
 			
-			// aapt resource value: 0x7F16017C
-			public const int Widget_AppCompat_ActionButton = 2132148604;
+			// aapt resource value: 0x7F160110
+			public const int Widget_AppCompat_ActionButton = 2132148496;
 			
-			// aapt resource value: 0x7F16017D
-			public const int Widget_AppCompat_ActionButton_CloseMode = 2132148605;
+			// aapt resource value: 0x7F160111
+			public const int Widget_AppCompat_ActionButton_CloseMode = 2132148497;
 			
-			// aapt resource value: 0x7F16017E
-			public const int Widget_AppCompat_ActionButton_Overflow = 2132148606;
+			// aapt resource value: 0x7F160112
+			public const int Widget_AppCompat_ActionButton_Overflow = 2132148498;
 			
-			// aapt resource value: 0x7F16017F
-			public const int Widget_AppCompat_ActionMode = 2132148607;
+			// aapt resource value: 0x7F160113
+			public const int Widget_AppCompat_ActionMode = 2132148499;
 			
-			// aapt resource value: 0x7F160180
-			public const int Widget_AppCompat_ActivityChooserView = 2132148608;
+			// aapt resource value: 0x7F160114
+			public const int Widget_AppCompat_ActivityChooserView = 2132148500;
 			
-			// aapt resource value: 0x7F160181
-			public const int Widget_AppCompat_AutoCompleteTextView = 2132148609;
+			// aapt resource value: 0x7F160115
+			public const int Widget_AppCompat_AutoCompleteTextView = 2132148501;
 			
-			// aapt resource value: 0x7F160182
-			public const int Widget_AppCompat_Button = 2132148610;
+			// aapt resource value: 0x7F160116
+			public const int Widget_AppCompat_Button = 2132148502;
 			
-			// aapt resource value: 0x7F160183
-			public const int Widget_AppCompat_ButtonBar = 2132148611;
+			// aapt resource value: 0x7F160117
+			public const int Widget_AppCompat_ButtonBar = 2132148503;
 			
-			// aapt resource value: 0x7F160184
-			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2132148612;
+			// aapt resource value: 0x7F160118
+			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2132148504;
 			
-			// aapt resource value: 0x7F160185
-			public const int Widget_AppCompat_Button_Borderless = 2132148613;
+			// aapt resource value: 0x7F160119
+			public const int Widget_AppCompat_Button_Borderless = 2132148505;
 			
-			// aapt resource value: 0x7F160186
-			public const int Widget_AppCompat_Button_Borderless_Colored = 2132148614;
+			// aapt resource value: 0x7F16011A
+			public const int Widget_AppCompat_Button_Borderless_Colored = 2132148506;
 			
-			// aapt resource value: 0x7F160187
-			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2132148615;
+			// aapt resource value: 0x7F16011B
+			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2132148507;
 			
-			// aapt resource value: 0x7F160188
-			public const int Widget_AppCompat_Button_Colored = 2132148616;
+			// aapt resource value: 0x7F16011C
+			public const int Widget_AppCompat_Button_Colored = 2132148508;
 			
-			// aapt resource value: 0x7F160189
-			public const int Widget_AppCompat_Button_Small = 2132148617;
+			// aapt resource value: 0x7F16011D
+			public const int Widget_AppCompat_Button_Small = 2132148509;
 			
-			// aapt resource value: 0x7F16018A
-			public const int Widget_AppCompat_CompoundButton_CheckBox = 2132148618;
+			// aapt resource value: 0x7F16011E
+			public const int Widget_AppCompat_CompoundButton_CheckBox = 2132148510;
 			
-			// aapt resource value: 0x7F16018B
-			public const int Widget_AppCompat_CompoundButton_RadioButton = 2132148619;
+			// aapt resource value: 0x7F16011F
+			public const int Widget_AppCompat_CompoundButton_RadioButton = 2132148511;
 			
-			// aapt resource value: 0x7F16018C
-			public const int Widget_AppCompat_CompoundButton_Switch = 2132148620;
+			// aapt resource value: 0x7F160120
+			public const int Widget_AppCompat_CompoundButton_Switch = 2132148512;
 			
-			// aapt resource value: 0x7F16018D
-			public const int Widget_AppCompat_DrawerArrowToggle = 2132148621;
+			// aapt resource value: 0x7F160121
+			public const int Widget_AppCompat_DrawerArrowToggle = 2132148513;
 			
-			// aapt resource value: 0x7F16018E
-			public const int Widget_AppCompat_DropDownItem_Spinner = 2132148622;
+			// aapt resource value: 0x7F160122
+			public const int Widget_AppCompat_DropDownItem_Spinner = 2132148514;
 			
-			// aapt resource value: 0x7F16018F
-			public const int Widget_AppCompat_EditText = 2132148623;
+			// aapt resource value: 0x7F160123
+			public const int Widget_AppCompat_EditText = 2132148515;
 			
-			// aapt resource value: 0x7F160190
-			public const int Widget_AppCompat_ImageButton = 2132148624;
+			// aapt resource value: 0x7F160124
+			public const int Widget_AppCompat_ImageButton = 2132148516;
 			
-			// aapt resource value: 0x7F160191
-			public const int Widget_AppCompat_Light_ActionBar = 2132148625;
+			// aapt resource value: 0x7F160125
+			public const int Widget_AppCompat_Light_ActionBar = 2132148517;
 			
-			// aapt resource value: 0x7F160192
-			public const int Widget_AppCompat_Light_ActionBar_Solid = 2132148626;
+			// aapt resource value: 0x7F160126
+			public const int Widget_AppCompat_Light_ActionBar_Solid = 2132148518;
 			
-			// aapt resource value: 0x7F160193
-			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2132148627;
+			// aapt resource value: 0x7F160127
+			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2132148519;
 			
-			// aapt resource value: 0x7F160194
-			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2132148628;
+			// aapt resource value: 0x7F160128
+			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2132148520;
 			
-			// aapt resource value: 0x7F160195
-			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2132148629;
+			// aapt resource value: 0x7F160129
+			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2132148521;
 			
-			// aapt resource value: 0x7F160196
-			public const int Widget_AppCompat_Light_ActionBar_TabText = 2132148630;
+			// aapt resource value: 0x7F16012A
+			public const int Widget_AppCompat_Light_ActionBar_TabText = 2132148522;
 			
-			// aapt resource value: 0x7F160197
-			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2132148631;
+			// aapt resource value: 0x7F16012B
+			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2132148523;
 			
-			// aapt resource value: 0x7F160198
-			public const int Widget_AppCompat_Light_ActionBar_TabView = 2132148632;
+			// aapt resource value: 0x7F16012C
+			public const int Widget_AppCompat_Light_ActionBar_TabView = 2132148524;
 			
-			// aapt resource value: 0x7F160199
-			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2132148633;
+			// aapt resource value: 0x7F16012D
+			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2132148525;
 			
-			// aapt resource value: 0x7F16019A
-			public const int Widget_AppCompat_Light_ActionButton = 2132148634;
+			// aapt resource value: 0x7F16012E
+			public const int Widget_AppCompat_Light_ActionButton = 2132148526;
 			
-			// aapt resource value: 0x7F16019B
-			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2132148635;
+			// aapt resource value: 0x7F16012F
+			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2132148527;
 			
-			// aapt resource value: 0x7F16019C
-			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2132148636;
+			// aapt resource value: 0x7F160130
+			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2132148528;
 			
-			// aapt resource value: 0x7F16019D
-			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2132148637;
+			// aapt resource value: 0x7F160131
+			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2132148529;
 			
-			// aapt resource value: 0x7F16019E
-			public const int Widget_AppCompat_Light_ActivityChooserView = 2132148638;
+			// aapt resource value: 0x7F160132
+			public const int Widget_AppCompat_Light_ActivityChooserView = 2132148530;
 			
-			// aapt resource value: 0x7F16019F
-			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2132148639;
+			// aapt resource value: 0x7F160133
+			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2132148531;
 			
-			// aapt resource value: 0x7F1601A0
-			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2132148640;
+			// aapt resource value: 0x7F160134
+			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2132148532;
 			
-			// aapt resource value: 0x7F1601A1
-			public const int Widget_AppCompat_Light_ListPopupWindow = 2132148641;
+			// aapt resource value: 0x7F160135
+			public const int Widget_AppCompat_Light_ListPopupWindow = 2132148533;
 			
-			// aapt resource value: 0x7F1601A2
-			public const int Widget_AppCompat_Light_ListView_DropDown = 2132148642;
+			// aapt resource value: 0x7F160136
+			public const int Widget_AppCompat_Light_ListView_DropDown = 2132148534;
 			
-			// aapt resource value: 0x7F1601A3
-			public const int Widget_AppCompat_Light_PopupMenu = 2132148643;
+			// aapt resource value: 0x7F160137
+			public const int Widget_AppCompat_Light_PopupMenu = 2132148535;
 			
-			// aapt resource value: 0x7F1601A4
-			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2132148644;
+			// aapt resource value: 0x7F160138
+			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2132148536;
 			
-			// aapt resource value: 0x7F1601A5
-			public const int Widget_AppCompat_Light_SearchView = 2132148645;
+			// aapt resource value: 0x7F160139
+			public const int Widget_AppCompat_Light_SearchView = 2132148537;
 			
-			// aapt resource value: 0x7F1601A6
-			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2132148646;
+			// aapt resource value: 0x7F16013A
+			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2132148538;
 			
-			// aapt resource value: 0x7F1601A7
-			public const int Widget_AppCompat_ListMenuView = 2132148647;
+			// aapt resource value: 0x7F16013B
+			public const int Widget_AppCompat_ListMenuView = 2132148539;
 			
-			// aapt resource value: 0x7F1601A8
-			public const int Widget_AppCompat_ListPopupWindow = 2132148648;
+			// aapt resource value: 0x7F16013C
+			public const int Widget_AppCompat_ListPopupWindow = 2132148540;
 			
-			// aapt resource value: 0x7F1601A9
-			public const int Widget_AppCompat_ListView = 2132148649;
+			// aapt resource value: 0x7F16013D
+			public const int Widget_AppCompat_ListView = 2132148541;
 			
-			// aapt resource value: 0x7F1601AA
-			public const int Widget_AppCompat_ListView_DropDown = 2132148650;
+			// aapt resource value: 0x7F16013E
+			public const int Widget_AppCompat_ListView_DropDown = 2132148542;
 			
-			// aapt resource value: 0x7F1601AB
-			public const int Widget_AppCompat_ListView_Menu = 2132148651;
+			// aapt resource value: 0x7F16013F
+			public const int Widget_AppCompat_ListView_Menu = 2132148543;
 			
-			// aapt resource value: 0x7F1601AC
-			public const int Widget_AppCompat_PopupMenu = 2132148652;
+			// aapt resource value: 0x7F160140
+			public const int Widget_AppCompat_PopupMenu = 2132148544;
 			
-			// aapt resource value: 0x7F1601AD
-			public const int Widget_AppCompat_PopupMenu_Overflow = 2132148653;
+			// aapt resource value: 0x7F160141
+			public const int Widget_AppCompat_PopupMenu_Overflow = 2132148545;
 			
-			// aapt resource value: 0x7F1601AE
-			public const int Widget_AppCompat_PopupWindow = 2132148654;
+			// aapt resource value: 0x7F160142
+			public const int Widget_AppCompat_PopupWindow = 2132148546;
 			
-			// aapt resource value: 0x7F1601AF
-			public const int Widget_AppCompat_ProgressBar = 2132148655;
+			// aapt resource value: 0x7F160143
+			public const int Widget_AppCompat_ProgressBar = 2132148547;
 			
-			// aapt resource value: 0x7F1601B0
-			public const int Widget_AppCompat_ProgressBar_Horizontal = 2132148656;
+			// aapt resource value: 0x7F160144
+			public const int Widget_AppCompat_ProgressBar_Horizontal = 2132148548;
 			
-			// aapt resource value: 0x7F1601B1
-			public const int Widget_AppCompat_RatingBar = 2132148657;
+			// aapt resource value: 0x7F160145
+			public const int Widget_AppCompat_RatingBar = 2132148549;
 			
-			// aapt resource value: 0x7F1601B2
-			public const int Widget_AppCompat_RatingBar_Indicator = 2132148658;
+			// aapt resource value: 0x7F160146
+			public const int Widget_AppCompat_RatingBar_Indicator = 2132148550;
 			
-			// aapt resource value: 0x7F1601B3
-			public const int Widget_AppCompat_RatingBar_Small = 2132148659;
+			// aapt resource value: 0x7F160147
+			public const int Widget_AppCompat_RatingBar_Small = 2132148551;
 			
-			// aapt resource value: 0x7F1601B4
-			public const int Widget_AppCompat_SearchView = 2132148660;
+			// aapt resource value: 0x7F160148
+			public const int Widget_AppCompat_SearchView = 2132148552;
 			
-			// aapt resource value: 0x7F1601B5
-			public const int Widget_AppCompat_SearchView_ActionBar = 2132148661;
+			// aapt resource value: 0x7F160149
+			public const int Widget_AppCompat_SearchView_ActionBar = 2132148553;
 			
-			// aapt resource value: 0x7F1601B6
-			public const int Widget_AppCompat_SeekBar = 2132148662;
+			// aapt resource value: 0x7F16014A
+			public const int Widget_AppCompat_SeekBar = 2132148554;
 			
-			// aapt resource value: 0x7F1601B7
-			public const int Widget_AppCompat_SeekBar_Discrete = 2132148663;
+			// aapt resource value: 0x7F16014B
+			public const int Widget_AppCompat_SeekBar_Discrete = 2132148555;
 			
-			// aapt resource value: 0x7F1601B8
-			public const int Widget_AppCompat_Spinner = 2132148664;
+			// aapt resource value: 0x7F16014C
+			public const int Widget_AppCompat_Spinner = 2132148556;
 			
-			// aapt resource value: 0x7F1601B9
-			public const int Widget_AppCompat_Spinner_DropDown = 2132148665;
+			// aapt resource value: 0x7F16014D
+			public const int Widget_AppCompat_Spinner_DropDown = 2132148557;
 			
-			// aapt resource value: 0x7F1601BA
-			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2132148666;
+			// aapt resource value: 0x7F16014E
+			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2132148558;
 			
-			// aapt resource value: 0x7F1601BB
-			public const int Widget_AppCompat_Spinner_Underlined = 2132148667;
+			// aapt resource value: 0x7F16014F
+			public const int Widget_AppCompat_Spinner_Underlined = 2132148559;
 			
-			// aapt resource value: 0x7F1601BC
-			public const int Widget_AppCompat_TextView_SpinnerItem = 2132148668;
+			// aapt resource value: 0x7F160150
+			public const int Widget_AppCompat_TextView_SpinnerItem = 2132148560;
 			
-			// aapt resource value: 0x7F1601BD
-			public const int Widget_AppCompat_Toolbar = 2132148669;
+			// aapt resource value: 0x7F160151
+			public const int Widget_AppCompat_Toolbar = 2132148561;
 			
-			// aapt resource value: 0x7F1601BE
-			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2132148670;
+			// aapt resource value: 0x7F160152
+			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2132148562;
 			
-			// aapt resource value: 0x7F160006
-			public const int Widget_Compat_NotificationActionContainer = 2132148230;
+			// aapt resource value: 0x7F160153
+			public const int Widget_Compat_NotificationActionContainer = 2132148563;
 			
-			// aapt resource value: 0x7F160007
-			public const int Widget_Compat_NotificationActionText = 2132148231;
+			// aapt resource value: 0x7F160154
+			public const int Widget_Compat_NotificationActionText = 2132148564;
 			
 			// aapt resource value: 0x7F1601C1
 			public const int Widget_Design_AppBarLayout = 2132148673;
@@ -12959,8 +16011,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x7F160169
 			public const int Widget_MediaRouter_MediaRouteButton = 2132148585;
 			
-			// aapt resource value: 0x7F160008
-			public const int Widget_Support_CoordinatorLayout = 2132148232;
+			// aapt resource value: 0x7F160155
+			public const int Widget_Support_CoordinatorLayout = 2132148565;
 			
 			// aapt resource value: 0x7F060518
 			public const int XamarinFormsMaterialProgressBarCircular = 2131100952;
@@ -12991,41 +16043,41 @@ namespace InventoryManagementSystem.Droid
 					2130968626,
 					2130968627,
 					2130968628,
-					2130968722,
-					2130968723,
-					2130968724,
-					2130968725,
-					2130968726,
-					2130968727,
-					2130968741,
-					2130968746,
-					2130968747,
-					2130968758,
-					2130968800,
-					2130968805,
-					2130968810,
-					2130968811,
-					2130968813,
-					2130968823,
-					2130968833,
-					2130968868,
-					2130968880,
-					2130968897,
-					2130968901,
-					2130968902,
-					2130968948,
-					2130968951,
-					2130969020,
-					2130969030};
+					2130968664,
+					2130968665,
+					2130968666,
+					2130968667,
+					2130968668,
+					2130968669,
+					2130968672,
+					2130968676,
+					2130968677,
+					2130968688,
+					2130968702,
+					2130968703,
+					2130968704,
+					2130968705,
+					2130968706,
+					2130968711,
+					2130968714,
+					2130968734,
+					2130968753,
+					2130968764,
+					2130968767,
+					2130968768,
+					2130968795,
+					2130968798,
+					2130968825,
+					2130968834};
 			
 			public static int[] ActionBarLayout = new int[] {
 					16842931};
 			
-			// aapt resource value: 0x7F070095
-			public const int ActionBarLayout_android_layout_gravity = 2131165333;
+			// aapt resource value: 0x7F070046
+			public const int ActionBarLayout_android_layout_gravity = 2131165254;
 			
-			// aapt resource value: 0x7F070065
-			public const int ActionBar_background = 2131165285;
+			// aapt resource value: 0x7F070016
+			public const int ActionBar_background = 2131165206;
 			
 			// aapt resource value: 0x1
 			public const int ActionBar_backgroundSplit = 1;
@@ -13114,8 +16166,8 @@ namespace InventoryManagementSystem.Droid
 			public static int[] ActionMenuItemView = new int[] {
 					16843071};
 			
-			// aapt resource value: 0x7F070097
-			public const int ActionMenuItemView_android_minWidth = 2131165335;
+			// aapt resource value: 0x7F070048
+			public const int ActionMenuItemView_android_minWidth = 2131165256;
 			
 			public static int[] ActionMenuView = new int[] {
 					0};
@@ -13123,13 +16175,13 @@ namespace InventoryManagementSystem.Droid
 			public static int[] ActionMode = new int[] {
 					2130968626,
 					2130968627,
-					2130968703,
-					2130968800,
-					2130968951,
-					2130969030};
+					2130968648,
+					2130968702,
+					2130968798,
+					2130968834};
 			
-			// aapt resource value: 0x7F070099
-			public const int ActionMode_background = 2131165337;
+			// aapt resource value: 0x7F070050
+			public const int ActionMode_background = 2131165264;
 			
 			// aapt resource value: 0x1
 			public const int ActionMode_backgroundSplit = 1;
@@ -13147,11 +16199,11 @@ namespace InventoryManagementSystem.Droid
 			public const int ActionMode_titleTextStyle = 5;
 			
 			public static int[] ActivityChooserView = new int[] {
-					2130968763,
-					2130968824};
+					2130968689,
+					2130968712};
 			
-			// aapt resource value: 0x7F070106
-			public const int ActivityChooserView_expandActivityOverflowButtonDrawable = 2131165446;
+			// aapt resource value: 0x7F070057
+			public const int ActivityChooserView_expandActivityOverflowButtonDrawable = 2131165271;
 			
 			// aapt resource value: 0x1
 			public const int ActivityChooserView_initialActivityCount = 1;
@@ -13161,27 +16213,27 @@ namespace InventoryManagementSystem.Droid
 					0,
 					0};
 			
-			// aapt resource value: 0x7F070771
-			public const int AdsAttrs_adSize = 2131167089;
+			// aapt resource value: 0x7F070784
+			public const int AdsAttrs_adSize = 2131167108;
 			
-			// aapt resource value: 0x7F070772
-			public const int AdsAttrs_adSizes = 2131167090;
+			// aapt resource value: 0x7F070785
+			public const int AdsAttrs_adSizes = 2131167109;
 			
-			// aapt resource value: 0x7F070773
-			public const int AdsAttrs_adUnitId = 2131167091;
+			// aapt resource value: 0x7F070786
+			public const int AdsAttrs_adUnitId = 2131167110;
 			
 			public static int[] AlertDialog = new int[] {
 					16842994,
-					2130968659,
-					2130968660,
-					2130968859,
-					2130968860,
-					2130968877,
-					2130968924,
-					2130968925};
+					2130968639,
+					2130968640,
+					2130968725,
+					2130968726,
+					2130968750,
+					2130968784,
+					2130968785};
 			
-			// aapt resource value: 0x7F070109
-			public const int AlertDialog_android_layout = 2131165449;
+			// aapt resource value: 0x7F070060
+			public const int AlertDialog_android_layout = 2131165280;
 			
 			// aapt resource value: 0x1
 			public const int AlertDialog_buttonIconDimen = 1;
@@ -13212,8 +16264,8 @@ namespace InventoryManagementSystem.Droid
 					16843157,
 					16843156};
 			
-			// aapt resource value: 0x7F070743
-			public const int AnimatedStateListDrawableCompat_android_constantSize = 2131167043;
+			// aapt resource value: 0x7F070756
+			public const int AnimatedStateListDrawableCompat_android_constantSize = 2131167062;
 			
 			// aapt resource value: 0x1
 			public const int AnimatedStateListDrawableCompat_android_dither = 1;
@@ -13234,8 +16286,8 @@ namespace InventoryManagementSystem.Droid
 					16843161,
 					16842960};
 			
-			// aapt resource value: 0x7F070750
-			public const int AnimatedStateListDrawableItem_android_drawable = 2131167056;
+			// aapt resource value: 0x7F070763
+			public const int AnimatedStateListDrawableItem_android_drawable = 2131167075;
 			
 			// aapt resource value: 0x1
 			public const int AnimatedStateListDrawableItem_android_id = 1;
@@ -13246,8 +16298,8 @@ namespace InventoryManagementSystem.Droid
 					16843851,
 					16843849};
 			
-			// aapt resource value: 0x7F070753
-			public const int AnimatedStateListDrawableTransition_android_drawable = 2131167059;
+			// aapt resource value: 0x7F070766
+			public const int AnimatedStateListDrawableTransition_android_drawable = 2131167078;
 			
 			// aapt resource value: 0x1
 			public const int AnimatedStateListDrawableTransition_android_fromId = 1;
@@ -13272,8 +16324,8 @@ namespace InventoryManagementSystem.Droid
 					2130968940,
 					2130968941};
 			
-			// aapt resource value: 0x7F070125
-			public const int AppBarLayoutStates_state_collapsed = 2131165477;
+			// aapt resource value: 0x7F070466
+			public const int AppBarLayoutStates_state_collapsed = 2131166310;
 			
 			// aapt resource value: 0x1
 			public const int AppBarLayoutStates_state_collapsible = 1;
@@ -13284,8 +16336,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x3
 			public const int AppBarLayoutStates_state_lifted = 3;
 			
-			// aapt resource value: 0x7F070118
-			public const int AppBarLayout_android_background = 2131165464;
+			// aapt resource value: 0x7F070459
+			public const int AppBarLayout_android_background = 2131166297;
 			
 			// aapt resource value: 0x1
 			public const int AppBarLayout_android_keyboardNavigationCluster = 1;
@@ -13303,8 +16355,8 @@ namespace InventoryManagementSystem.Droid
 					2130968852,
 					2130968853};
 			
-			// aapt resource value: 0x7F070130
-			public const int AppBarLayout_Layout_layout_scrollFlags = 2131165488;
+			// aapt resource value: 0x7F070471
+			public const int AppBarLayout_Layout_layout_scrollFlags = 2131166321;
 			
 			// aapt resource value: 0x1
 			public const int AppBarLayout_Layout_layout_scrollInterpolator = 1;
@@ -13314,12 +16366,12 @@ namespace InventoryManagementSystem.Droid
 			
 			public static int[] AppCompatImageView = new int[] {
 					16843033,
-					2130968935,
-					2130969018,
-					2130969019};
+					2130968790,
+					2130968823,
+					2130968824};
 			
-			// aapt resource value: 0x7F070133
-			public const int AppCompatImageView_android_src = 2131165491;
+			// aapt resource value: 0x7F070069
+			public const int AppCompatImageView_android_src = 2131165289;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatImageView_srcCompat = 1;
@@ -13332,12 +16384,12 @@ namespace InventoryManagementSystem.Droid
 			
 			public static int[] AppCompatSeekBar = new int[] {
 					16843074,
-					2130969015,
-					2130969016,
-					2130969017};
+					2130968820,
+					2130968821,
+					2130968822};
 			
-			// aapt resource value: 0x7F070138
-			public const int AppCompatSeekBar_android_thumb = 2131165496;
+			// aapt resource value: 0x7F070074
+			public const int AppCompatSeekBar_android_thumb = 2131165300;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatSeekBar_tickMark = 1;
@@ -13357,8 +16409,8 @@ namespace InventoryManagementSystem.Droid
 					16843117,
 					16842804};
 			
-			// aapt resource value: 0x7F070143
-			public const int AppCompatTextHelper_android_drawableBottom = 2131165507;
+			// aapt resource value: 0x7F070079
+			public const int AppCompatTextHelper_android_drawableBottom = 2131165305;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatTextHelper_android_drawableEnd = 1;
@@ -13385,14 +16437,11 @@ namespace InventoryManagementSystem.Droid
 					2130968623,
 					2130968624,
 					2130968625,
-					2130968783,
-					2130968786,
-					2130968841,
-					2130968855,
-					2130968983};
+					2130968691,
+					2130968804};
 			
-			// aapt resource value: 0x7F070151
-			public const int AppCompatTextView_android_textAppearance = 2131165521;
+			// aapt resource value: 0x7F070087
+			public const int AppCompatTextView_android_textAppearance = 2131165319;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatTextView_autoSizeMaxTextSize = 1;
@@ -13412,8 +16461,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x6
 			public const int AppCompatTextView_firstBaselineToTopHeight = 6;
 			
-			// aapt resource value: 0x7
-			public const int AppCompatTextView_fontFamily = 7;
+			// aapt resource value: 0x6
+			public const int AppCompatTextView_fontFamily = 6;
 			
 			// aapt resource value: 0x8
 			public const int AppCompatTextView_lastBaselineToBottomHeight = 8;
@@ -13421,8 +16470,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x9
 			public const int AppCompatTextView_lineHeight = 9;
 			
-			// aapt resource value: 0x10
-			public const int AppCompatTextView_textAllCaps = 16;
+			// aapt resource value: 0x7
+			public const int AppCompatTextView_textAllCaps = 7;
 			
 			public static int[] AppCompatTheme = new int[] {
 					2130968577,
@@ -13463,92 +16512,91 @@ namespace InventoryManagementSystem.Droid
 					16842926,
 					16842839,
 					2130968620,
-					2130968639,
+					2130968632,
+					2130968633,
+					2130968634,
+					2130968635,
+					2130968636,
+					2130968637,
+					2130968641,
+					2130968642,
+					2130968645,
+					2130968646,
+					2130968652,
 					2130968653,
 					2130968654,
 					2130968655,
 					2130968656,
 					2130968657,
+					2130968658,
+					2130968659,
+					2130968660,
 					2130968661,
-					2130968662,
-					2130968672,
-					2130968677,
-					2130968709,
+					2130968670,
+					2130968674,
+					2130968675,
+					2130968678,
+					2130968680,
+					2130968683,
+					2130968684,
+					2130968685,
+					2130968686,
+					2130968687,
+					2130968704,
 					2130968710,
-					2130968711,
-					2130968712,
-					2130968713,
-					2130968714,
-					2130968715,
-					2130968716,
-					2130968717,
-					2130968719,
-					2130968734,
-					2130968743,
-					2130968744,
-					2130968745,
-					2130968748,
-					2130968750,
-					2130968753,
-					2130968754,
-					2130968755,
-					2130968756,
-					2130968757,
+					2130968723,
+					2130968724,
+					2130968727,
+					2130968728,
+					2130968729,
+					2130968730,
+					2130968731,
+					2130968732,
+					2130968733,
+					2130968760,
+					2130968761,
+					2130968762,
+					2130968763,
+					2130968765,
+					2130968771,
+					2130968772,
+					2130968773,
+					2130968774,
+					2130968777,
+					2130968778,
+					2130968779,
+					2130968780,
+					2130968787,
+					2130968788,
+					2130968802,
+					2130968805,
+					2130968806,
+					2130968807,
+					2130968808,
+					2130968809,
 					2130968810,
-					2130968822,
-					2130968857,
-					2130968858,
-					2130968861,
-					2130968862,
-					2130968863,
-					2130968864,
-					2130968865,
-					2130968866,
-					2130968867,
-					2130968888,
-					2130968889,
-					2130968890,
-					2130968896,
-					2130968898,
-					2130968905,
-					2130968906,
-					2130968907,
-					2130968908,
-					2130968916,
-					2130968917,
-					2130968918,
-					2130968919,
-					2130968932,
-					2130968933,
-					2130968955,
-					2130968994,
-					2130968995,
-					2130968996,
-					2130968997,
-					2130968999,
-					2130969000,
-					2130969001,
-					2130969002,
-					2130969005,
-					2130969006,
-					2130969032,
-					2130969033,
-					2130969034,
-					2130969035,
-					2130969042,
-					2130969044,
-					2130969045,
-					2130969046,
-					2130969047,
-					2130969048,
-					2130969049,
-					2130969050,
-					2130969051,
-					2130969052,
-					2130969053};
+					2130968811,
+					2130968812,
+					2130968813,
+					2130968814,
+					2130968835,
+					2130968836,
+					2130968837,
+					2130968838,
+					2130968843,
+					2130968845,
+					2130968846,
+					2130968847,
+					2130968848,
+					2130968849,
+					2130968850,
+					2130968851,
+					2130968852,
+					2130968853,
+					2130968854};
 			
-			// aapt resource value: 0x7F070163
-			public const int AppCompatTheme_actionBarDivider = 2131165539;
+			// aapt resource value: 0x7F070096
+			public const int AppCompatTheme_actionBarDivider = 2131165334;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatTheme_actionBarItemBackground = 1;
@@ -13727,188 +16775,188 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x59
 			public const int AppCompatTheme_dialogCornerRadius = 89;
 			
+			// aapt resource value: 0x59
+			public const int AppCompatTheme_dialogPreferredPadding = 89;
+			
 			// aapt resource value: 0x60
-			public const int AppCompatTheme_dialogPreferredPadding = 96;
+			public const int AppCompatTheme_dialogTheme = 96;
 			
 			// aapt resource value: 0x61
-			public const int AppCompatTheme_dialogTheme = 97;
+			public const int AppCompatTheme_dividerHorizontal = 97;
 			
 			// aapt resource value: 0x62
-			public const int AppCompatTheme_dividerHorizontal = 98;
-			
-			// aapt resource value: 0x63
-			public const int AppCompatTheme_dividerVertical = 99;
-			
-			// aapt resource value: 0x65
-			public const int AppCompatTheme_dropdownListPreferredItemHeight = 101;
+			public const int AppCompatTheme_dividerVertical = 98;
 			
 			// aapt resource value: 0x64
-			public const int AppCompatTheme_dropDownListViewStyle = 100;
+			public const int AppCompatTheme_dropdownListPreferredItemHeight = 100;
+			
+			// aapt resource value: 0x63
+			public const int AppCompatTheme_dropDownListViewStyle = 99;
+			
+			// aapt resource value: 0x65
+			public const int AppCompatTheme_editTextBackground = 101;
 			
 			// aapt resource value: 0x66
-			public const int AppCompatTheme_editTextBackground = 102;
+			public const int AppCompatTheme_editTextColor = 102;
 			
 			// aapt resource value: 0x67
-			public const int AppCompatTheme_editTextColor = 103;
+			public const int AppCompatTheme_editTextStyle = 103;
 			
 			// aapt resource value: 0x68
-			public const int AppCompatTheme_editTextStyle = 104;
+			public const int AppCompatTheme_homeAsUpIndicator = 104;
 			
 			// aapt resource value: 0x69
-			public const int AppCompatTheme_homeAsUpIndicator = 105;
+			public const int AppCompatTheme_imageButtonStyle = 105;
 			
 			// aapt resource value: 0x70
-			public const int AppCompatTheme_imageButtonStyle = 112;
+			public const int AppCompatTheme_listChoiceBackgroundIndicator = 112;
 			
 			// aapt resource value: 0x71
-			public const int AppCompatTheme_listChoiceBackgroundIndicator = 113;
+			public const int AppCompatTheme_listDividerAlertDialog = 113;
 			
 			// aapt resource value: 0x72
-			public const int AppCompatTheme_listDividerAlertDialog = 114;
+			public const int AppCompatTheme_listMenuViewStyle = 114;
 			
 			// aapt resource value: 0x73
-			public const int AppCompatTheme_listMenuViewStyle = 115;
+			public const int AppCompatTheme_listPopupWindowStyle = 115;
 			
 			// aapt resource value: 0x74
-			public const int AppCompatTheme_listPopupWindowStyle = 116;
+			public const int AppCompatTheme_listPreferredItemHeight = 116;
 			
 			// aapt resource value: 0x75
-			public const int AppCompatTheme_listPreferredItemHeight = 117;
+			public const int AppCompatTheme_listPreferredItemHeightLarge = 117;
 			
 			// aapt resource value: 0x76
-			public const int AppCompatTheme_listPreferredItemHeightLarge = 118;
+			public const int AppCompatTheme_listPreferredItemHeightSmall = 118;
 			
 			// aapt resource value: 0x77
-			public const int AppCompatTheme_listPreferredItemHeightSmall = 119;
+			public const int AppCompatTheme_listPreferredItemPaddingLeft = 119;
 			
 			// aapt resource value: 0x78
-			public const int AppCompatTheme_listPreferredItemPaddingLeft = 120;
+			public const int AppCompatTheme_listPreferredItemPaddingRight = 120;
 			
 			// aapt resource value: 0x79
-			public const int AppCompatTheme_listPreferredItemPaddingRight = 121;
+			public const int AppCompatTheme_panelBackground = 121;
 			
 			// aapt resource value: 0x80
-			public const int AppCompatTheme_panelBackground = 128;
+			public const int AppCompatTheme_panelMenuListTheme = 128;
 			
 			// aapt resource value: 0x81
-			public const int AppCompatTheme_panelMenuListTheme = 129;
+			public const int AppCompatTheme_panelMenuListWidth = 129;
 			
 			// aapt resource value: 0x82
-			public const int AppCompatTheme_panelMenuListWidth = 130;
+			public const int AppCompatTheme_popupMenuStyle = 130;
 			
 			// aapt resource value: 0x83
-			public const int AppCompatTheme_popupMenuStyle = 131;
+			public const int AppCompatTheme_popupWindowStyle = 131;
 			
 			// aapt resource value: 0x84
-			public const int AppCompatTheme_popupWindowStyle = 132;
+			public const int AppCompatTheme_radioButtonStyle = 132;
 			
 			// aapt resource value: 0x85
-			public const int AppCompatTheme_radioButtonStyle = 133;
+			public const int AppCompatTheme_ratingBarStyle = 133;
 			
 			// aapt resource value: 0x86
-			public const int AppCompatTheme_ratingBarStyle = 134;
+			public const int AppCompatTheme_ratingBarStyleIndicator = 134;
 			
 			// aapt resource value: 0x87
-			public const int AppCompatTheme_ratingBarStyleIndicator = 135;
+			public const int AppCompatTheme_ratingBarStyleSmall = 135;
 			
 			// aapt resource value: 0x88
-			public const int AppCompatTheme_ratingBarStyleSmall = 136;
+			public const int AppCompatTheme_searchViewStyle = 136;
 			
 			// aapt resource value: 0x89
-			public const int AppCompatTheme_searchViewStyle = 137;
+			public const int AppCompatTheme_seekBarStyle = 137;
 			
 			// aapt resource value: 0x90
-			public const int AppCompatTheme_seekBarStyle = 144;
+			public const int AppCompatTheme_selectableItemBackground = 144;
 			
 			// aapt resource value: 0x91
-			public const int AppCompatTheme_selectableItemBackground = 145;
+			public const int AppCompatTheme_selectableItemBackgroundBorderless = 145;
 			
 			// aapt resource value: 0x92
-			public const int AppCompatTheme_selectableItemBackgroundBorderless = 146;
+			public const int AppCompatTheme_spinnerDropDownItemStyle = 146;
 			
 			// aapt resource value: 0x93
-			public const int AppCompatTheme_spinnerDropDownItemStyle = 147;
+			public const int AppCompatTheme_spinnerStyle = 147;
 			
 			// aapt resource value: 0x94
-			public const int AppCompatTheme_spinnerStyle = 148;
+			public const int AppCompatTheme_switchStyle = 148;
 			
 			// aapt resource value: 0x95
-			public const int AppCompatTheme_switchStyle = 149;
+			public const int AppCompatTheme_textAppearanceLargePopupMenu = 149;
 			
 			// aapt resource value: 0x96
-			public const int AppCompatTheme_textAppearanceLargePopupMenu = 150;
+			public const int AppCompatTheme_textAppearanceListItem = 150;
 			
 			// aapt resource value: 0x97
-			public const int AppCompatTheme_textAppearanceListItem = 151;
+			public const int AppCompatTheme_textAppearanceListItemSecondary = 151;
 			
 			// aapt resource value: 0x98
-			public const int AppCompatTheme_textAppearanceListItemSecondary = 152;
+			public const int AppCompatTheme_textAppearanceListItemSmall = 152;
 			
 			// aapt resource value: 0x99
-			public const int AppCompatTheme_textAppearanceListItemSmall = 153;
+			public const int AppCompatTheme_textAppearancePopupMenuHeader = 153;
 			
 			// aapt resource value: 0x100
-			public const int AppCompatTheme_textAppearancePopupMenuHeader = 256;
+			public const int AppCompatTheme_textAppearanceSearchResultSubtitle = 256;
 			
 			// aapt resource value: 0x101
-			public const int AppCompatTheme_textAppearanceSearchResultSubtitle = 257;
+			public const int AppCompatTheme_textAppearanceSearchResultTitle = 257;
 			
 			// aapt resource value: 0x102
-			public const int AppCompatTheme_textAppearanceSearchResultTitle = 258;
+			public const int AppCompatTheme_textAppearanceSmallPopupMenu = 258;
 			
 			// aapt resource value: 0x103
-			public const int AppCompatTheme_textAppearanceSmallPopupMenu = 259;
+			public const int AppCompatTheme_textColorAlertDialogListItem = 259;
 			
 			// aapt resource value: 0x104
-			public const int AppCompatTheme_textColorAlertDialogListItem = 260;
+			public const int AppCompatTheme_textColorSearchUrl = 260;
 			
 			// aapt resource value: 0x105
-			public const int AppCompatTheme_textColorSearchUrl = 261;
+			public const int AppCompatTheme_toolbarNavigationButtonStyle = 261;
 			
 			// aapt resource value: 0x106
-			public const int AppCompatTheme_toolbarNavigationButtonStyle = 262;
+			public const int AppCompatTheme_toolbarStyle = 262;
 			
 			// aapt resource value: 0x107
-			public const int AppCompatTheme_toolbarStyle = 263;
+			public const int AppCompatTheme_tooltipForegroundColor = 263;
 			
 			// aapt resource value: 0x108
-			public const int AppCompatTheme_tooltipForegroundColor = 264;
+			public const int AppCompatTheme_tooltipFrameBackground = 264;
 			
 			// aapt resource value: 0x109
-			public const int AppCompatTheme_tooltipFrameBackground = 265;
+			public const int AppCompatTheme_viewInflaterClass = 265;
 			
 			// aapt resource value: 0x110
-			public const int AppCompatTheme_viewInflaterClass = 272;
+			public const int AppCompatTheme_windowActionBar = 272;
 			
 			// aapt resource value: 0x111
-			public const int AppCompatTheme_windowActionBar = 273;
+			public const int AppCompatTheme_windowActionBarOverlay = 273;
 			
 			// aapt resource value: 0x112
-			public const int AppCompatTheme_windowActionBarOverlay = 274;
+			public const int AppCompatTheme_windowActionModeOverlay = 274;
 			
 			// aapt resource value: 0x113
-			public const int AppCompatTheme_windowActionModeOverlay = 275;
+			public const int AppCompatTheme_windowFixedHeightMajor = 275;
 			
 			// aapt resource value: 0x114
-			public const int AppCompatTheme_windowFixedHeightMajor = 276;
+			public const int AppCompatTheme_windowFixedHeightMinor = 276;
 			
 			// aapt resource value: 0x115
-			public const int AppCompatTheme_windowFixedHeightMinor = 277;
+			public const int AppCompatTheme_windowFixedWidthMajor = 277;
 			
 			// aapt resource value: 0x116
-			public const int AppCompatTheme_windowFixedWidthMajor = 278;
+			public const int AppCompatTheme_windowFixedWidthMinor = 278;
 			
 			// aapt resource value: 0x117
-			public const int AppCompatTheme_windowFixedWidthMinor = 279;
+			public const int AppCompatTheme_windowMinWidthMajor = 279;
 			
 			// aapt resource value: 0x118
-			public const int AppCompatTheme_windowMinWidthMajor = 280;
+			public const int AppCompatTheme_windowMinWidthMinor = 280;
 			
 			// aapt resource value: 0x119
-			public const int AppCompatTheme_windowMinWidthMinor = 281;
-			
-			// aapt resource value: 0x120
-			public const int AppCompatTheme_windowNoTitle = 288;
+			public const int AppCompatTheme_windowNoTitle = 281;
 			
 			public static int[] AppDataSearch = new int[] {
 					0};
@@ -13921,8 +16969,8 @@ namespace InventoryManagementSystem.Droid
 					2130968775,
 					2130968806};
 			
-			// aapt resource value: 0x7F070285
-			public const int BottomAppBar_backgroundTint = 2131165829;
+			// aapt resource value: 0x7F070478
+			public const int BottomAppBar_backgroundTint = 2131166328;
 			
 			// aapt resource value: 0x1
 			public const int BottomAppBar_fabAlignmentMode = 1;
@@ -13951,8 +16999,8 @@ namespace InventoryManagementSystem.Droid
 					2130968840,
 					2130968876};
 			
-			// aapt resource value: 0x7F070292
-			public const int BottomNavigationView_elevation = 2131165842;
+			// aapt resource value: 0x7F070485
+			public const int BottomNavigationView_elevation = 2131166341;
 			
 			// aapt resource value: 0x1
 			public const int BottomNavigationView_itemBackground = 1;
@@ -13987,8 +17035,8 @@ namespace InventoryManagementSystem.Droid
 					2130968636,
 					2130968637};
 			
-			// aapt resource value: 0x7F070303
-			public const int BottomSheetBehavior_Layout_behavior_fitToContents = 2131165955;
+			// aapt resource value: 0x7F070496
+			public const int BottomSheetBehavior_Layout_behavior_fitToContents = 2131166358;
 			
 			// aapt resource value: 0x1
 			public const int BottomSheetBehavior_Layout_behavior_hideable = 1;
@@ -14002,8 +17050,8 @@ namespace InventoryManagementSystem.Droid
 			public static int[] ButtonBarLayout = new int[] {
 					2130968615};
 			
-			// aapt resource value: 0x7F070308
-			public const int ButtonBarLayout_allowStacking = 2131165960;
+			// aapt resource value: 0x7F070217
+			public const int ButtonBarLayout_allowStacking = 2131165719;
 			
 			public static int[] CardView = new int[] {
 					16843072,
@@ -14020,8 +17068,8 @@ namespace InventoryManagementSystem.Droid
 					2130968731,
 					2130968732};
 			
-			// aapt resource value: 0x7F070310
-			public const int CardView_android_minHeight = 2131165968;
+			// aapt resource value: 0x7F070501
+			public const int CardView_android_minHeight = 2131166465;
 			
 			// aapt resource value: 0x1
 			public const int CardView_android_minWidth = 1;
@@ -14098,8 +17146,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x9
 			public const int CastExpandedController_castRewind30ButtonDrawable = 9;
 			
-			// aapt resource value: 0x7F070785
-			public const int CastExpandedController_castSeekBarProgressDrawable = 2131167109;
+			// aapt resource value: 0x7F070798
+			public const int CastExpandedController_castSeekBarProgressDrawable = 2131167128;
 			
 			// aapt resource value: 0x1
 			public const int CastExpandedController_castSeekBarThumbDrawable = 1;
@@ -14121,8 +17169,8 @@ namespace InventoryManagementSystem.Droid
 					1,
 					1};
 			
-			// aapt resource value: 0x7F070791
-			public const int CastIntroOverlay_castBackgroundColor = 2131167121;
+			// aapt resource value: 0x7F070804
+			public const int CastIntroOverlay_castBackgroundColor = 2131167236;
 			
 			// aapt resource value: 0x1
 			public const int CastIntroOverlay_castButtonBackgroundColor = 1;
@@ -14214,8 +17262,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x2
 			public const int CastMiniController_castSubtitleTextAppearance = 2;
 			
-			// aapt resource value: 0x7F070816
-			public const int CastMiniController_castTitleTextAppearance = 2131167254;
+			// aapt resource value: 0x7F070829
+			public const int CastMiniController_castTitleTextAppearance = 2131167273;
 			
 			public static int[] Chip = new int[] {
 					16843237,
@@ -14261,8 +17309,8 @@ namespace InventoryManagementSystem.Droid
 					2130968926,
 					2130968927};
 			
-			// aapt resource value: 0x7F070359
-			public const int ChipGroup_checkedChip = 2131166041;
+			// aapt resource value: 0x7F070550
+			public const int ChipGroup_checkedChip = 2131166544;
 			
 			// aapt resource value: 0x1
 			public const int ChipGroup_chipSpacing = 1;
@@ -14279,8 +17327,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x5
 			public const int ChipGroup_singleSelection = 5;
 			
-			// aapt resource value: 0x7F070324
-			public const int Chip_android_checkable = 2131165988;
+			// aapt resource value: 0x7F070515
+			public const int Chip_android_checkable = 2131166485;
 			
 			// aapt resource value: 0x1
 			public const int Chip_android_ellipsize = 1;
@@ -14399,8 +17447,8 @@ namespace InventoryManagementSystem.Droid
 					2130969021,
 					2130969031};
 			
-			// aapt resource value: 0x7F070366
-			public const int CollapsingToolbarLayout_collapsedTitleGravity = 2131166054;
+			// aapt resource value: 0x7F070557
+			public const int CollapsingToolbarLayout_collapsedTitleGravity = 2131166551;
 			
 			// aapt resource value: 0x1
 			public const int CollapsingToolbarLayout_collapsedTitleTextAppearance = 1;
@@ -14433,8 +17481,8 @@ namespace InventoryManagementSystem.Droid
 					2130968847,
 					2130968848};
 			
-			// aapt resource value: 0x7F070383
-			public const int CollapsingToolbarLayout_Layout_layout_collapseMode = 2131166083;
+			// aapt resource value: 0x7F070574
+			public const int CollapsingToolbarLayout_Layout_layout_collapseMode = 2131166580;
 			
 			// aapt resource value: 0x1
 			public const int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
@@ -14458,12 +17506,12 @@ namespace InventoryManagementSystem.Droid
 			public const int CollapsingToolbarLayout_toolbarId = 21;
 			
 			public static int[] ColorStateListItem = new int[] {
-					2130968577,
+					2130968616,
 					16843551,
 					16843173};
 			
-			// aapt resource value: 0x7F070016
-			public const int ColorStateListItem_alpha = 2131165206;
+			// aapt resource value: 0x7F070219
+			public const int ColorStateListItem_alpha = 2131165721;
 			
 			// aapt resource value: 0x1
 			public const int ColorStateListItem_android_alpha = 1;
@@ -14473,11 +17521,11 @@ namespace InventoryManagementSystem.Droid
 			
 			public static int[] CompoundButton = new int[] {
 					16843015,
-					2130968663,
-					2130968664};
+					2130968643,
+					2130968644};
 			
-			// aapt resource value: 0x7F070386
-			public const int CompoundButton_android_button = 2131166086;
+			// aapt resource value: 0x7F070223
+			public const int CompoundButton_android_button = 2131165731;
 			
 			// aapt resource value: 0x1
 			public const int CompoundButton_buttonTint = 1;
@@ -14486,23 +17534,23 @@ namespace InventoryManagementSystem.Droid
 			public const int CompoundButton_buttonTintMode = 2;
 			
 			public static int[] CoordinatorLayout = new int[] {
-					2130968589,
-					2130968596};
+					2130968715,
+					2130968792};
 			
-			// aapt resource value: 0x7F070054
-			public const int CoordinatorLayout_keylines = 2131165268;
+			// aapt resource value: 0x7F070227
+			public const int CoordinatorLayout_keylines = 2131165735;
 			
 			public static int[] CoordinatorLayout_Layout = new int[] {
 					16842931,
-					2130968590,
-					2130968591,
-					2130968592,
-					2130968593,
-					2130968594,
-					2130968595};
+					2130968717,
+					2130968718,
+					2130968719,
+					2130968720,
+					2130968721,
+					2130968722};
 			
-			// aapt resource value: 0x7F070057
-			public const int CoordinatorLayout_Layout_android_layout_gravity = 2131165271;
+			// aapt resource value: 0x7F070230
+			public const int CoordinatorLayout_Layout_android_layout_gravity = 2131165744;
 			
 			// aapt resource value: 0x1
 			public const int CoordinatorLayout_Layout_layout_anchor = 1;
@@ -14538,8 +17586,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x2
 			public const int Corpus_contentProviderUri = 2;
 			
-			// aapt resource value: 0x7F070819
-			public const int Corpus_corpusId = 2131167257;
+			// aapt resource value: 0x7F070832
+			public const int Corpus_corpusId = 2131167282;
 			
 			// aapt resource value: 0x1
 			public const int Corpus_corpusVersion = 1;
@@ -14567,8 +17615,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x2
 			public const int CustomCastTheme_castExpandedControllerStyle = 2;
 			
-			// aapt resource value: 0x7F070828
-			public const int CustomCastTheme_castIntroOverlayStyle = 2131167272;
+			// aapt resource value: 0x7F070841
+			public const int CustomCastTheme_castIntroOverlayStyle = 2131167297;
 			
 			// aapt resource value: 0x1
 			public const int CustomCastTheme_castMiniControllerStyle = 1;
@@ -14580,15 +17628,15 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int CustomWalletTheme_toolbarTextColorStyle = 1;
 			
-			// aapt resource value: 0x7F070832
-			public const int CustomWalletTheme_windowTransitionStyle = 2131167282;
+			// aapt resource value: 0x7F070845
+			public const int CustomWalletTheme_windowTransitionStyle = 2131167301;
 			
 			public static int[] DesignTheme = new int[] {
 					2130968642,
 					2130968643};
 			
-			// aapt resource value: 0x7F070390
-			public const int DesignTheme_bottomSheetDialogTheme = 2131166096;
+			// aapt resource value: 0x7F070577
+			public const int DesignTheme_bottomSheetDialogTheme = 2131166583;
 			
 			// aapt resource value: 0x1
 			public const int DesignTheme_bottomSheetStyle = 1;
@@ -14597,14 +17645,14 @@ namespace InventoryManagementSystem.Droid
 					2130968618,
 					2130968619,
 					2130968631,
-					2130968708,
-					2130968751,
-					2130968797,
-					2130968931,
-					2130969011};
+					2130968651,
+					2130968681,
+					2130968700,
+					2130968786,
+					2130968816};
 			
-			// aapt resource value: 0x7F070393
-			public const int DrawerArrowToggle_arrowHeadLength = 2131166099;
+			// aapt resource value: 0x7F070238
+			public const int DrawerArrowToggle_arrowHeadLength = 2131165752;
 			
 			// aapt resource value: 0x1
 			public const int DrawerArrowToggle_arrowShaftLength = 1;
@@ -14631,8 +17679,8 @@ namespace InventoryManagementSystem.Droid
 					1,
 					1};
 			
-			// aapt resource value: 0x7F070834
-			public const int FeatureParam_paramName = 2131167284;
+			// aapt resource value: 0x7F070847
+			public const int FeatureParam_paramName = 2131167303;
 			
 			// aapt resource value: 0x1
 			public const int FeatureParam_paramValue = 1;
@@ -14652,8 +17700,8 @@ namespace InventoryManagementSystem.Droid
 					2130968922,
 					2130969041};
 			
-			// aapt resource value: 0x7F070402
-			public const int FloatingActionButton_backgroundTint = 2131166210;
+			// aapt resource value: 0x7F070580
+			public const int FloatingActionButton_backgroundTint = 2131166592;
 			
 			// aapt resource value: 0x1
 			public const int FloatingActionButton_backgroundTintMode = 1;
@@ -14661,8 +17709,8 @@ namespace InventoryManagementSystem.Droid
 			public static int[] FloatingActionButton_Behavior_Layout = new int[] {
 					2130968632};
 			
-			// aapt resource value: 0x7F070416
-			public const int FloatingActionButton_Behavior_Layout_behavior_autoHide = 2131166230;
+			// aapt resource value: 0x7F070594
+			public const int FloatingActionButton_Behavior_Layout_behavior_autoHide = 2131166612;
 			
 			// aapt resource value: 0x2
 			public const int FloatingActionButton_borderWidth = 2;
@@ -14701,34 +17749,30 @@ namespace InventoryManagementSystem.Droid
 					2130968834,
 					2130968856};
 			
-			// aapt resource value: 0x7F070418
-			public const int FlowLayout_itemSpacing = 2131166232;
+			// aapt resource value: 0x7F070596
+			public const int FlowLayout_itemSpacing = 2131166614;
 			
 			// aapt resource value: 0x1
 			public const int FlowLayout_lineSpacing = 1;
 			
 			public static int[] FontFamily = new int[] {
-					2130968579,
-					2130968580,
-					2130968581,
-					2130968582,
-					2130968583,
-					2130968584};
+					2130968692,
+					2130968693,
+					2130968694,
+					2130968695,
+					2130968696,
+					2130968697};
 			
 			public static int[] FontFamilyFont = new int[] {
 					16844082,
 					16844095,
-					16844144,
 					16844083,
-					16844143,
-					2130968578,
-					2130968585,
-					2130968586,
-					2130968587,
-					2130968588};
+					2130968690,
+					2130968698,
+					2130968699};
 			
-			// aapt resource value: 0x7F070027
-			public const int FontFamilyFont_android_font = 2131165223;
+			// aapt resource value: 0x7F070254
+			public const int FontFamilyFont_android_font = 2131165780;
 			
 			// aapt resource value: 0x1
 			public const int FontFamilyFont_android_fontStyle = 1;
@@ -14736,29 +17780,29 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x2
 			public const int FontFamilyFont_android_fontVariationSettings = 2;
 			
-			// aapt resource value: 0x3
-			public const int FontFamilyFont_android_fontWeight = 3;
+			// aapt resource value: 0x2
+			public const int FontFamilyFont_android_fontWeight = 2;
 			
 			// aapt resource value: 0x4
 			public const int FontFamilyFont_android_ttcIndex = 4;
 			
-			// aapt resource value: 0x5
-			public const int FontFamilyFont_font = 5;
+			// aapt resource value: 0x3
+			public const int FontFamilyFont_font = 3;
 			
-			// aapt resource value: 0x6
-			public const int FontFamilyFont_fontStyle = 6;
+			// aapt resource value: 0x4
+			public const int FontFamilyFont_fontStyle = 4;
 			
 			// aapt resource value: 0x7
 			public const int FontFamilyFont_fontVariationSettings = 7;
 			
-			// aapt resource value: 0x8
-			public const int FontFamilyFont_fontWeight = 8;
+			// aapt resource value: 0x5
+			public const int FontFamilyFont_fontWeight = 5;
 			
 			// aapt resource value: 0x9
 			public const int FontFamilyFont_ttcIndex = 9;
 			
-			// aapt resource value: 0x7F070020
-			public const int FontFamily_fontProviderAuthority = 2131165216;
+			// aapt resource value: 0x7F070247
+			public const int FontFamily_fontProviderAuthority = 2131165767;
 			
 			// aapt resource value: 0x1
 			public const int FontFamily_fontProviderCerts = 1;
@@ -14780,8 +17824,8 @@ namespace InventoryManagementSystem.Droid
 					16843264,
 					2130968796};
 			
-			// aapt resource value: 0x7F070421
-			public const int ForegroundLinearLayout_android_foreground = 2131166241;
+			// aapt resource value: 0x7F070599
+			public const int ForegroundLinearLayout_android_foreground = 2131166617;
 			
 			// aapt resource value: 0x1
 			public const int ForegroundLinearLayout_android_foregroundGravity = 1;
@@ -14800,8 +17844,8 @@ namespace InventoryManagementSystem.Droid
 			public static int[] GlobalSearchCorpus = new int[] {
 					1};
 			
-			// aapt resource value: 0x7F070844
-			public const int GlobalSearchCorpus_allowShortcuts = 2131167300;
+			// aapt resource value: 0x7F070857
+			public const int GlobalSearchCorpus_allowShortcuts = 2131167319;
 			
 			public static int[] GlobalSearchSection = new int[] {
 					1,
@@ -14810,8 +17854,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int GlobalSearchSection_sectionContent = 1;
 			
-			// aapt resource value: 0x7F070847
-			public const int GlobalSearchSection_sectionType = 2131167303;
+			// aapt resource value: 0x7F070860
+			public const int GlobalSearchSection_sectionType = 2131167328;
 			
 			// aapt resource value: 0x3
 			public const int GlobalSearch_defaultIntentAction = 3;
@@ -14822,8 +17866,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x4
 			public const int GlobalSearch_defaultIntentData = 4;
 			
-			// aapt resource value: 0x7F070840
-			public const int GlobalSearch_searchEnabled = 2131167296;
+			// aapt resource value: 0x7F070853
+			public const int GlobalSearch_searchEnabled = 2131167315;
 			
 			// aapt resource value: 0x1
 			public const int GlobalSearch_searchLabel = 1;
@@ -14849,14 +17893,14 @@ namespace InventoryManagementSystem.Droid
 					16843173,
 					16844052};
 			
-			// aapt resource value: 0x7F070051
-			public const int GradientColorItem_android_color = 2131165265;
+			// aapt resource value: 0x7F070456
+			public const int GradientColorItem_android_color = 2131166294;
 			
 			// aapt resource value: 0x1
 			public const int GradientColorItem_android_offset = 1;
 			
-			// aapt resource value: 0x7F070038
-			public const int GradientColor_android_centerColor = 2131165240;
+			// aapt resource value: 0x7F070443
+			public const int GradientColor_android_centerColor = 2131166275;
 			
 			// aapt resource value: 0x1
 			public const int GradientColor_android_centerX = 1;
@@ -14899,8 +17943,8 @@ namespace InventoryManagementSystem.Droid
 					1,
 					1};
 			
-			// aapt resource value: 0x7F070849
-			public const int IMECorpus_inputEnabled = 2131167305;
+			// aapt resource value: 0x7F070862
+			public const int IMECorpus_inputEnabled = 2131167330;
 			
 			// aapt resource value: 0x1
 			public const int IMECorpus_sourceClass = 1;
@@ -14923,13 +17967,13 @@ namespace InventoryManagementSystem.Droid
 					16842927,
 					16842948,
 					16843048,
-					2130968747,
+					2130968677,
+					2130968679,
 					2130968749,
-					2130968875,
-					2130968921};
+					2130968782};
 			
-			// aapt resource value: 0x7F070425
-			public const int LinearLayoutCompat_android_baselineAligned = 2131166245;
+			// aapt resource value: 0x7F070261
+			public const int LinearLayoutCompat_android_baselineAligned = 2131165793;
 			
 			// aapt resource value: 0x1
 			public const int LinearLayoutCompat_android_baselineAlignedChildIndex = 1;
@@ -14955,8 +17999,8 @@ namespace InventoryManagementSystem.Droid
 					16843137,
 					16842996};
 			
-			// aapt resource value: 0x7F070435
-			public const int LinearLayoutCompat_Layout_android_layout_gravity = 2131166261;
+			// aapt resource value: 0x7F070271
+			public const int LinearLayoutCompat_Layout_android_layout_gravity = 2131165809;
 			
 			// aapt resource value: 0x1
 			public const int LinearLayoutCompat_Layout_android_layout_height = 1;
@@ -14977,8 +18021,8 @@ namespace InventoryManagementSystem.Droid
 					16843436,
 					16843437};
 			
-			// aapt resource value: 0x7F070440
-			public const int ListPopupWindow_android_dropDownHorizontalOffset = 2131166272;
+			// aapt resource value: 0x7F070276
+			public const int ListPopupWindow_android_dropDownHorizontalOffset = 2131165814;
 			
 			// aapt resource value: 0x1
 			public const int ListPopupWindow_android_dropDownVerticalOffset = 1;
@@ -14994,8 +18038,58 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int LoadingImageView_imageAspectRatio = 1;
 			
-			// aapt resource value: 0x7F070858
-			public const int LoadingImageView_imageAspectRatioAdjust = 2131167320;
+			// aapt resource value: 0x7F070871
+			public const int LoadingImageView_imageAspectRatioAdjust = 2131167345;
+			
+			public static int[] LottieAnimationView = new int[] {
+					2130968736,
+					2130968737,
+					2130968738,
+					2130968739,
+					2130968740,
+					2130968741,
+					2130968742,
+					2130968743,
+					2130968744,
+					2130968745,
+					2130968746,
+					2130968747};
+			
+			// aapt resource value: 0x7F070279
+			public const int LottieAnimationView_lottie_autoPlay = 2131165817;
+			
+			// aapt resource value: 0x1
+			public const int LottieAnimationView_lottie_colorFilter = 1;
+			
+			// aapt resource value: 0x2
+			public const int LottieAnimationView_lottie_enableMergePathsForKitKatAndAbove = 2;
+			
+			// aapt resource value: 0x3
+			public const int LottieAnimationView_lottie_fileName = 3;
+			
+			// aapt resource value: 0x4
+			public const int LottieAnimationView_lottie_imageAssetsFolder = 4;
+			
+			// aapt resource value: 0x5
+			public const int LottieAnimationView_lottie_loop = 5;
+			
+			// aapt resource value: 0x6
+			public const int LottieAnimationView_lottie_progress = 6;
+			
+			// aapt resource value: 0x7
+			public const int LottieAnimationView_lottie_rawRes = 7;
+			
+			// aapt resource value: 0x8
+			public const int LottieAnimationView_lottie_repeatCount = 8;
+			
+			// aapt resource value: 0x9
+			public const int LottieAnimationView_lottie_repeatMode = 9;
+			
+			// aapt resource value: 0x10
+			public const int LottieAnimationView_lottie_scale = 16;
+			
+			// aapt resource value: 0x11
+			public const int LottieAnimationView_lottie_url = 17;
 			
 			public static int[] MapAttrs = new int[] {
 					1,
@@ -15061,8 +18155,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x6
 			public const int MapAttrs_liteMode = 6;
 			
-			// aapt resource value: 0x7F070873
-			public const int MapAttrs_mapType = 2131167347;
+			// aapt resource value: 0x7F070886
+			public const int MapAttrs_mapType = 2131167366;
 			
 			// aapt resource value: 0x7
 			public const int MapAttrs_uiCompass = 7;
@@ -15109,8 +18203,8 @@ namespace InventoryManagementSystem.Droid
 					2130968944,
 					2130968945};
 			
-			// aapt resource value: 0x7F070443
-			public const int MaterialButton_android_insetBottom = 2131166275;
+			// aapt resource value: 0x7F070603
+			public const int MaterialButton_android_insetBottom = 2131166723;
 			
 			// aapt resource value: 0x1
 			public const int MaterialButton_android_insetLeft = 1;
@@ -15161,8 +18255,8 @@ namespace InventoryManagementSystem.Droid
 					2130968944,
 					2130968945};
 			
-			// aapt resource value: 0x7F070460
-			public const int MaterialCardView_strokeColor = 2131166304;
+			// aapt resource value: 0x7F070620
+			public const int MaterialCardView_strokeColor = 2131166752;
 			
 			// aapt resource value: 0x1
 			public const int MaterialCardView_strokeWidth = 1;
@@ -15201,8 +18295,8 @@ namespace InventoryManagementSystem.Droid
 					2130969004,
 					2130969008};
 			
-			// aapt resource value: 0x7F070463
-			public const int MaterialComponentsTheme_bottomSheetDialogTheme = 2131166307;
+			// aapt resource value: 0x7F070623
+			public const int MaterialComponentsTheme_bottomSheetDialogTheme = 2131166755;
 			
 			// aapt resource value: 0x1
 			public const int MaterialComponentsTheme_bottomSheetStyle = 1;
@@ -15303,8 +18397,8 @@ namespace InventoryManagementSystem.Droid
 					2130968691,
 					2130968752};
 			
-			// aapt resource value: 0x7F070767
-			public const int MediaRouteButton_android_minHeight = 2131167079;
+			// aapt resource value: 0x7F070780
+			public const int MediaRouteButton_android_minHeight = 2131167104;
 			
 			// aapt resource value: 0x1
 			public const int MediaRouteButton_android_minWidth = 1;
@@ -15323,8 +18417,8 @@ namespace InventoryManagementSystem.Droid
 					16843231,
 					16843156};
 			
-			// aapt resource value: 0x7F070496
-			public const int MenuGroup_android_checkableBehavior = 2131166358;
+			// aapt resource value: 0x7F070292
+			public const int MenuGroup_android_checkableBehavior = 2131165842;
 			
 			// aapt resource value: 0x1
 			public const int MenuGroup_android_enabled = 1;
@@ -15359,15 +18453,15 @@ namespace InventoryManagementSystem.Droid
 					16843233,
 					16843234,
 					16843156,
-					2130968721,
-					2130968819,
-					2130968820,
-					2130968882,
-					2130968920,
-					2130969036};
+					2130968663,
+					2130968707,
+					2130968708,
+					2130968754,
+					2130968781,
+					2130968839};
 			
-			// aapt resource value: 0x7F070503
-			public const int MenuItem_actionLayout = 2131166467;
+			// aapt resource value: 0x7F070299
+			public const int MenuItem_actionLayout = 2131165849;
 			
 			// aapt resource value: 0x1
 			public const int MenuItem_actionProviderClass = 1;
@@ -15443,11 +18537,11 @@ namespace InventoryManagementSystem.Droid
 					16843052,
 					16843054,
 					16842926,
-					2130968899,
-					2130968946};
+					2130968766,
+					2130968793};
 			
-			// aapt resource value: 0x7F070527
-			public const int MenuView_android_headerBackground = 2131166503;
+			// aapt resource value: 0x7F070323
+			public const int MenuView_android_headerBackground = 2131165987;
 			
 			// aapt resource value: 0x1
 			public const int MenuView_android_horizontalDivider = 1;
@@ -15487,8 +18581,8 @@ namespace InventoryManagementSystem.Droid
 					2130968838,
 					2130968876};
 			
-			// aapt resource value: 0x7F070537
-			public const int NavigationView_android_background = 2131166519;
+			// aapt resource value: 0x7F070656
+			public const int NavigationView_android_background = 2131166806;
 			
 			// aapt resource value: 0x1
 			public const int NavigationView_android_fitsSystemWindows = 1;
@@ -15526,16 +18620,16 @@ namespace InventoryManagementSystem.Droid
 			public static int[] PopupWindow = new int[] {
 					16843465,
 					16843126,
-					2130968883};
+					2130968755};
 			
 			public static int[] PopupWindowBackgroundState = new int[] {
-					2130968937};
+					2130968791};
 			
-			// aapt resource value: 0x7F070554
-			public const int PopupWindowBackgroundState_state_above_anchor = 2131166548;
+			// aapt resource value: 0x7F070337
+			public const int PopupWindowBackgroundState_state_above_anchor = 2131166007;
 			
-			// aapt resource value: 0x7F070550
-			public const int PopupWindow_android_popupAnimationStyle = 2131166544;
+			// aapt resource value: 0x7F070333
+			public const int PopupWindow_android_popupAnimationStyle = 2131166003;
 			
 			// aapt resource value: 0x1
 			public const int PopupWindow_android_popupBackground = 1;
@@ -15594,11 +18688,11 @@ namespace InventoryManagementSystem.Droid
 			public const int ProgressWheel_ahTextSize = 2131165188;
 			
 			public static int[] RecycleListView = new int[] {
-					2130968884,
-					2130968887};
+					2130968756,
+					2130968759};
 			
-			// aapt resource value: 0x7F070556
-			public const int RecycleListView_paddingBottomNoButtons = 2131166550;
+			// aapt resource value: 0x7F070339
+			public const int RecycleListView_paddingBottomNoButtons = 2131166009;
 			
 			// aapt resource value: 0x1
 			public const int RecycleListView_paddingTopNoTitle = 1;
@@ -15616,8 +18710,8 @@ namespace InventoryManagementSystem.Droid
 					2130968930,
 					2130968936};
 			
-			// aapt resource value: 0x7F070559
-			public const int RecyclerView_android_descendantFocusability = 2131166553;
+			// aapt resource value: 0x7F070669
+			public const int RecyclerView_android_descendantFocusability = 2131166825;
 			
 			// aapt resource value: 0x1
 			public const int RecyclerView_android_orientation = 1;
@@ -15652,36 +18746,36 @@ namespace InventoryManagementSystem.Droid
 			public static int[] ScrimInsetsFrameLayout = new int[] {
 					2130968825};
 			
-			// aapt resource value: 0x7F070571
-			public const int ScrimInsetsFrameLayout_insetForeground = 2131166577;
+			// aapt resource value: 0x7F070681
+			public const int ScrimInsetsFrameLayout_insetForeground = 2131166849;
 			
 			public static int[] ScrollingViewBehavior_Layout = new int[] {
 					2130968635};
 			
-			// aapt resource value: 0x7F070573
-			public const int ScrollingViewBehavior_Layout_behavior_overlapTop = 2131166579;
+			// aapt resource value: 0x7F070683
+			public const int ScrollingViewBehavior_Layout_behavior_overlapTop = 2131166851;
 			
 			public static int[] SearchView = new int[] {
 					16842970,
 					16843364,
 					16843296,
 					16843039,
-					2130968696,
-					2130968720,
-					2130968742,
-					2130968798,
-					2130968821,
-					2130968842,
-					2130968903,
-					2130968904,
-					2130968914,
-					2130968915,
-					2130968947,
-					2130968952,
-					2130969043};
+					2130968647,
+					2130968662,
+					2130968673,
+					2130968701,
+					2130968709,
+					2130968716,
+					2130968769,
+					2130968770,
+					2130968775,
+					2130968776,
+					2130968794,
+					2130968799,
+					2130968844};
 			
-			// aapt resource value: 0x7F070575
-			public const int SearchView_android_focusable = 2131166581;
+			// aapt resource value: 0x7F070342
+			public const int SearchView_android_focusable = 2131166018;
 			
 			// aapt resource value: 0x1
 			public const int SearchView_android_imeOptions = 1;
@@ -15743,8 +18837,8 @@ namespace InventoryManagementSystem.Droid
 			public static int[] SectionFeature = new int[] {
 					1};
 			
-			// aapt resource value: 0x7F070892
-			public const int SectionFeature_featureType = 2131167378;
+			// aapt resource value: 0x7F070905
+			public const int SectionFeature_featureType = 2131167493;
 			
 			// aapt resource value: 0x4
 			public const int Section_indexPrefixes = 4;
@@ -15758,8 +18852,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x1
 			public const int Section_sectionFormat = 1;
 			
-			// aapt resource value: 0x7F070888
-			public const int Section_sectionId = 2131167368;
+			// aapt resource value: 0x7F070901
+			public const int Section_sectionId = 2131167489;
 			
 			// aapt resource value: 0x3
 			public const int Section_sectionWeight = 3;
@@ -15772,8 +18866,8 @@ namespace InventoryManagementSystem.Droid
 					1,
 					1};
 			
-			// aapt resource value: 0x7F070894
-			public const int SignInButton_buttonSize = 2131167380;
+			// aapt resource value: 0x7F070907
+			public const int SignInButton_buttonSize = 2131167495;
 			
 			// aapt resource value: 0x1
 			public const int SignInButton_colorScheme = 1;
@@ -15790,8 +18884,8 @@ namespace InventoryManagementSystem.Droid
 					2130968758,
 					2130968872};
 			
-			// aapt resource value: 0x7F070596
-			public const int SnackbarLayout_android_maxWidth = 2131166614;
+			// aapt resource value: 0x7F070688
+			public const int SnackbarLayout_android_maxWidth = 2131166856;
 			
 			// aapt resource value: 0x1
 			public const int SnackbarLayout_elevation = 1;
@@ -15799,8 +18893,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x2
 			public const int SnackbarLayout_maxActionInlineWidth = 2;
 			
-			// aapt resource value: 0x7F070593
-			public const int Snackbar_snackbarButtonStyle = 2131166611;
+			// aapt resource value: 0x7F070685
+			public const int Snackbar_snackbarButtonStyle = 2131166853;
 			
 			// aapt resource value: 0x1
 			public const int Snackbar_snackbarStyle = 1;
@@ -15810,10 +18904,10 @@ namespace InventoryManagementSystem.Droid
 					16842930,
 					16843126,
 					16843131,
-					2130968897};
+					2130968764};
 			
-			// aapt resource value: 0x7F070600
-			public const int Spinner_android_dropDownWidth = 2131166720;
+			// aapt resource value: 0x7F070360
+			public const int Spinner_android_dropDownWidth = 2131166048;
 			
 			// aapt resource value: 0x1
 			public const int Spinner_android_entries = 1;
@@ -15838,11 +18932,11 @@ namespace InventoryManagementSystem.Droid
 			public static int[] StateListDrawableItem = new int[] {
 					16843161};
 			
-			// aapt resource value: 0x7F070765
-			public const int StateListDrawableItem_android_drawable = 2131167077;
+			// aapt resource value: 0x7F070778
+			public const int StateListDrawableItem_android_drawable = 2131167096;
 			
-			// aapt resource value: 0x7F070758
-			public const int StateListDrawable_android_constantSize = 2131167064;
+			// aapt resource value: 0x7F070771
+			public const int StateListDrawable_android_constantSize = 2131167089;
 			
 			// aapt resource value: 0x1
 			public const int StateListDrawable_android_dither = 1;
@@ -15863,20 +18957,20 @@ namespace InventoryManagementSystem.Droid
 					16843045,
 					16843044,
 					16843074,
-					2130968923,
-					2130968934,
-					2130968953,
-					2130968954,
-					2130968956,
-					2130969012,
-					2130969013,
-					2130969014,
-					2130969037,
-					2130969038,
-					2130969039};
+					2130968783,
+					2130968789,
+					2130968800,
+					2130968801,
+					2130968803,
+					2130968817,
+					2130968818,
+					2130968819,
+					2130968840,
+					2130968841,
+					2130968842};
 			
-			// aapt resource value: 0x7F070606
-			public const int SwitchCompat_android_textOff = 2131166726;
+			// aapt resource value: 0x7F070366
+			public const int SwitchCompat_android_textOff = 2131166054;
 			
 			// aapt resource value: 0x1
 			public const int SwitchCompat_android_textOn = 1;
@@ -15922,8 +19016,8 @@ namespace InventoryManagementSystem.Droid
 					16842994,
 					16843087};
 			
-			// aapt resource value: 0x7F070621
-			public const int TabItem_android_icon = 2131166753;
+			// aapt resource value: 0x7F070692
+			public const int TabItem_android_icon = 2131166866;
 			
 			// aapt resource value: 0x1
 			public const int TabItem_android_layout = 1;
@@ -15958,8 +19052,8 @@ namespace InventoryManagementSystem.Droid
 					2130968981,
 					2130968982};
 			
-			// aapt resource value: 0x7F070625
-			public const int TabLayout_tabBackground = 2131166757;
+			// aapt resource value: 0x7F070696
+			public const int TabLayout_tabBackground = 2131166870;
 			
 			// aapt resource value: 0x1
 			public const int TabLayout_tabContentStart = 1;
@@ -16045,11 +19139,11 @@ namespace InventoryManagementSystem.Droid
 					16842901,
 					16842903,
 					16842902,
-					2130968786,
-					2130968983};
+					2130968691,
+					2130968804};
 			
-			// aapt resource value: 0x7F070651
-			public const int TextAppearance_android_fontFamily = 2131166801;
+			// aapt resource value: 0x7F070381
+			public const int TextAppearance_android_fontFamily = 2131166081;
 			
 			// aapt resource value: 0x1
 			public const int TextAppearance_android_shadowColor = 1;
@@ -16117,8 +19211,8 @@ namespace InventoryManagementSystem.Droid
 					2130968894,
 					2130968895};
 			
-			// aapt resource value: 0x7F070665
-			public const int TextInputLayout_android_hint = 2131166821;
+			// aapt resource value: 0x7F070722
+			public const int TextInputLayout_android_hint = 2131167010;
 			
 			// aapt resource value: 0x1
 			public const int TextInputLayout_android_textColorHint = 1;
@@ -16206,8 +19300,8 @@ namespace InventoryManagementSystem.Droid
 					2130968759,
 					2130968760};
 			
-			// aapt resource value: 0x7F070694
-			public const int ThemeEnforcement_android_textAppearance = 2131166868;
+			// aapt resource value: 0x7F070751
+			public const int ThemeEnforcement_android_textAppearance = 2131167057;
 			
 			// aapt resource value: 0x1
 			public const int ThemeEnforcement_enforceMaterialTheme = 1;
@@ -16218,36 +19312,36 @@ namespace InventoryManagementSystem.Droid
 			public static int[] Toolbar = new int[] {
 					16842927,
 					16843072,
-					2130968658,
-					2130968704,
-					2130968705,
-					2130968722,
-					2130968723,
-					2130968724,
-					2130968725,
-					2130968726,
-					2130968727,
-					2130968868,
-					2130968869,
-					2130968873,
-					2130968878,
-					2130968879,
-					2130968897,
-					2130968948,
-					2130968949,
-					2130968950,
-					2130969020,
-					2130969022,
-					2130969023,
-					2130969024,
-					2130969025,
-					2130969026,
-					2130969027,
-					2130969028,
-					2130969029};
+					2130968638,
+					2130968649,
+					2130968650,
+					2130968664,
+					2130968665,
+					2130968666,
+					2130968667,
+					2130968668,
+					2130968669,
+					2130968734,
+					2130968735,
+					2130968748,
+					2130968751,
+					2130968752,
+					2130968764,
+					2130968795,
+					2130968796,
+					2130968797,
+					2130968825,
+					2130968826,
+					2130968827,
+					2130968828,
+					2130968829,
+					2130968830,
+					2130968831,
+					2130968832,
+					2130968833};
 			
-			// aapt resource value: 0x7F070698
-			public const int Toolbar_android_gravity = 2131166872;
+			// aapt resource value: 0x7F070395
+			public const int Toolbar_android_gravity = 2131166101;
 			
 			// aapt resource value: 0x1
 			public const int Toolbar_android_minHeight = 1;
@@ -16336,17 +19430,17 @@ namespace InventoryManagementSystem.Droid
 			public static int[] View = new int[] {
 					16842970,
 					16842752,
-					2130968885,
-					2130968886,
-					2130969010};
+					2130968757,
+					2130968758,
+					2130968815};
 			
 			public static int[] ViewBackgroundHelper = new int[] {
 					16842964,
 					2130968629,
 					2130968630};
 			
-			// aapt resource value: 0x7F070734
-			public const int ViewBackgroundHelper_android_background = 2131167028;
+			// aapt resource value: 0x7F070431
+			public const int ViewBackgroundHelper_android_background = 2131166257;
 			
 			// aapt resource value: 0x1
 			public const int ViewBackgroundHelper_backgroundTint = 1;
@@ -16359,8 +19453,8 @@ namespace InventoryManagementSystem.Droid
 					16842995,
 					16842994};
 			
-			// aapt resource value: 0x7F070738
-			public const int ViewStubCompat_android_id = 2131167032;
+			// aapt resource value: 0x7F070435
+			public const int ViewStubCompat_android_id = 2131166261;
 			
 			// aapt resource value: 0x1
 			public const int ViewStubCompat_android_inflatedId = 1;
@@ -16368,8 +19462,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x2
 			public const int ViewStubCompat_android_layout = 2;
 			
-			// aapt resource value: 0x7F070728
-			public const int View_android_focusable = 2131167016;
+			// aapt resource value: 0x7F070425
+			public const int View_android_focusable = 2131166245;
 			
 			// aapt resource value: 0x1
 			public const int View_android_theme = 1;
@@ -16389,8 +19483,8 @@ namespace InventoryManagementSystem.Droid
 					1,
 					1};
 			
-			// aapt resource value: 0x7F070898
-			public const int WalletFragmentOptions_appTheme = 2131167384;
+			// aapt resource value: 0x7F070911
+			public const int WalletFragmentOptions_appTheme = 2131167505;
 			
 			// aapt resource value: 0x1
 			public const int WalletFragmentOptions_environment = 1;
@@ -16417,8 +19511,8 @@ namespace InventoryManagementSystem.Droid
 			// aapt resource value: 0x3
 			public const int WalletFragmentStyle_buyButtonAppearance = 3;
 			
-			// aapt resource value: 0x7F070904
-			public const int WalletFragmentStyle_buyButtonHeight = 2131167492;
+			// aapt resource value: 0x7F070917
+			public const int WalletFragmentStyle_buyButtonHeight = 2131167511;
 			
 			// aapt resource value: 0x2
 			public const int WalletFragmentStyle_buyButtonText = 2;
